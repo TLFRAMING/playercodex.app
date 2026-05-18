@@ -1,6 +1,6 @@
 export type VerificationValue = "needs verification";
 
-export type Season = "Spring" | "Summer" | "Fall" | "Winter" | "Special" | VerificationValue;
+export type Season = "Spring" | "Summer" | "Fall" | "Winter" | "Special" | "All" | VerificationValue;
 
 export type StardewDataSource = {
   sourceUrls: string[];
@@ -37,6 +37,8 @@ export type Crop = StardewDataSource & {
   seedPrice: number | VerificationValue;
   sellPrice: number | VerificationValue;
   growthDays: number | VerificationValue;
+  /** Migration compatibility: some rows still use regrowDays. */
+  regrowDays?: number | VerificationValue;
   regrowthDays: number | VerificationValue;
   profitNotes?: string | VerificationValue;
   bestUses?: string[] | string | VerificationValue;

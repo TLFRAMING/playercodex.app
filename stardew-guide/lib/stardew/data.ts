@@ -84,10 +84,13 @@ function normalizeVillager(villager: Villager): Villager {
 
 function normalizeCrop(crop: Crop): Crop {
   const rawSeasons = crop.seasons ?? crop.season ?? [];
+  const regrowthDays = crop.regrowthDays ?? crop.regrowDays ?? "needs verification";
+  const seasons = rawSeasons.map((season) => (season === "All" ? "Special" : season)) as Season[];
 
   return {
     ...crop,
-    seasons: rawSeasons as Season[],
+    seasons,
+    regrowthDays,
     beginnerNote: crop.beginnerNote ?? crop.description ?? "needs verification"
   };
 }
