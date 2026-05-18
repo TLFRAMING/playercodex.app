@@ -692,5 +692,957 @@
       "https://stardewvalleywiki.com/Octopus"
     ],
     "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-albacore",
+    "slug": "albacore",
+    "name": "Albacore",
+    "description": "The Albacore is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter in the early morning and at night. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "beginnerNote": "The Albacore is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter in the early morning and at night. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 11:00 AM; 6:00 PM - 2:00 AM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 60,
+    "sellPrice": 75,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Albacore"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-angler",
+    "slug": "angler",
+    "name": "Angler",
+    "description": "The Angler is a fish that can be caught in Pelican Town during Fall. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "beginnerNote": "The Angler is a fish that can be caught in Pelican Town during Fall. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "seasons": [
+      "Fall"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Pelican Town"
+    ],
+    "difficulty": 85,
+    "sellPrice": 900,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Angler"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-blobfish",
+    "slug": "blobfish",
+    "name": "Blobfish",
+    "description": "The Blobfish is a fish that can be caught in the submarine ride at the Night Market, which takes place at The Beach during Winter 15-17.",
+    "beginnerNote": "The Blobfish is a fish that can be caught in the submarine ride at the Night Market, which takes place at The Beach during Winter 15-17.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "5:00 PM - 2:00 AM",
+    "locations": [
+      "Submarine at Night Market"
+    ],
+    "difficulty": 75,
+    "sellPrice": 500,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blobfish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-blue-discus",
+    "slug": "blue-discus",
+    "name": "Blue Discus",
+    "description": "The Blue Discus is a fish that can be caught on Ginger Island during any season on Island North and West (freshwater).",
+    "beginnerNote": "The Blue Discus is a fish that can be caught on Ginger Island during any season on Island North and West (freshwater).",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Ginger Island"
+    ],
+    "difficulty": 60,
+    "sellPrice": 120,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blue_Discus"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-chub",
+    "slug": "chub",
+    "name": "Chub",
+    "description": "The Chub is a fish that can be caught in the mountain lake and the Cindersap Forest River during all seasons. Unlike most fish found in the Forest River, it cannot be caught in Pelican Town. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"50\"150-1,000g.",
+    "beginnerNote": "The Chub is a fish that can be caught in the mountain lake and the Cindersap Forest River during all seasons. Unlike most fish found in the Forest River, it cannot be caught in Pelican Town. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"50\"150-1,000g.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Mountain Lake",
+      "Forest River"
+    ],
+    "difficulty": 35,
+    "sellPrice": 50,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chub"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-crimsonfish",
+    "slug": "crimsonfish",
+    "name": "Crimsonfish",
+    "description": "The Crimsonfish is a fish that can be caught in the ocean at The Beach during Summer. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "beginnerNote": "The Crimsonfish is a fish that can be caught in the ocean at The Beach during Summer. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "seasons": [
+      "Summer"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 95,
+    "sellPrice": 1500,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crimsonfish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-dorado",
+    "slug": "dorado",
+    "name": "Dorado",
+    "description": "The Dorado is a fish that can be caught in the forest river during Summer. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"100\"300-1,000g.",
+    "beginnerNote": "The Dorado is a fish that can be caught in the forest river during Summer. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"100\"300-1,000g.",
+    "seasons": [
+      "Summer"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Forest River"
+    ],
+    "difficulty": 78,
+    "sellPrice": 100,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dorado"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-ghostfish",
+    "slug": "ghostfish",
+    "name": "Ghostfish",
+    "description": "The Ghostfish is a fish that can be caught in The Mines on the 20th and 60th floor during all seasons. A Ghost may also drop a Ghostfish (8% chance) when slain. It can also randomly be found at the Traveling Cart for data-sort-value=\"45\"135-1,000g.",
+    "beginnerNote": "The Ghostfish is a fish that can be caught in The Mines on the 20th and 60th floor during all seasons. A Ghost may also drop a Ghostfish (8% chance) when slain. It can also randomly be found at the Traveling Cart for data-sort-value=\"45\"135-1,000g.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Floors 20 and 60 of The Mines"
+    ],
+    "difficulty": 50,
+    "sellPrice": 45,
+    "bundleUsage": [
+      "Specialty Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ghostfish",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-glacierfish",
+    "slug": "glacierfish",
+    "name": "Glacierfish",
+    "description": "The Glacierfish is a fish that can be caught in Cindersap Forest during Winter. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "beginnerNote": "The Glacierfish is a fish that can be caught in Cindersap Forest during Winter. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Cindersap Forest"
+    ],
+    "difficulty": 100,
+    "sellPrice": 1000,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Glacierfish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-glacierfish-jr",
+    "slug": "glacierfish-jr",
+    "name": "Glacierfish Jr.",
+    "description": "The Glacierfish Jr. is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Glacierfish. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "beginnerNote": "The Glacierfish Jr. is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Glacierfish. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Cindersap Forest"
+    ],
+    "difficulty": 100,
+    "sellPrice": 1000,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Glacierfish_Jr."
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-goby",
+    "slug": "goby",
+    "name": "Goby",
+    "description": "The Goby is a fish that can be caught at the bottom of the waterfalls in southern Cindersap Forest during any season. The waterfalls are located just east of the Abandoned House.",
+    "beginnerNote": "The Goby is a fish that can be caught at the bottom of the waterfalls in southern Cindersap Forest during any season. The waterfalls are located just east of the Abandoned House.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Cindersap Forest Waterfalls"
+    ],
+    "difficulty": 55,
+    "sellPrice": 150,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Goby"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-ice-pip",
+    "slug": "ice-pip",
+    "name": "Ice Pip",
+    "description": "The Ice Pip is a fish that can be caught in the Mines on the 60th floor during all seasons. The only other fish that can be caught there is the Ghostfish.",
+    "beginnerNote": "The Ice Pip is a fish that can be caught in the Mines on the 60th floor during all seasons. The only other fish that can be caught there is the Ghostfish.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "The Mines , Floor 60"
+    ],
+    "difficulty": 85,
+    "sellPrice": 500,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ice_Pip"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-lava-eel",
+    "slug": "lava-eel",
+    "name": "Lava Eel",
+    "description": "The Lava Eel is a fish that can be caught during all times and seasons in the Mines on the 100th floor and at the Volcano Caldera. It is the only fish that can spawn in lava.",
+    "beginnerNote": "The Lava Eel is a fish that can be caught during all times and seasons in the Mines on the 100th floor and at the Volcano Caldera. It is the only fish that can spawn in lava.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Floor 100 of The Mines",
+      "Volcano Caldera"
+    ],
+    "difficulty": 90,
+    "sellPrice": 700,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lava_Eel"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-legend",
+    "slug": "legend",
+    "name": "Legend",
+    "description": "The Legend is a fish that can be caught during Spring in the Mountain lake during rainy weather. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "beginnerNote": "The Legend is a fish that can be caught during Spring in the Mountain lake during rainy weather. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "seasons": [
+      "Spring"
+    ],
+    "weather": [
+      "Rain"
+    ],
+    "time": "Any",
+    "locations": [
+      "Mountain Lake"
+    ],
+    "difficulty": 110,
+    "sellPrice": 5000,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Legend"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-legend-ii",
+    "slug": "legend-ii",
+    "name": "Legend II",
+    "description": "The Legend II is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Legend. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "beginnerNote": "The Legend II is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Legend. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Mountain Lake"
+    ],
+    "difficulty": 110,
+    "sellPrice": 5000,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Legend_II"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-lingcod",
+    "slug": "lingcod",
+    "name": "Lingcod",
+    "description": "The Lingcod is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) or the Mountain Lake during Winter. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"120\"360-1,000g.",
+    "beginnerNote": "The Lingcod is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) or the Mountain Lake during Winter. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"120\"360-1,000g.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "River",
+      "Mountain Lake"
+    ],
+    "difficulty": 85,
+    "sellPrice": 120,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lingcod"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-lionfish",
+    "slug": "lionfish",
+    "name": "Lionfish",
+    "description": "The Lionfish is a fish that can be caught on Ginger Island during any season on Island West (ocean), South, and Southeast.",
+    "beginnerNote": "The Lionfish is a fish that can be caught on Ginger Island during any season on Island West (ocean), South, and Southeast.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Ginger Island"
+    ],
+    "difficulty": 50,
+    "sellPrice": 100,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lionfish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-midnight-carp",
+    "slug": "midnight-carp",
+    "name": "Midnight Carp",
+    "description": "The Midnight Carp is a fish that can be caught in the mountain lake and the Cindersap Forest pond during Fall and Winter late at night. It can also be caught on many of the non-standard Farm Maps: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in Ginger Island North and West (freshwater). It can also be gifted by a pet cat with max friendship. It can also randomly be found at the Traveling Cart for data-sort-value=\"150\"450-1,000g or in Garbage Cans during Fall or Winter.",
+    "beginnerNote": "The Midnight Carp is a fish that can be caught in the mountain lake and the Cindersap Forest pond during Fall and Winter late at night. It can also be caught on many of the non-standard Farm Maps: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in Ginger Island North and West (freshwater). It can also be gifted by a pet cat with max friendship. It can also randomly be found at the Traveling Cart for data-sort-value=\"150\"450-1,000g or in Garbage Cans during Fall or Winter.",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "10:00 PM - 2:00 AM",
+    "locations": [
+      "Mountain Lake",
+      "Forest Pond",
+      "Ginger Island North & West (freshwater)"
+    ],
+    "difficulty": 55,
+    "sellPrice": 150,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Midnight_Carp"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-midnight-squid",
+    "slug": "midnight-squid",
+    "name": "Midnight Squid",
+    "description": "The Midnight Squid is a fish that can be caught in the submarine ride at the Night Market, which takes place at The Beach during Winter 15-17.",
+    "beginnerNote": "The Midnight Squid is a fish that can be caught in the submarine ride at the Night Market, which takes place at The Beach during Winter 15-17.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "5:00 PM - 2:00 AM",
+    "locations": [
+      "Submarine at Night Market"
+    ],
+    "difficulty": 55,
+    "sellPrice": 100,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Midnight_Squid"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-ms-angler",
+    "slug": "ms-angler",
+    "name": "Ms. Angler",
+    "description": "The Ms. Angler is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Angler. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "beginnerNote": "The Ms. Angler is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Angler. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Pelican Town"
+    ],
+    "difficulty": 85,
+    "sellPrice": 900,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ms._Angler"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-mutant-carp",
+    "slug": "mutant-carp",
+    "name": "Mutant Carp",
+    "description": "The Mutant Carp is a fish that can be caught in The Sewers during all seasons. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "beginnerNote": "The Mutant Carp is a fish that can be caught in The Sewers during all seasons. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "The Sewers"
+    ],
+    "difficulty": 80,
+    "sellPrice": 1000,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mutant_Carp"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-pufferfish",
+    "slug": "pufferfish",
+    "name": "Pufferfish",
+    "description": "The Pufferfish is a fish that can be caught in the ocean at The Beach or on the Beach Farm on sunny summer days between 12pm and 4pm, or on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"200\"600-1,000g.",
+    "beginnerNote": "The Pufferfish is a fish that can be caught in the ocean at The Beach or on the Beach Farm on sunny summer days between 12pm and 4pm, or on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"200\"600-1,000g.",
+    "seasons": [
+      "Summer"
+    ],
+    "weather": [
+      "Sun"
+    ],
+    "time": "12:00 PM - 4:00 PM",
+    "locations": [
+      "Ocean",
+      "Ginger Island"
+    ],
+    "difficulty": 80,
+    "sellPrice": 200,
+    "bundleUsage": [
+      "Specialty Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pufferfish",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-radioactive-carp",
+    "slug": "radioactive-carp",
+    "name": "Radioactive Carp",
+    "description": "The Radioactive Carp is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Mutant Carp. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "beginnerNote": "The Radioactive Carp is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Mutant Carp. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "The Sewers"
+    ],
+    "difficulty": 80,
+    "sellPrice": 1000,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Radioactive_Carp"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-red-mullet",
+    "slug": "red-mullet",
+    "name": "Red Mullet",
+    "description": "The Red Mullet is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Winter. It may also randomly appear at the Traveling Cart for data-sort-value=\"75\"225-1,000g or in Garbage Cans during Summer or Winter.",
+    "beginnerNote": "The Red Mullet is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Winter. It may also randomly appear at the Traveling Cart for data-sort-value=\"75\"225-1,000g or in Garbage Cans during Summer or Winter.",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 55,
+    "sellPrice": 75,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Red_Mullet"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-sandfish",
+    "slug": "sandfish",
+    "name": "Sandfish",
+    "description": "The Sandfish is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "beginnerNote": "The Sandfish is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 8:00 PM",
+    "locations": [
+      "The Desert"
+    ],
+    "difficulty": 65,
+    "sellPrice": 75,
+    "bundleUsage": [
+      "Specialty Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sandfish",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-scorpion-carp",
+    "slug": "scorpion-carp",
+    "name": "Scorpion Carp",
+    "description": "The Scorpion Carp is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"150\"450-1,000g. The only other fish that can be caught in the Desert is the Sandfish.",
+    "beginnerNote": "The Scorpion Carp is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"150\"450-1,000g. The only other fish that can be caught in the Desert is the Sandfish.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 8:00 PM",
+    "locations": [
+      "The Desert"
+    ],
+    "difficulty": 90,
+    "sellPrice": 150,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Scorpion_Carp"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-sea-cucumber",
+    "slug": "sea-cucumber",
+    "name": "Sea Cucumber",
+    "description": "The Sea Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter. It can also be randomly found in Garbage Cans during Fall and Winter, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g. There is a 5% chance to catch a Sea Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (4% if using a Curiosity Lure).",
+    "beginnerNote": "The Sea Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter. It can also be randomly found in Garbage Cans during Fall and Winter, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g. There is a 5% chance to catch a Sea Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (4% if using a Curiosity Lure).",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM; 5:00 PM - 2:00 AM",
+    "locations": [
+      "Ocean",
+      "Submarine at Night Market"
+    ],
+    "difficulty": 40,
+    "sellPrice": 75,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sea_Cucumber"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-slimejack",
+    "slug": "slimejack",
+    "name": "Slimejack",
+    "description": "The Slimejack is a fish that can be caught in the Mutant Bug Lair during all seasons.",
+    "beginnerNote": "The Slimejack is a fish that can be caught in the Mutant Bug Lair during all seasons.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Mutant Bug Lair"
+    ],
+    "difficulty": 55,
+    "sellPrice": 100,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Slimejack"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-son-of-crimsonfish",
+    "slug": "son-of-crimsonfish",
+    "name": "Son of Crimsonfish",
+    "description": "The Son of Crimsonfish is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Crimsonfish. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "beginnerNote": "The Son of Crimsonfish is one of the five Legendary Fish that must be caught for Mr. Qi's Extended Family Quest. It has the same sell price, healing effect, location, and chance of hooking as the Crimsonfish. It can only be caught when the quest is active, but more than one can be caught per quest.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 95,
+    "sellPrice": 1500,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Son_of_Crimsonfish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-spook-fish",
+    "slug": "spook-fish",
+    "name": "Spook Fish",
+    "description": "The Spook Fish is a fish that can be caught in the submarine ride at the Night Market, which takes place at The Beach during Winter 15-17.",
+    "beginnerNote": "The Spook Fish is a fish that can be caught in the submarine ride at the Night Market, which takes place at The Beach during Winter 15-17.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "5:00 PM - 2:00 AM",
+    "locations": [
+      "Submarine at Night Market"
+    ],
+    "difficulty": 60,
+    "sellPrice": 220,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spook_Fish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-squid",
+    "slug": "squid",
+    "name": "Squid",
+    "description": "The Squid is a fish that can be caught in the ocean at The Beach or on the Beach Farm in the evening during Winter. It can also randomly be found in Garbage Cans during Winter, or at the Traveling Cart for data-sort-value=\"80\"240-1,000g. Squid can be caught during the entire day on Winter 12th and 13th during the SquidFest festival. Pierre sells five Squid for data-sort-value=\"10\"> 10 Calico Eggs each during the Desert Festival.",
+    "beginnerNote": "The Squid is a fish that can be caught in the ocean at The Beach or on the Beach Farm in the evening during Winter. It can also randomly be found in Garbage Cans during Winter, or at the Traveling Cart for data-sort-value=\"80\"240-1,000g. Squid can be caught during the entire day on Winter 12th and 13th during the SquidFest festival. Pierre sells five Squid for data-sort-value=\"10\"> 10 Calico Eggs each during the Desert Festival.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 PM - 2:00 AM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 75,
+    "sellPrice": 80,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Squid"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-stingray",
+    "slug": "stingray",
+    "name": "Stingray",
+    "description": "The Stingray is a fish that can be caught at the Pirate Cove on Ginger Island Southeast.",
+    "beginnerNote": "The Stingray is a fish that can be caught at the Pirate Cove on Ginger Island Southeast.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Pirate Cove"
+    ],
+    "difficulty": 80,
+    "sellPrice": 180,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stingray"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-stonefish",
+    "slug": "stonefish",
+    "name": "Stonefish",
+    "description": "The Stonefish is a fish that can be caught in The Mines on the 20th floor during all seasons. The only other fish that can be caught on the 20th floor of the mines is the Ghostfish.",
+    "beginnerNote": "The Stonefish is a fish that can be caught in The Mines on the 20th floor during all seasons. The only other fish that can be caught on the 20th floor of the mines is the Ghostfish.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Floor 20 of The Mines"
+    ],
+    "difficulty": 65,
+    "sellPrice": 300,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stonefish"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-super-cucumber",
+    "slug": "super-cucumber",
+    "name": "Super Cucumber",
+    "description": "The Super Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Fall evenings, and on Ginger Island South, Southeast, West (ocean), and the Pirate Cove during any season. It can also randomly be found in Garbage Cans during Summer and Fall, or at the Traveling Cart for data-sort-value=\"250\"750-1,250g. There is a 4% chance to catch a Super Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (7% if using a Curiosity Lure). The Statue Of Endless Fortune produces one Super Cucumber per year on the Wizard's birthday, Winter 17.",
+    "beginnerNote": "The Super Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Fall evenings, and on Ginger Island South, Southeast, West (ocean), and the Pirate Cove during any season. It can also randomly be found in Garbage Cans during Summer and Fall, or at the Traveling Cart for data-sort-value=\"250\"750-1,250g. There is a 4% chance to catch a Super Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (7% if using a Curiosity Lure). The Statue Of Endless Fortune produces one Super Cucumber per year on the Wizard's birthday, Winter 17.",
+    "seasons": [
+      "Summer",
+      "Fall",
+      "Winter during Night Market (15-17)"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 PM - 2:00 AM; 5:00 PM - 2:00 AM",
+    "locations": [
+      "Ocean",
+      "Ginger Island",
+      "Submarine at Night Market"
+    ],
+    "difficulty": 80,
+    "sellPrice": 250,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Super_Cucumber"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-void-salmon",
+    "slug": "void-salmon",
+    "name": "Void Salmon",
+    "description": "The Void Salmon is a fish that can be caught in the Witch's Swamp during all seasons.",
+    "beginnerNote": "The Void Salmon is a fish that can be caught in the Witch's Swamp during all seasons.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Witch's Swamp"
+    ],
+    "difficulty": 80,
+    "sellPrice": 150,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Void_Salmon"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "fish-woodskip",
+    "slug": "woodskip",
+    "name": "Woodskip",
+    "description": "The Woodskip is a fish that can be caught in the pond in the Secret Woods during any season. It is most prevalent there on non-rainy days, with each cast having a 15% to 27% chance to hook a Woodskip depending on fishing skill. The Woodskip is more likely to be caught when casting at least 3 tiles from shore.[1] It can also be caught on the Forest Farm, with each cast having a 0% to 17.5% chance to hook a Woodskip depending on daily luck.[2] It can also randomly be found at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "beginnerNote": "The Woodskip is a fish that can be caught in the pond in the Secret Woods during any season. It is most prevalent there on non-rainy days, with each cast having a 15% to 27% chance to hook a Woodskip depending on fishing skill. The Woodskip is more likely to be caught when casting at least 3 tiles from shore.[1] It can also be caught on the Forest Farm, with each cast having a 0% to 17.5% chance to hook a Woodskip depending on daily luck.[2] It can also randomly be found at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Secret Woods",
+      "Forest Farm"
+    ],
+    "difficulty": 50,
+    "sellPrice": 75,
+    "bundleUsage": [
+      "Specialty Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Woodskip",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-18"
   }
 ]

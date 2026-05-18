@@ -81,6 +81,10 @@ function formatGold(value: number | "needs verification" | undefined) {
 }
 
 function formatValueList(value: string[] | string | "needs verification" | undefined) {
+  if (Array.isArray(value) && value.length === 0) {
+    return "None";
+  }
+
   if (Array.isArray(value) && value.length > 0) {
     return value.join(", ");
   }
