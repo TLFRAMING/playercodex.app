@@ -51,7 +51,7 @@ const groups: HubGroup[] = [
     tone: "border-green-950/10 bg-white/75",
     items: [
       { title: "Artisan Goods", note: "Planned processed-goods reference.", status: "Planned" },
-      { title: "Minerals", note: "Planned mineral index.", status: "Planned" },
+      { title: "Minerals", href: "/minerals", note: "Location, value, and museum lookup.", status: "Live" },
       { title: "Artifacts", note: "Planned artifact index.", status: "Planned" }
     ]
   },

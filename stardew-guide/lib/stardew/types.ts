@@ -83,6 +83,17 @@ export type ForageItem = StardewDataSource & {
   beginnerNote: string;
 };
 
+export type Mineral = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  locations: string[];
+  sellPrice: number | VerificationValue;
+  uses: string[];
+  museumDonation: boolean;
+  beginnerNote: string;
+};
+
 export type BundleItem = {
   id: string;
   name: string;

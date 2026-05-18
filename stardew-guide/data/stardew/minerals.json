@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "mineral-quartz",
+    "slug": "quartz",
+    "name": "Quartz",
+    "locations": [
+      "Mines",
+      "Trash Cans",
+      "Other rare sources",
+      "Mines floors"
+    ],
+    "sellPrice": 25,
+    "uses": [
+      "Geologist's Bundle",
+      "Gifting",
+      "Tailoring",
+      "Crystalarium",
+      "Refined Quartz"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Quartz",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for Refined Quartz."
+  },
+  {
+    "id": "mineral-earth-crystal",
+    "slug": "earth-crystal",
+    "name": "Earth Crystal",
+    "locations": [
+      "Mines",
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Geodes",
+      "Omni Geodes",
+      "Duggies",
+      "Mines floors"
+    ],
+    "sellPrice": 50,
+    "uses": [
+      "Geologist's Bundle",
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Earth_Crystal",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and the Geologist's Bundle."
+  },
+  {
+    "id": "mineral-frozen-tear",
+    "slug": "frozen-tear",
+    "name": "Frozen Tear",
+    "locations": [
+      "Mines",
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes",
+      "Mines floors"
+    ],
+    "sellPrice": 75,
+    "uses": [
+      "Geologist's Bundle",
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Frozen_Tear",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and the Geologist's Bundle."
+  },
+  {
+    "id": "mineral-fire-quartz",
+    "slug": "fire-quartz",
+    "name": "Fire Quartz",
+    "locations": [
+      "Mines",
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes",
+      "Mines floors"
+    ],
+    "sellPrice": 100,
+    "uses": [
+      "Geologist's Bundle",
+      "Gifting",
+      "Tailoring",
+      "Crystalarium",
+      "Refined Quartz"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fire_Quartz",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful for Refined Quartz and the Geologist's Bundle."
+  },
+  {
+    "id": "mineral-emerald",
+    "slug": "emerald",
+    "name": "Emerald",
+    "locations": [
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Festival of the Winter Star",
+      "Emerald Nodes",
+      "Gem Nodes"
+    ],
+    "sellPrice": 250,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Emerald",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Good gift and trading item; keep one for the museum."
+  },
+  {
+    "id": "mineral-aquamarine",
+    "slug": "aquamarine",
+    "name": "Aquamarine",
+    "locations": [
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Aquamarine Nodes",
+      "Gem Nodes"
+    ],
+    "sellPrice": 180,
+    "uses": [
+      "Dye Bundle",
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Aquamarine",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Good gift and trading item; keep one for the museum."
+  },
+  {
+    "id": "mineral-ruby",
+    "slug": "ruby",
+    "name": "Ruby",
+    "locations": [
+      "Trash Cans",
+      "Panning",
+      "Festival of the Winter Star",
+      "Ruby Nodes",
+      "Gem Nodes"
+    ],
+    "sellPrice": 250,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ruby",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Good gift and trading item; keep one for the museum."
+  },
+  {
+    "id": "mineral-amethyst",
+    "slug": "amethyst",
+    "name": "Amethyst",
+    "locations": [
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Amethyst Nodes",
+      "Gem Nodes",
+      "Green Slimes"
+    ],
+    "sellPrice": 100,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Amethyst",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Good gift and trading item; keep one for the museum."
+  },
+  {
+    "id": "mineral-topaz",
+    "slug": "topaz",
+    "name": "Topaz",
+    "locations": [
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Topaz Nodes",
+      "Gem Nodes"
+    ],
+    "sellPrice": 80,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Topaz",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Good gift and trading item; keep one for the museum."
+  },
+  {
+    "id": "mineral-jade",
+    "slug": "jade",
+    "name": "Jade",
+    "locations": [
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Festival of the Winter Star",
+      "Jade Nodes",
+      "Gem Nodes",
+      "Blue Slimes"
+    ],
+    "sellPrice": 200,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium",
+      "Desert Trader"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jade",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Save Jade for the Desert Trader on Sundays."
+  },
+  {
+    "id": "mineral-diamond",
+    "slug": "diamond",
+    "name": "Diamond",
+    "locations": [
+      "Trash Cans",
+      "Fishing Treasure",
+      "Panning",
+      "Diamond Nodes",
+      "Gem Nodes"
+    ],
+    "sellPrice": 750,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Diamond",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Diamond is a strong Crystalarium target and a good gift."
+  },
+  {
+    "id": "mineral-prismatic-shard",
+    "slug": "prismatic-shard",
+    "name": "Prismatic Shard",
+    "locations": [
+      "Fishing Treasure",
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 2000,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Galaxy Sword"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prismatic_Shard",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Save the first one for the Galaxy Sword."
+  },
+  {
+    "id": "mineral-alamite",
+    "slug": "alamite",
+    "name": "Alamite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 150,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Alamite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-bixite",
+    "slug": "bixite",
+    "name": "Bixite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes",
+      "Black Slimes"
+    ],
+    "sellPrice": 300,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bixite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-baryte",
+    "slug": "baryte",
+    "name": "Baryte",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 50,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Baryte",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-aerinite",
+    "slug": "aerinite",
+    "name": "Aerinite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 125,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Aerinite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-calcite",
+    "slug": "calcite",
+    "name": "Calcite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 75,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Calcite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-dolomite",
+    "slug": "dolomite",
+    "name": "Dolomite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 300,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dolomite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-esperite",
+    "slug": "esperite",
+    "name": "Esperite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 100,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Esperite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-fluorapatite",
+    "slug": "fluorapatite",
+    "name": "Fluorapatite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 200,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fluorapatite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-geminite",
+    "slug": "geminite",
+    "name": "Geminite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 150,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Geminite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-helvite",
+    "slug": "helvite",
+    "name": "Helvite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 450,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Helvite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-jamborite",
+    "slug": "jamborite",
+    "name": "Jamborite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 150,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jamborite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-jagoite",
+    "slug": "jagoite",
+    "name": "Jagoite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 115,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jagoite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-kyanite",
+    "slug": "kyanite",
+    "name": "Kyanite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 250,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Kyanite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-lunarite",
+    "slug": "lunarite",
+    "name": "Lunarite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 200,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lunarite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-malachite",
+    "slug": "malachite",
+    "name": "Malachite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 100,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Malachite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-neptunite",
+    "slug": "neptunite",
+    "name": "Neptunite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes",
+      "Black Slimes"
+    ],
+    "sellPrice": 400,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Neptunite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-lemon-stone",
+    "slug": "lemon-stone",
+    "name": "Lemon Stone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 200,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lemon_Stone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-nekoite",
+    "slug": "nekoite",
+    "name": "Nekoite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 80,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Nekoite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-orpiment",
+    "slug": "orpiment",
+    "name": "Orpiment",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 80,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Orpiment",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-petrified-slime",
+    "slug": "petrified-slime",
+    "name": "Petrified Slime",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Slime Hutch"
+    ],
+    "sellPrice": 120,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Fish Pond",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Petrified_Slime",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful for fish pond tasks and crafting."
+  },
+  {
+    "id": "mineral-thunder-egg",
+    "slug": "thunder-egg",
+    "name": "Thunder Egg",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 100,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Thunder_Egg",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-pyrite",
+    "slug": "pyrite",
+    "name": "Pyrite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 120,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pyrite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-ocean-stone",
+    "slug": "ocean-stone",
+    "name": "Ocean Stone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 220,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Fish Pond",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ocean_Stone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-ghost-crystal",
+    "slug": "ghost-crystal",
+    "name": "Ghost Crystal",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 200,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ghost_Crystal",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-tigerseye",
+    "slug": "tigerseye",
+    "name": "Tigerseye",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 275,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tigerseye",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-jasper",
+    "slug": "jasper",
+    "name": "Jasper",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 150,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jasper",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-opal",
+    "slug": "opal",
+    "name": "Opal",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 150,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Opal",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-fire-opal",
+    "slug": "fire-opal",
+    "name": "Fire Opal",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 350,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fire_Opal",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-celestine",
+    "slug": "celestine",
+    "name": "Celestine",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 125,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Celestine",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-marble",
+    "slug": "marble",
+    "name": "Marble",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 110,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium",
+      "Crafting"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Marble",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-sandstone",
+    "slug": "sandstone",
+    "name": "Sandstone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 60,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sandstone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-granite",
+    "slug": "granite",
+    "name": "Granite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 75,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Fish Pond",
+      "Crystalarium",
+      "Crafting"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Granite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-basalt",
+    "slug": "basalt",
+    "name": "Basalt",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 175,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Fish Pond",
+      "Crystalarium",
+      "Crafting"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Basalt",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-limestone",
+    "slug": "limestone",
+    "name": "Limestone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 15,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Fish Pond",
+      "Crystalarium",
+      "Crafting"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Limestone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-soapstone",
+    "slug": "soapstone",
+    "name": "Soapstone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 120,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Soapstone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-hematite",
+    "slug": "hematite",
+    "name": "Hematite",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 150,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hematite",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-mudstone",
+    "slug": "mudstone",
+    "name": "Mudstone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 25,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Fish Pond",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mudstone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-obsidian",
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 200,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium",
+      "Crafting"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Obsidian",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-slate",
+    "slug": "slate",
+    "name": "Slate",
+    "locations": [
+      "Geodes",
+      "Omni Geodes"
+    ],
+    "sellPrice": 85,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium",
+      "Crafting"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Slate",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-fairy-stone",
+    "slug": "fairy-stone",
+    "name": "Fairy Stone",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Frozen Geodes"
+    ],
+    "sellPrice": 250,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fairy_Stone",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  },
+  {
+    "id": "mineral-star-shards",
+    "slug": "star-shards",
+    "name": "Star Shards",
+    "locations": [
+      "Geodes",
+      "Omni Geodes",
+      "Magma Geodes"
+    ],
+    "sellPrice": 500,
+    "uses": [
+      "Gifting",
+      "Tailoring",
+      "Crystalarium"
+    ],
+    "museumDonation": true,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Star_Shards",
+      "https://zh.stardewvalleywiki.com/%E7%9F%BF%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Keep one for the museum and use extras for crafting or tailoring."
+  }
+]
