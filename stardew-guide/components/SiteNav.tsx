@@ -10,15 +10,18 @@ const navItems = [
 
 export function SiteNav() {
   return (
-    <header className="border-b border-green-950/10 bg-cream/90 backdrop-blur">
-      <nav className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-4 sm:px-6 md:flex-row md:items-center md:justify-between lg:px-8">
-        <Link className="w-fit" href="/">
-          <span className="block text-lg font-bold text-green-950">Player Codex</span>
-          <span className="block text-xs font-bold uppercase tracking-wide text-meadow">Stardew Guide</span>
+    <header className="codex-nav backdrop-blur">
+      <nav className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-3 sm:px-6 md:flex-row md:items-center md:justify-between lg:px-8">
+        <Link className="flex w-fit max-w-full items-center gap-3" href="/">
+          <span className="codex-brand-mark rounded-sm text-sm font-black">PC</span>
+          <span className="min-w-0">
+            <span className="block text-lg font-black leading-tight text-green-950">Player Codex</span>
+            <span className="block break-words text-[11px] font-black uppercase tracking-[0.16em] text-meadow">Current codex: Stardew Guide</span>
+          </span>
         </Link>
-        <div className="flex flex-wrap gap-2 text-sm font-semibold text-green-950/70">
+        <div className="flex flex-wrap gap-2 text-sm font-bold text-green-950/72">
           {navItems.map((item) => (
-            <Link className="rounded-md px-3 py-2 hover:bg-green-950/6 hover:text-green-950" href={item.href} key={item.href}>
+            <Link className="codex-tab rounded-sm px-3 py-2 leading-none" href={item.href} key={item.href}>
               {item.label}
             </Link>
           ))}

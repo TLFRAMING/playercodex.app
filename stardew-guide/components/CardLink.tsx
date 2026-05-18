@@ -2,25 +2,21 @@ import Link from "next/link";
 
 type CardTone = "meadow" | "pond" | "berry" | "gold";
 
-const toneStyles: Record<CardTone, { accent: string; marker: string; markerText: string }> = {
+const toneStyles: Record<CardTone, { className: string; markerText: string }> = {
   meadow: {
-    accent: "bg-meadow",
-    marker: "bg-meadow/10 text-meadow",
+    className: "codex-entry-meadow",
     markerText: "Gifts"
   },
   pond: {
-    accent: "bg-pond",
-    marker: "bg-pond/10 text-pond",
+    className: "codex-entry-pond",
     markerText: "Crops"
   },
   berry: {
-    accent: "bg-berry",
-    marker: "bg-berry/10 text-berry",
+    className: "codex-entry-berry",
     markerText: "Fish"
   },
   gold: {
-    accent: "bg-amber-500",
-    marker: "bg-amber-100 text-amber-800",
+    className: "codex-entry-gold",
     markerText: "Tracker"
   }
 };
@@ -39,12 +35,16 @@ export function CardLink({
   const styles = toneStyles[tone];
 
   return (
-    <Link className="group overflow-hidden rounded-lg border border-green-950/10 bg-white shadow-soft transition hover:-translate-y-0.5 hover:border-green-950/20" href={href}>
-      <div className={`h-1.5 ${styles.accent}`} />
-      <div className="p-5">
-        <span className={`rounded-md px-2.5 py-1 text-xs font-bold ${styles.marker}`}>{styles.markerText}</span>
-        <h2 className="mt-4 text-xl font-bold text-green-950">{title}</h2>
-        <p className="mt-3 text-sm leading-6 text-green-950/68">{description}</p>
+    <Link className={`codex-entry ${styles.className} group block rounded-md transition`} href={href}>
+      <div className="relative flex h-full min-w-0 flex-col gap-4 px-5 py-5 pl-7">
+        <div className="flex items-start justify-between gap-3">
+          <span className="codex-entry-marker rounded-sm px-2.5 py-1 text-[11px] font-black uppercase tracking-[0.14em]">{styles.markerText}</span>
+          <span className="text-xs font-black uppercase tracking-[0.14em] text-green-950/40 transition group-hover:text-green-950/64">Open</span>
+        </div>
+        <div className="min-w-0">
+          <h2 className="break-words text-xl font-black leading-tight text-green-950">{title}</h2>
+          <p className="mt-2 max-w-[16.5rem] break-words text-sm font-semibold leading-6 text-green-950/68 sm:max-w-none">{description}</p>
+        </div>
       </div>
     </Link>
   );
