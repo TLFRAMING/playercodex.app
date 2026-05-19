@@ -1,0 +1,4758 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Willy",
+  "finalUrl": "https://stardewvalleywiki.com/Willy",
+  "fetchedAt": "2026-05-18T19:49:13.295954+00:00",
+  "title": "Willy - Stardew Valley Wiki",
+  "description": "Willy is a villager who grew up traveling among the Fern Islands and now lives south of Pelican Town on The Beach. He sells bait and fishing supplies in his shop. His shop is open every day but will be closed on Saturday if the weather is nice enough for him to go fishing.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Willy"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Three Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Five Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Six Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Seven Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Nine Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "Trivia"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Willy"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Summer 24"
+        ],
+        [
+          "Lives In",
+          "The Beach"
+        ],
+        [
+          "Address",
+          "Fish Shop"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Clinic Visit",
+          "Spring 9"
+        ],
+        [
+          "Loved Gifts",
+          "Catfish Diamond Gold Bar Iridium Bar Jewels Of The Sea Mead Octopus Pumpkin Sea Cucumber Sturgeon The Art O' Crabbing"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A true angler has respect for the water... don't you forget that.”"
+        ],
+        [
+          "— Willy"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Spring 9"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Goes back inside fish shop from the beach."
+        ],
+        [
+          "9:00 AM",
+          "Starts working at the counter in the fish shop, goods are available for sale.\"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\""
+        ],
+        [
+          "10:10 AM",
+          "Leaves the fish shop, walks over to the Harvey's Clinic.\"Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.\""
+        ],
+        [
+          "1:30 PM",
+          "Continues checkup at the Harvey's Clinic.\"Yowch! That hurt, Doc!\""
+        ],
+        [
+          "5:00 PM",
+          "Leaves the Harvey's Clinic, walks over to the saloon.\"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+        ],
+        [
+          "11:20 PM",
+          "Leaves the saloon to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Spring 15, 16 and 17 (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Boards the bus to Calico Desert to attend the Desert Festival."
+        ],
+        [
+          "9:10 AM",
+          "Stands at his fishing challenge."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Summer 20 and 21"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Returns to the fish shop."
+        ],
+        [
+          "10:00 AM",
+          "Leaves the beach, goes to Cindersap Forest to fish in the Trout Derby in the river to the southwest of Leah's Cottage."
+        ],
+        [
+          "11:20 PM",
+          "Leaves Cindersap Forest to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Winter 12 and 13"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Returns to the fish shop."
+        ],
+        [
+          "12:00 PM",
+          "Heads out to the beach to fish in the SquidFest."
+        ],
+        [
+          "11:20 PM",
+          "Leaves the beach to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Winter 15, 16 and 17"
+      ],
+      "rows": [
+        [
+          "4:30 PM",
+          "At The Stardrop Saloon."
+        ],
+        [
+          "12:20 AM",
+          "Returns to the fish shop."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Green Rain (Year 1)"
+      ],
+      "rows": [
+        [
+          "All day",
+          "In The Stardrop Saloon."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Rain"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Goes back inside fish shop from the beach."
+        ],
+        [
+          "9:00 AM",
+          "Starts working at the counter in the fish shop, goods are available for sale."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the fish shop, walks over to the saloon.\"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+        ],
+        [
+          "11:20 PM",
+          "Leaves the saloon to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Friday"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Goes back inside fish shop from the beach."
+        ],
+        [
+          "9:00 AM",
+          "Starts working at the counter in the fish shop, goods are available for sale."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the fish shop, walks over to the saloon.\"Handling salty fish all day makes me real thirsty.\""
+        ],
+        [
+          "11:20 PM",
+          "Leaves the saloon to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Saturday"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, walks through town to go fishing at the river outside Leah's cottage."
+        ],
+        [
+          "2:00 PM",
+          "Leaves the river and heads into Pelican Town for more river fishing."
+        ],
+        [
+          "7:00 PM",
+          "Walks over to the saloon.\"Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.\""
+        ],
+        [
+          "11:00 PM",
+          "Leaves the saloon to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Winter"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Goes back inside fish shop from the beach."
+        ],
+        [
+          "9:00 AM",
+          "Starts working at the counter in the fish shop, goods are available for sale."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the fish shop, walks over to the saloon.\"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+        ],
+        [
+          "11:20 PM",
+          "Leaves the saloon to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "Regular Schedule"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Wakes up for the day, goes fishing outside his fish shop."
+        ],
+        [
+          "8:50 AM",
+          "Goes back inside fish shop from the beach."
+        ],
+        [
+          "9:00 AM",
+          "Starts working at the counter in the fish shop, goods are available for sale."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the fish shop, goes out to fish on the beach."
+        ],
+        [
+          "10:00 PM",
+          "Leaves the beach to head home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A birthday gift? That's very kind of you! I love it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You remembered my birthday! Thank you. This is great.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, a birthday gift! Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... It's for my birthday? ... Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is great! If only me ol' Pappy was around. He’d go nuts for this.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*chomp*... Yep, that's real gold alright. Heh! What a gift!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank ye! This'll be perfect winter reading. Ah, and it even smells of the sea...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“By the stem o' me pipe... a cup o' Stardrop Tea! And here I thought it was only the stuff of mermaid legend. Thank you kindly.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Aye... A timeless classic. Brings a tear to me eye, with every read. A fisherman can never have too many copies! Thank ye.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Catfish",
+          "An uncommon fish found in streams.",
+          "Fishing"
+        ],
+        [
+          "",
+          "Diamond",
+          "A rare and valuable gem.",
+          "Mining"
+        ],
+        [
+          "",
+          "Gold Bar",
+          "A bar of pure gold.",
+          "Furnace"
+        ],
+        [
+          "",
+          "Iridium Bar",
+          "A bar of pure iridium.",
+          "Furnace"
+        ],
+        [
+          "",
+          "Jewels Of The Sea",
+          "Fishing treasure chests have a chance to yield roe.",
+          "Books"
+        ],
+        [
+          "",
+          "Mead",
+          "A fermented beverage made from honey. Drink in moderation.",
+          "Keg"
+        ],
+        [
+          "",
+          "Octopus",
+          "A mysterious and intelligent creature.",
+          "Fishing"
+        ],
+        [
+          "",
+          "Pumpkin",
+          "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",
+          "Farming"
+        ],
+        [
+          "",
+          "Sea Cucumber",
+          "A slippery, slimy creature found on the ocean floor.",
+          "Fishing"
+        ],
+        [
+          "",
+          "Sturgeon",
+          "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+          "Fishing"
+        ],
+        [
+          "",
+          "The Art O' Crabbing",
+          "Crab pots have a 25% chance to yield double.",
+          "Books"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This looks great. Thank you!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, 'Bait And Bobber'... Every angler ought to have a subscription, but it costs a pretty penny. Taught me a lot of good fishin' tips over the years. Thanks!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, this stuff warms the ol' bones. Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Likes (except Life Elixir, and All Cooking except for the fish dishes he is neutral towards: Dish O' The Sea, Maki Roll, & Sashimi; and the fish dishes he likes, shown below)."
+        ],
+        [
+          "",
+          "Bait And Bobber",
+          "Read this to gain some fishing experience.",
+          "Books",
+          ""
+        ],
+        [
+          "",
+          "Baked Fish",
+          "Baked fish on a bed of herbs.",
+          "Cooking",
+          "Sunfish (1) Bream (1) Wheat Flour (1)"
+        ],
+        [
+          "",
+          "Carp Surprise",
+          "It's bland and oily.",
+          "Cooking",
+          "Carp (4)"
+        ],
+        [
+          "",
+          "Chowder",
+          "A perfect way to warm yourself after a cold night at sea.",
+          "Cooking",
+          "Clam (1) Milk (1)"
+        ],
+        [
+          "",
+          "Crab Cakes",
+          "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
+          "Cooking",
+          "Crab (1) Wheat Flour (1) Egg (1) Oil (1)"
+        ],
+        [
+          "",
+          "Crispy Bass",
+          "Wow, the breading is perfect.",
+          "Cooking",
+          "Largemouth Bass (1) Wheat Flour (1) Oil (1)"
+        ],
+        [
+          "",
+          "Escargot",
+          "Butter-soaked snails cooked to perfection.",
+          "Cooking",
+          "Snail (1) Garlic (1)"
+        ],
+        [
+          "",
+          "Fish Stew",
+          "It smells a lot like the sea. Tastes better, though.",
+          "Cooking",
+          "Crayfish (1) Mussel (1) Periwinkle (1) Tomato (1)"
+        ],
+        [
+          "",
+          "Fish Taco",
+          "It smells delicious.",
+          "Cooking",
+          "Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1)"
+        ],
+        [
+          "",
+          "Fried Calamari",
+          "It's so chewy.",
+          "Cooking",
+          "Squid (1) Wheat Flour (1) Oil (1)"
+        ],
+        [
+          "",
+          "Fried Eel",
+          "Greasy but flavorful.",
+          "Cooking",
+          "Eel (1) Oil (1)"
+        ],
+        [
+          "",
+          "Lingcod",
+          "A fearsome predator that will eat almost anything it can cram into its mouth.",
+          "Fishing",
+          ""
+        ],
+        [
+          "",
+          "Lobster Bisque",
+          "This delicate soup is a secret family recipe of Willy's.",
+          "Cooking",
+          "Lobster (1) Milk (1)"
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - Mines",
+          ""
+        ],
+        [
+          "",
+          "Salmon Dinner",
+          "The lemon spritz makes it special.",
+          "Cooking",
+          "Salmon (1) Amaranth (1) Kale (1)"
+        ],
+        [
+          "",
+          "Seafoam Pudding",
+          "This briny pudding will really get you into the maritime mindset!",
+          "Cooking",
+          "Flounder (1) Midnight Carp (1) Squid Ink (1)"
+        ],
+        [
+          "",
+          "Tiger Trout",
+          "A rare hybrid trout that cannot bear offspring of its own.",
+          "Fishing",
+          ""
+        ],
+        [
+          "",
+          "Trout Soup",
+          "Pretty salty.",
+          "Cooking",
+          "Rainbow Trout (1) Green Algae (1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A gift! Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The horror! ...What kind of monster is this?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Bait And Bobber, Jewels Of The Sea, & The Art O' Crabbing)All Eggs (except Void Egg)*All Fish (except Carp, Catfish, Lingcod, Octopus, Sea Cucumber, Snail, Sturgeon, & Tiger Trout)All Fruit (except Fruit Tree Fruit & Salmonberry)All Milk"
+        ],
+        [
+          "",
+          "Dish O' The Sea",
+          "This'll keep you warm in the cold sea air.",
+          "Cooking",
+          "Sardine (2) Hashbrowns (1)"
+        ],
+        [
+          "",
+          "Maki Roll",
+          "Fish and rice wrapped in seaweed.",
+          "Cooking",
+          "Any Fish (1) Seaweed (1) Rice (1)"
+        ],
+        [
+          "",
+          "Sashimi",
+          "Raw fish sliced into thin pieces.",
+          "Cooking",
+          "Any Fish (1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hmmm... You like stuff like this? Huh.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Fish, Gold Bar, & Iridium Bar)All Cooking (except Baked Fish, Bread, Carp Surprise, Chowder, Crab Cakes, Crispy Bass, Dish O' The Sea, Escargot, Fish Stew, Fish Taco, Fried Calamari, Fried Eel, Fried Egg, Lobster Bisque, Maki Roll, Salmon Dinner, Sashimi, Seafoam Pudding, Strange Bun, & Trout Soup)"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Life Elixir",
+          "Restores health to full.",
+          "Crafting"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Salmonberry",
+          "A spring-time berry with the flavor of the forest.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“... *sniff*... Well I guess I can toss it into the chum bucket.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates (except Seafoam Pudding)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "N/A"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "N/A"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Salmon Burger Stardrop Sorbet"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Chocolate Popcorn Fries Ice Cream Sandwich Jasmine Tea Nachos Personal Pizza Popcorn Salted Peanuts Star Cookie Truffle Popcorn"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Chowder",
+          "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH.-Willy"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Escargot",
+          "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH.-Willy"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "Willy greets you outside the Fish Shop. He says he needs your help and asks you to come inside. Once inside, you see Crabs run amok, covering the Fish Shop floor. Before you can do anything to help, Gus enters the Fish Shop and offers to purchase all the crabs, minus a discount for the labor involved. Willy agrees, and Gus gathers the crabs. Afterward, Gus turns to you and says he's going to run a special on Crab Cakes for the next few days (but not to tell Willy). The cutscene ends with Willy saying goodbye to his \"sweet ladies\" as they are taken away to be killed and cooked. Gus will sell an unlimited amount of Crab Cakes at the Saloon for data-sort-value=\"550\">550g each starting on the day of the cutscene and for 3 days after. Mayor Lewis will comment that he's smelled crab \"all afternoon\" the day the event is viewed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Fish Stew",
+          "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH.-Willy"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Lobster Bisque",
+          "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH.-Willy"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ahoy there, [son/lass]. Looks like decent weather for fishing, eh?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A true angler has respect for the water... don't you forget that.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Some fish come and go with the seasons. Others only come out at night or in the rain.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“ There are rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them. You'll need the finest bait you can get if you want a rare fish to bite.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If you really want to get the fish biting, make sure you put some bait on your hook.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If the local fishing scene got a bit more lively, I might expand the shop's stock.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line. Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in. There are all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm a simple man...when my pipe is full, I'm happy. When my pipe is empty...well, then I just fill 'er up again.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch. The fishing life is tough, but there's something about it that keeps you goin'.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“How's the fishing life going for ya? I try to fish as often as possible, but it's not easy when you've got a shop to run.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, it's my skipper, [Player]! I'd give you a discount on bait if I could afford it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Aye... I hope these weird rains don't bother the fish... It could ruin me life!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If the fish like these rains, then I like 'em, too.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Well, the fish seem as healthy as ever. In fact, I swear they've been biting with extra vigor!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Tomorrow is the annual Trout Derby... Aye, it's a freshwater enthusiast's dream! Anglers from all over the world will be here to catch our beautiful Rainbow Trout... [I'd better see you out there, lad!/I hope to see you out there!] For the next two days, I'll only be manning the shop for one hour, starting at 9am. So if you really need somethin', you can come by then.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Tomorrow, at the beach, is the start of a little gathering... called 'SquidFest'. Aye... tis' a difficult catch, the squid. But I trust that you've developed a knack for the sport, by now.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Giving up the [bachelor/single] life, eh? Just don't forget to make time for fishing...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, you caught the Angler, did ya? A good 'first step' into the world o' rare fish, that one.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“So, you finally conquered the Crimsonfish! That fish has been taunting me for many years. He nearly nibbled through the wood under me house!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“By the stem o' me pipe... You actually caught 'the Legend'. I never thought I'd see the day... Well, [lad/miss], you've done it... You're the best [fisherman/angler] this valley's seen in a long time...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, so you finally snagged the Glacierfish... That's one of the slipperiest fish I've ever encountered! How many tries did it take ya?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sniff* *sniff*... Something tells me you've been fishin' in the sewers, [lad/miss]. It's an unconventional approach, to be sure. There's legend of gargantuan carp, twisted into monsters from the toxic sludge...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya? Yer a [man/lady] after me own heart, [Player]. Hah! Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sometimes I'll hide an egg too well and no one finds it... Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I should've brought my fishing pole.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hi there, [Player]. Taking a breather? To tell you the truth, I'd rather be fishing right now.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't worry, I'll be back for the soup... I'm just enjoying a tender moment with me pipe!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's the big day! I've got all me equipment tuned to catch Trout... Good luck out there!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“How's the derby treatin' ya so far? I've found plenty o' Golden Tags, meself... but it's not over yet!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Most night-fish would be scared of the light... these are strange ones.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Are you setting up a grange display, [Player]? It's your chance to show off all the good produce from [farm name]!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, [Player]. Ready for some ice fishing?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 78,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't give up just yet! There's more squid in these waters...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 79,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It warms me ol' winter heart to see all these anglers gathered here, all for the love o' fishing...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 80,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I can't get me a good night's sleep with that night market going on... eh, but that's okay. I'm flexible.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 81,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you been on the deep-sea submarine? The captain's an old friend.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 82,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, nothin' like a hot beverage to wind down after a cold, dark day...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 83,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Do you want to hear the Legend of the Winter Star?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 84,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“\"I'm a simple man [Player]... I'm thankful for a solid roof over me head, and a hot can o' beans in the mornin'!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 85,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Willy#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jewels_Of_The_Sea",
+      "text": "Jewels Of The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Cucumber",
+      "text": "Sea Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sturgeon",
+      "text": "Sturgeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Art_O%27_Crabbing",
+      "text": "The Art O' Crabbing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Relationships",
+      "text": "2 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Gifts",
+      "text": "3 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Love",
+      "text": "3.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Like",
+      "text": "3.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Neutral",
+      "text": "3.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Dislike",
+      "text": "3.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Hate",
+      "text": "3.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Movies_.26_Concessions",
+      "text": "4 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Heart_Events",
+      "text": "5 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Three_Hearts",
+      "text": "5.1 Three Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Five_Hearts",
+      "text": "5.2 Five Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Six_Hearts",
+      "text": "5.3 Six Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Seven_Hearts",
+      "text": "5.4 Seven Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Nine_Hearts",
+      "text": "5.5 Nine Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Quotes",
+      "text": "6 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Portraits",
+      "text": "8 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#Trivia",
+      "text": "9 Trivia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy#History",
+      "text": "10 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villager"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Setting#Fern_Islands",
+      "text": "Fern Islands"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait",
+      "text": "bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Beach_Resort",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "Cindersap Forest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah%27s_Cottage",
+      "text": "Leah's Cottage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "Cindersap Forest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/SquidFest",
+      "text": "SquidFest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah%27s_Cottage",
+      "text": "Leah's cottage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "the river"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "fish shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Catfish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Diamond.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Gems",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Gold_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Jewels_Of_The_Sea.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jewels_Of_The_Sea",
+      "text": "Jewels Of The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Books",
+      "text": "Books"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mead.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Octopus.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pumpkin.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sea_Cucumber.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Cucumber",
+      "text": "Sea Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sturgeon.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sturgeon",
+      "text": "Sturgeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:The_Art_O%27_Crabbing.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Art_O%27_Crabbing",
+      "text": "The Art O' Crabbing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Books",
+      "text": "Books"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dish_O%27_The_Sea",
+      "text": "Dish O' The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Bait_And_Bobber.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait_And_Bobber",
+      "text": "Bait And Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Books",
+      "text": "Books"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Baked_Fish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Baked_Fish",
+      "text": "Baked Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunfish",
+      "text": "Sunfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bream",
+      "text": "Bream"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Carp_Surprise.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp_Surprise",
+      "text": "Carp Surprise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chowder.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chowder",
+      "text": "Chowder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clam",
+      "text": "Clam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Milk",
+      "text": "Milk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Crab_Cakes.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Cakes",
+      "text": "Crab Cakes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab",
+      "text": "Crab"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg",
+      "text": "Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Crispy_Bass.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crispy_Bass",
+      "text": "Crispy Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Largemouth_Bass",
+      "text": "Largemouth Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Escargot.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Escargot",
+      "text": "Escargot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snail",
+      "text": "Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fish_Stew.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Stew",
+      "text": "Fish Stew"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crayfish",
+      "text": "Crayfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mussel",
+      "text": "Mussel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Periwinkle",
+      "text": "Periwinkle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fish_Taco.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Taco",
+      "text": "Fish Taco"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tuna",
+      "text": "Tuna"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tortilla",
+      "text": "Tortilla"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise",
+      "text": "Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fried_Calamari.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Calamari",
+      "text": "Fried Calamari"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid",
+      "text": "Squid"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fried_Eel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Eel",
+      "text": "Fried Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eel",
+      "text": "Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Lingcod.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lingcod",
+      "text": "Lingcod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Lobster_Bisque.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lobster_Bisque",
+      "text": "Lobster Bisque"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lobster",
+      "text": "Lobster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Milk",
+      "text": "Milk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmon_Dinner.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon_Dinner",
+      "text": "Salmon Dinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon",
+      "text": "Salmon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Seafoam_Pudding.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flounder",
+      "text": "Flounder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Midnight_Carp",
+      "text": "Midnight Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid_Ink",
+      "text": "Squid Ink"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Tiger_Trout.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tiger_Trout",
+      "text": "Tiger Trout"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Trout_Soup.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Soup",
+      "text": "Trout Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout",
+      "text": "Rainbow Trout"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Algae",
+      "text": "Green Algae"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait_And_Bobber",
+      "text": "Bait And Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jewels_Of_The_Sea",
+      "text": "Jewels Of The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Art_O%27_Crabbing",
+      "text": "The Art O' Crabbing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Fish_Types",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lingcod",
+      "text": "Lingcod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Cucumber",
+      "text": "Sea Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snail",
+      "text": "Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sturgeon",
+      "text": "Sturgeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tiger_Trout",
+      "text": "Tiger Trout"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Tree Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dish_O%27_The_Sea.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dish_O%27_The_Sea",
+      "text": "Dish O' The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sardine",
+      "text": "Sardine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hashbrowns",
+      "text": "Hashbrowns"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Maki_Roll.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seaweed",
+      "text": "Seaweed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice",
+      "text": "Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sashimi.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Fish_Types",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Baked_Fish",
+      "text": "Baked Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp_Surprise",
+      "text": "Carp Surprise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chowder",
+      "text": "Chowder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Cakes",
+      "text": "Crab Cakes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crispy_Bass",
+      "text": "Crispy Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dish_O%27_The_Sea",
+      "text": "Dish O' The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Escargot",
+      "text": "Escargot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Stew",
+      "text": "Fish Stew"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Taco",
+      "text": "Fish Taco"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Calamari",
+      "text": "Fried Calamari"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Eel",
+      "text": "Fried Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Egg",
+      "text": "Fried Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lobster_Bisque",
+      "text": "Lobster Bisque"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon_Dinner",
+      "text": "Salmon Dinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Soup",
+      "text": "Trout Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Life_Elixir.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmonberry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chowder",
+      "text": "Chowder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Escargot",
+      "text": "Escargot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab",
+      "text": "Crabs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Cakes",
+      "text": "Crab Cakes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Stew",
+      "text": "Fish Stew"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lobster_Bisque",
+      "text": "Lobster Bisque"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Angler",
+      "text": "Angler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crimsonfish",
+      "text": "Crimsonfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Legend",
+      "text": "Legend"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glacierfish",
+      "text": "Glacierfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mutant_Carp",
+      "text": "Mutant Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond",
+      "text": "Fish Pond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab",
+      "text": "Crabs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "The Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/SquidFest",
+      "text": "SquidFest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardrop",
+      "text": "Stardrop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#To_The_Beach",
+      "text": "\"To The Beach\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bamboo_Pole",
+      "text": "Bamboo Pole"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Catch_a_Squid",
+      "text": "\"Catch a Squid\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid",
+      "text": "Squid"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Catch_a_Lingcod",
+      "text": "\"Catch a Lingcod\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lingcod",
+      "text": "Lingcod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Wriggling_Worm",
+      "text": "Wriggling Worm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#The_Pirate.27s_Wife",
+      "text": "The Pirate's Wife"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Juicy_Bugs_Wanted",
+      "text": "\"Juicy Bugs Wanted!\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bug_Meat",
+      "text": "Bug Meat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Bobber",
+      "text": "Quality Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Tropical_Fish",
+      "text": "\"Tropical Fish\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stingray",
+      "text": "Stingray"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Discus",
+      "text": "Blue Discus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lionfish",
+      "text": "Lionfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fish_Tank",
+      "text": "Deluxe Fish Tank"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Willy.27s_Fishing_Quests",
+      "text": "fishing quest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandfish",
+      "text": "Sandfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scorpion_Carp",
+      "text": "Scorpion Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Golden_Bobber",
+      "text": "Golden Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Smoking.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Winter_00.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Winter_01.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Winter_02.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Willy_Winter_03.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pearl",
+      "text": "Pearl"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab",
+      "text": "Crabs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dish_O%27_The_Sea",
+      "text": "Dish O' The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring#Shirts",
+      "text": "Shirt O' The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.3.27",
+      "text": "1.3.27"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Escargot",
+      "text": "Escargot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&oldid=192689",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&oldid=192689"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Willy",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Willy",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Willy",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Willy",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Willy",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&oldid=192689",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Willy",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Willy",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Willy",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Willy",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%9C%8C%EB%A6%AC",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Willy",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Willy",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%92%D0%B8%D0%BB%D0%BB%D0%B8",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Willy",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%A8%81%E5%88%A9",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+      "alt": "Willy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Catfish.png/24px-Catfish.png",
+      "alt": "Catfish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/24px-Diamond.png",
+      "alt": "Diamond.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png",
+      "alt": "Gold Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c4/Iridium_Bar.png/24px-Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Jewels_Of_The_Sea.png/24px-Jewels_Of_The_Sea.png",
+      "alt": "Jewels Of The Sea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5a/Octopus.png/24px-Octopus.png",
+      "alt": "Octopus.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+      "alt": "Pumpkin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Sea_Cucumber.png/24px-Sea_Cucumber.png",
+      "alt": "Sea Cucumber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Sturgeon.png/24px-Sturgeon.png",
+      "alt": "Sturgeon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/The_Art_O%27_Crabbing.png/24px-The_Art_O%27_Crabbing.png",
+      "alt": "The Art O' Crabbing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/66/Willy_Happy.png/48px-Willy_Happy.png",
+      "alt": "Willy Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png",
+      "alt": "Catfish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png",
+      "alt": "Diamond.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png",
+      "alt": "Gold Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Jewels_Of_The_Sea.png",
+      "alt": "Jewels Of The Sea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png",
+      "alt": "Octopus.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+      "alt": "Pumpkin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png",
+      "alt": "Sea Cucumber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png",
+      "alt": "Sturgeon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c6/The_Art_O%27_Crabbing.png",
+      "alt": "The Art O' Crabbing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/66/Willy_Happy.png/48px-Willy_Happy.png",
+      "alt": "Willy Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/18/Bait_And_Bobber.png",
+      "alt": "Bait And Bobber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/94/Baked_Fish.png",
+      "alt": "Baked Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Sunfish.png/24px-Sunfish.png",
+      "alt": "Sunfish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Bream.png/24px-Bream.png",
+      "alt": "Bream.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Carp_Surprise.png",
+      "alt": "Carp Surprise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a8/Carp.png/24px-Carp.png",
+      "alt": "Carp.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/95/Chowder.png",
+      "alt": "Chowder.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Clam.png/24px-Clam.png",
+      "alt": "Clam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/24px-Milk.png",
+      "alt": "Milk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/70/Crab_Cakes.png",
+      "alt": "Crab Cakes.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crab.png/24px-Crab.png",
+      "alt": "Crab.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/26/Egg.png/24px-Egg.png",
+      "alt": "Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/53/Crispy_Bass.png",
+      "alt": "Crispy Bass.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Largemouth_Bass.png/24px-Largemouth_Bass.png",
+      "alt": "Largemouth Bass.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png",
+      "alt": "Escargot.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Snail.png/24px-Snail.png",
+      "alt": "Snail.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cc/Garlic.png/24px-Garlic.png",
+      "alt": "Garlic.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Fish_Stew.png",
+      "alt": "Fish Stew.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Crayfish.png/24px-Crayfish.png",
+      "alt": "Crayfish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Mussel.png/24px-Mussel.png",
+      "alt": "Mussel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Periwinkle.png/24px-Periwinkle.png",
+      "alt": "Periwinkle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Tomato.png/24px-Tomato.png",
+      "alt": "Tomato.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png",
+      "alt": "Fish Taco.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Tuna.png/24px-Tuna.png",
+      "alt": "Tuna.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Tortilla.png/24px-Tortilla.png",
+      "alt": "Tortilla.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png",
+      "alt": "Red Cabbage.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Mayonnaise.png/24px-Mayonnaise.png",
+      "alt": "Mayonnaise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png",
+      "alt": "Fried Calamari.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Squid.png/24px-Squid.png",
+      "alt": "Squid.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png",
+      "alt": "Fried Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png",
+      "alt": "Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/87/Lingcod.png",
+      "alt": "Lingcod.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Lobster_Bisque.png",
+      "alt": "Lobster Bisque.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Lobster.png/24px-Lobster.png",
+      "alt": "Lobster.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/24px-Milk.png",
+      "alt": "Milk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+      "alt": "Salmon Dinner.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salmon.png/24px-Salmon.png",
+      "alt": "Salmon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f6/Amaranth.png/24px-Amaranth.png",
+      "alt": "Amaranth.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Seafoam_Pudding.png",
+      "alt": "Seafoam Pudding.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Flounder.png/24px-Flounder.png",
+      "alt": "Flounder.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Midnight_Carp.png/24px-Midnight_Carp.png",
+      "alt": "Midnight Carp.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ac/Squid_Ink.png/24px-Squid_Ink.png",
+      "alt": "Squid Ink.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png",
+      "alt": "Tiger Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/48/Trout_Soup.png",
+      "alt": "Trout Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Green_Algae.png/24px-Green_Algae.png",
+      "alt": "Green Algae.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Willy.png/48px-Willy.png",
+      "alt": "Willy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Dish_O%27_The_Sea.png",
+      "alt": "Dish O' The Sea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Sardine.png/24px-Sardine.png",
+      "alt": "Sardine.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Hashbrowns.png/24px-Hashbrowns.png",
+      "alt": "Hashbrowns.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png",
+      "alt": "Maki Roll.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/13/Seaweed.png/24px-Seaweed.png",
+      "alt": "Seaweed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Rice.png/24px-Rice.png",
+      "alt": "Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+      "alt": "Sashimi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Willy_Concerned.png/48px-Willy_Concerned.png",
+      "alt": "Willy Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Life_Elixir.png",
+      "alt": "Life Elixir.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+      "alt": "Salmonberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Willy_Concerned.png/48px-Willy_Concerned.png",
+      "alt": "Willy Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/50/Salmon_Burger.png/24px-Salmon_Burger.png",
+      "alt": "Salmon Burger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/09/Chocolate_Popcorn.png/24px-Chocolate_Popcorn.png",
+      "alt": "Chocolate Popcorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Fries.png/24px-Fries.png",
+      "alt": "Fries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Ice_Cream_Sandwich.png/24px-Ice_Cream_Sandwich.png",
+      "alt": "Ice Cream Sandwich.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Jasmine_Tea.png/24px-Jasmine_Tea.png",
+      "alt": "Jasmine Tea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4c/Nachos.png/24px-Nachos.png",
+      "alt": "Nachos.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Personal_Pizza.png/24px-Personal_Pizza.png",
+      "alt": "Personal Pizza.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Popcorn.png/24px-Popcorn.png",
+      "alt": "Popcorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salted_Peanuts.png/24px-Salted_Peanuts.png",
+      "alt": "Salted Peanuts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Star_Cookie.png/24px-Star_Cookie.png",
+      "alt": "Star Cookie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Truffle_Popcorn.png/24px-Truffle_Popcorn.png",
+      "alt": "Truffle Popcorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Three_Hearts.png",
+      "alt": "Three Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/95/Chowder.png",
+      "alt": "Chowder.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/72/Five_Hearts.png",
+      "alt": "Five Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png",
+      "alt": "Escargot.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Six_Hearts.png",
+      "alt": "Six Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Seven_Hearts.png",
+      "alt": "Seven Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Fish_Stew.png",
+      "alt": "Fish Stew.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/07/Nine_Hearts.png",
+      "alt": "Nine Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Lobster_Bisque.png",
+      "alt": "Lobster Bisque.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Calico_Egg.png/24px-Calico_Egg.png",
+      "alt": "Calico Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Calico_Egg.png/24px-Calico_Egg.png",
+      "alt": "Calico Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Calico_Egg.png/24px-Calico_Egg.png",
+      "alt": "Calico Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+      "alt": "Willy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/66/Willy_Happy.png",
+      "alt": "Willy Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Willy_Concerned.png",
+      "alt": "Willy Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Willy_Smoking.png",
+      "alt": "Willy Smoking.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/24/Willy_Winter_00.png",
+      "alt": "Willy Winter 00.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1e/Willy_Winter_01.png",
+      "alt": "Willy Winter 01.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a7/Willy_Winter_02.png",
+      "alt": "Willy Winter 02.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Willy_Winter_03.png",
+      "alt": "Willy Winter 03.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Willy - Stardew Valley Wiki",
+      "headline": "Willy - Stardew Valley Wiki",
+      "mainEntityOfPage": "Willy",
+      "identifier": "https://stardewvalleywiki.com/Willy",
+      "url": "https://stardewvalleywiki.com/Willy",
+      "description": "Willy is a villager who grew up traveling among the Fern Islands and now lives south of Pelican Town on The Beach. He sells bait and fishing supplies in his shop.  His shop is open every day but will be closed on Saturday if the weather is nice enough for him to go fishing.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Willy, gift",
+      "dateModified": "2026-04-28T19:53:52Z",
+      "datePublished": "2026-04-28T19:53:52Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Willy - Stardew Valley Wiki Willy From Stardew Valley Wiki Jump to navigation Jump to search Willy Information Birthday Summer 24 Lives In The Beach Address Fish Shop Marriage No Clinic Visit Spring 9 Loved Gifts Catfish Diamond Gold Bar Iridium Bar Jewels Of The Sea Mead Octopus Pumpkin Sea Cucumber Sturgeon The Art O' Crabbing Contents 1 Schedule 2 Relationships 3 Gifts 3.1 Love 3.2 Like 3.3 Neutral 3.4 Dislike 3.5 Hate 4 Movies & Concessions 5 Heart Events 5.1 Three Hearts 5.2 Five Hearts 5.3 Six Hearts 5.4 Seven Hearts 5.5 Nine Hearts 6 Quotes 7 Quests 8 Portraits 9 Trivia 10 History “ “A true angler has respect for the water... don't you forget that.” — Willy Willy is a villager who grew up traveling among the Fern Islands and now lives south of Pelican Town on The Beach . He sells bait and fishing supplies in his shop . His shop is open every day but will be closed on Saturday if the weather is nice enough for him to go fishing. Schedule Most days Willy fishes at the beach for a few hours before operating his fish shop between 9am and 5pm. During winter he'll go to the saloon after work. Willy's shop is closed on Saturday while he's out fishing unless it's raining. Willy never visits the Beach Resort on Ginger Island, though he ferries other villagers to and from the Island. Shown below are Willy's schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it. Spring 9 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Goes back inside fish shop from the beach . 9:00 AM Starts working at the counter in the fish shop , goods are available for sale. \"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\" 10:10 AM Leaves the fish shop , walks over to the Harvey's Clinic . \"Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.\" 1:30 PM Continues checkup at the Harvey's Clinic . \"Yowch! That hurt, Doc!\" 5:00 PM Leaves the Harvey's Clinic , walks over to the saloon . \"I need a little warm-me-up to be ready for another cold night on the ocean.\" 11:20 PM Leaves the saloon to head home for the night. Spring 15, 16 and 17 (Bus Service Restored) 9:00 AM Boards the bus to Calico Desert to attend the Desert Festival . 9:10 AM Stands at his fishing challenge. Summer 20 and 21 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Returns to the fish shop . 10:00 AM Leaves the beach , goes to Cindersap Forest to fish in the Trout Derby in the river to the southwest of Leah's Cottage . 11:20 PM Leaves Cindersap Forest to head home for the night. Winter 12 and 13 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Returns to the fish shop . 12:00 PM Heads out to the beach to fish in the SquidFest . 11:20 PM Leaves the beach to head home for the night. Winter 15, 16 and 17 4:30 PM At The Stardrop Saloon . 12:20 AM Returns to the fish shop . Green Rain (Year 1) All day In The Stardrop Saloon . Rain 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Goes back inside fish shop from the beach . 9:00 AM Starts working at the counter in the fish shop , goods are available for sale. 5:00 PM Leaves the fish shop , walks over to the saloon . \"I need a little warm-me-up to be ready for another cold night on the ocean.\" 11:20 PM Leaves the saloon to head home for the night. Friday 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Goes back inside fish shop from the beach . 9:00 AM Starts working at the counter in the fish shop , goods are available for sale. 5:00 PM Leaves the fish shop , walks over to the saloon . \"Handling salty fish all day makes me real thirsty.\" 11:20 PM Leaves the saloon to head home for the night. Saturday 6:10 AM Wakes up for the day, walks through town to go fishing at the river outside Leah's cottage . 2:00 PM Leaves the river and heads into Pelican Town for more river fishing. 7:00 PM Walks over to the saloon . \"Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.\" 11:00 PM Leaves the saloon to head home for the night. Winter 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Goes back inside fish shop from the beach . 9:00 AM Starts working at the counter in the fish shop , goods are available for sale. 5:00 PM Leaves the fish shop , walks over to the saloon . \"I need a little warm-me-up to be ready for another cold night on the ocean.\" 11:20 PM Leaves the saloon to head home for the night. Regular Schedule 6:10 AM Wakes up for the day, goes fishing outside his fish shop . 8:50 AM Goes back inside fish shop from the beach . 9:00 AM Starts working at the counter in the fish shop , goods are available for sale. 5:00 PM Leaves the fish shop , goes out to fish on the beach . 10:00 PM Leaves the beach to head home for the night. Relationships Willy spends most of his time fishing just outside his shop when not operating the sale counters at his shop . He's often seen at the saloon in the evenings, especially during the winter , when he sits with Clint . He lives close to Elliott ; the two of them are the only residents of the beach . He is also friends with Elliott . Gifts Main article: Friendship See also: List of All Gifts You can give Willy up to two gifts per week (plus one on his birthday), which will raise or lower his friendship with you. Gifts on his birthday ( 24 Summer ) will have 8× effect and show a unique dialogue. For loved or liked gifts, Willy responds “ “A birthday gift? That's very kind of you! I love it.” “ “You remembered my birthday! Thank you. This is great.” For neutral gifts, Willy responds “ “Oh, a birthday gift! Thank you.” For disliked or hated gifts, Willy responds “ “Oh... It's for my birthday? ... Thanks.” Love “ “This is great! If only me ol' Pappy was around. He’d go nuts for this.” Gold Bar “ “*chomp*... Yep, that's real gold alright. Heh! What a gift!” Jewels Of The Sea “ “Thank ye! This'll be perfect winter reading. Ah, and it even smells of the sea...” Stardrop Tea “ “By the stem o' me pipe... a cup o' Stardrop Tea! And here I thought it was only the stuff of mermaid legend. Thank you kindly.” The Art O' Crabbing “ “Aye... A timeless classic. Brings a tear to me eye, with every read. A fisherman can never have too many copies! Thank ye.” Image Name Description Source All Universal Loves Catfish An uncommon fish found in streams. Fishing Diamond A rare and valuable gem. Mining Gold Bar A bar of pure gold. Furnace Iridium Bar A bar of pure iridium. Furnace Jewels Of The Sea Fishing treasure chests have a chance to yield roe. Books Mead A fermented beverage made from honey. Drink in moderation. Keg Octopus A mysterious and intelligent creature. Fishing Pumpkin A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration. Farming Sea Cucumber A slippery, slimy creature found on the ocean floor. Fishing Sturgeon An ancient bottom-feeder with a dwindling population. Females can live up to 150 years. Fishing The Art O' Crabbing Crab pots have a 25% chance to yield double. Books Like “ “This looks great. Thank you!” Bait And Bobber “ “Ah, 'Bait And Bobber'... Every angler ought to have a subscription, but it costs a pretty penny. Taught me a lot of good fishin' tips over the years. Thanks!” Coffee “ “Ah, this stuff warms the ol' bones. Thank you.” Image Name Description Source Ingredients All Universal Likes (except Life Elixir , and All Cooking except for the fish dishes he is neutral towards: Dish O' The Sea , Maki Roll , & Sashimi ; and the fish dishes he likes, shown below). Bait And Bobber Read this to gain some fishing experience. Books Baked Fish Baked fish on a bed of herbs. Cooking Sunfish (1) Bream (1) Wheat Flour (1) Carp Surprise It's bland and oily. Cooking Carp (4) Chowder A perfect way to warm yourself after a cold night at sea. Cooking Clam (1) Milk (1) Crab Cakes Crab, bread crumbs, and egg formed into patties then fried to a golden brown. Cooking Crab (1) Wheat Flour (1) Egg (1) Oil (1) Crispy Bass Wow, the breading is perfect. Cooking Largemouth Bass (1) Wheat Flour (1) Oil (1) Escargot Butter-soaked snails cooked to perfection. Cooking Snail (1) Garlic (1) Fish Stew It smells a lot like the sea. Tastes better, though. Cooking Crayfish (1) Mussel (1) Periwinkle (1) Tomato (1) Fish Taco It smells delicious. Cooking Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1) Fried Calamari It's so chewy. Cooking Squid (1) Wheat Flour (1) Oil (1) Fried Eel Greasy but flavorful. Cooking Eel (1) Oil (1) Lingcod A fearsome predator that will eat almost anything it can cram into its mouth. Fishing Lobster Bisque This delicate soup is a secret family recipe of Willy's. Cooking Lobster (1) Milk (1) Quartz A clear crystal commonly found in caves and mines. Foraging - Mines Salmon Dinner The lemon spritz makes it special. Cooking Salmon (1) Amaranth (1) Kale (1) Seafoam Pudding This briny pudding will really get you into the maritime mindset! Cooking Flounder (1) Midnight Carp (1) Squid Ink (1) Tiger Trout A rare hybrid trout that cannot bear offspring of its own. Fishing Trout Soup Pretty salty. Cooking Rainbow Trout (1) Green Algae (1) Neutral “ “A gift! Thanks.” Mutant Carp “ “The horror! ...What kind of monster is this?” Image Name Description Source Ingredients All Universal Neutrals (except Bait And Bobber , Jewels Of The Sea , & The Art O' Crabbing ) All Eggs (except Void Egg )* All Fish (except Carp , Catfish , Lingcod , Octopus , Sea Cucumber , Snail , Sturgeon , & Tiger Trout ) All Fruit (except Fruit Tree Fruit & Salmonberry ) All Milk Dish O' The Sea This'll keep you warm in the cold sea air. Cooking Sardine (2) Hashbrowns (1) Maki Roll Fish and rice wrapped in seaweed. Cooking Any Fish (1) Seaweed (1) Rice (1) Sashimi Raw fish sliced into thin pieces. Cooking Any Fish (1) * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Dislike “ “Hmmm... You like stuff like this? Huh.” Image Name Description Source All Universal Dislikes (except Fish , Gold Bar , & Iridium Bar ) All Cooking (except Baked Fish , Bread , Carp Surprise , Chowder , Crab Cakes , Crispy Bass , Dish O' The Sea , Escargot , Fish Stew , Fish Taco , Fried Calamari , Fried Eel , Fried Egg , Lobster Bisque , Maki Roll , Salmon Dinner , Sashimi , Seafoam Pudding , Strange Bun , & Trout Soup ) Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Leek A tasty relative of the onion. Foraging - Spring Life Elixir Restores health to full. Crafting Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Salmonberry A spring-time berry with the flavor of the forest. Foraging - Spring Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Wild Horseradish A spicy root found in the spring. Foraging - Spring Winter Root A starchy tuber. Foraging - Winter Hate “ “... *sniff*... Well I guess I can toss it into the chum bucket.” Image Name Description Source All Universal Hates (except Seafoam Pudding ) Movies & Concessions Main article: Movie Theater Love N/A Like It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Dislike N/A Love Salmon Burger Stardrop Sorbet Like Chocolate Popcorn Fries Ice Cream Sandwich Jasmine Tea Nachos Personal Pizza Popcorn Salted Peanuts Star Cookie Truffle Popcorn Dislike Everything else Heart Events Three Hearts After reaching three hearts with Willy he will send you a recipe in the mail. Details Image Recipe Description Chowder I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy Five Hearts After reaching five hearts with Willy he will send you a recipe in the mail. Details Image Recipe Description Escargot I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy Six Hearts Enter The Beach between 6am and 5:10pm. Details Willy greets you outside the Fish Shop . He says he needs your help and asks you to come inside. Once inside, you see Crabs run amok, covering the Fish Shop floor. Before you can do anything to help, Gus enters the Fish Shop and offers to purchase all the crabs, minus a discount for the labor involved. Willy agrees, and Gus gathers the crabs. Afterward, Gus turns to you and says he's going to run a special on Crab Cakes for the next few days (but not to tell Willy). The cutscene ends with Willy saying goodbye to his \"sweet ladies\" as they are taken away to be killed and cooked. Gus will sell an unlimited amount of Crab Cakes at the Saloon for data-sort-value=\"550\"> 550g each starting on the day of the cutscene and for 3 days after. Mayor Lewis will comment that he's smelled crab \"all afternoon\" the day the event is viewed. Seven Hearts After reaching seven hearts with Willy he will send you a recipe in the mail. Details Image Recipe Description Fish Stew I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy Nine Hearts After reaching nine hearts with Willy he will send you a recipe in the mail. Details Image Recipe Description Lobster Bisque I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy Quotes Regular First Meeting “ “Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.” Regular “ “Ahoy there, [son/lass]. Looks like decent weather for fishing, eh?” “ “Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.” “ “A true angler has respect for the water... don't you forget that.” “ “Some fish come and go with the seasons. Others only come out at night or in the rain.” “ “*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret” “ “ There are rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them. You'll need the finest bait you can get if you want a rare fish to bite.” “ “If you really want to get the fish biting, make sure you put some bait on your hook.” “ “If the local fishing scene got a bit more lively, I might expand the shop's stock.” “ “If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line. Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in. There are all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while.” 4+ Hearts, Friday “ “I'm a simple man...when my pipe is full, I'm happy. When my pipe is empty...well, then I just fill 'er up again.” 6+ Hearts “ “The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch. The fishing life is tough, but there's something about it that keeps you goin'.” 8+ Hearts “ “How's the fishing life going for ya? I try to fish as often as possible, but it's not easy when you've got a shop to run.” 10+ Hearts “ “Hey, it's my skipper, [Player]! I'd give you a discount on bait if I could afford it.” Green Rain Year 1 “ “Aye... I hope these weird rains don't bother the fish... It could ruin me life!” Year 2+ “ “If the fish like these rains, then I like 'em, too.” Green rain finished (next day) “ “Well, the fish seem as healthy as ever. In fact, I swear they've been biting with extra vigor!” Summer 19 “ “Tomorrow is the annual Trout Derby... Aye, it's a freshwater enthusiast's dream! Anglers from all over the world will be here to catch our beautiful Rainbow Trout... [I'd better see you out there, lad!/I hope to see you out there!] For the next two days, I'll only be manning the shop for one hour, starting at 9am. So if you really need somethin', you can come by then.” Winter 11 “ “Tomorrow, at the beach, is the start of a little gathering... called 'SquidFest'. Aye... tis' a difficult catch, the squid. But I trust that you've developed a knack for the sport, by now.” After getting married “ “Giving up the [bachelor/single] life, eh? Just don't forget to make time for fishing...” After catching the Angler “ “Ah, you caught the Angler, did ya? A good 'first step' into the world o' rare fish, that one.” After catching the Crimsonfish “ “So, you finally conquered the Crimsonfish! That fish has been taunting me for many years. He nearly nibbled through the wood under me house!” After catching the Legend “ “By the stem o' me pipe... You actually caught 'the Legend'. I never thought I'd see the day... Well, [lad/miss], you've done it... You're the best [fisherman/angler] this valley's seen in a long time...” After catching the Glacierfish “ “Ah, so you finally snagged the Glacierfish... That's one of the slipperiest fish I've ever encountered! How many tries did it take ya?” After catching the Mutant Carp “ “*sniff* *sniff*... Something tells me you've been fishin' in the sewers, [lad/miss]. It's an unconventional approach, to be sure. There's legend of gargantuan carp, twisted into monsters from the toxic sludge...” After filling a Fish Pond with 10 Crabs “ “*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya? Yer a [man/lady] after me own heart, [Player]. Hah! Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast!” Events Egg Festival Odd-numbered year “ “Sometimes I'll hide an egg too well and no one finds it... Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe.” Even-numbered year “ “Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!” Desert Festival “ “Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.” Flower Dance “ “I should've brought my fishing pole.” The Luau Odd-numbered year “ “Hi there, [Player]. Taking a breather? To tell you the truth, I'd rather be fishing right now.” Even-numbered year “ “Don't worry, I'll be back for the soup... I'm just enjoying a tender moment with me pipe!” Trout Derby Summer 20 “ “It's the big day! I've got all me equipment tuned to catch Trout... Good luck out there!” Summer 21 “ “How's the derby treatin' ya so far? I've found plenty o' Golden Tags, meself... but it's not over yet!” Dance of the Moonlight Jellies “ “Most night-fish would be scared of the light... these are strange ones.” Stardew Valley Fair “ “Are you setting up a grange display, [Player]? It's your chance to show off all the good produce from [farm name]!” Festival of Ice “ “Hey, [Player]. Ready for some ice fishing?” Yes. I'll do my best! (No effect on friendship .) \"That's the spirit!\" Yes, and I'm going to beat you! (No effect on friendship .) \"We'll see.\" To be honest, no. I'm bad at fishing. (No effect on friendship .) \"Well, then think of it as good practice!\" SquidFest Winter 12 “ “Don't give up just yet! There's more squid in these waters...” Winter 13 “ “It warms me ol' winter heart to see all these anglers gathered here, all for the love o' fishing...” Night Market Winter 15 (at the Stardrop Saloon ) “ “I can't get me a good night's sleep with that night market going on... eh, but that's okay. I'm flexible.” Winter 16 (at the Stardrop Saloon ) “ “Have you been on the deep-sea submarine? The captain's an old friend.” Winter 17 (at the Stardrop Saloon ) “ “Ah, nothin' like a hot beverage to wind down after a cold, dark day...” Feast of the Winter Star “ “Do you want to hear the Legend of the Winter Star?” Yes (No effect on friendship .) \"In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as Stardrop is connected to the Winter Star in some way.\" No thanks (No effect on friendship .) \"Suit yourself.\" “ “\"I'm a simple man [Player]... I'm thankful for a solid roof over me head, and a hot can o' beans in the mornin'!” Quests \"To The Beach\" : Willy will send you a letter on the 2nd of Spring asking you to meet him on the beach south of town. The reward is a Bamboo Pole . \"Catch a Squid\" : Willy will send you a letter on the 2nd of Winter asking you to catch and bring him a Squid . The reward is data-sort-value=\"800\"> 800g and 1 Friendship heart. \"Catch a Lingcod\" : Willy will send you a letter on the 13th of Winter , year 2, asking you to catch and bring him a Lingcod . The reward is data-sort-value=\"550\"> 550g and 1 Friendship heart. Fishing : Willy may randomly request that you catch a certain number of a specific fish from the current season at the \"Help Wanted\" board outside Pierre's General Store . The reward is 3x the fish's base value (per fish). (You get to keep the fish). Item Delivery : Willy may request that you bring him a random item at the \"Help Wanted\" board outside Pierre's General Store . The reward is 3x the item's base value and 150 Friendship points. Willy is to be gifted the Wriggling Worm in The Pirate's Wife quest. \"Juicy Bugs Wanted!\" : On the Special Orders board in front of the Mayor's Manor , Willy may randomly request that the player collect 100 Bug Meat and place it in the bin next to the Fish Shop . The reward is data-sort-value=\"3000\"> 3,000g and the Quality Bobber recipe. \"Tropical Fish\" : On the Special Orders board in front of the Mayor's Manor , Willy may randomly request that the player catch 5 Stingray , 5 Blue Discus , and 5 Lionfish . The reward is data-sort-value=\"2500\"> 2,500g and a Deluxe Fish Tank . Completing this special order also unlocks the Deluxe Fish Tank for sale at the Fish Shop . This special order requires Ginger Island to be unlocked and the Island Resort to be built. Willy offers a different fishing quest for each day of the Desert Festival : Spring 15: He challenges the player to catch 3 Sandfish . The reward is data-sort-value=\"25\"> 25 . Spring 16: He challenges the player to catch 1 Scorpion Carp . The reward is data-sort-value=\"50\"> 50 . Spring 17: He asks the player to return his Golden Bobber . The reward is data-sort-value=\"30\"> 30 . Portraits Trivia At one point before the game was released, Willy was named \"Dick\". It is implied that Willy catches fish for a living. However, the only time the player sees Willy catch a fish is at the Festival of Ice . One Pearl may be obtained from Willy after filling a Fish Pond with 10 Crabs . Willy's shirt can be tailored with 1 Cloth and 1 Dish O' The Sea , creating the Shirt O' The Sea . History 1.3.27 : Added 6-heart event. 1.4 : Fixed bug where all recipes would be sent at 3 friendship hearts. Willy now is neutral towards Dish O' The Sea, Maki Roll, and Sashimi. Fixed bug where skipping intro cutscene would not count towards introductions quest. 1.6 : Added custom gift reactions. Added dialogue. Added winter portraits. Added 3 new fishing quests for the Desert Festival . Willy now loves Gold Bar and likes Escargot . Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Willy&oldid=192689 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 28 April 2026, at 19:53. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "carrot",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Carrot",
+      "https://stardewvalleywiki.com/Carrot_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Seed page says the crop is not sold at General Store, JojaMart, or Traveling Cart. It is obtained from Seed Spots, Raccoon requests, the Raccoon Wife shop for 1 Maple Seed, and Golden Fishing Treasure. No common gold purchase price found."
+  },
+  {
+    "slug": "summer-squash",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Summer_Squash",
+      "https://stardewvalleywiki.com/Summer_Squash_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Seed page says the crop is not sold at General Store, JojaMart, or Traveling Cart. It is obtained from Seed Spots, Raccoon requests, the Raccoon Wife shop for 15 Sap, and Golden Fishing Treasure. No common gold purchase price found."
+  },
+  {
+    "slug": "broccoli",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Broccoli",
+      "https://stardewvalleywiki.com/Broccoli_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Seed page says the crop is not sold at General Store, JojaMart, or Traveling Cart. It is obtained from Seed Spots, Raccoon requests, the Raccoon Wife shop for 5 Moss, and Golden Fishing Treasure. No common gold purchase price found."
+  },
+  {
+    "slug": "powdermelon",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Powdermelon",
+      "https://stardewvalleywiki.com/Powdermelon_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Seed page says the crop is not sold at General Store, JojaMart, or Traveling Cart. It is obtained from Seed Spots, Raccoon requests, the Raccoon Wife shop for 2 Pine Cone, and Golden Fishing Treasure. No common gold purchase price found."
+  },
+  {
+    "slug": "pineapple",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "Magma Cap (1)",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pineapple",
+      "https://stardewvalleywiki.com/Pineapple_Seeds"
+    ],
+    "confidence": "medium",
+    "notes": "Seed page states Island Trader sells Pineapple Seeds for one Magma Cap each. This is an item-based purchase price, not a gold price."
+  },
+  {
+    "slug": "qi-fruit",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Qi_Fruit",
+      "https://stardewvalleywiki.com/Qi_Bean"
+    ],
+    "confidence": "needs verification",
+    "notes": "Seed page describes Qi Bean as a quest seed found during Qi's Crop. It is not a standard purchasable seed with a common shop gold price."
+  },
+  {
+    "slug": "taro-root",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "Bone Fragment (2)",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Taro_Root",
+      "https://stardewvalleywiki.com/Taro_Tuber"
+    ],
+    "confidence": "medium",
+    "notes": "Seed page states Island Trader sells Taro Tubers for 2 Bone Fragments each. This is an item-based purchase price, not a gold price."
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "id": "crop-blue-jazz",
+    "slug": "blue-jazz",
+    "name": "Blue Jazz",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 7,
+    "regrowDays": 0,
+    "seedPrice": 30,
+    "sellPrice": 50,
+    "beginnerNote": "Spring flower grown from Jazz Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blue_Jazz",
+      "https://stardewvalleywiki.com/Jazz_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-carrot",
+    "slug": "carrot",
+    "name": "Carrot",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 3,
+    "regrowDays": 0,
+    "seedPrice": "needs verification",
+    "sellPrice": 35,
+    "beginnerNote": "Spring crop grown from Carrot Seeds; seed acquisition is not sold in regular stores.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Carrot",
+      "https://stardewvalleywiki.com/Carrot_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-garlic",
+    "slug": "garlic",
+    "name": "Garlic",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 4,
+    "regrowDays": 0,
+    "seedPrice": 40,
+    "sellPrice": 60,
+    "beginnerNote": "Spring crop grown from Garlic Seeds; Year 2 purchase path is the normal store source.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Garlic",
+      "https://stardewvalleywiki.com/Garlic_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-kale",
+    "slug": "kale",
+    "name": "Kale",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 6,
+    "regrowDays": 0,
+    "seedPrice": 70,
+    "sellPrice": 110,
+    "beginnerNote": "Spring crop grown from Kale Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Kale",
+      "https://stardewvalleywiki.com/Kale_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-rhubarb",
+    "slug": "rhubarb",
+    "name": "Rhubarb",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 13,
+    "regrowDays": 0,
+    "seedPrice": 100,
+    "sellPrice": 220,
+    "beginnerNote": "Spring crop grown from Rhubarb Seeds; Oasis is the normal gold purchase source.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rhubarb",
+      "https://stardewvalleywiki.com/Rhubarb_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-tulip",
+    "slug": "tulip",
+    "name": "Tulip",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 6,
+    "regrowDays": 0,
+    "seedPrice": 20,
+    "sellPrice": 30,
+    "beginnerNote": "Spring flower grown from Tulip Bulb.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tulip",
+      "https://stardewvalleywiki.com/Tulip_Bulb"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-unmilled-rice",
+    "slug": "unmilled-rice",
+    "name": "Unmilled Rice",
+    "seasons": [
+      "Spring"
+    ],
+    "growthDays": 8,
+    "regrowDays": 0,
+    "seedPrice": 40,
+    "sellPrice": 30,
+    "beginnerNote": "Spring crop grown from Rice Shoot.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Unmilled_Rice",
+      "https://stardewvalleywiki.com/Rice_Shoot"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-hops",
+    "slug": "hops",
+    "name": "Hops",
+    "seasons": [
+      "Summer"
+    ],
+    "growthDays": 11,
+    "regrowDays": 1,
+    "seedPrice": 60,
+    "sellPrice": 25,
+    "beginnerNote": "Summer crop grown from Hops Starter; regrows daily after maturity.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hops",
+      "https://stardewvalleywiki.com/Hops_Starter"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-poppy",
+    "slug": "poppy",
+    "name": "Poppy",
+    "seasons": [
+      "Summer"
+    ],
+    "growthDays": 7,
+    "regrowDays": 0,
+    "seedPrice": 100,
+    "sellPrice": 140,
+    "beginnerNote": "Summer flower grown from Poppy Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Poppy",
+      "https://stardewvalleywiki.com/Poppy_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-radish",
+    "slug": "radish",
+    "name": "Radish",
+    "seasons": [
+      "Summer"
+    ],
+    "growthDays": 6,
+    "regrowDays": 0,
+    "seedPrice": 40,
+    "sellPrice": 90,
+    "beginnerNote": "Summer crop grown from Radish Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Radish",
+      "https://stardewvalleywiki.com/Radish_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-summer-spangle",
+    "slug": "summer-spangle",
+    "name": "Summer Spangle",
+    "seasons": [
+      "Summer"
+    ],
+    "growthDays": 8,
+    "regrowDays": 0,
+    "seedPrice": 50,
+    "sellPrice": 90,
+    "beginnerNote": "Summer flower grown from Spangle Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Summer_Spangle",
+      "https://stardewvalleywiki.com/Spangle_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-summer-squash",
+    "slug": "summer-squash",
+    "name": "Summer Squash",
+    "seasons": [
+      "Summer"
+    ],
+    "growthDays": 6,
+    "regrowDays": 3,
+    "seedPrice": "needs verification",
+    "sellPrice": 45,
+    "beginnerNote": "Summer crop grown from Summer Squash Seeds; regrows every 3 days.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Summer_Squash",
+      "https://stardewvalleywiki.com/Summer_Squash_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-sunflower",
+    "slug": "sunflower",
+    "name": "Sunflower",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "growthDays": 8,
+    "regrowDays": 0,
+    "seedPrice": 200,
+    "sellPrice": 80,
+    "beginnerNote": "Summer and fall crop grown from Sunflower Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sunflower",
+      "https://stardewvalleywiki.com/Sunflower_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-artichoke",
+    "slug": "artichoke",
+    "name": "Artichoke",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 8,
+    "regrowDays": 0,
+    "seedPrice": 30,
+    "sellPrice": 160,
+    "beginnerNote": "Fall crop grown from Artichoke Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Artichoke",
+      "https://stardewvalleywiki.com/Artichoke_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-beet",
+    "slug": "beet",
+    "name": "Beet",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 6,
+    "regrowDays": 0,
+    "seedPrice": 20,
+    "sellPrice": 100,
+    "beginnerNote": "Fall crop grown from Beet Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Beet",
+      "https://stardewvalleywiki.com/Beet_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-bok-choy",
+    "slug": "bok-choy",
+    "name": "Bok Choy",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 4,
+    "regrowDays": 0,
+    "seedPrice": 50,
+    "sellPrice": 80,
+    "beginnerNote": "Fall crop grown from Bok Choy Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bok_Choy",
+      "https://stardewvalleywiki.com/Bok_Choy_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-broccoli",
+    "slug": "broccoli",
+    "name": "Broccoli",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 8,
+    "regrowDays": 0,
+    "seedPrice": "needs verification",
+    "sellPrice": 70,
+    "beginnerNote": "Fall crop grown from Broccoli Seeds; seed price is not sold in regular stores.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Broccoli",
+      "https://stardewvalleywiki.com/Broccoli_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-fairy-rose",
+    "slug": "fairy-rose",
+    "name": "Fairy Rose",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 12,
+    "regrowDays": 0,
+    "seedPrice": 200,
+    "sellPrice": 290,
+    "beginnerNote": "Fall flower grown from Fairy Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fairy_Rose",
+      "https://stardewvalleywiki.com/Fairy_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-grape",
+    "slug": "grape",
+    "name": "Grape",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 10,
+    "regrowDays": 3,
+    "seedPrice": 60,
+    "sellPrice": 80,
+    "beginnerNote": "Fall crop grown from Grape Starter; the summer forage version is excluded from the crop candidate.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Grape",
+      "https://stardewvalleywiki.com/Grape_Starter"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-powdermelon",
+    "slug": "powdermelon",
+    "name": "Powdermelon",
+    "seasons": [
+      "Winter"
+    ],
+    "growthDays": 7,
+    "regrowDays": 0,
+    "seedPrice": "needs verification",
+    "sellPrice": 60,
+    "beginnerNote": "Winter crop grown from Powdermelon Seeds.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Powdermelon",
+      "https://stardewvalleywiki.com/Powdermelon_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-cactus-fruit",
+    "slug": "cactus-fruit",
+    "name": "Cactus Fruit",
+    "seasons": [
+      "All"
+    ],
+    "growthDays": 12,
+    "regrowDays": 3,
+    "seedPrice": 150,
+    "sellPrice": 75,
+    "beginnerNote": "Special crop grown from Cactus Seeds; Cactus Seeds are sold at the Oasis.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cactus_Fruit",
+      "https://stardewvalleywiki.com/Cactus_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-pineapple",
+    "slug": "pineapple",
+    "name": "Pineapple",
+    "seasons": [
+      "All"
+    ],
+    "growthDays": 14,
+    "regrowDays": 7,
+    "seedPrice": "needs verification",
+    "sellPrice": 300,
+    "beginnerNote": "Special crop grown from Pineapple Seeds; island acquisition is not a normal gold purchase.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pineapple",
+      "https://stardewvalleywiki.com/Pineapple_Seeds"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-qi-fruit",
+    "slug": "qi-fruit",
+    "name": "Qi Fruit",
+    "seasons": [
+      "All"
+    ],
+    "growthDays": 4,
+    "regrowDays": 0,
+    "seedPrice": "needs verification",
+    "sellPrice": 1,
+    "beginnerNote": "Quest-only special crop grown from Qi Beans during Qi's Crop.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Qi_Fruit",
+      "https://stardewvalleywiki.com/Qi_Bean"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-sweet-gem-berry",
+    "slug": "sweet-gem-berry",
+    "name": "Sweet Gem Berry",
+    "seasons": [
+      "Fall"
+    ],
+    "growthDays": 24,
+    "regrowDays": 0,
+    "seedPrice": 1000,
+    "sellPrice": 3000,
+    "beginnerNote": "Fall crop grown from Rare Seed; regular purchase is the Traveling Cart.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "https://stardewvalleywiki.com/Rare_Seed"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-taro-root",
+    "slug": "taro-root",
+    "name": "Taro Root",
+    "seasons": [
+      "All"
+    ],
+    "growthDays": 10,
+    "regrowDays": 0,
+    "seedPrice": "needs verification",
+    "sellPrice": 100,
+    "beginnerNote": "Special crop grown from Taro Tuber; island acquisition is not a normal gold purchase.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Taro_Root",
+      "https://stardewvalleywiki.com/Taro_Tuber"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crop-tea-leaves",
+    "slug": "tea-leaves",
+    "name": "Tea Leaves",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "growthDays": 20,
+    "regrowDays": 1,
+    "seedPrice": 750,
+    "sellPrice": 50,
+    "beginnerNote": "Bush crop grown from Tea Sapling; produces Tea Leaves in the last week of Spring, Summer, and Fall.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tea_Leaves",
+      "https://stardewvalleywiki.com/Tea_Sapling"
+    ],
+    "lastChecked": "2026-05-18"
+  }
+]

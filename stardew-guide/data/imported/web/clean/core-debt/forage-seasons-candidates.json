@@ -1,0 +1,306 @@
+[
+  {
+    "slug": "sap",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sap",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "common_mushroom",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Common_Mushroom",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "purple_mushroom",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Purple_Mushroom",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "crystal_fruit",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crystal_Fruit",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "clam",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Clam",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "cockle",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cockle",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "coral",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coral",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "mussel",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mussel",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "oyster",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Oyster",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "sea_urchin",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sea_Urchin",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "seaweed",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Seaweed",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "cave_carrot",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cave_Carrot",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "cactus_fruit",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cactus_Fruit",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "coconut",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coconut",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "ginger",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ginger",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  },
+  {
+    "slug": "magma_cap",
+    "field": "seasons",
+    "currentValue": [
+      "All"
+    ],
+    "candidateValue": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Magma_Cap",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "confidence": "medium",
+    "notes": "Treat All as a year-round bucket for filtering; canonicalize to the four explicit seasons pending final schema approval."
+  }
+]

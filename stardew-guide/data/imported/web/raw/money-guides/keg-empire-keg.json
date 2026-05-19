@@ -1,0 +1,1981 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Keg",
+  "finalUrl": "https://stardewvalleywiki.com/Keg",
+  "fetchedAt": "2026-05-18T05:02:22.418899+00:00",
+  "title": "Keg - Stardew Valley Wiki",
+  "description": "The Keg is a type of Artisan Equipment used to make Artisan Goods. A Keg is the reward for completing the Artisan Bundle in the Pantry or the Brewer's Bundle in the Pantry (Remixed). Four Kegs can be obtained as the 19th prize from the Prize Machine (50% chance).",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Keg"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Products"
+    },
+    {
+      "level": 2,
+      "text": "Preserves Jar vs. Keg"
+    },
+    {
+      "level": 2,
+      "text": "Storage Options"
+    },
+    {
+      "level": 3,
+      "text": "Inside Farm Buildings"
+    },
+    {
+      "level": 3,
+      "text": "Outside The Farm"
+    },
+    {
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Keg"
+        ],
+        [
+          ""
+        ],
+        [
+          "Place a fruit or vegetable in here. Eventually it will turn into a beverage."
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Source",
+          "Crafting"
+        ],
+        [
+          "Sell Price",
+          "Cannot be sold"
+        ],
+        [
+          "Crafting"
+        ],
+        [
+          "Recipe Source",
+          "Farming (Level 8)"
+        ],
+        [
+          "Ingredients",
+          "Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredient",
+        "Processing Time[1]",
+        "Sell Price",
+        "Energy / Health / Buffs"
+      ],
+      "rows": [
+        [
+          "",
+          "Beer",
+          "Drink in moderation.",
+          "Wheat (1)",
+          "1750 mins (≈1.1 Days)",
+          "data-sort-value=\"200\">200g",
+          "5022 Speed (−1)"
+        ],
+        [
+          "",
+          "Vinegar",
+          "An aged fermented liquid used in many cooking recipes.",
+          "Rice (1)",
+          "600 mins (10 Hours)",
+          "data-sort-value=\"100\">100g",
+          "135"
+        ],
+        [
+          "",
+          "Coffee",
+          "It smells delicious. This is sure to give you a boost.",
+          "Coffee Bean (5)",
+          "120 mins (2 Hours)",
+          "data-sort-value=\"150\">150g",
+          "31 Speed (+1)"
+        ],
+        [
+          "",
+          "Green Tea",
+          "A pleasant, energizing beverage made from lightly processed tea leaves.",
+          "Tea Leaves (1)",
+          "180 mins (3 Hours)",
+          "data-sort-value=\"100\">100g",
+          "135 Max Energy (+30) Speed (+0.5)"
+        ],
+        [
+          "",
+          "Mead",
+          "A fermented beverage made from honey. Drink in moderation.",
+          "Honey (1)",
+          "600 mins (10 hours)",
+          "data-sort-value=\"300\">300g",
+          "7533 Speed (−1)"
+        ],
+        [
+          "",
+          "Pale Ale",
+          "Drink in moderation.",
+          "Hops (1)",
+          "2250 mins (≈1.4 Days)",
+          "data-sort-value=\"300\">300g",
+          "5022 Speed (−1)"
+        ],
+        [
+          "",
+          "Juice",
+          "A sweet, nutritious beverage.",
+          "Any Vegetable (1) or any positive energy Forage (other than Mushrooms) (1)",
+          "6000 mins (4 Days)",
+          "2.25 × Ingredient Base Price",
+          "2 × Base Ingredient Energy2 × Base Ingredient Health"
+        ],
+        [
+          "",
+          "Wine",
+          "Drink in moderation.",
+          "Any Fruit (1)",
+          "10000 mins (6.25 Days)",
+          "3 × Fruit Base Price",
+          "1.75 × Base Fruit Energy1.75 × Base Fruit Health Speed (−1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Fruits",
+        "Vegetables"
+      ],
+      "rows": [
+        [
+          "Ancient Fruit (550g) Apple (100g) Banana (150g) Cactus Fruit (75g) Cherry (80g) Coconut (100g) Cranberries (75g) Crystal Fruit (150g) Grape (80g) Mango (130g) Melon (250g) Orange (100g) Peach (140g) Pineapple (300g) Pomegranate (140g) Powdermelon (60g) Rhubarb (220g) Spice Berry (80g) Starfruit (750g) Strawberry (120g) Wild Plum (80g)",
+          "Pumpkin (320g) Red Cabbage (260g) Hops (25g, but Pale Ale sells for 300g) Wheat (25g, but Beer sells for 200g)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Equipment"
+      ],
+      "rows": [
+        [
+          "Artisan",
+          "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+        ],
+        [
+          "Refining",
+          "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+        ],
+        [
+          "Farming",
+          "Fertilizer",
+          "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+        ],
+        [
+          "Sprinklers",
+          "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+        ],
+        [
+          "Other",
+          "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+        ],
+        [
+          "Fishing",
+          "Bait",
+          "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+        ],
+        [
+          "Tackle",
+          "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+        ],
+        [
+          "Other",
+          "Crab Pot"
+        ],
+        [
+          "Bombs",
+          "Bomb • Cherry Bomb • Mega Bomb"
+        ],
+        [
+          "Fences",
+          "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+        ],
+        [
+          "Storage",
+          "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+        ],
+        [
+          "Signs",
+          "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+        ],
+        [
+          "Misc",
+          "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Keg#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Keg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood",
+      "text": "Wood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Bar",
+      "text": "Copper Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Bar",
+      "text": "Iron Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oak_Resin",
+      "text": "Oak Resin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg_Productivity",
+      "text": "Keg Productivity"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Artisan_Equipment",
+      "text": "Artisan Equipment"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Artisan_Bundle",
+      "text": "Artisan Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Pantry",
+      "text": "Pantry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Brewer.27s_Bundle",
+      "text": "Brewer's Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Pantry",
+      "text": "Pantry (Remixed)"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor#Prize_Machine",
+      "text": "Prize Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#Products",
+      "text": "1 Products"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#Preserves_Jar_vs._Keg",
+      "text": "2 Preserves Jar vs. Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#Storage_Options",
+      "text": "3 Storage Options"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#Inside_Farm_Buildings",
+      "text": "3.1 Inside Farm Buildings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#Outside_The_Farm",
+      "text": "3.2 Outside The Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#References",
+      "text": "4 References"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#History",
+      "text": "5 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#cite_note-processtime-1",
+      "text": "[1]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Beer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Vinegar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vinegar",
+      "text": "Vinegar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice",
+      "text": "Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Coffee.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Green_Tea.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Tea",
+      "text": "Green Tea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Max Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mead.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Honey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pale_Ale.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Juice.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Juice",
+      "text": "Juice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging#Foraged_Items",
+      "text": "Forage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Mushrooms",
+      "text": "Mushrooms"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wine.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#cite_note-juice_energy-2",
+      "text": "[2]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#cite_note-wine_energy-3",
+      "text": "[3]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cave_Carrot",
+      "text": "Cave Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring_Onion",
+      "text": "Spring Onion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetables"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomatoes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melons"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetables"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apple",
+      "text": "Apple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Banana",
+      "text": "Banana"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cherry",
+      "text": "Cherry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coconut",
+      "text": "Coconut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystal_Fruit",
+      "text": "Crystal Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango",
+      "text": "Mango"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Orange",
+      "text": "Orange"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach",
+      "text": "Peach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate",
+      "text": "Pomegranate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Plum",
+      "text": "Wild Plum"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shed",
+      "text": "Shed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Barn",
+      "text": "Barn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coop",
+      "text": "Coops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cabin",
+      "text": "Cabins"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Optimal_shed_layout.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Optimal_big_shed_layout.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Kegs_in_Small_Barn_x90.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Stardew_deluxe_barn_136_kegs.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Cabin_upgrade_0_no_player_42_kegs.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:CabinUpgrade1Kegs.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Cabin_upgrade_2_no_cellar_351_kegs.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Cabin_upgrade_2.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Crafted_goods_outside_the_farm",
+      "text": "Crafted goods outside the farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "the Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Railroad",
+      "text": "Railroad"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:254Kegs_Quarry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quarry",
+      "text": "Quarry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Tunnel_131_Kegs.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Tunnel",
+      "text": "The Tunnel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:90_Kegs_Road.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Tunnel",
+      "text": "the Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#cite_ref-processtime_1-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#cite_ref-juice_energy_2-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg#cite_ref-wine_energy_3-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.0",
+      "text": "1.0"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.1",
+      "text": "1.1"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clay",
+      "text": "Clay"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Inventory",
+      "text": "inventory"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chest",
+      "text": "chests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor#Prize_Machine",
+      "text": "Prize Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6.2",
+      "text": "1.6.2"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Artisan_Equipment",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cask",
+      "text": "Cask"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Press",
+      "text": "Cheese Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dehydrator",
+      "text": "Dehydrator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker",
+      "text": "Fish Smoker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Loom",
+      "text": "Loom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "text": "Mayonnaise Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil_Maker",
+      "text": "Oil Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Refining_Equipment",
+      "text": "Refining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait_Maker",
+      "text": "Bait Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bone_Mill",
+      "text": "Bone Mill"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Charcoal_Kiln",
+      "text": "Charcoal Kiln"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystalarium",
+      "text": "Crystalarium"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Worm_Bin",
+      "text": "Deluxe Worm Bin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Geode_Crusher",
+      "text": "Geode Crusher"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Heavy_Furnace",
+      "text": "Heavy Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Heavy_Tapper",
+      "text": "Heavy Tapper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lightning_Rod",
+      "text": "Lightning Rod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Log",
+      "text": "Mushroom Log"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich_Incubator",
+      "text": "Ostrich Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Recycling_Machine",
+      "text": "Recycling Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seed_Maker",
+      "text": "Seed Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Egg-Press",
+      "text": "Slime Egg-Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Incubator",
+      "text": "Slime Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Panel",
+      "text": "Solar Panel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tapper",
+      "text": "Tapper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood_Chipper",
+      "text": "Wood Chipper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Worm_Bin",
+      "text": "Worm Bin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fertilizer",
+      "text": "Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Retaining_Soil",
+      "text": "Basic Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Retaining_Soil",
+      "text": "Deluxe Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Retaining_Soil",
+      "text": "Quality Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tree_Fertilizer",
+      "text": "Tree Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Sprinklers",
+      "text": "Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "text": "Quality Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sprinkler",
+      "text": "Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Scarecrow",
+      "text": "Deluxe Scarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garden_Pot",
+      "text": "Garden Pot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scarecrow#Rarecrows",
+      "text": "Rarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scarecrow",
+      "text": "Scarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait",
+      "text": "Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait_(item)",
+      "text": "Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Challenge_Bait",
+      "text": "Challenge Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Bait",
+      "text": "Deluxe Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magic_Bait",
+      "text": "Magic Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magnet",
+      "text": "Magnet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Targeted_Bait",
+      "text": "Targeted Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Bait",
+      "text": "Wild Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tackle",
+      "text": "Tackle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Barbed_Hook",
+      "text": "Barbed Hook"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cork_Bobber",
+      "text": "Cork Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Curiosity_Lure",
+      "text": "Curiosity Lure"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dressed_Spinner",
+      "text": "Dressed Spinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lead_Bobber",
+      "text": "Lead Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Bobber",
+      "text": "Quality Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sonar_Bobber",
+      "text": "Sonar Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spinner",
+      "text": "Spinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trap_Bobber",
+      "text": "Trap Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Treasure_Hunter",
+      "text": "Treasure Hunter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot",
+      "text": "Crab Pot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Bombs",
+      "text": "Bombs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bomb",
+      "text": "Bomb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cherry_Bomb",
+      "text": "Cherry Bomb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mega_Bomb",
+      "text": "Mega Bomb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Fences",
+      "text": "Fences"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gate",
+      "text": "Gate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood_Fence",
+      "text": "Hardwood Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Fence",
+      "text": "Iron Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Fence",
+      "text": "Stone Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood_Fence",
+      "text": "Wood Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Storage_Equipment",
+      "text": "Storage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Big_Chest",
+      "text": "Big Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Big_Stone_Chest",
+      "text": "Big Stone Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chest",
+      "text": "Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimo_Chest",
+      "text": "Junimo Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Fridge",
+      "text": "Mini-Fridge"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Chest",
+      "text": "Stone Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Signs",
+      "text": "Signs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Sign",
+      "text": "Dark Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Sign",
+      "text": "Stone Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Text_Sign",
+      "text": "Text Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood_Sign",
+      "text": "Wood Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Misc",
+      "text": "Misc"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Anvil",
+      "text": "Anvil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Maker",
+      "text": "Coffee Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cookout_Kit",
+      "text": "Cookout Kit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deconstructor",
+      "text": "Deconstructor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Dust",
+      "text": "Fairy Dust"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Computer",
+      "text": "Farm Computer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hopper",
+      "text": "Hopper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Forge",
+      "text": "Mini-Forge"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Jukebox",
+      "text": "Mini-Jukebox"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Shipping_Bin",
+      "text": "Mini-Shipping Bin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Staircase",
+      "text": "Staircase"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Statue_Of_Blessings",
+      "text": "Statue Of Blessings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Statue_Of_The_Dwarf_King",
+      "text": "Statue Of The Dwarf King"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Telephone",
+      "text": "Telephone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tent_Kit",
+      "text": "Tent Kit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tools",
+      "text": "Tools"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Workbench",
+      "text": "Workbench"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&oldid=193087",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&oldid=193087"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Craftable_items",
+      "text": "Craftable items"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Keg",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Keg",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Keg",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Keg",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Keg",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&oldid=193087",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Fass",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Barril",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Tonneau",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Barilotto",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E9%86%B8%E9%80%A0%E3%83%80%E3%83%AB",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%88%A0%ED%86%B5",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Keghord%C3%B3",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Barril",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%91%D0%BE%D1%87%D0%BE%D0%BD%D0%BE%D0%BA",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/F%C4%B1%C3%A7%C4%B1",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%B0%8F%E6%A1%B6",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Keg.png",
+      "alt": "Keg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Farming_Skill_Icon.png/24px-Farming_Skill_Icon.png",
+      "alt": "Farming Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+      "alt": "Wood.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/24px-Copper_Bar.png",
+      "alt": "Copper Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Iron_Bar.png/24px-Iron_Bar.png",
+      "alt": "Iron Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png",
+      "alt": "Oak Resin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/24px-Bundle_Purple.png",
+      "alt": "Bundle Purple.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/24px-Bundle_Orange.png",
+      "alt": "Bundle Orange.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png",
+      "alt": "Beer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+      "alt": "Wheat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Vinegar.png",
+      "alt": "Vinegar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Rice.png/24px-Rice.png",
+      "alt": "Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png",
+      "alt": "Coffee.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Green_Tea.png",
+      "alt": "Green Tea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Tea_Leaves.png/24px-Tea_Leaves.png",
+      "alt": "Tea Leaves.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Max_Energy.png/24px-Max_Energy.png",
+      "alt": "Max Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Juice.png",
+      "alt": "Juice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+      "alt": "Wine.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Ancient_Fruit.png/24px-Ancient_Fruit.png",
+      "alt": "Ancient Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+      "alt": "Apple.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Banana.png/24px-Banana.png",
+      "alt": "Banana.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+      "alt": "Cactus Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Cherry.png/24px-Cherry.png",
+      "alt": "Cherry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/24px-Coconut.png",
+      "alt": "Coconut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Cranberries.png/24px-Cranberries.png",
+      "alt": "Cranberries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/16/Crystal_Fruit.png/24px-Crystal_Fruit.png",
+      "alt": "Crystal Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/24px-Grape.png",
+      "alt": "Grape.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Mango.png/24px-Mango.png",
+      "alt": "Mango.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+      "alt": "Melon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Orange.png/24px-Orange.png",
+      "alt": "Orange.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/24px-Peach.png",
+      "alt": "Peach.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Pineapple.png/24px-Pineapple.png",
+      "alt": "Pineapple.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+      "alt": "Pomegranate.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Powdermelon.png/24px-Powdermelon.png",
+      "alt": "Powdermelon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Rhubarb.png/24px-Rhubarb.png",
+      "alt": "Rhubarb.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Spice_Berry.png/24px-Spice_Berry.png",
+      "alt": "Spice Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Starfruit.png/24px-Starfruit.png",
+      "alt": "Starfruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Strawberry.png/24px-Strawberry.png",
+      "alt": "Strawberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Wild_Plum.png/24px-Wild_Plum.png",
+      "alt": "Wild Plum.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+      "alt": "Pumpkin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png",
+      "alt": "Red Cabbage.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+      "alt": "Wheat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Optimal_shed_layout.png/199px-Optimal_shed_layout.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Optimal_big_shed_layout.png/245px-Optimal_big_shed_layout.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Kegs_in_Small_Barn_x90.png/264px-Kegs_in_Small_Barn_x90.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Stardew_deluxe_barn_136_kegs.png/373px-Stardew_deluxe_barn_136_kegs.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Cabin_upgrade_0_no_player_42_kegs.png/215px-Cabin_upgrade_0_no_player_42_kegs.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/CabinUpgrade1Kegs.png/565px-CabinUpgrade1Kegs.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/45/Cabin_upgrade_2_no_cellar_351_kegs.png/262px-Cabin_upgrade_2_no_cellar_351_kegs.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Cabin_upgrade_2.png/343px-Cabin_upgrade_2.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/254Kegs_Quarry.png/255px-254Kegs_Quarry.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Tunnel_131_Kegs.png/880px-Tunnel_131_Kegs.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/90_Kegs_Road.png/621px-90_Kegs_Road.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Keg - Stardew Valley Wiki",
+      "headline": "Keg - Stardew Valley Wiki",
+      "mainEntityOfPage": "Keg",
+      "identifier": "https://stardewvalleywiki.com/Keg",
+      "url": "https://stardewvalleywiki.com/Keg",
+      "description": "The Keg is a type of Artisan Equipment used to make Artisan Goods. A Keg is the reward for completing the  Artisan Bundle in the Pantry or the  Brewer's Bundle in the Pantry (Remixed). Four Kegs can be obtained as the 19th prize from the Prize Machine (50% chance).",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Keg, gift",
+      "dateModified": "2026-05-17T17:05:26Z",
+      "datePublished": "2026-05-17T17:05:26Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Keg - Stardew Valley Wiki Keg From Stardew Valley Wiki Jump to navigation Jump to search Keg Place a fruit or vegetable in here. Eventually it will turn into a beverage. Information Source Crafting Sell Price Cannot be sold Crafting Recipe Source Farming (Level 8) Ingredients Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1) For a detailed analysis of profit using the Keg, see Keg Productivity . The Keg is a type of Artisan Equipment used to make Artisan Goods . A Keg is the reward for completing the Artisan Bundle in the Pantry or the Brewer's Bundle in the Pantry (Remixed) . Four Kegs can be obtained as the 19th prize from the Prize Machine (50% chance). Contents 1 Products 2 Preserves Jar vs. Keg 3 Storage Options 3.1 Inside Farm Buildings 3.2 Outside The Farm 4 References 5 History Products Note that processing times are approximate, since time passes differently from 2am to 6am. One hour = 60 minutes from 6am to 2am, but 1 hour = 100 minutes from 2am to 6am. One full day is 1600 minutes, where day is 1200 minutes and night is 400 minutes. Image Name Description Ingredient Processing Time [1] Sell Price Energy / Health / Buffs Beer Drink in moderation. Wheat (1) 1750 mins (≈1.1 Days) data-sort-value=\"200\"> 200g 50 22 Speed (−1) Vinegar An aged fermented liquid used in many cooking recipes. Rice (1) 600 mins (10 Hours) data-sort-value=\"100\"> 100g 13 5 Coffee It smells delicious. This is sure to give you a boost. Coffee Bean (5) 120 mins (2 Hours) data-sort-value=\"150\"> 150g 3 1 Speed (+1) Green Tea A pleasant, energizing beverage made from lightly processed tea leaves. Tea Leaves (1) 180 mins (3 Hours) data-sort-value=\"100\"> 100g 13 5 Max Energy (+30) Speed (+0.5) Mead A fermented beverage made from honey. Drink in moderation. Honey (1) 600 mins (10 hours) data-sort-value=\"300\"> 300g 75 33 Speed (−1) Pale Ale Drink in moderation. Hops (1) 2250 mins (≈1.4 Days) data-sort-value=\"300\"> 300g 50 22 Speed (−1) Juice A sweet, nutritious beverage. Any Vegetable (1) or any positive energy Forage (other than Mushrooms ) (1) 6000 mins (4 Days) 2.25 × Ingredient Base Price 2 × Base Ingredient Energy 2 × Base Ingredient Health Wine Drink in moderation. Any Fruit (1) 10000 mins (6.25 Days) 3 × Fruit Base Price 1.75 × Base Fruit Energy 1.75 × Base Fruit Health Speed (−1) Notes Juice made from an inedible vegetable will instead give 1 × Base Vegetable Price and 0.45 × Base Vegetable Price. [2] Wine made from an inedible fruit will instead give 0.25 × Base Fruit Price and 0.1125 × Base Fruit Price. [3] The following foraged items can be made into Juice: Wild Horseradish , Leek , Dandelion , Cave Carrot , Spring Onion , Hazelnut , Winter Root , Snow Yam , and Ginger . Preserves Jar vs. Keg The Preserves Jar increases the profit of a crop using the following equation: (2 × Base Crop Value + 50), while the Keg multiplies the base value of Fruits by 3, and most Vegetables by 2.25. Because of this, low-value high-yield crops like Corn or Tomatoes are more valuable in the preserves jar. The Keg, on the other hand, favors crops with a much higher base value, such as Ancient Fruit or Melons . The breakpoint is data-sort-value=\"50\"> 50g for fruits and data-sort-value=\"200\"> 200g for vegetables. Below is a list of crops that are more beneficial to be put in the Keg, along with their raw base price. Boldfaced items have a base price above data-sort-value=\"200\"> 200g . Fruits Vegetables Ancient Fruit (550g) Apple (100g) Banana (150g) Cactus Fruit (75g) Cherry (80g) Coconut (100g) Cranberries (75g) Crystal Fruit (150g) Grape (80g) Mango (130g) Melon (250g) Orange (100g) Peach (140g) Pineapple (300g) Pomegranate (140g) Powdermelon (60g) Rhubarb (220g) Spice Berry (80g) Starfruit (750g) Strawberry (120g) Wild Plum (80g) Pumpkin (320g) Red Cabbage (260g) Hops (25g, but Pale Ale sells for 300g) Wheat (25g, but Beer sells for 200g) It should be noted that these calculations only involve the value gained in terms of max profit; if looking at profit per day based on the time required, the Preserves Jar will outpace the Keg regardless of the base value of the item (in every case except for Hops, Wheat, and Tea Leaves) since the Preserves Jar has a much shorter processing time. Storage Options Inside Farm Buildings Kegs can be stored in farm buildings. A Shed , optimally filled with kegs, holds 67 of them, while occupying only 21 tiles of land. An upgraded Big Shed, optimally filled, holds 137 kegs on the same land space. A Barn , however, is cheaper, and holds 90 kegs on 28 tiles of land. The Deluxe Barn increases building costs considerably, but has so far been shown to be able to fit 136 kegs on the same land space as the initial Barn. Coops are cheaper still, but smaller, permitting fewer kegs per tile of external farmland used. Cabins are the cheapest initially, occupy the smallest land area of 15 tiles, but can only hold 42 kegs without upgrades, assuming the cabin is unclaimed and the gift and bed must remain. The first level of upgraded cabin can hold 114 kegs at a lower cost than any other option. While the second upgrade significantly raises costs, 351 kegs can be stored, in version 1.6, new cabin renovations were added, and 593 kegs can be stored, allowing the largest number of kegs per external farmland used. Optimal Shed layout provides 67 spaces Optimal Big Shed layout provides 137 spaces Optimal Barn layout provides 90 spaces One possible Deluxe Barn layout with 136 kegs Empty, unclaimed Cabin layout with 42 kegs Single upgrade Cabin/Farmhouse layout with 114 kegs Two upgrade Cabin/Farmhouse layout with 352 kegs Two upgrades and remodeling Cabin/Farmhouse layout with 594 kegs Outside The Farm See also: Crafted goods outside the farm Kegs can be stored almost anywhere outside the farm. Out of the way places are best as NPCs walking through a keg will destroy it. Other good options not pictured are the Desert and the Railroad . 374 Kegs in the Quarry . 131 Kegs in The Tunnel . 90 Kegs on the Road . 2 are inside the tunnel. References ↑ See Object::performObjectDropInAction in the game code and Data/ObjectInformation.xnb for corresponding items IDs and categories. ↑ See ObjectDataDefinition::CreateFlavoredJuice in the game code. ↑ See ObjectDataDefinition::CreateFlavoredWine in the game code. History 1.0 : Introduced. 1.1 : Mead Added. Removed Clay from crafting recipe. 1.4 : Green Tea Added. Adjusted processing time so that machines process 100 minutes from 2am to 6am, not every hour the player is asleep. Kegs can now be stacked in a player's inventory and in chests . 1.6 : Positive energy foraged items (other than Mushrooms) can now be made into Juice. Green Tea now gives +0.5 Speed. Rice can now be placed into a Keg to make Vinegar. Can now be obtained as a prize from the Prize Machine . 1.6.2 : Wine Health and Energy now scale with base fruit's values. Juice Health and Energy now scale with base vegetable's values. Equipment Artisan Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar Refining Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin Farming Fertilizer Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer Sprinklers Iridium Sprinkler • Quality Sprinkler • Sprinkler Other Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow Fishing Bait Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait Tackle Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter Other Crab Pot Bombs Bomb • Cherry Bomb • Mega Bomb Fences Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence Storage Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest Signs Dark Sign • Stone Sign • Text Sign • Wood Sign Misc Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Keg&oldid=193087 \" Category : Craftable items Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 17 May 2026, at 17:05. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

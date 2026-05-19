@@ -1,0 +1,1560 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Red_Mushroom",
+  "finalUrl": "https://stardewvalleywiki.com/Red_Mushroom",
+  "fetchedAt": "2026-05-18T20:15:11.295563+00:00",
+  "title": "Red Mushroom - Stardew Valley Wiki",
+  "description": "The Red Mushroom is a type of mushroom obtainable by:",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Red Mushroom"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "−50",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "−70",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "−90",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "−130",
+          "",
+          "0"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "75g"
+        ],
+        [
+          "",
+          "93g"
+        ],
+        [
+          "",
+          "112g"
+        ],
+        [
+          "",
+          "150g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Dislike",
+          "Penny"
+        ],
+        [
+          "Hate",
+          "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredients",
+        "Energy / Health",
+        "Recipe Source(s)",
+        "Sell Price"
+      ],
+      "rows": [
+        [
+          "",
+          "Life Elixir",
+          "Restores health to full.",
+          "Red Mushroom (1) Purple Mushroom (1) Morel (1) Chanterelle (1)",
+          "0 100%",
+          "Combat Level 2",
+          "data-sort-value=\"250\">250g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Foraging"
+      ],
+      "rows": [
+        [
+          "Basic",
+          "Sap"
+        ],
+        [
+          "Spring",
+          "Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish"
+        ],
+        [
+          "Summer",
+          "Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea"
+        ],
+        [
+          "Fall",
+          "Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum"
+        ],
+        [
+          "Winter",
+          "Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root"
+        ],
+        [
+          "The Beach",
+          "Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed"
+        ],
+        [
+          "The Mines",
+          "Cave Carrot • Purple Mushroom • Red Mushroom"
+        ],
+        [
+          "The Desert",
+          "Cactus Fruit • Coconut"
+        ],
+        [
+          "Skull Cavern",
+          "Dinosaur Egg • Fiddlehead Fern"
+        ],
+        [
+          "Ginger Island",
+          "Ginger • Magma Cap"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Red_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Cave",
+      "text": "The Farm Cave"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Tree",
+      "text": "Mushroom Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Log",
+      "text": "Mushroom Log"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Woods",
+      "text": "Secret Woods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines#Shrine_of_Challenge",
+      "text": "Dangerous Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Maps",
+      "text": "Forest Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Dig_Site",
+      "text": "Ginger Island mushroom cave"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Woods",
+      "text": "Secret Woods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Woods",
+      "text": "Secret Woods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Maps",
+      "text": "Forest Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seasons",
+      "text": "All"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging#Experience_Points",
+      "text": "Foraging XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging#Experience_Points",
+      "text": "Foraging XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "the Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines#The_Mushroom_Floor",
+      "text": "Mushroom Floors"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines#Shrine_of_Challenge",
+      "text": "Shrine of Challenge"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Danger_In_The_Deep",
+      "text": "Danger in The Deep"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Woods",
+      "text": "Secret Woods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Maps",
+      "text": "Forest Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Dig_Site",
+      "text": "Ginger Island mushroom cave"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garbage_Can",
+      "text": "Garbage Cans"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Cave",
+      "text": "the Cave"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tapper",
+      "text": "tapping"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Tree",
+      "text": "Mushroom Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Log",
+      "text": "Mushroom Log"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Forge#Tool_enchantments",
+      "text": "Shaving"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#Gifting",
+      "text": "1 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#Bundles",
+      "text": "2 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#Recipes",
+      "text": "3 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#Tailoring",
+      "text": "4 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#Quests",
+      "text": "5 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom#History",
+      "text": "6 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Dye_Bundle",
+      "text": "Dye Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Bulletin_Board",
+      "text": "Bulletin Board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Exotic_Foraging_Bundle",
+      "text": "Exotic Foraging Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Crafts_Room",
+      "text": "Crafts Room"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Life_Elixir.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Combat",
+      "text": "Combat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spotted_Headscarf",
+      "text": "Spotted Headscarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spook_Fish",
+      "text": "Spook Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woodskip",
+      "text": "Woodskip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Fish Pond quest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Fish Pond quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Log",
+      "text": "Mushroom Log"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6.4",
+      "text": "1.6.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Tree",
+      "text": "Mushroom Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shaving",
+      "text": "Shaving enchantment"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap",
+      "text": "Sap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring_Onion",
+      "text": "Spring Onion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Fern",
+      "text": "Fiddlehead Fern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Pea",
+      "text": "Sweet Pea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blackberry",
+      "text": "Blackberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Plum",
+      "text": "Wild Plum"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crocus",
+      "text": "Crocus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystal_Fruit",
+      "text": "Crystal Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clam",
+      "text": "Clam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cockle",
+      "text": "Cockle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coral",
+      "text": "Coral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mussel",
+      "text": "Mussel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nautilus_Shell",
+      "text": "Nautilus Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oyster",
+      "text": "Oyster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Shell",
+      "text": "Rainbow Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seaweed",
+      "text": "Seaweed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cave_Carrot",
+      "text": "Cave Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "The Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coconut",
+      "text": "Coconut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skull_Cavern",
+      "text": "Skull Cavern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Fern",
+      "text": "Fiddlehead Fern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&oldid=190471",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&oldid=190471"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Mines_Forage",
+      "text": "Mines Forage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Summer_Forage",
+      "text": "Summer Forage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Fall_Forage",
+      "text": "Fall Forage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Mushrooms",
+      "text": "Mushrooms"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Red+Mushroom",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Red+Mushroom",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Red_Mushroom",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Red_Mushroom",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Red_Mushroom",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&oldid=190471",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Roter_Pilz",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Seta_roja",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Champignon_rouge",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Fungo_rosso",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E8%B5%A4%E3%82%AD%E3%83%8E%E3%82%B3",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%B6%89%EC%9D%80_%EB%B2%84%EC%84%AF",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/V%C3%B6r%C3%B6s_gomba",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Cogumelo_vermelho",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/K%C4%B1rm%C4%B1z%C4%B1_Mantar",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%BA%A2%E8%98%91%E8%8F%87",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png",
+      "alt": "Red Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/55/All_Seasons_Icon.png/24px-All_Seasons_Icon.png",
+      "alt": "All Seasons Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Poison.png/20px-Poison.png",
+      "alt": "Poison.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Poison.png/20px-Poison.png",
+      "alt": "Poison.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Poison.png/20px-Poison.png",
+      "alt": "Poison.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Poison.png/20px-Poison.png",
+      "alt": "Poison.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+      "alt": "Red Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+      "alt": "Red Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+      "alt": "Red Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+      "alt": "Red Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/24px-Bundle_Teal.png",
+      "alt": "Bundle Teal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/24px-Bundle_Purple.png",
+      "alt": "Bundle Purple.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Life_Elixir.png",
+      "alt": "Life Elixir.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+      "alt": "Red Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Morel.png/24px-Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Chanterelle.png/24px-Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Combat_Skill_Icon.png/24px-Combat_Skill_Icon.png",
+      "alt": "Combat Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Spotted_Headscarf.png/24px-Spotted_Headscarf.png",
+      "alt": "Spotted Headscarf.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Red Mushroom - Stardew Valley Wiki",
+      "headline": "Red Mushroom - Stardew Valley Wiki",
+      "mainEntityOfPage": "Red Mushroom",
+      "identifier": "https://stardewvalleywiki.com/Red_Mushroom",
+      "url": "https://stardewvalleywiki.com/Red_Mushroom",
+      "description": "The Red Mushroom is a type of mushroom obtainable by:",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Red Mushroom, gift",
+      "dateModified": "2026-01-12T19:36:22Z",
+      "datePublished": "2026-01-12T19:36:22Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Red Mushroom - Stardew Valley Wiki Red Mushroom From Stardew Valley Wiki Jump to navigation Jump to search Red Mushroom A spotted mushroom sometimes found in caves. Information Source Foraging • The Farm Cave • Mushroom Tree • Mushroom Log Location Secret Woods • The Mines • Dangerous Mines • Forest Farm • Ginger Island mushroom cave Season Summer ( Secret Woods ) Fall ( Secret Woods • Forest Farm ) All (other) XP Foraging: 7 Foraging XP The Farm Cave: 5 Foraging XP Mushroom Trees: 0 Energy / Health −50 0 −70 0 −90 0 −130 0 Sell Price 75g 93g 112g 150g The Red Mushroom is a type of mushroom obtainable by: Foraging in the Mines on Mushroom Floors (starting at floor 81). Found on levels 21-69 of the Mines while the Shrine of Challenge is enabled, or the Danger in The Deep quest is active. In the Secret Woods during Summer and (more rarely) Fall . In the Forest Farm during Fall. Inside of the Ginger Island mushroom cave . Searching Garbage Cans during any season. Collected from the mushroom bins in the Cave if the mushroom option was chosen. By tapping a Mushroom Tree . Collected from a Mushroom Log . By cutting down a Mushroom Tree with the Shaving enchantment. Purchased at the Traveling Cart for data-sort-value=\"75\" 225–1,000g. Contents 1 Gifting 2 Bundles 3 Recipes 4 Tailoring 5 Quests 6 History Gifting Villager Reactions Dislike Penny Hate Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard Bundles Red Mushroom is used in the Dye Bundle on the Bulletin Board . Red Mushroom is one of the options for the Exotic Foraging Bundle in the Crafts Room . Recipes Image Name Description Ingredients Energy / Health Recipe Source(s) Sell Price Life Elixir Restores health to full. Red Mushroom (1) Purple Mushroom (1) Morel (1) Chanterelle (1) 0 100% Combat Level 2 data-sort-value=\"250\"> 250g Tailoring Red Mushroom is used in the spool of the Sewing Machine to create the Spotted Headscarf . It can also be used as a red dye color at the dye pots in Emily 's and Haley 's house, located at 2 Willow Lane . Quests The Red Mushroom may be randomly requested during any season at the \"Help Wanted\" board outside Pierre's General Store for a reward of data-sort-value=\"225\"> 225g and 150 Friendship points. 2-3 Red Mushrooms may be requested by Catfish , Spook Fish , or Woodskip in a Fish Pond quest to increase the capacity of the pond from 3 to 5. History 1.4 : Can now be used in Tailoring . Can be requested in Fish Pond quests . 1.5 : Can be found in the Ginger Island mushroom cave. 1.6 : Can now be produced by a Mushroom Log . Mushrooms from the Farm Cave now give 5 Foraging XP each. 1.6.4 : Can now be obtained from chopping down Mushroom Trees with the Shaving enchantment . Foraging Basic Sap Spring Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish Summer Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea Fall Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum Winter Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root The Beach Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed The Mines Cave Carrot • Purple Mushroom • Red Mushroom The Desert Cactus Fruit • Coconut Skull Cavern Dinosaur Egg • Fiddlehead Fern Ginger Island Ginger • Magma Cap Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Mushroom&oldid=190471 \" Categories : Mines Forage Summer Forage Fall Forage Mushrooms Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 12 January 2026, at 19:36. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

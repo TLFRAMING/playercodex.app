@@ -1,0 +1,149 @@
+# Web Extraction Review
+
+- Source URL: https://stardewvalleywiki.com/Caroline
+- Final URL: https://stardewvalleywiki.com/Caroline
+- Title: Caroline - Stardew Valley Wiki
+- Canonical URL: n/a
+- Confidence: high
+- Recommendation: approve for cleaning
+
+## Tables
+- Table 0: 0 headers, 10 rows, caption: none
+- Table 1: 0 headers, 2 rows, caption: none
+- Table 2: 1 headers, 3 rows, caption: none
+- Table 3: 1 headers, 3 rows, caption: none
+- Table 4: 1 headers, 6 rows, caption: none
+- Table 5: 1 headers, 5 rows, caption: none
+- Table 6: 1 headers, 1 rows, caption: none
+- Table 7: 1 headers, 5 rows, caption: none
+- Table 8: 1 headers, 6 rows, caption: none
+- Table 9: 1 headers, 5 rows, caption: none
+- Table 10: 1 headers, 5 rows, caption: none
+- Table 11: 1 headers, 4 rows, caption: none
+- Table 12: 1 headers, 6 rows, caption: none
+- Table 13: 1 headers, 6 rows, caption: none
+- Table 14: 0 headers, 1 rows, caption: none
+- Table 15: 0 headers, 1 rows, caption: none
+- Table 16: 0 headers, 1 rows, caption: none
+- Table 17: 0 headers, 1 rows, caption: none
+- Table 18: 5 headers, 5 rows, caption: none
+- Table 19: 0 headers, 1 rows, caption: none
+- Table 20: 0 headers, 1 rows, caption: none
+- Table 21: 4 headers, 4 rows, caption: none
+- Table 22: 0 headers, 1 rows, caption: none
+- Table 23: 4 headers, 1 rows, caption: none
+- Table 24: 0 headers, 1 rows, caption: none
+- Table 25: 4 headers, 16 rows, caption: none
+- Table 26: 0 headers, 1 rows, caption: none
+- Table 27: 4 headers, 3 rows, caption: none
+- Table 28: 1 headers, 5 rows, caption: none
+- Table 29: 1 headers, 5 rows, caption: none
+- Table 30: 2 headers, 1 rows, caption: none
+- Table 31: 1 headers, 1 rows, caption: none
+- Table 32: 3 headers, 1 rows, caption: none
+- Table 33: 1 headers, 1 rows, caption: none
+- Table 34: 3 headers, 1 rows, caption: none
+- Table 35: 0 headers, 1 rows, caption: none
+- Table 36: 0 headers, 1 rows, caption: none
+- Table 37: 0 headers, 1 rows, caption: none
+- Table 38: 0 headers, 1 rows, caption: none
+- Table 39: 0 headers, 1 rows, caption: none
+- Table 40: 0 headers, 1 rows, caption: none
+- Table 41: 0 headers, 1 rows, caption: none
+- Table 42: 0 headers, 1 rows, caption: none
+- Table 43: 0 headers, 1 rows, caption: none
+- Table 44: 0 headers, 1 rows, caption: none
+- Table 45: 0 headers, 1 rows, caption: none
+- Table 46: 0 headers, 1 rows, caption: none
+- Table 47: 0 headers, 1 rows, caption: none
+- Table 48: 0 headers, 1 rows, caption: none
+- Table 49: 0 headers, 1 rows, caption: none
+- Table 50: 0 headers, 1 rows, caption: none
+- Table 51: 0 headers, 1 rows, caption: none
+- Table 52: 0 headers, 1 rows, caption: none
+- Table 53: 0 headers, 1 rows, caption: none
+- Table 54: 0 headers, 1 rows, caption: none
+- Table 55: 0 headers, 1 rows, caption: none
+- Table 56: 0 headers, 1 rows, caption: none
+- Table 57: 0 headers, 1 rows, caption: none
+- Table 58: 0 headers, 1 rows, caption: none
+- Table 59: 0 headers, 1 rows, caption: none
+- Table 60: 0 headers, 1 rows, caption: none
+- Table 61: 0 headers, 1 rows, caption: none
+- Table 62: 0 headers, 1 rows, caption: none
+- Table 63: 0 headers, 1 rows, caption: none
+- Table 64: 0 headers, 1 rows, caption: none
+- Table 65: 0 headers, 1 rows, caption: none
+- Table 66: 0 headers, 1 rows, caption: none
+- Table 67: 0 headers, 1 rows, caption: none
+- Table 68: 0 headers, 1 rows, caption: none
+- Table 69: 0 headers, 1 rows, caption: none
+- Table 70: 0 headers, 1 rows, caption: none
+- Table 71: 0 headers, 1 rows, caption: none
+- Table 72: 0 headers, 1 rows, caption: none
+- Table 73: 0 headers, 1 rows, caption: none
+- Table 74: 0 headers, 1 rows, caption: none
+- Table 75: 0 headers, 1 rows, caption: none
+- Table 76: 0 headers, 1 rows, caption: none
+- Table 77: 0 headers, 1 rows, caption: none
+- Table 78: 0 headers, 1 rows, caption: none
+- Table 79: 0 headers, 1 rows, caption: none
+- Table 80: 0 headers, 1 rows, caption: none
+- Table 81: 0 headers, 1 rows, caption: none
+- Table 82: 0 headers, 1 rows, caption: none
+- Table 83: 0 headers, 1 rows, caption: none
+- Table 84: 0 headers, 1 rows, caption: none
+- Table 85: 0 headers, 1 rows, caption: none
+- Table 86: 0 headers, 1 rows, caption: none
+- Table 87: 0 headers, 1 rows, caption: none
+- Table 88: 0 headers, 1 rows, caption: none
+- Table 89: 0 headers, 1 rows, caption: none
+- Table 90: 0 headers, 1 rows, caption: none
+- Table 91: 0 headers, 1 rows, caption: none
+- Table 92: 0 headers, 1 rows, caption: none
+- Table 93: 0 headers, 1 rows, caption: none
+- Table 94: 0 headers, 1 rows, caption: none
+- Table 95: 0 headers, 1 rows, caption: none
+- Table 96: 1 headers, 4 rows, caption: none
+
+## JSON-LD
+- Blocks parsed: 1
+
+## Headings
+- h1: Caroline
+- h2: Contents
+- h2: Schedule
+- h2: Relationships
+- h2: Gifts
+- h3: Love
+- h3: Like
+- h3: Neutral
+- h3: Dislike
+- h3: Hate
+- h2: Movies & Concessions
+- h2: Heart Events
+- h3: Anytime
+- h3: Two Hearts
+- h3: Three Hearts
+- h3: Six Hearts
+- h3: Seven Hearts
+- h2: Quotes
+- h2: Quests
+- h2: Portraits
+- h2: Trivia
+- h2: Bugs
+- h2: History
+- h2: Navigation menu
+- h3: Personal tools
+- h3: Namespaces
+- h3: Variants
+- h3: Views
+- h3: More
+- h3: Search
+
+## Warnings
+- None.
+
+## Candidate Facts
+- Review raw JSON before converting any value into production data.
+- Mark uncertain or missing values as `needs verification`.

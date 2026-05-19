@@ -1,0 +1,2775 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Blue_Jazz",
+  "finalUrl": "https://stardewvalleywiki.com/Blue_Jazz",
+  "fetchedAt": "2026-05-18T13:38:34.590162+00:00",
+  "title": "Blue Jazz - Stardew Valley Wiki",
+  "description": "Blue Jazz is a flower that can be grown from Jazz Seeds in 7 days.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Blue Jazz"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Stages"
+    },
+    {
+      "level": 2,
+      "text": "Crop Growth Calendar"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Notes"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "45",
+          "",
+          "20"
+        ],
+        [
+          "",
+          "63",
+          "",
+          "28"
+        ],
+        [
+          "",
+          "81",
+          "",
+          "36"
+        ],
+        [
+          "",
+          "117",
+          "",
+          "52"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "50g"
+        ],
+        [
+          "",
+          "62g"
+        ],
+        [
+          "",
+          "75g"
+        ],
+        [
+          "",
+          "100g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "55g"
+        ],
+        [
+          "",
+          "68g"
+        ],
+        [
+          "",
+          "82g"
+        ],
+        [
+          "",
+          "110g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "200g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "280g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Harvest"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1 Day",
+          "2 Days",
+          "2 Days",
+          "2 Days",
+          "Total: 7 Days"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Base"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Like",
+          "Abigail • Alex • Caroline • Demetrius • Dwarf • Elliott • Emily • Evelyn • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Vincent • Willy • Wizard"
+        ],
+        [
+          "Dislike",
+          "Clint • George • Sebastian"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "28 Spring, Year 2"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Blue_Jazz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jazz_Seeds",
+      "text": "Jazz Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "Farming XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Tiller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flowers",
+      "text": "flower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "grown"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jazz_Seeds",
+      "text": "Jazz Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House#Range",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Blue Jazz Honey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Stages",
+      "text": "1 Stages"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Crop_Growth_Calendar",
+      "text": "2 Crop Growth Calendar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Gifting",
+      "text": "3 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Bundles",
+      "text": "4 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Recipes",
+      "text": "5 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Tailoring",
+      "text": "6 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#Notes",
+      "text": "8 Notes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz#History",
+      "text": "9 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Garden_Bundle",
+      "text": "Garden Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Pantry",
+      "text": "Pantry (Remixed)"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Lucky_Lunch.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lucky_Lunch",
+      "text": "Lucky Lunch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Cucumber",
+      "text": "Sea Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tortilla",
+      "text": "Tortilla"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luck",
+      "text": "Luck"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring#Pants",
+      "text": "Skirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Skirt.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests",
+      "text": "quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops#Crop_Quality",
+      "text": "quality"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:BlueJazzColors.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&oldid=187201",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&oldid=187201"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Spring_crops",
+      "text": "Spring crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Blue+Jazz",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Blue+Jazz",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Blue_Jazz&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Blue_Jazz",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Blue_Jazz",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&oldid=187201",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Blaue_Jazz",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Allium_azul",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Zinnia_bleue",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Jazz_blu",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%BA",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%ED%91%B8%EB%A5%B8_%EC%9E%AC%EC%A6%88",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/K%C3%A9k_jazz",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Jasmim-Azul",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9_%D1%8F%D1%80%D0%BA%D0%BE%D1%86%D0%B2%D0%B5%D1%82",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Maviruh",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E8%93%9D%E7%88%B5",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Jazz_Seeds.png/24px-Jazz_Seeds.png",
+      "alt": "Jazz Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b2/Tiller.png/24px-Tiller.png",
+      "alt": "Tiller.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Blue_Jazz_Stage_5.png",
+      "alt": "Blue Jazz Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Blue_Jazz_Stage_1.png/36px-Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Blue_Jazz_Stage_1.png/36px-Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Blue_Jazz_Stage_1.png/36px-Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Blue_Jazz_Stage_1.png/36px-Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Blue_Jazz_Stage_1.png/36px-Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/68/Blue_Jazz_Stage_2.png/36px-Blue_Jazz_Stage_2.png",
+      "alt": "Blue Jazz Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Blue_Jazz_Stage_1.png/36px-Blue_Jazz_Stage_1.png",
+      "alt": "Blue Jazz Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Blue_Jazz_Stage_3.png/36px-Blue_Jazz_Stage_3.png",
+      "alt": "Blue Jazz Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Blue_Jazz_Stage_4.png/36px-Blue_Jazz_Stage_4.png",
+      "alt": "Blue Jazz Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/36px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/24px-Bundle_Red.png",
+      "alt": "Bundle Red.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Lucky_Lunch.png",
+      "alt": "Lucky Lunch.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Sea_Cucumber.png/24px-Sea_Cucumber.png",
+      "alt": "Sea Cucumber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Tortilla.png/24px-Tortilla.png",
+      "alt": "Tortilla.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f0/Luck.png/24px-Luck.png",
+      "alt": "Luck.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fa/Skirt.png/36px-Skirt.png",
+      "alt": "Skirt.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/BlueJazzColors.png",
+      "alt": "BlueJazzColors.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Blue Jazz - Stardew Valley Wiki",
+      "headline": "Blue Jazz - Stardew Valley Wiki",
+      "mainEntityOfPage": "Blue Jazz",
+      "identifier": "https://stardewvalleywiki.com/Blue_Jazz",
+      "url": "https://stardewvalleywiki.com/Blue_Jazz",
+      "description": "Blue Jazz is a flower that can be grown from Jazz Seeds in 7 days.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Blue Jazz, gift",
+      "dateModified": "2025-06-19T17:17:14Z",
+      "datePublished": "2025-06-19T17:17:14Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Blue Jazz - Stardew Valley Wiki Blue Jazz From Stardew Valley Wiki Jump to navigation Jump to search Blue Jazz The flower grows in a sphere to invite as many butterflies as possible. Information Seed Jazz Seeds Growth Time 7 days Season Spring XP 10 Farming XP Energy / Health 45 20 63 28 81 36 117 52 Sell Prices Base Tiller (+10%) 50g 62g 75g 100g 55g 68g 82g 110g Artisan Sell Prices Base Artisan (+40%) 200g 280g Blue Jazz is a flower that can be grown from Jazz Seeds in 7 days. If placed within proper range of a Bee House (5 squares in any cardinal direction), Blue Jazz will cause Blue Jazz Honey to be produced, increasing the honey base value from data-sort-value=\"100\"> 100g to data-sort-value=\"200\"> 200g . Blue Jazz can be purchased from the Traveling Cart for data-sort-value=\"50\" 150–1,000g. Contents 1 Stages 2 Crop Growth Calendar 3 Gifting 4 Bundles 5 Recipes 6 Tailoring 7 Quests 8 Notes 9 History Stages Stage 1 Stage 2 Stage 3 Stage 4 Harvest 1 Day 2 Days 2 Days 2 Days Total: 7 Days Crop Growth Calendar Base Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Gifting Villager Reactions Like Abigail • Alex • Caroline • Demetrius • Dwarf • Elliott • Emily • Evelyn • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Vincent • Willy • Wizard Dislike Clint • George • Sebastian Bundles Blue Jazz is one of the options for the Garden Bundle in the Pantry (Remixed) . Recipes Image Name Description Ingredients Energy / Health Buff(s) Buff Duration Recipe Source(s) Sell Price Lucky Lunch A special little meal. Sea Cucumber (1) Tortilla (1) Blue Jazz (1) 100 45 Luck (+3) 11m 11s The Queen of Sauce 28 Spring, Year 2 data-sort-value=\"250\"> 250g Tailoring Blue Jazz can be used in the spool of the Sewing Machine to create the dyeable Skirt . It can be used in dyeing , serving as a blue dye at the dye pots, located in Emily 's and Haley 's house, 2 Willow Lane . Quests Blue Jazz is not used in any quests . Notes Blue Jazz has an equal chance of being one of six different colors. Blue Jazz of different colors will occupy different slots in inventory or chests. Six colors × four quality levels = 24 possible spaces used. History 1.4 : Can now be used in Tailoring . 1.5 : Iridium quality is now possible when using Deluxe Fertilizer . Is now an option in the Garden Bundle. Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Jazz&oldid=187201 \" Category : Spring crops Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 19 June 2025, at 17:17. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

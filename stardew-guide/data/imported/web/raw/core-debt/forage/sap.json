@@ -1,0 +1,1616 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Sap",
+  "finalUrl": "https://stardewvalleywiki.com/Sap",
+  "fetchedAt": "2026-05-18T22:06:39.608223+00:00",
+  "title": "Sap - Stardew Valley Wiki",
+  "description": "Sap is a foraged item that drops from trees when they are cut down. It is used in various crafting recipes. Sap can be consumed, however it decreases energy by 2 points.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Sap"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Trading"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "−2",
+          "",
+          "0"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredients",
+        "Recipe Source"
+      ],
+      "rows": [
+        [
+          "",
+          "Basic Fertilizer",
+          "Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.",
+          "Sap (2)",
+          "Farming Level 1"
+        ],
+        [
+          "",
+          "Quality Fertilizer (2)",
+          "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
+          "Sap (4) Any Fish (1)",
+          "Farming Level 9"
+        ],
+        [
+          "",
+          "Deluxe Fertilizer (5)",
+          "Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
+          "Sap (40) Iridium Bar (1)",
+          "Mr. Qi (data-sort-value=\"20\"> 20)"
+        ],
+        [
+          "",
+          "Torch",
+          "Provides a modest amount of light.",
+          "Sap (2) Wood (1)",
+          "Starter"
+        ],
+        [
+          "",
+          "Trap Bobber",
+          "Causes fish to escape slower when you aren't reeling them in.",
+          "Sap (10) Copper Bar (1)",
+          "Fishing Level 6"
+        ],
+        [
+          "",
+          "Fiber Seeds (4)",
+          "Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow.",
+          "Sap (5) Clay (1) Mixed Seeds (1)",
+          "Linus (Special Order)"
+        ],
+        [
+          "",
+          "Quality Bobber",
+          "Boosts the quality of fish that you catch.",
+          "Sap (20) Copper Bar (1) Solar Essence (5)",
+          "Willy (Special Order)"
+        ],
+        [
+          "",
+          "Statue Of Blessings",
+          "Touching the statue gives a unique blessing every day.",
+          "Sap (999) Fiber (999) Stone (999) Moss (333)",
+          "Farming Mastery"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Hate",
+          "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Price",
+        "Requirements"
+      ],
+      "rows": [
+        [
+          "",
+          "Summer Squash Seeds",
+          "Plant in the summer. Takes 6 days to grow, and continues to produce after first harvest.",
+          "Sap (15)",
+          "1st Request Completed"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Foraging"
+      ],
+      "rows": [
+        [
+          "Basic",
+          "Sap"
+        ],
+        [
+          "Spring",
+          "Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish"
+        ],
+        [
+          "Summer",
+          "Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea"
+        ],
+        [
+          "Fall",
+          "Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum"
+        ],
+        [
+          "Winter",
+          "Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root"
+        ],
+        [
+          "The Beach",
+          "Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed"
+        ],
+        [
+          "The Mines",
+          "Cave Carrot • Purple Mushroom • Red Mushroom"
+        ],
+        [
+          "The Desert",
+          "Cactus Fruit • Coconut"
+        ],
+        [
+          "Skull Cavern",
+          "Dinosaur Egg • Fiddlehead Fern"
+        ],
+        [
+          "Ginger Island",
+          "Ginger • Magma Cap"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Sap#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trees",
+      "text": "Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slimes",
+      "text": "Slimes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Foraging",
+      "text": "foraged"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trees",
+      "text": "trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mahogany_Tree",
+      "text": "Mahogany Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slimes",
+      "text": "Slimes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slimes#Big_Slimes",
+      "text": "Big Slimes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Villager_Shops",
+      "text": "shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Calico_Egg",
+      "text": "Calico Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#Recipes",
+      "text": "1 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#Gifting",
+      "text": "2 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#Bundles",
+      "text": "3 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#Tailoring",
+      "text": "4 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#Quests",
+      "text": "5 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#Trading",
+      "text": "6 Trading"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap#History",
+      "text": "7 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Basic_Fertilizer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quality_Fertilizer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Deluxe_Fertilizer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi%27s_Walnut_Room",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Torch.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Torch",
+      "text": "Torch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood",
+      "text": "Wood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Trap_Bobber.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trap_Bobber",
+      "text": "Trap Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Bar",
+      "text": "Copper Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing#Fishing_Skill",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fiber_Seeds.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiber_Seeds",
+      "text": "Fiber Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clay",
+      "text": "Clay"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mixed_Seeds",
+      "text": "Mixed Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Community_Cleanup",
+      "text": "Special Order"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quality_Bobber.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Bobber",
+      "text": "Quality Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Bar",
+      "text": "Copper Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Essence",
+      "text": "Solar Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Juicy_Bugs_Wanted",
+      "text": "Special Order"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Statue_Of_Blessings.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Statue_Of_Blessings",
+      "text": "Statue Of Blessings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiber",
+      "text": "Fiber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone",
+      "text": "Stone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Moss",
+      "text": "Moss"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mastery_Cave#Masteries",
+      "text": "Farming Mastery"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Sticky_Bundle",
+      "text": "Sticky Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Crafts_Room",
+      "text": "Crafts Room (Remixed)"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tan Striped Shirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests",
+      "text": "quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Giant_Stump",
+      "text": "Giant Stump"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Summer_Squash_Seeds.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash_Seeds",
+      "text": "Summer Squash Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiber_Seeds",
+      "text": "Fiber Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Bobber",
+      "text": "Quality Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash_Seeds",
+      "text": "Summer Squash Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring_Onion",
+      "text": "Spring Onion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Fern",
+      "text": "Fiddlehead Fern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom",
+      "text": "Red Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Pea",
+      "text": "Sweet Pea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blackberry",
+      "text": "Blackberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Plum",
+      "text": "Wild Plum"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crocus",
+      "text": "Crocus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystal_Fruit",
+      "text": "Crystal Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clam",
+      "text": "Clam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cockle",
+      "text": "Cockle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coral",
+      "text": "Coral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mussel",
+      "text": "Mussel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nautilus_Shell",
+      "text": "Nautilus Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oyster",
+      "text": "Oyster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Shell",
+      "text": "Rainbow Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seaweed",
+      "text": "Seaweed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cave_Carrot",
+      "text": "Cave Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mushroom",
+      "text": "Red Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "The Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coconut",
+      "text": "Coconut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skull_Cavern",
+      "text": "Skull Cavern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Fern",
+      "text": "Fiddlehead Fern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&oldid=190490",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&oldid=190490"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Sap",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Sap",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Sap&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Sap",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Sap",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&oldid=190490",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Harz",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Savia",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/S%C3%A8ve",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Linfa",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E6%A8%B9%E6%B6%B2",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%88%98%EC%95%A1",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Fanedv",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Seiva",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%BA",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/%C3%96z",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E6%A0%91%E6%B6%B2",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Poison.png/20px-Poison.png",
+      "alt": "Poison.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Calico_Egg.png/24px-Calico_Egg.png",
+      "alt": "Calico Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Basic_Fertilizer.png",
+      "alt": "Basic Fertilizer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Farming_Skill_Icon.png/24px-Farming_Skill_Icon.png",
+      "alt": "Farming Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Quality_Fertilizer.png",
+      "alt": "Quality Fertilizer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Farming_Skill_Icon.png/24px-Farming_Skill_Icon.png",
+      "alt": "Farming Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1c/Deluxe_Fertilizer.png",
+      "alt": "Deluxe Fertilizer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c4/Iridium_Bar.png/24px-Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4f/Mr._Qi_Icon.png/24px-Mr._Qi_Icon.png",
+      "alt": "Mr. Qi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Qi_Gem.png/24px-Qi_Gem.png",
+      "alt": "Qi Gem.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b2/Torch.png",
+      "alt": "Torch.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+      "alt": "Wood.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/da/Trap_Bobber.png",
+      "alt": "Trap Bobber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/24px-Copper_Bar.png",
+      "alt": "Copper Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e7/Fishing_Skill_Icon.png/24px-Fishing_Skill_Icon.png",
+      "alt": "Fishing Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/05/Fiber_Seeds.png",
+      "alt": "Fiber Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Clay.png/24px-Clay.png",
+      "alt": "Clay.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Mixed_Seeds.png/24px-Mixed_Seeds.png",
+      "alt": "Mixed Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Linus_Icon.png/24px-Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/01/Quality_Bobber.png",
+      "alt": "Quality Bobber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/24px-Copper_Bar.png",
+      "alt": "Copper Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png",
+      "alt": "Solar Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Willy_Icon.png/24px-Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Statue_Of_Blessings.png",
+      "alt": "Statue Of Blessings.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/45/Fiber.png/24px-Fiber.png",
+      "alt": "Fiber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d4/Stone.png/24px-Stone.png",
+      "alt": "Stone.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Moss.png/24px-Moss.png",
+      "alt": "Moss.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Mastery_Icon.png/24px-Mastery_Icon.png",
+      "alt": "Mastery Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/24px-Bundle_Yellow.png",
+      "alt": "Bundle Yellow.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Shirt006.png/24px-Shirt006.png",
+      "alt": "Shirt006.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Summer_Squash_Seeds.png",
+      "alt": "Summer Squash Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Sap - Stardew Valley Wiki",
+      "headline": "Sap - Stardew Valley Wiki",
+      "mainEntityOfPage": "Sap",
+      "identifier": "https://stardewvalleywiki.com/Sap",
+      "url": "https://stardewvalleywiki.com/Sap",
+      "description": "Sap is a foraged item that drops from trees when they are cut down. It is used in various crafting recipes. Sap can be consumed, however it decreases energy by 2 points.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Sap, gift",
+      "dateModified": "2026-01-12T19:36:27Z",
+      "datePublished": "2026-01-12T19:36:27Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Sap - Stardew Valley Wiki Sap From Stardew Valley Wiki Jump to navigation Jump to search Sap A fluid obtained from trees. Information Source Trees • Slimes Energy / Health −2 0 Sell Price data-sort-value=\"2\"> 2g Sap is a foraged item that drops from trees when they are cut down. It is used in various crafting recipes. Sap can be consumed, however it decreases energy by 2 points. Sap may also be obtained from tapping Mahogany Trees and all Slimes except Big Slimes . Vincent sells a Sap in his shop at the Desert Festival for data-sort-value=\"1\"> 1 Calico Egg . Contents 1 Recipes 2 Gifting 3 Bundles 4 Tailoring 5 Quests 6 Trading 7 History Recipes Image Name Description Ingredients Recipe Source Basic Fertilizer Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil. Sap (2) Farming Level 1 Quality Fertilizer (2) Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil. Sap (4) Any Fish (1) Farming Level 9 Deluxe Fertilizer (5) Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil. Sap (40) Iridium Bar (1) Mr. Qi ( data-sort-value=\"20\"> 20 ) Torch Provides a modest amount of light. Sap (2) Wood (1) Starter Trap Bobber Causes fish to escape slower when you aren't reeling them in. Sap (10) Copper Bar (1) Fishing Level 6 Fiber Seeds (4) Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow. Sap (5) Clay (1) Mixed Seeds (1) Linus ( Special Order ) Quality Bobber Boosts the quality of fish that you catch. Sap (20) Copper Bar (1) Solar Essence (5) Willy ( Special Order ) Statue Of Blessings Touching the statue gives a unique blessing every day. Sap (999) Fiber (999) Stone (999) Moss (333) Farming Mastery Gifting Villager Reactions Hate Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard Bundles Five hundred Sap are required in the Sticky Bundle in the Crafts Room (Remixed) . Tailoring Sap is used in the spool of the Sewing Machine with Cloth in the feed to create a Tan Striped Shirt . It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at Emily's and Haley's house for use in dyeing . Quests Sap is not used in any quests . Trading Once unlocked, the Raccoon's wife near the Giant Stump will trade for Sap. Image Name Description Price Requirements Summer Squash Seeds Plant in the summer. Takes 6 days to grow, and continues to produce after first harvest. Sap (15) 1st Request Completed History 1.4 : Can now be used in Tailoring . 1.5 : Used as an ingredient to the Deluxe Fertilizer , Fiber Seeds , and Quality Bobber recipes. Is now used in the Sticky Bundle. 1.6 : Can now be traded for Summer Squash Seeds . Recipe for Quality Fertilizer changed. Can now be purchased at Desert Festival . Foraging Basic Sap Spring Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish Summer Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea Fall Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum Winter Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root The Beach Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed The Mines Cave Carrot • Purple Mushroom • Red Mushroom The Desert Cactus Fruit • Coconut Skull Cavern Dinosaur Egg • Fiddlehead Fern Ginger Island Ginger • Magma Cap Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Sap&oldid=190490 \" Category : Foraging Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 12 January 2026, at 19:36. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

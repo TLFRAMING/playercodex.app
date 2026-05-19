@@ -1,0 +1,990 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Greenhouse",
+  "finalUrl": "https://stardewvalleywiki.com/Greenhouse",
+  "fetchedAt": "2026-05-18T05:02:23.254688+00:00",
+  "title": "Greenhouse - Stardew Valley Wiki",
+  "description": "The Greenhouse is a building present on the farm from the start. It is initially in a state of disrepair, making it unusable. It can be repaired by completing the Pantry Bundles for the Community Center or by purchasing \"Greenhouse\" from the Joja Community Development Form for data-sort-value=\"35000\">35,000g. Once repaired, it can be moved by talking to Robin at the Carpenter's Shop.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Greenhouse"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Basics"
+    },
+    {
+      "level": 3,
+      "text": "Advanced tips"
+    },
+    {
+      "level": 2,
+      "text": "Watering"
+    },
+    {
+      "level": 3,
+      "text": "Sprinklers"
+    },
+    {
+      "level": 3,
+      "text": "Retaining Soil"
+    },
+    {
+      "level": 2,
+      "text": "Fruit Trees"
+    },
+    {
+      "level": 2,
+      "text": "Gallery"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Greenhouse"
+        ],
+        [
+          ""
+        ],
+        [
+          "A place to grow crops from any season, year round!"
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Build cost",
+          "Complete Pantry Bundles ordata-sort-value=\"35000\">35,000g for Joja"
+        ],
+        [
+          "Build materials",
+          "N/A"
+        ],
+        [
+          "Size",
+          "7x6 + 3x2"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Buildings"
+      ],
+      "rows": [
+        [
+          "Merchants",
+          "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+        ],
+        [
+          "Houses",
+          "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+        ],
+        [
+          "Farm Buildings",
+          "Farming",
+          "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+        ],
+        [
+          "Special",
+          "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+        ],
+        [
+          "Other Buildings",
+          "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Greenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Pantry",
+      "text": "Pantry Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Joja_Community_Development_Form",
+      "text": "Joja"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Marker7x6_3x2.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Pantry",
+      "text": "Pantry Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Joja_Community_Development_Form",
+      "text": "Joja Community Development Form"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "Carpenter's Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Basics",
+      "text": "1 Basics"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Advanced_tips",
+      "text": "1.1 Advanced tips"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Watering",
+      "text": "2 Watering"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Sprinklers",
+      "text": "2.1 Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Retaining_Soil",
+      "text": "2.2 Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Fruit_Trees",
+      "text": "3 Fruit Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#Gallery",
+      "text": "4 Gallery"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse#History",
+      "text": "5 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seasons",
+      "text": "season"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scarecrow",
+      "text": "Scarecrows"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Watering_Cans",
+      "text": "Watering Can"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "fruit trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Sprinklers",
+      "text": "sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee houses"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplants"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Peppers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Sprinklers",
+      "text": "automated sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "iridium sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "text": "quality sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Optimal_Greenhouse_Sprinkler.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sprinkler",
+      "text": "Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Optimal_Greenhouse_Quality_Sprinkler.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "text": "Quality Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Optimaliridiumgreenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:CheaperPressuregreenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler#Upgrades",
+      "text": "Pressure Nozzle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:OptimalPressuregreenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler#Upgrades",
+      "text": "Pressure Nozzle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Retaining_Soil",
+      "text": "Deluxe Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Optimalgreenhousefinal.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Broken_Greenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Greenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Empty_Greenhouse.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Greenhouse18Trees.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.0",
+      "text": "1.0"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.07",
+      "text": "1.07"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.1",
+      "text": "1.1"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.3.27",
+      "text": "1.3.27"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "Robin's Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fertilizer",
+      "text": "Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seasons",
+      "text": "season"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abandoned_House",
+      "text": "Abandoned House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Adventurer%27s_Guild",
+      "text": "Adventurer's Guild"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bookseller",
+      "text": "Bookseller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "Carpenter's Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Casino",
+      "text": "Casino"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Trader",
+      "text": "Desert Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Giant_Stump",
+      "text": "Giant Stump"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ice_Cream_Stand",
+      "text": "Ice Cream Stand"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Trader",
+      "text": "Island Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/JojaMart",
+      "text": "JojaMart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie%27s_Ranch",
+      "text": "Marnie's Ranch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oasis",
+      "text": "Oasis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi%27s_Walnut_Room",
+      "text": "Qi's Walnut Room"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon#Shop",
+      "text": "Volcano Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard's Tower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/1_River_Road",
+      "text": "1 River Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "2 River Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/1_Willow_Lane",
+      "text": "1 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "24 Mountain Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott%27s_Cabin",
+      "text": "Elliott's Cabin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmhouse",
+      "text": "Farmhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Farmhouse",
+      "text": "Island Farmhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah%27s_Cottage",
+      "text": "Leah's Cottage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tent",
+      "text": "Tent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "Trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Treehouse",
+      "text": "Treehouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Barn",
+      "text": "Barn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cabin",
+      "text": "Cabin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coop",
+      "text": "Coop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond",
+      "text": "Fish Pond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mill",
+      "text": "Mill"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pet_Bowl",
+      "text": "Pet Bowl"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shed",
+      "text": "Shed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Silo",
+      "text": "Silo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Hutch",
+      "text": "Slime Hutch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stable",
+      "text": "Stable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Well",
+      "text": "Well"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Obelisk",
+      "text": "Desert Obelisk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Earth_Obelisk",
+      "text": "Earth Obelisk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Obelisk",
+      "text": "Farm Obelisk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Clock",
+      "text": "Gold Clock"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Obelisk",
+      "text": "Island Obelisk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimo_Hut",
+      "text": "Junimo Hut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Water_Obelisk",
+      "text": "Water Obelisk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dog_Pen",
+      "text": "Dog Pen"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Field_Office",
+      "text": "Island Field Office"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Joja_Warehouse",
+      "text": "Joja Warehouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Museum",
+      "text": "Museum"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spa",
+      "text": "Spa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Hut",
+      "text": "Witch's Hut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&oldid=186336",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&oldid=186336"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Farm_buildings",
+      "text": "Farm buildings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Greenhouse",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Greenhouse",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Greenhouse",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Greenhouse",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Greenhouse",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&oldid=186336",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Gew%C3%A4chshaus",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Invernadero",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Serre",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Serra",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E6%B8%A9%E5%AE%A4",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%98%A8%EC%8B%A4",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/%C3%9Cvegh%C3%A1z",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Estufa",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A2%D0%B5%D0%BF%D0%BB%D0%B8%D1%86%D0%B0",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Sera",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E6%B8%A9%E5%AE%A4",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/Greenhouse.png/170px-Greenhouse.png",
+      "alt": "Greenhouse.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/02/Marker7x6_3x2.png",
+      "alt": "7x6 3x2"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7b/Optimal_Greenhouse_Sprinkler.png/263px-Optimal_Greenhouse_Sprinkler.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Optimal_Greenhouse_Quality_Sprinkler.png/263px-Optimal_Greenhouse_Quality_Sprinkler.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Optimaliridiumgreenhouse.png/263px-Optimaliridiumgreenhouse.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bc/CheaperPressuregreenhouse.png/263px-CheaperPressuregreenhouse.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/OptimalPressuregreenhouse.png/263px-OptimalPressuregreenhouse.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Optimalgreenhousefinal.png/301px-Optimalgreenhousefinal.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/96/Broken_Greenhouse.png/126px-Broken_Greenhouse.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/Greenhouse.png/126px-Greenhouse.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/29/Empty_Greenhouse.png/145px-Empty_Greenhouse.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Greenhouse18Trees.png/153px-Greenhouse18Trees.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Greenhouse - Stardew Valley Wiki",
+      "headline": "Greenhouse - Stardew Valley Wiki",
+      "mainEntityOfPage": "Greenhouse",
+      "identifier": "https://stardewvalleywiki.com/Greenhouse",
+      "url": "https://stardewvalleywiki.com/Greenhouse",
+      "description": "The Greenhouse is a building present on the farm from the start. It is initially in a state of disrepair, making it unusable. It can be repaired by completing the Pantry Bundles for the Community Center or by purchasing \"Greenhouse\" from the Joja Community Development Form for data-sort-value=\"35000\"&gt;35,000g. Once repaired, it can be moved by talking to Robin at the Carpenter's Shop.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Greenhouse, gift",
+      "dateModified": "2025-05-08T12:07:12Z",
+      "datePublished": "2025-05-08T12:07:12Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Greenhouse - Stardew Valley Wiki Greenhouse From Stardew Valley Wiki Jump to navigation Jump to search Greenhouse A place to grow crops from any season, year round! Information Build cost Complete Pantry Bundles or data-sort-value=\"35000\"> 35,000g for Joja Build materials N/A Size 7x6 + 3x2 The Greenhouse is a building present on the farm from the start. It is initially in a state of disrepair, making it unusable. It can be repaired by completing the Pantry Bundles for the Community Center or by purchasing \"Greenhouse\" from the Joja Community Development Form for data-sort-value=\"35000\"> 35,000g . Once repaired, it can be moved by talking to Robin at the Carpenter's Shop . Contents 1 Basics 1.1 Advanced tips 2 Watering 2.1 Sprinklers 2.2 Retaining Soil 3 Fruit Trees 4 Gallery 5 History Basics The interior of the building features a 10-row-by-12-column plot of land. There, Crops can be planted, grown, and harvested at any time of year without reference to normal season restrictions. Scarecrows are not required in the greenhouse to prevent crows from eating crops. Crops still need to be watered, even on rainy days. There is a water trough along the north wall, where the Watering Can can be refilled. Crops that regrow will continuously regrow and not die at the end of any season. There is a wood border one tile thick surrounding the crop rectangle. It is possible to place sprinklers on this border to water any of the tiles of the crop land within its reach. Between the wood border and the greenhouse walls is a region two tiles thick that is unsuitable for crops, and populated along the walls with decorative items (plants, tools, barrels, water trough). It is possible to plant fruit trees at any spot in this region not occupied by decorations, so long as there are two tiles between fruit trees. Fruit trees cannot be planted in the corners of the Greenhouse. Neither the greenhouse wall nor the wood border itself will impede the growth of the fruit trees, although a one-space separation must be maintained between the tree and any items (like sprinklers ) that are placed on the wood border or exterior region during the time the tree is growing. Advanced tips There are some additional special conditions about the greenhouse that bear mentioning: As with scarecrows, because the field is indoors, crops and fruit trees in the greenhouse will never be hit by lightning. Bee houses placed inside of the greenhouse produce no honey. Giant Crops are unable to grow in the greenhouse. The shadow that appears on the left side of the Greenhouse's building can be placed over tilled land, but it cannot be tilled. Multiple harvest crops and fertilizer will never disappear from the greenhouse unless removed by the player. This is also true on Ginger Island . A cheap seed such as wheat or parsnip can be used in such a case to keep the fertilizer intact. Because multiple harvest crops will never disappear at the end of season, this makes it especially profitable to plant Ancient Fruit , Strawberry , Blueberry , or Cranberries inside the greenhouse. Corn , Eggplants , and Hot Peppers are also affected by this, as well as trellis crops including Green Bean , Hops , and Grape . However, these are slightly less profitable and in the case of trellises, it is slightly harder to place them as they cannot be walked over. Watering Sprinklers To use automated sprinklers to water crops, some soil tiles must be sacrificed to place the sprinklers. The growing area is too large for any sprinkler to water the center from any edge. In addition, the 12-by-10 shape of the farmable area cannot be covered only with the square shapes of sprinkler watering. The many possibilities yield various optimal sprinkler placements that cover the soil tiles while using the fewest possible sprinklers in plantable locations. Some sprinklers are inevitably placed on the wooden border. With iridium sprinklers , only 4 crop spaces (≈3.3%) must be taken, while with quality sprinklers , 12 crop spaces (10%) are occupied. 33 Sprinklers . 24 crop spaces are occupied by sprinklers (20%), leaving room for 96 plants. 16 Quality Sprinklers . 12 crop spaces are occupied by sprinklers (10%), leaving room for 108 plants. 6 Iridium Sprinklers . Only 4 crop spaces are taken by sprinklers (≈3.3%), leaving room for 116 plants. 4 Iridium Sprinklers with Pressure Nozzle upgrades. Only 2 crop spaces are taken by sprinklers, leaving room for 118 plants. 5 Iridium Sprinklers with Pressure Nozzle upgrades. Only 1 crop space is taken by a sprinkler, leaving room for 119 plants. Retaining Soil An alternative to sprinklers is Deluxe Retaining Soil . It can be used on a crop at any stage of growth, and has a 100% chance of staying watered overnight. It therefore eliminates the need for sprinklers entirely, which frees up crop space. It is also cost-efficient as the fertilizer only has to be crafted once. Fruit Trees Fruit trees can be grown on any tile in the exterior region of the greenhouse that is unoccupied by decorations, so long as other tiles adjacent to each tree are empty of items the player has placed there. Neither the greenhouse walls nor the wood border around the crop rectangle alone impede fruit tree growth. Fruit Trees cannot be planted in the corners of the Greenhouse. In the greenhouse, fruit trees will always show their summer sprite. It is possible to grow as many as 18 fruit trees inside the greenhouse. This gives a yield of 54 fruit every 3 days. One possible optimal placement is shown below. 6 Iridium Sprinklers and 18 Fruit Trees placed to maximize planting space and trees. Gallery Initially Repaired Inside 18 Trees History 1.0 : Introduced. 1.07 : Fruit trees can no longer be planted on perimeter tiles around the soil area. 1.1 : Fruit trees can once again be planted on outside perimeter tiles. 1.3.27 : Fruit trees can no longer be planted on top of decorations in the greenhouse border, or in the corners of the greenhouse. 1.5 : Once unlocked, the greenhouse can now be moved at Robin's Shop . Fertilizer in the greenhouse no longer disappears on season change in some cases. Buildings Merchants Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower Houses 1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse Farm Buildings Farming Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well Special Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk Other Buildings Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&oldid=186336 \" Category : Farm buildings Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 8 May 2025, at 12:07. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

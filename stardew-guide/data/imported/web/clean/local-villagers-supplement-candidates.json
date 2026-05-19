@@ -1,0 +1,546 @@
+[
+  {
+    "slug": "kent",
+    "matchedName": "Kent",
+    "candidateFields": {
+      "nameZh": "肯特",
+      "descriptionZh": "第二年春季回家的退伍军人；乔迪丈夫",
+      "backgroundZh": "第二年春季回家的退伍军人；乔迪丈夫"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Kent.png"
+  },
+  {
+    "slug": "lewis",
+    "matchedName": "Lewis",
+    "candidateFields": {
+      "nameZh": "刘易斯",
+      "descriptionZh": "鹈鹕镇镇长",
+      "backgroundZh": "鹈鹕镇镇长"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Lewis.png"
+  },
+  {
+    "slug": "vincent",
+    "matchedName": "Vincent",
+    "candidateFields": {
+      "nameZh": "文森特",
+      "descriptionZh": "乔迪和肯特的小儿子；山姆弟弟",
+      "backgroundZh": "乔迪和肯特的小儿子；山姆弟弟"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Vincent.png"
+  },
+  {
+    "slug": "haley",
+    "matchedName": "Haley",
+    "candidateFields": {
+      "nameZh": "海莉",
+      "descriptionZh": "艾米丽妹妹；喜欢摄影和时尚",
+      "backgroundZh": "艾米丽妹妹；喜欢摄影和时尚"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Haley.png"
+  },
+  {
+    "slug": "pam",
+    "matchedName": "Pam",
+    "candidateFields": {
+      "nameZh": "潘姆",
+      "descriptionZh": "潘妮母亲；巴士司机",
+      "backgroundZh": "潘妮母亲；巴士司机"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Pam.png"
+  },
+  {
+    "slug": "shane",
+    "matchedName": "Shane",
+    "candidateFields": {
+      "nameZh": "谢恩",
+      "descriptionZh": "玛妮的侄子；初期在 JojaMart 工作",
+      "backgroundZh": "玛妮的侄子；初期在 JojaMart 工作"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Shane.png"
+  },
+  {
+    "slug": "pierre",
+    "matchedName": "Pierre",
+    "candidateFields": {
+      "nameZh": "皮埃尔",
+      "descriptionZh": "杂货店老板；卡洛琳丈夫、阿比盖尔父亲",
+      "backgroundZh": "杂货店老板；卡洛琳丈夫、阿比盖尔父亲"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Pierre.png"
+  },
+  {
+    "slug": "emily",
+    "matchedName": "Emily",
+    "candidateFields": {
+      "nameZh": "艾米丽",
+      "descriptionZh": "海莉的姐姐；星之果实餐吧兼职",
+      "backgroundZh": "海莉的姐姐；星之果实餐吧兼职"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Emily.png"
+  },
+  {
+    "slug": "jas",
+    "matchedName": "Jas",
+    "candidateFields": {
+      "nameZh": "贾斯",
+      "descriptionZh": "玛妮照顾的孩子；常和文森特一起上课",
+      "backgroundZh": "玛妮照顾的孩子；常和文森特一起上课"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Jas.png"
+  },
+  {
+    "slug": "gus",
+    "matchedName": "Gus",
+    "candidateFields": {
+      "nameZh": "格斯",
+      "descriptionZh": "餐吧老板",
+      "backgroundZh": "餐吧老板"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Gus.png"
+  },
+  {
+    "slug": "maru",
+    "matchedName": "Maru",
+    "candidateFields": {
+      "nameZh": "玛鲁",
+      "descriptionZh": "德米特里厄斯和罗宾的女儿；诊所兼职",
+      "backgroundZh": "德米特里厄斯和罗宾的女儿；诊所兼职"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Maru.png"
+  },
+  {
+    "slug": "alex",
+    "matchedName": "Alex",
+    "candidateFields": {
+      "nameZh": "亚历克斯",
+      "descriptionZh": "乔治、艾芙琳的孙子；运动型角色",
+      "backgroundZh": "乔治、艾芙琳的孙子；运动型角色"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Alex.png"
+  },
+  {
+    "slug": "sam",
+    "matchedName": "Sam",
+    "candidateFields": {
+      "nameZh": "山姆",
+      "descriptionZh": "乔迪和肯特的儿子；乐队成员",
+      "backgroundZh": "乔迪和肯特的儿子；乐队成员"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Sam.png"
+  },
+  {
+    "slug": "demetrius",
+    "matchedName": "Demetrius",
+    "candidateFields": {
+      "nameZh": "德米特里厄斯",
+      "descriptionZh": "科学家；罗宾丈夫，玛鲁父亲，塞巴斯蒂安继父",
+      "backgroundZh": "科学家；罗宾丈夫，玛鲁父亲，塞巴斯蒂安继父"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Demetrius.png"
+  },
+  {
+    "slug": "dwarf",
+    "matchedName": "Dwarf",
+    "candidateFields": {
+      "nameZh": "矮人",
+      "descriptionZh": "矿井中的矮人商人；需要理解矮人语后正常互动",
+      "backgroundZh": "矿井中的矮人商人；需要理解矮人语后正常互动"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Dwarf.png"
+  },
+  {
+    "slug": "willy",
+    "matchedName": "Willy",
+    "candidateFields": {
+      "nameZh": "威利",
+      "descriptionZh": "渔夫；教玩家钓鱼",
+      "backgroundZh": "渔夫；教玩家钓鱼"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Willy.png"
+  },
+  {
+    "slug": "leo",
+    "matchedName": "Leo",
+    "candidateFields": {
+      "nameZh": "雷欧",
+      "descriptionZh": "姜岛上的孩子；好感推进后搬到鹈鹕镇附近",
+      "backgroundZh": "姜岛上的孩子；好感推进后搬到鹈鹕镇附近"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Leo.png"
+  },
+  {
+    "slug": "penny",
+    "matchedName": "Penny",
+    "candidateFields": {
+      "nameZh": "潘妮",
+      "descriptionZh": "潘姆女儿；给孩子们上课",
+      "backgroundZh": "潘姆女儿；给孩子们上课"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Penny.png"
+  },
+  {
+    "slug": "elliott",
+    "matchedName": "Elliott",
+    "candidateFields": {
+      "nameZh": "艾利欧特",
+      "descriptionZh": "住在海滩小屋的作家",
+      "backgroundZh": "住在海滩小屋的作家"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Elliott.png"
+  },
+  {
+    "slug": "jodi",
+    "matchedName": "Jodi",
+    "candidateFields": {
+      "nameZh": "乔迪",
+      "descriptionZh": "山姆、文森特的母亲；肯特妻子",
+      "backgroundZh": "山姆、文森特的母亲；肯特妻子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Jodi.png"
+  },
+  {
+    "slug": "abigail",
+    "matchedName": "Abigail",
+    "candidateFields": {
+      "nameZh": "阿比盖尔",
+      "descriptionZh": "皮埃尔、卡洛琳的女儿；常和山姆、塞巴斯蒂安来往",
+      "backgroundZh": "皮埃尔、卡洛琳的女儿；常和山姆、塞巴斯蒂安来往"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Abigail.png"
+  },
+  {
+    "slug": "sandy",
+    "matchedName": "Sandy",
+    "candidateFields": {
+      "nameZh": "桑迪",
+      "descriptionZh": "沙漠绿洲商店老板",
+      "backgroundZh": "沙漠绿洲商店老板"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Sandy.png"
+  },
+  {
+    "slug": "marnie",
+    "matchedName": "Marnie",
+    "candidateFields": {
+      "nameZh": "玛妮",
+      "descriptionZh": "牧场主；照顾谢恩和贾斯",
+      "backgroundZh": "牧场主；照顾谢恩和贾斯"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Marnie.png"
+  },
+  {
+    "slug": "robin",
+    "matchedName": "Robin",
+    "candidateFields": {
+      "nameZh": "罗宾",
+      "descriptionZh": "木匠；德米特里厄斯妻子，玛鲁母亲",
+      "backgroundZh": "木匠；德米特里厄斯妻子，玛鲁母亲"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Robin.png"
+  },
+  {
+    "slug": "george",
+    "matchedName": "George",
+    "candidateFields": {
+      "nameZh": "乔治",
+      "descriptionZh": "艾芙琳丈夫，亚历克斯爷爷",
+      "backgroundZh": "艾芙琳丈夫，亚历克斯爷爷"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/George.png"
+  },
+  {
+    "slug": "krobus",
+    "matchedName": "Krobus",
+    "candidateFields": {
+      "nameZh": "科罗布斯",
+      "descriptionZh": "下水道商人；可成为室友但不能结婚",
+      "backgroundZh": "下水道商人；可成为室友但不能结婚"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Krobus.png"
+  },
+  {
+    "slug": "linus",
+    "matchedName": "Linus",
+    "candidateFields": {
+      "nameZh": "莱纳斯",
+      "descriptionZh": "住在山区帐篷的隐士",
+      "backgroundZh": "住在山区帐篷的隐士"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Linus.png"
+  },
+  {
+    "slug": "caroline",
+    "matchedName": "Caroline",
+    "candidateFields": {
+      "nameZh": "卡洛琳",
+      "descriptionZh": "皮埃尔的妻子、阿比盖尔的母亲",
+      "backgroundZh": "皮埃尔的妻子、阿比盖尔的母亲"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Caroline.png"
+  },
+  {
+    "slug": "sebastian",
+    "matchedName": "Sebastian",
+    "candidateFields": {
+      "nameZh": "塞巴斯蒂安",
+      "descriptionZh": "罗宾的儿子；程序员，常待在地下室",
+      "backgroundZh": "罗宾的儿子；程序员，常待在地下室"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Sebastian.png"
+  },
+  {
+    "slug": "harvey",
+    "matchedName": "Harvey",
+    "candidateFields": {
+      "nameZh": "哈维",
+      "descriptionZh": "镇上的医生",
+      "backgroundZh": "镇上的医生"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Harvey.png"
+  },
+  {
+    "slug": "wizard",
+    "matchedName": "Wizard",
+    "candidateFields": {
+      "nameZh": "法师",
+      "descriptionZh": "拉斯莫迪乌斯；住在法师塔",
+      "backgroundZh": "拉斯莫迪乌斯；住在法师塔"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Wizard.png"
+  },
+  {
+    "slug": "evelyn",
+    "matchedName": "Evelyn",
+    "candidateFields": {
+      "nameZh": "艾芙琳",
+      "descriptionZh": "乔治妻子，亚历克斯奶奶",
+      "backgroundZh": "乔治妻子，亚历克斯奶奶"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Evelyn.png"
+  },
+  {
+    "slug": "leah",
+    "matchedName": "Leah",
+    "candidateFields": {
+      "nameZh": "莉亚",
+      "descriptionZh": "住在森林小屋的艺术家",
+      "backgroundZh": "住在森林小屋的艺术家"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Leah.png"
+  },
+  {
+    "slug": "clint",
+    "matchedName": "Clint",
+    "candidateFields": {
+      "nameZh": "克林特",
+      "descriptionZh": "铁匠；可升级工具与开晶球",
+      "backgroundZh": "铁匠；可升级工具与开晶球"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_villagers_data_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "backgroundZh"
+    ],
+    "iconUrlForReviewOnly": "https://wiki.stardewvalley.net/Special:Redirect/file/Clint.png"
+  }
+]

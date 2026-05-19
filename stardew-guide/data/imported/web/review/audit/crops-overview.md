@@ -1,0 +1,141 @@
+# Web Extraction Review
+
+- Source URL: https://stardewvalleywiki.com/Crops
+- Final URL: https://stardewvalleywiki.com/Crops
+- Title: Crops - Stardew Valley Wiki
+- Canonical URL: n/a
+- Confidence: high
+- Recommendation: approve for cleaning
+
+## Tables
+- Table 0: 1 headers, 2 rows, caption: none
+- Table 1: 1 headers, 1 rows, caption: none
+- Table 2: 0 headers, 4 rows, caption: none
+- Table 3: 0 headers, 4 rows, caption: none
+- Table 4: 0 headers, 4 rows, caption: none
+- Table 5: 0 headers, 4 rows, caption: none
+- Table 6: 0 headers, 4 rows, caption: none
+- Table 7: 0 headers, 4 rows, caption: none
+- Table 8: 0 headers, 4 rows, caption: none
+- Table 9: 0 headers, 4 rows, caption: none
+- Table 10: 0 headers, 4 rows, caption: none
+- Table 11: 0 headers, 4 rows, caption: none
+- Table 12: 0 headers, 4 rows, caption: none
+- Table 13: 0 headers, 4 rows, caption: none
+- Table 14: 0 headers, 4 rows, caption: none
+- Table 15: 0 headers, 4 rows, caption: none
+- Table 16: 0 headers, 4 rows, caption: none
+- Table 17: 0 headers, 4 rows, caption: none
+- Table 18: 0 headers, 4 rows, caption: none
+- Table 19: 0 headers, 4 rows, caption: none
+- Table 20: 0 headers, 4 rows, caption: none
+- Table 21: 0 headers, 4 rows, caption: none
+- Table 22: 0 headers, 4 rows, caption: none
+- Table 23: 0 headers, 4 rows, caption: none
+- Table 24: 0 headers, 4 rows, caption: none
+- Table 25: 0 headers, 4 rows, caption: none
+- Table 26: 0 headers, 4 rows, caption: none
+- Table 27: 0 headers, 4 rows, caption: none
+- Table 28: 0 headers, 4 rows, caption: none
+- Table 29: 0 headers, 4 rows, caption: none
+- Table 30: 0 headers, 4 rows, caption: none
+- Table 31: 0 headers, 4 rows, caption: none
+- Table 32: 0 headers, 4 rows, caption: none
+- Table 33: 0 headers, 4 rows, caption: none
+- Table 34: 0 headers, 4 rows, caption: none
+- Table 35: 0 headers, 4 rows, caption: none
+- Table 36: 0 headers, 4 rows, caption: none
+- Table 37: 0 headers, 4 rows, caption: none
+- Table 38: 0 headers, 4 rows, caption: none
+- Table 39: 0 headers, 4 rows, caption: none
+- Table 40: 0 headers, 4 rows, caption: none
+- Table 41: 0 headers, 4 rows, caption: none
+- Table 42: 0 headers, 4 rows, caption: none
+- Table 43: 0 headers, 4 rows, caption: none
+- Table 44: 0 headers, 4 rows, caption: none
+- Table 45: 0 headers, 4 rows, caption: none
+- Table 46: 0 headers, 4 rows, caption: none
+- Table 47: 0 headers, 4 rows, caption: none
+- Table 48: 0 headers, 4 rows, caption: none
+- Table 49: 0 headers, 4 rows, caption: none
+- Table 50: 0 headers, 4 rows, caption: none
+- Table 51: 0 headers, 4 rows, caption: none
+- Table 52: 0 headers, 4 rows, caption: none
+- Table 53: 0 headers, 4 rows, caption: none
+- Table 54: 0 headers, 4 rows, caption: none
+- Table 55: 0 headers, 4 rows, caption: none
+- Table 56: 0 headers, 4 rows, caption: none
+- Table 57: 0 headers, 4 rows, caption: none
+- Table 58: 0 headers, 4 rows, caption: none
+- Table 59: 0 headers, 4 rows, caption: none
+- Table 60: 0 headers, 4 rows, caption: none
+- Table 61: 0 headers, 4 rows, caption: none
+- Table 62: 0 headers, 4 rows, caption: none
+- Table 63: 0 headers, 4 rows, caption: none
+- Table 64: 0 headers, 4 rows, caption: none
+- Table 65: 0 headers, 4 rows, caption: none
+- Table 66: 0 headers, 4 rows, caption: none
+- Table 67: 0 headers, 4 rows, caption: none
+- Table 68: 0 headers, 4 rows, caption: none
+- Table 69: 0 headers, 4 rows, caption: none
+- Table 70: 0 headers, 4 rows, caption: none
+- Table 71: 0 headers, 4 rows, caption: none
+- Table 72: 0 headers, 4 rows, caption: none
+- Table 73: 0 headers, 4 rows, caption: none
+- Table 74: 0 headers, 4 rows, caption: none
+- Table 75: 0 headers, 4 rows, caption: none
+- Table 76: 0 headers, 4 rows, caption: none
+- Table 77: 0 headers, 4 rows, caption: none
+- Table 78: 0 headers, 4 rows, caption: none
+- Table 79: 9 headers, 2 rows, caption: none
+- Table 80: 2 headers, 5 rows, caption: none
+- Table 81: 2 headers, 5 rows, caption: none
+- Table 82: 0 headers, 4 rows, caption: none
+- Table 83: 0 headers, 4 rows, caption: none
+- Table 84: 0 headers, 4 rows, caption: none
+- Table 85: 0 headers, 4 rows, caption: none
+- Table 86: 0 headers, 4 rows, caption: none
+- Table 87: 0 headers, 1 rows, caption: none
+- Table 88: 1 headers, 5 rows, caption: none
+
+## JSON-LD
+- Blocks parsed: 1
+
+## Headings
+- h1: Crops
+- h2: Contents
+- h2: Basics
+- h3: Monsters
+- h3: Crows
+- h3: Farm Animals
+- h3: Fertilizing and Planting
+- h3: Trellis Crops
+- h3: Grow Times
+- h3: End of Season
+- h3: Giant Crops
+- h3: Crop Quality
+- h3: Gold per Day
+- h2: Spring Crops
+- h3: Blue Jazz
+- h3: Carrot
+- h3: Cauliflower
+- h3: Coffee Bean
+- h3: Garlic
+- h3: Green Bean
+- h3: Kale
+- h3: Parsnip
+- h3: Potato
+- h3: Rhubarb
+- h3: Strawberry
+- h3: Tulip
+- h3: Unmilled Rice
+- h2: Summer Crops
+- h3: Blueberry
+- h3: Corn
+
+## Warnings
+- None.
+
+## Candidate Facts
+- Review raw JSON before converting any value into production data.
+- Mark uncertain or missing values as `needs verification`.

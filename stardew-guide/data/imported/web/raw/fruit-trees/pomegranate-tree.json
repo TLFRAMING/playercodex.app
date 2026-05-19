@@ -1,0 +1,678 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Pomegranate_Tree",
+  "finalUrl": "https://stardewvalleywiki.com/Pomegranate_Tree",
+  "fetchedAt": "2026-05-18T20:02:46.295329+00:00",
+  "title": "Pomegranate Tree - Stardew Valley Wiki",
+  "description": "The Pomegranate Tree is a type of fruit tree. It takes 28 days to grow to maturity, after which it will produce one Pomegranate each day during the Fall. It can only grow in the center of a 3x3 square, each square of which must be kept completely clear of objects, flooring, and terrain features (including grass). The 3x3 grid must not overlap the 3x3 grid of another Fruit Tree.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Pomegranate Tree"
+    },
+    {
+      "level": 2,
+      "text": "Stages of Growth"
+    },
+    {
+      "level": 2,
+      "text": "Gallery"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Pomegranate Tree"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Sapling:",
+          "Pomegranate Sapling"
+        ],
+        [
+          "Sapling Price:",
+          "data-sort-value=\"6000\">6,000g"
+        ],
+        [
+          "Sapling Price:",
+          "data-sort-value=\"1500\"4,500–7,500g"
+        ],
+        [
+          "Produce:",
+          "Pomegranate"
+        ],
+        [
+          "Growth Time:",
+          "28 days"
+        ],
+        [
+          "Harvest Season:",
+          "Fall"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Stage 5 - Spring, Summer, Fall, Winter"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7 Days",
+          "7 Days",
+          "7 Days",
+          "7 Days",
+          "Total: 28 Days"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Trees"
+      ],
+      "rows": [
+        [
+          "Trees",
+          "Green Rain Trees • Mahogany Tree • Maple Tree • Mushroom Tree • Mystic Tree • Oak Tree • Palm Tree • Pine Tree"
+        ],
+        [
+          "Fruit Trees",
+          "Apple Tree • Apricot Tree • Banana Tree • Cherry Tree • Mango Tree • Orange Tree • Peach Tree • Pomegranate Tree"
+        ],
+        [
+          "Seeds",
+          "Acorn • Mahogany Seed • Maple Seed • Mossy Seed • Mushroom Tree Seed • Pine Cone • Mystic Tree Seed"
+        ],
+        [
+          "Fruit",
+          "Apple • Apricot • Banana • Cherry • Mango • Orange • Peach • Pomegranate"
+        ],
+        [
+          "Misc",
+          "Large Log • Large Stump • Tea Bush"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Tree#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Tree#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Sapling",
+      "text": "Pomegranate Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate",
+      "text": "Pomegranate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "fruit tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate",
+      "text": "Pomegranate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Weather",
+      "text": "storm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Greenhouse",
+      "text": "Greenhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:PomegranateTreeLightning.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:PomegranateTreeLightning.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Sapling",
+      "text": "Pomegranate Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trees",
+      "text": "Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trees",
+      "text": "Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Rain_Trees",
+      "text": "Green Rain Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mahogany_Tree",
+      "text": "Mahogany Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Tree",
+      "text": "Maple Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Tree",
+      "text": "Mushroom Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mystic_Tree",
+      "text": "Mystic Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oak_Tree",
+      "text": "Oak Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Palm_Tree",
+      "text": "Palm Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pine_Tree",
+      "text": "Pine Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apple_Tree",
+      "text": "Apple Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apricot_Tree",
+      "text": "Apricot Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Banana_Tree",
+      "text": "Banana Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cherry_Tree",
+      "text": "Cherry Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Tree",
+      "text": "Mango Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Orange_Tree",
+      "text": "Orange Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach_Tree",
+      "text": "Peach Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Acorn",
+      "text": "Acorn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mahogany_Seed",
+      "text": "Mahogany Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Seed",
+      "text": "Maple Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mossy_Seed",
+      "text": "Mossy Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Tree_Seed",
+      "text": "Mushroom Tree Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pine_Cone",
+      "text": "Pine Cone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mystic_Tree_Seed",
+      "text": "Mystic Tree Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apple",
+      "text": "Apple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apricot",
+      "text": "Apricot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Banana",
+      "text": "Banana"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cherry",
+      "text": "Cherry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango",
+      "text": "Mango"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Orange",
+      "text": "Orange"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach",
+      "text": "Peach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate",
+      "text": "Pomegranate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Large_Log",
+      "text": "Large Log"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Large_Stump",
+      "text": "Large Stump"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Bush",
+      "text": "Tea Bush"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&oldid=173194",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&oldid=173194"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Fall_trees",
+      "text": "Fall trees"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Pomegranate+Tree",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Pomegranate+Tree",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Tree",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Pomegranate_Tree&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Tree",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Pomegranate_Tree",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Pomegranate_Tree",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&oldid=173194",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Granatapfelbaum",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Granado",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Grenadier",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Melograno",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%B6%E3%82%AF%E3%83%AD%E3%81%AE%E6%9C%A8",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%84%9D%EB%A5%98%EB%82%98%EB%AC%B4",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Gr%C3%A1n%C3%A1talmafa",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Rom%C3%A3zeira",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%93%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Nar_A%C4%9Fac%C4%B1",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%9F%B3%E6%A6%B4%E6%A0%91",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/75/Pomegranate_Stage_5_Fruit.png",
+      "alt": "Pomegranate Stage 5 Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Pomegranate_Sapling.png/24px-Pomegranate_Sapling.png",
+      "alt": "Pomegranate Sapling.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Pierre_Icon.png/24px-Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a6/Traveling_Cart_Icon.png/24px-Traveling_Cart_Icon.png",
+      "alt": "Traveling Cart Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+      "alt": "Pomegranate.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Pomegranate_Stage_1.png",
+      "alt": "Pomegranate Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/43/Pomegranate_Stage_2.png",
+      "alt": "Pomegranate Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Pomegranate_Stage_3.png",
+      "alt": "Pomegranate Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Pomegranate_Stage_4.png",
+      "alt": "Pomegranate Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9c/Pomegranate_Stage_5.png",
+      "alt": "Pomegranate Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/66/PomegranateTreeLightning.png/120px-PomegranateTreeLightning.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Pomegranate Tree - Stardew Valley Wiki",
+      "headline": "Pomegranate Tree - Stardew Valley Wiki",
+      "mainEntityOfPage": "Pomegranate Tree",
+      "identifier": "https://stardewvalleywiki.com/Pomegranate_Tree",
+      "url": "https://stardewvalleywiki.com/Pomegranate_Tree",
+      "description": "The Pomegranate Tree is a type of fruit tree. It takes 28 days to grow to maturity, after which it will produce one Pomegranate each day during the Fall. It can only grow in the center of a 3x3 square, each square of which must be kept completely clear of objects, flooring, and terrain features (including grass).  The 3x3 grid must not overlap the 3x3 grid of another Fruit Tree.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Pomegranate Tree, gift",
+      "dateModified": "2024-06-19T03:04:11Z",
+      "datePublished": "2024-06-19T03:04:11Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Pomegranate Tree - Stardew Valley Wiki Pomegranate Tree From Stardew Valley Wiki Jump to navigation Jump to search Pomegranate Tree Information Sapling: Pomegranate Sapling Sapling Price: data-sort-value=\"6000\"> 6,000g Sapling Price: data-sort-value=\"1500\" 4,500–7,500g Produce: Pomegranate Growth Time: 28 days Harvest Season: Fall The Pomegranate Tree is a type of fruit tree . It takes 28 days to grow to maturity, after which it will produce one Pomegranate each day during the Fall . It can only grow in the center of a 3x3 square, each square of which must be kept completely clear of objects, flooring, and terrain features (including grass). The 3x3 grid must not overlap the 3x3 grid of another Fruit Tree. For each full year after maturing, fruit trees will produce higher quality fruit, up to iridium star quality after three years. Note that the 3x3 square around the tree doesn't have to be kept clear once the tree has fully grown. If struck by lightning during a storm , a fruit tree will produce Coal for 4 days instead of fruit. Fruit trees can be planted in the Greenhouse . Stages of Growth Stage 1 Stage 2 Stage 3 Stage 4 Stage 5 - Spring, Summer, Fall, Winter 7 Days 7 Days 7 Days 7 Days Total: 28 Days Gallery Pomegranate Tree hit by lightning History 1.4 : 3x3 grid no longer needs to be kept clear for tree fruit to mature to iridium quality. 1.6 : Will now yield a Pomegranate Sapling of corresponding quality when cut down. Trees Trees Green Rain Trees • Mahogany Tree • Maple Tree • Mushroom Tree • Mystic Tree • Oak Tree • Palm Tree • Pine Tree Fruit Trees Apple Tree • Apricot Tree • Banana Tree • Cherry Tree • Mango Tree • Orange Tree • Peach Tree • Pomegranate Tree Seeds Acorn • Mahogany Seed • Maple Seed • Mossy Seed • Mushroom Tree Seed • Pine Cone • Mystic Tree Seed Fruit Apple • Apricot • Banana • Cherry • Mango • Orange • Peach • Pomegranate Misc Large Log • Large Stump • Tea Bush Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Pomegranate_Tree&oldid=173194 \" Category : Fall trees Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 19 June 2024, at 03:04. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

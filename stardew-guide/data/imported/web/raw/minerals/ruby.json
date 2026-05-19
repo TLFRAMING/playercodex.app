@@ -1,0 +1,1359 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Ruby",
+  "finalUrl": "https://stardewvalleywiki.com/Ruby",
+  "fetchedAt": "2026-05-18T21:39:22.088631+00:00",
+  "title": "Ruby - Stardew Valley Wiki",
+  "description": "Ruby is a type of Mineral obtainable by:",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Ruby"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Forging"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Trading"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Ruby"
+        ],
+        [
+          ""
+        ],
+        [
+          "A precious stone that is sought after for its rich color and beautiful luster."
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Source",
+          "Mining • Dwarvish Sentry • Fishing Treasure Chests • Panning"
+        ],
+        [
+          "Sell Price",
+          "data-sort-value=\"250 \">250g"
+        ],
+        [
+          "Gemologist Profession (+30% Sell Price)",
+          "data-sort-value=\"325 \">325g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Love",
+          "Clint • Dwarf • Emily"
+        ],
+        [
+          "Like",
+          "Abigail • Alex • Caroline • Demetrius • Elliott • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leo • Lewis • Marnie • Maru • Pam • Penny • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+        ],
+        [
+          "Dislike",
+          "Leah • Linus • Pierre"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Minerals"
+      ],
+      "rows": [
+        [
+          "Foraged Minerals",
+          "Earth Crystal • Fire Quartz • Frozen Tear • Quartz"
+        ],
+        [
+          "Gems",
+          "Amethyst • Aquamarine • Diamond • Emerald • Jade • Prismatic Shard • Ruby • Topaz"
+        ],
+        [
+          "Geode Minerals",
+          "Aerinite • Alamite • Baryte • Basalt • Bixite • Calcite • Celestine • Dolomite • Esperite • Fairy Stone • Fire Opal • Fluorapatite • Geminite • Ghost Crystal • Granite • Helvite • Hematite • Jagoite • Jamborite • Jasper • Kyanite • Lemon Stone • Limestone • Lunarite • Malachite • Marble • Mudstone • Nekoite • Neptunite • Obsidian • Ocean Stone • Opal • Orpiment • Petrified Slime • Pyrite • Sandstone • Slate • Soapstone • Star Shards • Thunder Egg • Tigerseye"
+        ],
+        [
+          "Geodes",
+          "Geode • Frozen Geode • Magma Geode • Omni Geode"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ruby.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarvish_Sentry",
+      "text": "Dwarvish Sentry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing#Treasure_Chests",
+      "text": "Fishing Treasure Chests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pans",
+      "text": "Panning"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals",
+      "text": "Mineral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining#Ruby_Node",
+      "text": "Ruby Nodes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining#Gem_Node",
+      "text": "Gem Nodes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "the Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skull_Cavern",
+      "text": "Skull Cavern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quarry",
+      "text": "Quarry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarvish_Sentry",
+      "text": "Dwarvish Sentries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing#Treasure_Chests",
+      "text": "Fishing Treasure Chests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pans",
+      "text": "Panning"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines#Crates_and_Barrels",
+      "text": "crates and barrels"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garbage_Can",
+      "text": "Garbage Can"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Gem_Birds",
+      "text": "Gem Birds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Weather#Weather_Types",
+      "text": "rainy days"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Gifting",
+      "text": "1 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Bundles",
+      "text": "2 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Forging",
+      "text": "3 Forging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Recipes",
+      "text": "4 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Tailoring",
+      "text": "5 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Quests",
+      "text": "6 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#Trading",
+      "text": "7 Trading"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby#History",
+      "text": "8 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Treasure_Hunter.27s_Bundle",
+      "text": "Treasure Hunter's Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Boiler_Room",
+      "text": "Boiler Room (Remixed)"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Forge",
+      "text": "Forge"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Shirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#List_of_Special_Orders",
+      "text": "Special Orders"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Gem_Birds",
+      "text": "Gem Birds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Trader",
+      "text": "Desert Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spicy_Eel",
+      "text": "Spicy Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Trader",
+      "text": "Desert Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#List_of_Special_Orders",
+      "text": "Special Order quest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Forge",
+      "text": "Forging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Gem_Birds",
+      "text": "Gem Birds puzzle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals",
+      "text": "Minerals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Foraged_Minerals",
+      "text": "Foraged Minerals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Earth_Crystal",
+      "text": "Earth Crystal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fire_Quartz",
+      "text": "Fire Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frozen_Tear",
+      "text": "Frozen Tear"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Gems",
+      "text": "Gems"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amethyst",
+      "text": "Amethyst"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Aquamarine",
+      "text": "Aquamarine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emerald",
+      "text": "Emerald"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jade",
+      "text": "Jade"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Prismatic_Shard",
+      "text": "Prismatic Shard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Topaz",
+      "text": "Topaz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Geode_Minerals",
+      "text": "Geode Minerals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Aerinite",
+      "text": "Aerinite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alamite",
+      "text": "Alamite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Baryte",
+      "text": "Baryte"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basalt",
+      "text": "Basalt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bixite",
+      "text": "Bixite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Calcite",
+      "text": "Calcite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Celestine",
+      "text": "Celestine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dolomite",
+      "text": "Dolomite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Esperite",
+      "text": "Esperite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Stone",
+      "text": "Fairy Stone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fire_Opal",
+      "text": "Fire Opal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fluorapatite",
+      "text": "Fluorapatite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Geminite",
+      "text": "Geminite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ghost_Crystal",
+      "text": "Ghost Crystal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Granite",
+      "text": "Granite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Helvite",
+      "text": "Helvite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hematite",
+      "text": "Hematite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jagoite",
+      "text": "Jagoite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jamborite",
+      "text": "Jamborite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jasper",
+      "text": "Jasper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kyanite",
+      "text": "Kyanite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lemon_Stone",
+      "text": "Lemon Stone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Limestone",
+      "text": "Limestone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lunarite",
+      "text": "Lunarite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Malachite",
+      "text": "Malachite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marble",
+      "text": "Marble"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mudstone",
+      "text": "Mudstone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nekoite",
+      "text": "Nekoite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Neptunite",
+      "text": "Neptunite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ocean_Stone",
+      "text": "Ocean Stone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Opal",
+      "text": "Opal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Orpiment",
+      "text": "Orpiment"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Petrified_Slime",
+      "text": "Petrified Slime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pyrite",
+      "text": "Pyrite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandstone",
+      "text": "Sandstone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slate",
+      "text": "Slate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Soapstone",
+      "text": "Soapstone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Star_Shards",
+      "text": "Star Shards"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Thunder_Egg",
+      "text": "Thunder Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tigerseye",
+      "text": "Tigerseye"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Geodes",
+      "text": "Geodes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Geode",
+      "text": "Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frozen_Geode",
+      "text": "Frozen Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Geode",
+      "text": "Magma Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omni_Geode",
+      "text": "Omni Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&oldid=190817",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&oldid=190817"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Gems",
+      "text": "Gems"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Ruby",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Ruby",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Ruby",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Ruby",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Ruby",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&oldid=190817",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Rubin",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Rub%C3%AD",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Rubis",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Rubino",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%AB%E3%83%93%E3%83%BC",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%A3%A8%EB%B9%84",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Rubin",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Rubi",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A0%D1%83%D0%B1%D0%B8%D0%BD",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Yakut",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%BA%A2%E5%AE%9D%E7%9F%B3",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png",
+      "alt": "Ruby.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3c/Gemologist.png/24px-Gemologist.png",
+      "alt": "Gemologist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/24px-Bundle_Yellow.png",
+      "alt": "Bundle Yellow.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4d/Shirt085.png/24px-Shirt085.png",
+      "alt": "Shirt085.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Ruby - Stardew Valley Wiki",
+      "headline": "Ruby - Stardew Valley Wiki",
+      "mainEntityOfPage": "Ruby",
+      "identifier": "https://stardewvalleywiki.com/Ruby",
+      "url": "https://stardewvalleywiki.com/Ruby",
+      "description": "Ruby is a type of Mineral obtainable by:",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Ruby, gift",
+      "dateModified": "2026-01-20T22:54:53Z",
+      "datePublished": "2026-01-20T22:54:53Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Ruby - Stardew Valley Wiki Ruby From Stardew Valley Wiki Jump to navigation Jump to search Ruby A precious stone that is sought after for its rich color and beautiful luster. Information Source Mining • Dwarvish Sentry • Fishing Treasure Chests • Panning Sell Price data-sort-value=\"250 \"> 250g Gemologist Profession (+30% Sell Price) data-sort-value=\"325 \"> 325g Ruby is a type of Mineral obtainable by: Mining Ruby Nodes and Gem Nodes in the Mines (Floors 80+), Skull Cavern , Quarry , and Volcano Dungeon . (After reaching the bottom of the Mines, Ruby Nodes can be found on any floor). Defeating Dwarvish Sentries (10% chance). Fishing Treasure Chests . Panning anywhere (1% chance). Gift at the Feast of the Winter Star by any adult except Clint , Evelyn , Marnie , Robin , or Willy . Breaking crates and barrels in the Mines (Floors 80+), Skull Cavern, and Volcano Dungeon. Found in a Garbage Can after the player has reached the bottom of the Mines. Gem Birds on Ginger Island during rainy days . Contents 1 Gifting 2 Bundles 3 Forging 4 Recipes 5 Tailoring 6 Quests 7 Trading 8 History Gifting Villager Reactions Love Clint • Dwarf • Emily Like Abigail • Alex • Caroline • Demetrius • Elliott • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leo • Lewis • Marnie • Maru • Pam • Penny • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard Dislike Leah • Linus • Pierre Bundles Ruby is one of the options for the Treasure Hunter's Bundle in the Boiler Room (Remixed) . Forging Ruby can be used at the Forge to increase the damage of a melee weapon. Recipes Ruby is not used in any recipes. Tailoring Ruby is used in the spool of the Sewing Machine with Cloth in the feed to create a Shirt . It is a red dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can also be placed in the red dye pot at Emily 's and Haley 's house, 2 Willow Lane , for use in dyeing . Quests The Ruby may be randomly requested during any season at the \"Help Wanted\" board outside Pierre's General Store for a reward of data-sort-value=\"750\"> 750g and 150 Friendship points. The Ruby will never be requested until the player has reached floors 80+ of The Mines . Ruby will be requested by Emily as part of the \"Rock Rejuvenation\" quest at the Special Orders board outside Mayor Lewis ' house. May be used in the Gem Birds puzzle on Ginger Island. Trading One Ruby can be traded to the Desert Trader for 1 Spicy Eel . History 1.4 : Can now be used in Tailoring . Can be traded to the Desert Trader . 1.5 : Can be requested in a Special Order quest . Can now be used in Forging . Also used in Gem Birds puzzle . Is now an option in the Treasure Hunter's Bundle. Can now be obtained from the Volcano Dungeon and Dwarvish Sentries. Minerals Foraged Minerals Earth Crystal • Fire Quartz • Frozen Tear • Quartz Gems Amethyst • Aquamarine • Diamond • Emerald • Jade • Prismatic Shard • Ruby • Topaz Geode Minerals Aerinite • Alamite • Baryte • Basalt • Bixite • Calcite • Celestine • Dolomite • Esperite • Fairy Stone • Fire Opal • Fluorapatite • Geminite • Ghost Crystal • Granite • Helvite • Hematite • Jagoite • Jamborite • Jasper • Kyanite • Lemon Stone • Limestone • Lunarite • Malachite • Marble • Mudstone • Nekoite • Neptunite • Obsidian • Ocean Stone • Opal • Orpiment • Petrified Slime • Pyrite • Sandstone • Slate • Soapstone • Star Shards • Thunder Egg • Tigerseye Geodes Geode • Frozen Geode • Magma Geode • Omni Geode Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Ruby&oldid=190817 \" Category : Gems Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 20 January 2026, at 22:54. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

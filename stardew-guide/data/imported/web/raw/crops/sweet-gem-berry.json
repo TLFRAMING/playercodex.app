@@ -1,0 +1,2523 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+  "finalUrl": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+  "fetchedAt": "2026-05-18T13:38:44.867734+00:00",
+  "title": "Sweet Gem Berry - Stardew Valley Wiki",
+  "description": "The Sweet Gem Berry is a crop that grows from a Rare Seed after 24 days. It is not considered a Fruit or Vegetable and cannot be used in a Keg, Preserves Jar, or Dehydrator, nor does it benefit from the Tiller profession.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Stages"
+    },
+    {
+      "level": 2,
+      "text": "Crop Growth Calendar"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "3,000g"
+        ],
+        [
+          "",
+          "3,750g"
+        ],
+        [
+          "",
+          "4,500g"
+        ],
+        [
+          "",
+          "6,000g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Stage 5",
+        "Harvest"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2 Days",
+          "4 Days",
+          "6 Days",
+          "6 Days",
+          "6 Days",
+          "Total: 24 Days"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Base"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Neutral",
+          "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sweet_Gem_Berry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rare_Seed",
+      "text": "Rare Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "Farming XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rare_Seed",
+      "text": "Rare Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dehydrator",
+      "text": "Dehydrator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Tiller profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rare_Seed",
+      "text": "Rare Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seed_Maker",
+      "text": "Seed Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "neutral gift"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley",
+      "text": "Stardew Valley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Master_Cannoli",
+      "text": "Old Master Cannoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Woods",
+      "text": "Secret Woods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardrop",
+      "text": "Stardrop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Multiplayer",
+      "text": "multiplayer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Stages",
+      "text": "1 Stages"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Crop_Growth_Calendar",
+      "text": "2 Crop Growth Calendar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Gifting",
+      "text": "3 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Bundles",
+      "text": "4 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Recipes",
+      "text": "5 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Tailoring",
+      "text": "6 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry#History",
+      "text": "8 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Rare_Crops_Bundle",
+      "text": "Rare Crops Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Pantry",
+      "text": "Pantry (Remixed)"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/White_Turban",
+      "text": "White Turban"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests",
+      "text": "quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&oldid=192754",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&oldid=192754"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Fall_crops",
+      "text": "Fall crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Sweet+Gem+Berry",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Sweet+Gem+Berry",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Sweet_Gem_Berry",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Sweet_Gem_Berry",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Sweet_Gem_Berry",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&oldid=192754",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/S%C3%BC%C3%9Fe_Edelsteinbeere",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Baya_de_gema_dulce",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Baie_gemme_sucr%C3%A9e",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Baccagemma_dolce",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%82%B8%E3%82%A7%E3%83%A0%E3%83%99%E3%83%AA%E3%83%BC",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%8B%AC%EC%BD%A4%EB%B3%B4%EC%84%9D%EB%B2%A0%EB%A6%AC",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/%C3%89des_dr%C3%A1gak%C5%91bogy%C3%B3",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Cereja_de_Joia_Doce",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F_%D1%81%D0%B0%D0%BC%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%B8%D0%BD%D0%BA%D0%B0",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Tatl%C4%B1ta%C5%9F_Meyvesi",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%AE%9D%E7%9F%B3%E7%94%9C%E8%8E%93",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Rare_Seed.png/24px-Rare_Seed.png",
+      "alt": "Rare Seed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/24px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/24px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/24px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/24px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f0/Sweet_Gem_Berry_Stage_6.png",
+      "alt": "Sweet Gem Berry Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Sweet_Gem_Berry_Stage_1.png",
+      "alt": "Sweet Gem Berry Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/26/Sweet_Gem_Berry_Stage_3.png",
+      "alt": "Sweet Gem Berry Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Sweet_Gem_Berry_Stage_4.png",
+      "alt": "Sweet Gem Berry Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/93/Sweet_Gem_Berry_Stage_5.png",
+      "alt": "Sweet Gem Berry Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/36px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Sweet_Gem_Berry_Stage_2.png",
+      "alt": "Sweet Gem Berry Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/24px-Bundle_Teal.png",
+      "alt": "Bundle Teal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/60/White_Turban.png/24px-White_Turban.png",
+      "alt": "White Turban.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Sweet Gem Berry - Stardew Valley Wiki",
+      "headline": "Sweet Gem Berry - Stardew Valley Wiki",
+      "mainEntityOfPage": "Sweet Gem Berry",
+      "identifier": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "url": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "description": "The Sweet Gem Berry is a crop that grows from a Rare Seed after 24 days. It is not considered a Fruit or Vegetable and cannot be used in a Keg, Preserves Jar, or Dehydrator, nor does it benefit from the Tiller profession.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Sweet Gem Berry, gift",
+      "dateModified": "2026-04-28T19:54:42Z",
+      "datePublished": "2026-04-28T19:54:42Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Sweet Gem Berry - Stardew Valley Wiki Sweet Gem Berry From Stardew Valley Wiki Jump to navigation Jump to search Sweet Gem Berry It's by far the sweetest thing you've ever smelled. Information Seed Rare Seed Growth Time 24 days Season Fall XP 64 Farming XP Energy Inedible Sell Price 3,000g 3,750g 4,500g 6,000g The Sweet Gem Berry is a crop that grows from a Rare Seed after 24 days. It is not considered a Fruit or Vegetable and cannot be used in a Keg , Preserves Jar , or Dehydrator , nor does it benefit from the Tiller profession . Rare Seeds can be purchased from the Traveling Cart for data-sort-value=\"1000\"> 1,000g in Spring & Summer , or for data-sort-value=\"200\" 600–1,000g in any season. A Seed Maker can also produce Rare Seeds from a Sweet Gem Berry. Despite its high sell price, the berry is regarded as a neutral gift by all the NPCs in Stardew Valley . When given to Old Master Cannoli in the Secret Woods , the player receives a Stardrop in return. In multiplayer , all players receive a Stardrop with the gift of a single berry. Contents 1 Stages 2 Crop Growth Calendar 3 Gifting 4 Bundles 5 Recipes 6 Tailoring 7 Quests 8 History Stages Stage 1 Stage 2 Stage 3 Stage 4 Stage 5 Harvest 2 Days 4 Days 6 Days 6 Days 6 Days Total: 24 Days Crop Growth Calendar Base Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Gifting Villager Reactions Neutral Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard Bundles Sweet Gem Berry is one of the options for the Rare Crops Bundle in the Pantry (Remixed) . Recipes Sweet Gem Berry is not used in any recipes. Tailoring Sweet Gem Berry is used in the spool of the Sewing Machine to create the White Turban . It can also be used as a red dye in the dye pots, located at Emily 's and Haley 's house, 2 Willow Lane . Quests Sweet Gem Berry is not used in any quests . History 1.5 : Iridium quality is now possible when using Deluxe Fertilizer . Bugfix for stages of growth with Deluxe Speed-Gro + Agriculturist . Is now an option for the Rare Crops Bundle. Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Sweet_Gem_Berry&oldid=192754 \" Category : Fall crops Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 28 April 2026, at 19:54. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

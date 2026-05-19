@@ -1,0 +1,2789 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Bok_Choy",
+  "finalUrl": "https://stardewvalleywiki.com/Bok_Choy",
+  "fetchedAt": "2026-05-18T13:38:42.871988+00:00",
+  "title": "Bok Choy - Stardew Valley Wiki",
+  "description": "Bok Choy is a vegetable crop that grows from Bok Choy Seeds after 4 days.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Bok Choy"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Stages"
+    },
+    {
+      "level": 2,
+      "text": "Crop Growth Calendar"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "25",
+          "",
+          "11"
+        ],
+        [
+          "",
+          "35",
+          "",
+          "15"
+        ],
+        [
+          "",
+          "45",
+          "",
+          "20"
+        ],
+        [
+          "",
+          "65",
+          "",
+          "29"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "80g"
+        ],
+        [
+          "",
+          "100g"
+        ],
+        [
+          "",
+          "120g"
+        ],
+        [
+          "",
+          "160g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "88g"
+        ],
+        [
+          "",
+          "110g"
+        ],
+        [
+          "",
+          "132g"
+        ],
+        [
+          "",
+          "176g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "180g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "210g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "252g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "294g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Harvest"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1 Day",
+          "1 Day",
+          "1 Day",
+          "1 Day",
+          "Total: 4 Days"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Base"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Like",
+          "Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sandy • Sebastian • Shane • Willy • Wizard"
+        ],
+        [
+          "Dislike",
+          "Abigail • Haley • Jas • Sam • Vincent"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredients",
+        "Energy / Health",
+        "Buff(s)",
+        "Buff Duration",
+        "Recipe Source(s)",
+        "Sell Price"
+      ],
+      "rows": [
+        [
+          "",
+          "Super Meal",
+          "It's a really energizing meal.",
+          "Bok Choy (1) Cranberries (1) Artichoke (1)",
+          "160 72",
+          "Max Energy (+40) Speed (+1)",
+          "3m 30s",
+          "Kent (Mail - 7+ )",
+          "data-sort-value=\"220\">220g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Bok_Choy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy_Seeds",
+      "text": "Bok Choy Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "Farming XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Tiller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy_Seeds",
+      "text": "Bok Choy Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Stages",
+      "text": "1 Stages"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Crop_Growth_Calendar",
+      "text": "2 Crop Growth Calendar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Gifting",
+      "text": "3 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Bundles",
+      "text": "4 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Recipes",
+      "text": "5 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Tailoring",
+      "text": "6 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy#History",
+      "text": "8 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles",
+      "text": "bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Super_Meal.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Meal",
+      "text": "Super Meal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Max Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Button Down Shirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&oldid=192918",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&oldid=192918"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Fall_crops",
+      "text": "Fall crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Vegetables",
+      "text": "Vegetables"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Bok+Choy",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Bok+Choy",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Bok_Choy&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Bok_Choy",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Bok_Choy",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&oldid=192918",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Senfkohl",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Col_china",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Chou_chinois",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Bok_Choy",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%81%E3%83%B3%E3%82%B2%E3%83%B3%E3%82%B5%E3%82%A4",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%B2%AD%EA%B2%BD%EC%B1%84",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Bord%C3%A1skel",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Acelga_Chinesa",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%91%D0%BE%D0%BA-%D1%87%D0%BE%D0%B9",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/%C3%87in_Lahanas%C4%B1",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%B0%8F%E7%99%BD%E8%8F%9C",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/21/Bok_Choy_Seeds.png/24px-Bok_Choy_Seeds.png",
+      "alt": "Bok Choy Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b2/Tiller.png/24px-Tiller.png",
+      "alt": "Tiller.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Green_Juice.png/24px-Green_Juice.png",
+      "alt": "Green Juice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Green_Pickles.png/24px-Green_Pickles.png",
+      "alt": "Green Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Green_Juice.png/24px-Green_Juice.png",
+      "alt": "Green Juice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Green_Pickles.png/24px-Green_Pickles.png",
+      "alt": "Green Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/50/Bok_Choy_Stage_5.png",
+      "alt": "Bok Choy Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/00/Bok_Choy_Stage_2.png",
+      "alt": "Bok Choy Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Bok_Choy_Stage_1.png/36px-Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Bok_Choy_Stage_1.png/36px-Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Bok_Choy_Stage_1.png/36px-Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Bok_Choy_Stage_1.png/36px-Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Bok_Choy_Stage_3.png/36px-Bok_Choy_Stage_3.png",
+      "alt": "Bok Choy Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Bok_Choy_Stage_1.png/36px-Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Bok_Choy_Stage_1.png/36px-Bok_Choy_Stage_1.png",
+      "alt": "Bok Choy Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/36px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Bok_Choy_Stage_4.png/36px-Bok_Choy_Stage_4.png",
+      "alt": "Bok Choy Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png",
+      "alt": "Super Meal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Cranberries.png/24px-Cranberries.png",
+      "alt": "Cranberries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/dd/Artichoke.png/24px-Artichoke.png",
+      "alt": "Artichoke.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Max_Energy.png/24px-Max_Energy.png",
+      "alt": "Max Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/16px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Shirt140.png/24px-Shirt140.png",
+      "alt": "Shirt140.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Bok Choy - Stardew Valley Wiki",
+      "headline": "Bok Choy - Stardew Valley Wiki",
+      "mainEntityOfPage": "Bok Choy",
+      "identifier": "https://stardewvalleywiki.com/Bok_Choy",
+      "url": "https://stardewvalleywiki.com/Bok_Choy",
+      "description": "Bok Choy is a vegetable crop that grows from Bok Choy Seeds after 4 days.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Bok Choy, gift",
+      "dateModified": "2026-05-10T22:04:30Z",
+      "datePublished": "2026-05-10T22:04:30Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Bok Choy - Stardew Valley Wiki Bok Choy From Stardew Valley Wiki Jump to navigation Jump to search Bok Choy The leafy greens and fibrous stalks are healthy and delicious. Information Seed Bok Choy Seeds Growth Time 4 days Season Fall XP 14 Farming XP Energy / Health 25 11 35 15 45 20 65 29 Sell Prices Base Tiller (+10%) 80g 100g 120g 160g 88g 110g 132g 176g Artisan Sell Prices Base Artisan (+40%) 180g 210g 252g 294g Bok Choy is a vegetable crop that grows from Bok Choy Seeds after 4 days. Contents 1 Stages 2 Crop Growth Calendar 3 Gifting 4 Bundles 5 Recipes 6 Tailoring 7 Quests 8 History Stages Stage 1 Stage 2 Stage 3 Stage 4 Harvest 1 Day 1 Day 1 Day 1 Day Total: 4 Days Crop Growth Calendar Base Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Gifting Villager Reactions Like Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sandy • Sebastian • Shane • Willy • Wizard Dislike Abigail • Haley • Jas • Sam • Vincent Bundles Bok Choy is not used in any bundles . Recipes Image Name Description Ingredients Energy / Health Buff(s) Buff Duration Recipe Source(s) Sell Price Super Meal It's a really energizing meal. Bok Choy (1) Cranberries (1) Artichoke (1) 160 72 Max Energy (+40) Speed (+1) 3m 30s Kent (Mail - 7+ ) data-sort-value=\"220\"> 220g Tailoring Bok Choy is used in the spool of the Sewing Machine with Cloth in the feed to create a dyeable Button Down Shirt . It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in dyeing . Quests Bok Choy may be randomly requested in Fall at the \"Help Wanted\" board outside Pierre's General Store for a reward of data-sort-value=\"240\"> 240g and 150 Friendship points. History 1.4 : Can now be used in Tailoring . 1.5 : Iridium quality is now possible when using Deluxe Fertilizer . Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Bok_Choy&oldid=192918 \" Categories : Fall crops Vegetables Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 10 May 2026, at 22:04. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

@@ -1,0 +1,738 @@
+[
+  {
+    "slug": "blue-jazz",
+    "matchedName": "Blue Jazz",
+    "candidateFields": {
+      "nameZh": "蓝爵花",
+      "descriptionZh": "花朵呈球形生长，方便吸引蝴蝶。",
+      "seedNameZh": "爵士种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png"
+  },
+  {
+    "slug": "carrot",
+    "matchedName": "Carrot",
+    "candidateFields": {
+      "nameZh": "胡萝卜",
+      "descriptionZh": "生长很快的彩色根茎，适合作为零食。",
+      "seedNameZh": "胡萝卜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Carrot.png"
+  },
+  {
+    "slug": "cauliflower",
+    "matchedName": "Cauliflower",
+    "candidateFields": {
+      "nameZh": "花椰菜",
+      "descriptionZh": "价值较高但生长较慢，营养丰富的春季蔬菜。",
+      "seedNameZh": "花椰菜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"
+  },
+  {
+    "slug": "coffee-bean",
+    "matchedName": "Coffee Bean",
+    "candidateFields": {
+      "nameZh": "咖啡豆",
+      "descriptionZh": "春夏可种，成熟后持续产出；5 个咖啡豆可放入小桶制作咖啡。",
+      "seedNameZh": "咖啡豆"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png"
+  },
+  {
+    "slug": "garlic",
+    "matchedName": "Garlic",
+    "candidateFields": {
+      "nameZh": "大蒜",
+      "descriptionZh": "为料理增加辛香味；高品质大蒜会更辛辣。",
+      "seedNameZh": "大蒜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
+  },
+  {
+    "slug": "green-bean",
+    "matchedName": "Green Bean",
+    "candidateFields": {
+      "nameZh": "青豆",
+      "descriptionZh": "清脆多汁的小豆荚；需要棚架，成熟后继续生产。",
+      "seedNameZh": "豆类种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png"
+  },
+  {
+    "slug": "kale",
+    "matchedName": "Kale",
+    "candidateFields": {
+      "nameZh": "甘蓝菜",
+      "descriptionZh": "绿叶蔬菜，营养丰富。",
+      "seedNameZh": "甘蓝种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png"
+  },
+  {
+    "slug": "parsnip",
+    "matchedName": "Parsnip",
+    "candidateFields": {
+      "nameZh": "欧防风",
+      "descriptionZh": "与胡萝卜相近的春季根茎，泥土香明显。",
+      "seedNameZh": "欧防风种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"
+  },
+  {
+    "slug": "potato",
+    "matchedName": "Potato",
+    "candidateFields": {
+      "nameZh": "土豆",
+      "descriptionZh": "常见块茎作物，收获时有额外产出概率。",
+      "seedNameZh": "土豆种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png"
+  },
+  {
+    "slug": "rhubarb",
+    "matchedName": "Rhubarb",
+    "candidateFields": {
+      "nameZh": "大黄",
+      "descriptionZh": "茎非常酸，甜化后适合做甜点。",
+      "seedNameZh": "大黄种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Rhubarb.png"
+  },
+  {
+    "slug": "strawberry",
+    "matchedName": "Strawberry",
+    "candidateFields": {
+      "nameZh": "草莓",
+      "descriptionZh": "甜美多汁，成熟后每 4 天再生。",
+      "seedNameZh": "草莓种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
+  },
+  {
+    "slug": "tulip",
+    "matchedName": "Tulip",
+    "candidateFields": {
+      "nameZh": "郁金香",
+      "descriptionZh": "常见春季花卉，颜色鲜艳。",
+      "seedNameZh": "郁金香球茎"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png"
+  },
+  {
+    "slug": "unmilled-rice",
+    "matchedName": "Unmilled Rice",
+    "candidateFields": {
+      "nameZh": "未碾米",
+      "descriptionZh": "未加工稻米，可用磨坊制成米。",
+      "seedNameZh": "水稻苗"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Unmilled_Rice.png"
+  },
+  {
+    "slug": "blueberry",
+    "matchedName": "Blueberry",
+    "candidateFields": {
+      "nameZh": "蓝莓",
+      "descriptionZh": "夏季浆果作物，成熟后持续结果。",
+      "seedNameZh": "蓝莓种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png"
+  },
+  {
+    "slug": "corn",
+    "matchedName": "Corn",
+    "candidateFields": {
+      "nameZh": "玉米",
+      "descriptionZh": "跨夏秋两季生长，成熟后继续产出。",
+      "seedNameZh": "玉米种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png"
+  },
+  {
+    "slug": "hops",
+    "matchedName": "Hops",
+    "candidateFields": {
+      "nameZh": "啤酒花",
+      "descriptionZh": "需要棚架，成熟后每天产出。",
+      "seedNameZh": "啤酒花种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png"
+  },
+  {
+    "slug": "hot-pepper",
+    "matchedName": "Hot Pepper",
+    "candidateFields": {
+      "nameZh": "辣椒",
+      "descriptionZh": "辛辣的小果实，成熟后继续生产。",
+      "seedNameZh": "辣椒种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
+  },
+  {
+    "slug": "melon",
+    "matchedName": "Melon",
+    "candidateFields": {
+      "nameZh": "甜瓜",
+      "descriptionZh": "大而甜的夏季水果，可长成巨大作物。",
+      "seedNameZh": "甜瓜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png"
+  },
+  {
+    "slug": "poppy",
+    "matchedName": "Poppy",
+    "candidateFields": {
+      "nameZh": "罂粟",
+      "descriptionZh": "彩色花朵，有料理和药用价值。",
+      "seedNameZh": "罂粟种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+  },
+  {
+    "slug": "radish",
+    "matchedName": "Radish",
+    "candidateFields": {
+      "nameZh": "萝卜",
+      "descriptionZh": "清脆爽口的根菜，略带辛辣。",
+      "seedNameZh": "萝卜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Radish.png"
+  },
+  {
+    "slug": "red-cabbage",
+    "matchedName": "Red Cabbage",
+    "candidateFields": {
+      "nameZh": "红叶卷心菜",
+      "descriptionZh": "颜色鲜艳的卷心菜，第二年起稳定购买。",
+      "seedNameZh": "红叶卷心菜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Red_Cabbage.png"
+  },
+  {
+    "slug": "starfruit",
+    "matchedName": "Starfruit",
+    "candidateFields": {
+      "nameZh": "杨桃",
+      "descriptionZh": "极高价值的夏季水果。",
+      "seedNameZh": "杨桃种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/db/Starfruit.png"
+  },
+  {
+    "slug": "summer-spangle",
+    "matchedName": "Summer Spangle",
+    "candidateFields": {
+      "nameZh": "夏季亮片",
+      "descriptionZh": "热带夏季花卉。",
+      "seedNameZh": "夏季亮片种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png"
+  },
+  {
+    "slug": "summer-squash",
+    "matchedName": "Summer Squash",
+    "candidateFields": {
+      "nameZh": "夏季南瓜",
+      "descriptionZh": "弯曲的黄色嫩南瓜，成熟后持续生产。",
+      "seedNameZh": "夏季南瓜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/4/43/Summer_Squash.png"
+  },
+  {
+    "slug": "sunflower",
+    "matchedName": "Sunflower",
+    "candidateFields": {
+      "nameZh": "向日葵",
+      "descriptionZh": "夏秋两季花卉，成熟时可能返还种子。",
+      "seedNameZh": "向日葵种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png"
+  },
+  {
+    "slug": "tomato",
+    "matchedName": "Tomato",
+    "candidateFields": {
+      "nameZh": "番茄",
+      "descriptionZh": "鲜红多汁，成熟后继续生产。",
+      "seedNameZh": "番茄种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png"
+  },
+  {
+    "slug": "wheat",
+    "matchedName": "Wheat",
+    "candidateFields": {
+      "nameZh": "小麦",
+      "descriptionZh": "廉价短周期谷物，可用镰刀收获。",
+      "seedNameZh": "小麦种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png"
+  },
+  {
+    "slug": "amaranth",
+    "matchedName": "Amaranth",
+    "candidateFields": {
+      "nameZh": "苋菜",
+      "descriptionZh": "古代文明栽培的紫色谷物。",
+      "seedNameZh": "苋菜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/f6/Amaranth.png"
+  },
+  {
+    "slug": "artichoke",
+    "matchedName": "Artichoke",
+    "candidateFields": {
+      "nameZh": "洋蓟",
+      "descriptionZh": "蓟类植物花苞，外叶带刺、内部饱满。",
+      "seedNameZh": "洋蓟种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/dd/Artichoke.png"
+  },
+  {
+    "slug": "beet",
+    "matchedName": "Beet",
+    "candidateFields": {
+      "nameZh": "甜菜",
+      "descriptionZh": "甜而带泥土香的根菜，叶子也可入菜。",
+      "seedNameZh": "甜菜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Beet.png"
+  },
+  {
+    "slug": "bok-choy",
+    "matchedName": "Bok Choy",
+    "candidateFields": {
+      "nameZh": "小白菜",
+      "descriptionZh": "生长很快的绿叶蔬菜。",
+      "seedNameZh": "小白菜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png"
+  },
+  {
+    "slug": "broccoli",
+    "matchedName": "Broccoli",
+    "candidateFields": {
+      "nameZh": "西兰花",
+      "descriptionZh": "花球作物，口感独特，成熟后继续生产。",
+      "seedNameZh": "西兰花种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Broccoli.png"
+  },
+  {
+    "slug": "cranberries",
+    "matchedName": "Cranberries",
+    "candidateFields": {
+      "nameZh": "蔓越莓",
+      "descriptionZh": "秋季高产浆果，成熟后持续结果。",
+      "seedNameZh": "蔓越莓种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png"
+  },
+  {
+    "slug": "eggplant",
+    "matchedName": "Eggplant",
+    "candidateFields": {
+      "nameZh": "茄子",
+      "descriptionZh": "番茄的近亲，适合煎或炖。",
+      "seedNameZh": "茄子种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png"
+  },
+  {
+    "slug": "fairy-rose",
+    "matchedName": "Fairy Rose",
+    "candidateFields": {
+      "nameZh": "仙女玫瑰",
+      "descriptionZh": "传说香味会吸引仙女的高价值花卉。",
+      "seedNameZh": "仙女种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
+  },
+  {
+    "slug": "grape",
+    "matchedName": "Grape",
+    "candidateFields": {
+      "nameZh": "葡萄",
+      "descriptionZh": "甜美成串的水果，需要棚架，成熟后继续生产。",
+      "seedNameZh": "葡萄种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png"
+  },
+  {
+    "slug": "pumpkin",
+    "matchedName": "Pumpkin",
+    "candidateFields": {
+      "nameZh": "南瓜",
+      "descriptionZh": "秋季代表作物，可雕刻，可长成巨大作物。",
+      "seedNameZh": "南瓜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+  },
+  {
+    "slug": "yam",
+    "matchedName": "Yam",
+    "candidateFields": {
+      "nameZh": "山药",
+      "descriptionZh": "淀粉质根茎作物，适合秋季料理。",
+      "seedNameZh": "山药种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png"
+  },
+  {
+    "slug": "powdermelon",
+    "matchedName": "Powdermelon",
+    "candidateFields": {
+      "nameZh": "粉瓜",
+      "descriptionZh": "表面带粉霜的冬季甜瓜，口感清脆。",
+      "seedNameZh": "粉瓜种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Powdermelon.png"
+  },
+  {
+    "slug": "ancient-fruit",
+    "matchedName": "Ancient Fruit",
+    "candidateFields": {
+      "nameZh": "远古水果",
+      "descriptionZh": "沉睡了无数年代的古老水果。",
+      "seedNameZh": "上古种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/0/01/Ancient_Fruit.png"
+  },
+  {
+    "slug": "cactus-fruit",
+    "matchedName": "Cactus Fruit",
+    "candidateFields": {
+      "nameZh": "仙人掌果子",
+      "descriptionZh": "仙人掌的甜果实。",
+      "seedNameZh": "仙人掌种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
+  },
+  {
+    "slug": "pineapple",
+    "matchedName": "Pineapple",
+    "candidateFields": {
+      "nameZh": "菠萝",
+      "descriptionZh": "酸甜的热带水果。",
+      "seedNameZh": "菠萝种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/fb/Pineapple.png"
+  },
+  {
+    "slug": "qi-fruit",
+    "matchedName": "Qi Fruit",
+    "candidateFields": {
+      "nameZh": "齐瓜",
+      "descriptionZh": "齐先生任务期间要求大量出货的特殊蓝色果实。",
+      "seedNameZh": "齐豆"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Qi_Fruit.png"
+  },
+  {
+    "slug": "sweet-gem-berry",
+    "matchedName": "Sweet Gem Berry",
+    "candidateFields": {
+      "nameZh": "宝石甜莓",
+      "descriptionZh": "香甜到惊人的稀有莓果。",
+      "seedNameZh": "稀有种子"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/8/88/Sweet_Gem_Berry.png"
+  },
+  {
+    "slug": "taro-root",
+    "matchedName": "Taro Root",
+    "candidateFields": {
+      "nameZh": "芋头",
+      "descriptionZh": "古老的淀粉质根茎。",
+      "seedNameZh": "芋头块茎"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/0/01/Taro_Root.png"
+  },
+  {
+    "slug": "tea-leaves",
+    "matchedName": "Tea Leaves",
+    "candidateFields": {
+      "nameZh": "茶叶",
+      "descriptionZh": "茶树嫩叶，可冲泡绿茶。",
+      "seedNameZh": "茶苗"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_crops_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh",
+      "seedNameZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Tea_Leaves.png"
+  }
+]

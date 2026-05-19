@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "shane",
+    "field": "likedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Likes (except Pickles)",
+      "All Eggs (except Void Egg)",
+      "All Fruit (except Hot Pepper)"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Shane"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki only exposes rule-based likes for this field; no explicit item gift list should be written."
+  },
+  {
+    "slug": "jodi",
+    "field": "likedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Likes (except Garlic)",
+      "All Eggs (except Void Egg)",
+      "All Fruit (except Spice Berry)",
+      "All Milk"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jodi"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki only exposes rule-based likes for this field; no explicit item gift list should be written."
+  },
+  {
+    "slug": "sandy",
+    "field": "dislikedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Dislikes"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sandy"
+    ],
+    "confidence": "needs verification",
+    "notes": "No explicit item candidates were found for the dislike section; keep as review-only."
+  },
+  {
+    "slug": "dwarf",
+    "field": "hatedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Hates"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki hate section is rule-only for this field; no explicit item gift to write."
+  },
+  {
+    "slug": "krobus",
+    "field": "hatedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Hates (except Monster Musk, Seafoam Pudding, Strange Bun, & Void Mayonnaise)"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Krobus"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki hate section is rule-only for this field; no explicit item gift to write."
+  },
+  {
+    "slug": "linus",
+    "field": "hatedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Hates (except Carp and Wild Bait)"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Linus"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki hate section is rule-only for this field; no explicit item gift to write."
+  },
+  {
+    "slug": "willy",
+    "field": "hatedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Hates (except Seafoam Pudding)"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Willy"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki hate section is rule-only for this field; no explicit item gift to write."
+  },
+  {
+    "slug": "wizard",
+    "field": "hatedGifts",
+    "currentValue": [
+      "needs verification"
+    ],
+    "candidateValue": [],
+    "excludedRules": [
+      "All Universal Hates (except Slime)"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wizard"
+    ],
+    "confidence": "needs verification",
+    "notes": "Wiki hate section is rule-only for this field; no explicit item gift to write."
+  }
+]

@@ -1,0 +1,1301 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Fish_Smoker",
+  "finalUrl": "https://stardewvalleywiki.com/Fish_Smoker",
+  "fetchedAt": "2026-05-18T04:54:35.774743+00:00",
+  "title": "Fish Smoker - Stardew Valley Wiki",
+  "description": "The Fish Smoker is a type of Artisan Equipment that is used to create smoked fish using any fish and 1 coal. It doubles the sell price of a fish while retaining quality, as well as multiplying the energy and health restoration by 1.5 (if that fish restored energy or health, otherwise the value remains unchanged).[1] The smoker accepts Legendary Fish as well as Crab Pot specific fish, making the latter edible.[2]",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fish Smoker"
+    },
+    {
+      "level": 2,
+      "text": "Products"
+    },
+    {
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Fish Smoker"
+        ],
+        [
+          ""
+        ],
+        [
+          "Place fish inside with a piece of coal to create smoked fish, which is worth double. The quality of the fish is preserved."
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Source",
+          "Crafting"
+        ],
+        [
+          "Sell Price",
+          "Cannot be sold"
+        ],
+        [
+          "Crafting"
+        ],
+        [
+          "Recipe Source",
+          "Fish Shop for data-sort-value=\"10000\">10,000g"
+        ],
+        [
+          "Ingredients",
+          "Hardwood (10) Sea Jelly (1) River Jelly (1) Cave Jelly (1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredients",
+        "Processing Time",
+        "Sell Price",
+        "Energy / Health"
+      ],
+      "rows": [
+        [
+          "",
+          "Smoked Fish",
+          "A whole fish, smoked to perfection.",
+          "Any Fish (1) Coal (1)",
+          "50 mins",
+          "2 × Fish Price",
+          "1.5 × Fish Energy1.5 × Fish Health"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Artisan Goods"
+      ],
+      "rows": [
+        [
+          "Bee House",
+          "Honey"
+        ],
+        [
+          "Cask",
+          "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+        ],
+        [
+          "Cheese Press",
+          "Cheese • Goat Cheese"
+        ],
+        [
+          "Keg",
+          "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+        ],
+        [
+          "Loom",
+          "Cloth"
+        ],
+        [
+          "Mayonnaise Machine",
+          "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+        ],
+        [
+          "Oil Maker",
+          "Oil • Truffle Oil"
+        ],
+        [
+          "Preserves Jar",
+          "Aged Roe • Caviar • Jellies and Pickles"
+        ],
+        [
+          "Fish Smoker",
+          "Smoked Fish"
+        ],
+        [
+          "Dehydrator",
+          "Dried Mushrooms • Dried Fruit • Raisins"
+        ],
+        [
+          "Misc",
+          "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Equipment"
+      ],
+      "rows": [
+        [
+          "Artisan",
+          "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+        ],
+        [
+          "Refining",
+          "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+        ],
+        [
+          "Farming",
+          "Fertilizer",
+          "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+        ],
+        [
+          "Sprinklers",
+          "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+        ],
+        [
+          "Other",
+          "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+        ],
+        [
+          "Fishing",
+          "Bait",
+          "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+        ],
+        [
+          "Tackle",
+          "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+        ],
+        [
+          "Other",
+          "Crab Pot"
+        ],
+        [
+          "Bombs",
+          "Bomb • Cherry Bomb • Mega Bomb"
+        ],
+        [
+          "Fences",
+          "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+        ],
+        [
+          "Storage",
+          "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+        ],
+        [
+          "Signs",
+          "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+        ],
+        [
+          "Misc",
+          "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fish_Smoker.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fish_Smoker_On.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood",
+      "text": "Hardwood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Jelly",
+      "text": "Sea Jelly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/River_Jelly",
+      "text": "River Jelly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cave_Jelly",
+      "text": "Cave Jelly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Artisan_Equipment",
+      "text": "Artisan Equipment"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Smoked_Fish",
+      "text": "smoked fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker#cite_note-energy-1",
+      "text": "[1]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Legendary_Fish",
+      "text": "Legendary Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot",
+      "text": "Crab Pot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker#cite_note-inedible-2",
+      "text": "[2]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Shop",
+      "text": "Fish Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor#Prize_Machine",
+      "text": "Prize Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Maps#Riverland",
+      "text": "Riverland Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Smoked_Fish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Smoked_Fish",
+      "text": "Smoked Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker#cite_ref-energy_1-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker#cite_ref-inedible_2-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Honey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cask",
+      "text": "Cask"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese",
+      "text": "Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat_Cheese",
+      "text": "Goat Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Press",
+      "text": "Cheese Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese",
+      "text": "Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat_Cheese",
+      "text": "Goat Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Tea",
+      "text": "Green Tea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Juice",
+      "text": "Juice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Loom",
+      "text": "Loom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "text": "Mayonnaise Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Mayonnaise",
+      "text": "Dinosaur Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Duck_Mayonnaise",
+      "text": "Duck Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise",
+      "text": "Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil_Maker",
+      "text": "Oil Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Truffle_Oil",
+      "text": "Truffle Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Aged_Roe",
+      "text": "Aged Roe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caviar",
+      "text": "Caviar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "text": "Jellies and Pickles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Smoked_Fish",
+      "text": "Smoked Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dehydrator",
+      "text": "Dehydrator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dried_Mushrooms",
+      "text": "Dried Mushrooms"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dried_Fruit",
+      "text": "Dried Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Raisins",
+      "text": "Raisins"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Syrup",
+      "text": "Maple Syrup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oak_Resin",
+      "text": "Oak Resin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pine_Tar",
+      "text": "Pine Tar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mystic_Syrup",
+      "text": "Mystic Syrup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Artisan_Equipment",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cask",
+      "text": "Cask"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Press",
+      "text": "Cheese Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dehydrator",
+      "text": "Dehydrator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Loom",
+      "text": "Loom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "text": "Mayonnaise Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil_Maker",
+      "text": "Oil Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Refining_Equipment",
+      "text": "Refining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait_Maker",
+      "text": "Bait Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bone_Mill",
+      "text": "Bone Mill"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Charcoal_Kiln",
+      "text": "Charcoal Kiln"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystalarium",
+      "text": "Crystalarium"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Worm_Bin",
+      "text": "Deluxe Worm Bin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Geode_Crusher",
+      "text": "Geode Crusher"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Heavy_Furnace",
+      "text": "Heavy Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Heavy_Tapper",
+      "text": "Heavy Tapper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lightning_Rod",
+      "text": "Lightning Rod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Log",
+      "text": "Mushroom Log"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich_Incubator",
+      "text": "Ostrich Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Recycling_Machine",
+      "text": "Recycling Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seed_Maker",
+      "text": "Seed Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Egg-Press",
+      "text": "Slime Egg-Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Incubator",
+      "text": "Slime Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Panel",
+      "text": "Solar Panel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tapper",
+      "text": "Tapper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood_Chipper",
+      "text": "Wood Chipper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Worm_Bin",
+      "text": "Worm Bin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fertilizer",
+      "text": "Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Retaining_Soil",
+      "text": "Basic Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Retaining_Soil",
+      "text": "Deluxe Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Retaining_Soil",
+      "text": "Quality Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tree_Fertilizer",
+      "text": "Tree Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Sprinklers",
+      "text": "Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "text": "Quality Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sprinkler",
+      "text": "Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Scarecrow",
+      "text": "Deluxe Scarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garden_Pot",
+      "text": "Garden Pot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scarecrow#Rarecrows",
+      "text": "Rarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scarecrow",
+      "text": "Scarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait",
+      "text": "Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bait_(item)",
+      "text": "Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Challenge_Bait",
+      "text": "Challenge Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Bait",
+      "text": "Deluxe Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magic_Bait",
+      "text": "Magic Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magnet",
+      "text": "Magnet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Targeted_Bait",
+      "text": "Targeted Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Bait",
+      "text": "Wild Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tackle",
+      "text": "Tackle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Barbed_Hook",
+      "text": "Barbed Hook"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cork_Bobber",
+      "text": "Cork Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Curiosity_Lure",
+      "text": "Curiosity Lure"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dressed_Spinner",
+      "text": "Dressed Spinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lead_Bobber",
+      "text": "Lead Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Bobber",
+      "text": "Quality Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sonar_Bobber",
+      "text": "Sonar Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spinner",
+      "text": "Spinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trap_Bobber",
+      "text": "Trap Bobber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Treasure_Hunter",
+      "text": "Treasure Hunter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot",
+      "text": "Crab Pot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Bombs",
+      "text": "Bombs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bomb",
+      "text": "Bomb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cherry_Bomb",
+      "text": "Cherry Bomb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mega_Bomb",
+      "text": "Mega Bomb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Fences",
+      "text": "Fences"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gate",
+      "text": "Gate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood_Fence",
+      "text": "Hardwood Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Fence",
+      "text": "Iron Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Fence",
+      "text": "Stone Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood_Fence",
+      "text": "Wood Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Storage_Equipment",
+      "text": "Storage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Big_Chest",
+      "text": "Big Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Big_Stone_Chest",
+      "text": "Big Stone Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chest",
+      "text": "Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimo_Chest",
+      "text": "Junimo Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Fridge",
+      "text": "Mini-Fridge"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Chest",
+      "text": "Stone Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Signs",
+      "text": "Signs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Sign",
+      "text": "Dark Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Sign",
+      "text": "Stone Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Text_Sign",
+      "text": "Text Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood_Sign",
+      "text": "Wood Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Misc",
+      "text": "Misc"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Anvil",
+      "text": "Anvil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Maker",
+      "text": "Coffee Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cookout_Kit",
+      "text": "Cookout Kit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deconstructor",
+      "text": "Deconstructor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Dust",
+      "text": "Fairy Dust"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Computer",
+      "text": "Farm Computer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hopper",
+      "text": "Hopper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Forge",
+      "text": "Mini-Forge"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Jukebox",
+      "text": "Mini-Jukebox"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Shipping_Bin",
+      "text": "Mini-Shipping Bin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Staircase",
+      "text": "Staircase"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Statue_Of_Blessings",
+      "text": "Statue Of Blessings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Statue_Of_The_Dwarf_King",
+      "text": "Statue Of The Dwarf King"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Telephone",
+      "text": "Telephone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tent_Kit",
+      "text": "Tent Kit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tools",
+      "text": "Tools"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Workbench",
+      "text": "Workbench"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&oldid=192587",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&oldid=192587"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Craftable_items",
+      "text": "Craftable items"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Fish+Smoker",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Fish+Smoker",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Fish_Smoker",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Fish_Smoker",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Fish_Smoker",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&oldid=192587",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Fischr%C3%A4ucherer",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Ahumador_de_Peces",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Fumoir_%C3%A0_poisson",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Affumicatore",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E9%AD%9A%E3%81%AE%E3%81%8F%E3%82%93%E3%81%9B%E3%81%84%E5%99%A8",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%83%9D%EC%84%A0_%ED%9B%88%EC%A0%9C%EA%B8%B0",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Half%C3%BCst%C3%B6l%C5%91",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Defumador_de_Peixes",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9A%D0%BE%D0%BF%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%8F_%D0%B4%D0%BB%D1%8F_%D1%80%D1%8B%D0%B1%D1%8B",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Bal%C4%B1k_T%C3%BCts%C3%BCleyici",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%86%8F%E9%B1%BC%E6%9C%BA",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/79/Fish_Smoker.png",
+      "alt": "Fish Smoker.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c0/Fish_Smoker_On.png",
+      "alt": "Fish Smoker On.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png",
+      "alt": "Hardwood.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/Sea_Jelly.png/24px-Sea_Jelly.png",
+      "alt": "Sea Jelly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/80/River_Jelly.png/24px-River_Jelly.png",
+      "alt": "River Jelly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0a/Cave_Jelly.png/24px-Cave_Jelly.png",
+      "alt": "Cave Jelly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4c/Smoked_Fish.png",
+      "alt": "Smoked Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Coal.png/24px-Coal.png",
+      "alt": "Coal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Fish Smoker - Stardew Valley Wiki",
+      "headline": "Fish Smoker - Stardew Valley Wiki",
+      "mainEntityOfPage": "Fish Smoker",
+      "identifier": "https://stardewvalleywiki.com/Fish_Smoker",
+      "url": "https://stardewvalleywiki.com/Fish_Smoker",
+      "description": "The Fish Smoker is a type of Artisan Equipment that is used to create smoked fish using any fish and 1 coal. It doubles the sell price of a fish while retaining quality, as well as multiplying the energy and health restoration by 1.5 (if that fish restored energy or health, otherwise the value remains unchanged).&#91;1&#93; The smoker accepts Legendary Fish as well as Crab Pot specific fish, making the latter edible.&#91;2&#93;",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Fish Smoker, gift",
+      "dateModified": "2026-04-28T19:12:11Z",
+      "datePublished": "2026-04-28T19:12:11Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Fish Smoker - Stardew Valley Wiki Fish Smoker From Stardew Valley Wiki Jump to navigation Jump to search Fish Smoker Place fish inside with a piece of coal to create smoked fish, which is worth double. The quality of the fish is preserved. Information Source Crafting Sell Price Cannot be sold Crafting Recipe Source Fish Shop for data-sort-value=\"10000\"> 10,000g Ingredients Hardwood (10) Sea Jelly (1) River Jelly (1) Cave Jelly (1) The Fish Smoker is a type of Artisan Equipment that is used to create smoked fish using any fish and 1 coal . It doubles the sell price of a fish while retaining quality, as well as multiplying the energy and health restoration by 1.5 (if that fish restored energy or health, otherwise the value remains unchanged). [1] The smoker accepts Legendary Fish as well as Crab Pot specific fish, making the latter edible. [2] It can be crafted after purchasing the recipe from the Fish Shop for data-sort-value=\"10000\"> 10,000g . It is also a possible reward as the 12th prize from the Prize Machine in the Mayor's Manor (50% chance). Players on the Riverland Farm start with one Fish Smoker. Products Image Name Description Ingredients Processing Time Sell Price Energy / Health Smoked Fish A whole fish, smoked to perfection. Any Fish (1) Coal (1) 50 mins 2 × Fish Price 1.5 × Fish Energy 1.5 × Fish Health References ↑ See ObjectDataDefinition::CreateFlavoredSmokedFish in the game code. ↑ The edibility of a crab pot fish that is normally inedible is calculated as Sell Price × 0.3 . See ObjectDataDefinition::CreateFlavoredSmokedFish in the game code. History 1.6 : Introduced. Artisan Goods Bee House Honey Cask Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine Cheese Press Cheese • Goat Cheese Keg Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine Loom Cloth Mayonnaise Machine Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise Oil Maker Oil • Truffle Oil Preserves Jar Aged Roe • Caviar • Jellies and Pickles Fish Smoker Smoked Fish Dehydrator Dried Mushrooms • Dried Fruit • Raisins Misc Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup Equipment Artisan Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar Refining Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin Farming Fertilizer Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer Sprinklers Iridium Sprinkler • Quality Sprinkler • Sprinkler Other Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow Fishing Bait Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait Tackle Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter Other Crab Pot Bombs Bomb • Cherry Bomb • Mega Bomb Fences Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence Storage Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest Signs Dark Sign • Stone Sign • Text Sign • Wood Sign Misc Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Smoker&oldid=192587 \" Category : Craftable items Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 28 April 2026, at 19:12. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

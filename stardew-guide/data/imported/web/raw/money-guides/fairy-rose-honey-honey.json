@@ -1,0 +1,1810 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Honey",
+  "finalUrl": "https://stardewvalleywiki.com/Honey",
+  "fetchedAt": "2026-05-18T05:02:27.254538+00:00",
+  "title": "Honey - Stardew Valley Wiki",
+  "description": "Honey is an Artisan Good produced by the Bee House every 4 days in every season other than Winter in the valley, and in every season on Ginger Island. It can be purchased from the Oasis year-round on Fridays for data-sort-value=\"200\">200g or at the Traveling Cart for data-sort-value=\"100\"300–1,000g.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Honey"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Flower Honey"
+    },
+    {
+      "level": 2,
+      "text": "Sell Prices"
+    },
+    {
+      "level": 2,
+      "text": "Range"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Artisan Goods"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Tips"
+    },
+    {
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "100g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "140g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "300g"
+        ],
+        [
+          "",
+          "375g"
+        ],
+        [
+          "",
+          "450g"
+        ],
+        [
+          "",
+          "600g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "420g"
+        ],
+        [
+          "",
+          "525g"
+        ],
+        [
+          "",
+          "630g"
+        ],
+        [
+          "",
+          "840g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Flower Honey",
+        "Flower Season",
+        "Flower Growth Time",
+        "Honey Sell Price",
+        "Artisan ProfessionSell Price (+40%)"
+      ],
+      "rows": [
+        [
+          "N/A (Wild Honey)",
+          "Spring Summer Fall",
+          "N/A",
+          "data-sort-value=\"100\">100g",
+          "data-sort-value=\"140\">140g"
+        ],
+        [
+          "Tulip",
+          "Spring",
+          "6 Days",
+          "data-sort-value=\"160\">160g",
+          "data-sort-value=\"224\">224g"
+        ],
+        [
+          "Blue Jazz",
+          "Spring",
+          "7 Days",
+          "data-sort-value=\"200\">200g",
+          "data-sort-value=\"280\">280g"
+        ],
+        [
+          "Summer Spangle",
+          "Summer",
+          "8 Days",
+          "data-sort-value=\"280\">280g",
+          "data-sort-value=\"392\">392g"
+        ],
+        [
+          "Poppy",
+          "Summer",
+          "7 Days",
+          "data-sort-value=\"380\">380g",
+          "data-sort-value=\"532\">532g"
+        ],
+        [
+          "Sunflower",
+          "Summer Fall",
+          "8 Days",
+          "data-sort-value=\"260\">260g",
+          "data-sort-value=\"364\">364g"
+        ],
+        [
+          "Fairy Rose",
+          "Fall",
+          "12 Days",
+          "data-sort-value=\"680\">680g",
+          "data-sort-value=\"952\">952g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Like",
+          "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Vincent • Willy • Wizard"
+        ],
+        [
+          "Hate",
+          "Maru • Sebastian"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredients",
+        "Recipe Source(s)",
+        "Sell Price"
+      ],
+      "rows": [
+        [
+          "",
+          "Warp Totem: Farm",
+          "Warp directly to your house. Consumed on use.",
+          "Hardwood (1) Honey (1) Fiber (20)",
+          "Foraging Level 8",
+          "data-sort-value=\"20\">20g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredients",
+        "Recipe Source"
+      ],
+      "rows": [
+        [
+          "",
+          "Mead",
+          "A fermented beverage made from honey. Drink in moderation.",
+          "Honey (1)",
+          "Keg"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Artisan Goods"
+      ],
+      "rows": [
+        [
+          "Bee House",
+          "Honey"
+        ],
+        [
+          "Cask",
+          "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+        ],
+        [
+          "Cheese Press",
+          "Cheese • Goat Cheese"
+        ],
+        [
+          "Keg",
+          "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+        ],
+        [
+          "Loom",
+          "Cloth"
+        ],
+        [
+          "Mayonnaise Machine",
+          "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+        ],
+        [
+          "Oil Maker",
+          "Oil • Truffle Oil"
+        ],
+        [
+          "Preserves Jar",
+          "Aged Roe • Caviar • Jellies and Pickles"
+        ],
+        [
+          "Fish Smoker",
+          "Smoked Fish"
+        ],
+        [
+          "Dehydrator",
+          "Dried Mushrooms • Dried Fruit • Raisins"
+        ],
+        [
+          "Misc",
+          "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Honey#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Honey.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oasis",
+      "text": "Oasis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flowers",
+      "text": "flowers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan Good"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oasis",
+      "text": "Oasis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Flower_Honey",
+      "text": "1 Flower Honey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Sell_Prices",
+      "text": "2 Sell Prices"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Range",
+      "text": "3 Range"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Gifting",
+      "text": "4 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Bundles",
+      "text": "5 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Recipes",
+      "text": "6 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Artisan_Goods",
+      "text": "7 Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Tailoring",
+      "text": "8 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Quests",
+      "text": "9 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#Tips",
+      "text": "10 Tips"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#References",
+      "text": "11 References"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#History",
+      "text": "12 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garden_Pot",
+      "text": "Garden Pots"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deconstructor",
+      "text": "deconstructed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Warp_Totem:_Farm",
+      "text": "Warp Totem: Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flowers",
+      "text": "Flowers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crocus",
+      "text": "Crocus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Pea",
+      "text": "Sweet Pea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#cite_note-sellprice-1",
+      "text": "[1]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Bee_House_Range.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Artisan_Bundle",
+      "text": "Artisan Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Pantry",
+      "text": "Pantry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Warp_Totem_Farm.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Warp_Totem:_Farm",
+      "text": "Warp Totem: Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood",
+      "text": "Hardwood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiber",
+      "text": "Fiber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging#Foraging_Skill",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cask",
+      "text": "Casks"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mead.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Simple_Dress.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring#Pants",
+      "text": "Simple Dress"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Fish Pond quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey#cite_ref-sellprice_1-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Fish Pond quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5.2",
+      "text": "1.5.2"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6.6",
+      "text": "1.6.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cask",
+      "text": "Cask"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese",
+      "text": "Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat_Cheese",
+      "text": "Goat Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Press",
+      "text": "Cheese Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese",
+      "text": "Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat_Cheese",
+      "text": "Goat Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Tea",
+      "text": "Green Tea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Juice",
+      "text": "Juice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Loom",
+      "text": "Loom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "text": "Mayonnaise Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Mayonnaise",
+      "text": "Dinosaur Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Duck_Mayonnaise",
+      "text": "Duck Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise",
+      "text": "Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil_Maker",
+      "text": "Oil Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Truffle_Oil",
+      "text": "Truffle Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Aged_Roe",
+      "text": "Aged Roe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caviar",
+      "text": "Caviar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "text": "Jellies and Pickles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Smoker",
+      "text": "Fish Smoker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Smoked_Fish",
+      "text": "Smoked Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dehydrator",
+      "text": "Dehydrator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dried_Mushrooms",
+      "text": "Dried Mushrooms"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dried_Fruit",
+      "text": "Dried Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Raisins",
+      "text": "Raisins"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Syrup",
+      "text": "Maple Syrup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oak_Resin",
+      "text": "Oak Resin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pine_Tar",
+      "text": "Pine Tar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mystic_Syrup",
+      "text": "Mystic Syrup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&oldid=190251",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&oldid=190251"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Artisan_Goods",
+      "text": "Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Honey",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Honey",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Honey",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Honey",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Honey",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&oldid=190251",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Honig",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Miel",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Miel",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Miele",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%8F%E3%83%81%E3%83%9F%E3%83%84",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%B2%8C%EA%BF%80",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/M%C3%A9z",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Mel",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9C%D0%B5%D0%B4",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Bal",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E8%9C%82%E8%9C%9C",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bee_House.png/24px-Bee_House.png",
+      "alt": "Bee House.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Tulip.png/24px-Tulip.png",
+      "alt": "Tulip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Summer_Spangle.png/24px-Summer_Spangle.png",
+      "alt": "Summer Spangle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/24px-Poppy.png",
+      "alt": "Poppy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png",
+      "alt": "Sunflower.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Fairy_Rose.png/24px-Fairy_Rose.png",
+      "alt": "Fairy Rose.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/04/Bee_House_Range.png",
+      "alt": "Bee House Range.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/24px-Bundle_Purple.png",
+      "alt": "Bundle Purple.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Warp_Totem_Farm.png",
+      "alt": "Warp Totem Farm.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png",
+      "alt": "Hardwood.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/45/Fiber.png/24px-Fiber.png",
+      "alt": "Fiber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Foraging_Skill_Icon.png/24px-Foraging_Skill_Icon.png",
+      "alt": "Foraging Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7c/Keg.png/24px-Keg.png",
+      "alt": "Keg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Simple_Dress.png/36px-Simple_Dress.png",
+      "alt": "Simple Dress.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Honey - Stardew Valley Wiki",
+      "headline": "Honey - Stardew Valley Wiki",
+      "mainEntityOfPage": "Honey",
+      "identifier": "https://stardewvalleywiki.com/Honey",
+      "url": "https://stardewvalleywiki.com/Honey",
+      "description": "Honey is an Artisan Good produced by the Bee House every 4 days in every season other than Winter in the valley, and in every season on Ginger Island. It can be purchased from the Oasis year-round on Fridays for data-sort-value=\"200\"&gt;200g or at the Traveling Cart for data-sort-value=\"100\"300–1,000g.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Honey, gift",
+      "dateModified": "2026-01-12T17:58:26Z",
+      "datePublished": "2026-01-12T17:58:26Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Honey - Stardew Valley Wiki Honey From Stardew Valley Wiki Jump to navigation Jump to search Honey It's a sweet syrup produced by bees. Information Source Artisan Goods • Oasis Season Spring • Summer • Fall All Seasons on Ginger Island Energy Inedible Sell Prices Base Artisan (+40%) 100g 140g Artisan Sell Prices Base Artisan (+40%) 300g 375g 450g 600g 420g 525g 630g 840g Artisan Goods Equipment Bee House Processing Time 6100m (≈4d) Ingredients Various flowers Honey is an Artisan Good produced by the Bee House every 4 days in every season other than Winter in the valley, and in every season on Ginger Island . It can be purchased from the Oasis year-round on Fridays for data-sort-value=\"200\"> 200g or at the Traveling Cart for data-sort-value=\"100\" 300–1,000g. Honey can be made into mead by placing it inside a keg . Contents 1 Flower Honey 2 Sell Prices 3 Range 4 Gifting 5 Bundles 6 Recipes 7 Artisan Goods 8 Tailoring 9 Quests 10 Tips 11 References 12 History Flower Honey Fully-grown flowers planted near the Bee House (including those grown in Garden Pots ) will have an effect on the type of honey produced, increasing its sale price. Flowers are not consumed when a hive produces honey, and multiple hives can make honey from the same flower, so one flower can service a large number of hives. The honey type is determined when harvested, rather than when it becomes ready. If honey is left in a Bee House until a nearby flower has bloomed, it will be harvested as flower honey. If no flowers are planted near the Bee House, or if a Bee House has produced flower honey, but the flower is harvested before the honey, the honey will become \"Wild Honey,\" the least profitable Honey. Honey purchased from the Oasis or Traveling Cart, or deconstructed from a Warp Totem: Farm , is also called \"Honey\", and is also functionally identical to Wild Honey. Sell Prices Flowers not listed below ( i.e., Crocus and Sweet Pea ) do not influence the price of honey. Daffodil and Dandelion are classified as \"Forage\" not \"Flower\" in-game, so they do not influence the price of honey either. The formula used to calculate the sale price of honey is base honey sell price + (base flower sell price × 2) . [1] Flower Honey Flower Season Flower Growth Time Honey Sell Price Artisan Profession Sell Price (+40%) N/A (Wild Honey) Spring Summer Fall N/A data-sort-value=\"100\"> 100g data-sort-value=\"140\"> 140g Tulip Spring 6 Days data-sort-value=\"160\"> 160g data-sort-value=\"224\"> 224g Blue Jazz Spring 7 Days data-sort-value=\"200\"> 200g data-sort-value=\"280\"> 280g Summer Spangle Summer 8 Days data-sort-value=\"280\"> 280g data-sort-value=\"392\"> 392g Poppy Summer 7 Days data-sort-value=\"380\"> 380g data-sort-value=\"532\"> 532g Sunflower Summer Fall 8 Days data-sort-value=\"260\"> 260g data-sort-value=\"364\"> 364g Fairy Rose Fall 12 Days data-sort-value=\"680\"> 680g data-sort-value=\"952\"> 952g Range Flowers within 5 tiles of a Bee House will affect the type of honey produced. Gifting Villager Reactions Like Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Vincent • Willy • Wizard Hate Maru • Sebastian Bundles Honey is an option for the Artisan Bundle in the Pantry . Recipes Image Name Description Ingredients Recipe Source(s) Sell Price Warp Totem: Farm Warp directly to your house. Consumed on use. Hardwood (1) Honey (1) Fiber (20) Foraging Level 8 data-sort-value=\"20\"> 20g Artisan Goods Honey may be placed in a Keg to produce Mead . Mead may be aged in Casks to increase its quality. Note that the sell price of Mead does not change based on the type of Honey used. Several types of Flower Honey sell for more than Mead, making it more profitable to sell the Honey. Image Name Description Ingredients Recipe Source Mead A fermented beverage made from honey. Drink in moderation. Honey (1) Keg Tailoring Honey is used in the spool of the Sewing Machine to create the dyeable Simple Dress . It can be used in dyeing , serving as a yellow dye at the dye pots, located in Emily 's and Haley 's house, 2 Willow Lane . Quests One Honey (of any type) may be requested by several fish in Fish Pond quests . Tips It may prove advantageous to have only one slot free in inventory before gathering honey. The gathered honey will fill up the last inventory slot, preventing the accidental picking of flowers used to make flower honey. References ↑ See Object::checkForAction in the game code. The base sell price of honey is set in ObjectInformation.xnb . History 1.4 : Added sunflower honey. Fixed lopsided bee house range. Jas & Vincent now like honey, instead of hating it. Honey can now be used in Tailoring. Can be requested in Fish Pond quests . 1.5 : Honey can now be collected from bee houses right when the morning starts (every 4 days). 1.5.2 : Fixed bug where Honey could not be collected from bee houses on the Ginger Island farm during Winter. 1.6 : Fixed bee house dropping a generic \"Honey\" item when you break it, instead of the flavored honey it would produce when harvested normally. 1.6.6 : Bee Houses now make flower Honey when flowers are in Garden Pots. Artisan Goods Bee House Honey Cask Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine Cheese Press Cheese • Goat Cheese Keg Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine Loom Cloth Mayonnaise Machine Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise Oil Maker Oil • Truffle Oil Preserves Jar Aged Roe • Caviar • Jellies and Pickles Fish Smoker Smoked Fish Dehydrator Dried Mushrooms • Dried Fruit • Raisins Misc Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&oldid=190251 \" Category : Artisan Goods Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 12 January 2026, at 17:58. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

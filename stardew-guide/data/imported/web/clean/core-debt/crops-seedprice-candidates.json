@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "carrot",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Carrot",
+      "https://stardewvalleywiki.com/Carrot_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "No standard gold seed price is confirmed on the current wiki source; special acquisition remains outside the current schema."
+  },
+  {
+    "slug": "summer-squash",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Summer_Squash",
+      "https://stardewvalleywiki.com/Summer_Squash_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "No standard gold seed price is confirmed on the current wiki source; special acquisition remains outside the current schema."
+  },
+  {
+    "slug": "broccoli",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Broccoli",
+      "https://stardewvalleywiki.com/Broccoli_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "No standard gold seed price is confirmed on the current wiki source; special acquisition remains outside the current schema."
+  },
+  {
+    "slug": "powdermelon",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Powdermelon",
+      "https://stardewvalleywiki.com/Powdermelon_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "No standard gold seed price is confirmed on the current wiki source; special acquisition remains outside the current schema."
+  },
+  {
+    "slug": "pineapple",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pineapple",
+      "https://stardewvalleywiki.com/Pineapple_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review; future schema may need acquisitionCost or exchangeCost.",
+    "schemaIssue": "Item-based exchange cost is not representable in the current seedPrice-only schema."
+  },
+  {
+    "slug": "qi-fruit",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Qi_Fruit",
+      "https://stardewvalleywiki.com/Qi_Bean"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "Quest-only crop with no regular gold seed price in the current schema."
+  },
+  {
+    "slug": "taro-root",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Taro_Root",
+      "https://stardewvalleywiki.com/Taro_Tuber"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review; future schema may need acquisitionCost or exchangeCost.",
+    "schemaIssue": "Item-based exchange cost is not representable in the current seedPrice-only schema."
+  },
+  {
+    "slug": "ancient-fruit",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Fruit",
+      "https://stardewvalleywiki.com/Ancient_Seeds"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "Special acquisition path does not map cleanly to a standard seedPrice field."
+  },
+  {
+    "slug": "coffee-bean",
+    "field": "seedPrice",
+    "currentValue": "needs verification",
+    "candidateValue": "needs verification",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coffee_Bean"
+    ],
+    "confidence": "needs verification",
+    "notes": "Keep seedPrice under review until a safe canonical gold price is confirmed.",
+    "schemaIssue": "Special acquisition path does not map cleanly to a standard seedPrice field."
+  }
+]

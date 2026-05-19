@@ -1,0 +1,2835 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Kale",
+  "finalUrl": "https://stardewvalleywiki.com/Kale",
+  "fetchedAt": "2026-05-18T13:38:36.611896+00:00",
+  "title": "Kale - Stardew Valley Wiki",
+  "description": "Kale is a vegetable crop that grows from Kale Seeds after 6 days. Kale is harvested using a Scythe or better.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Kale"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Stages"
+    },
+    {
+      "level": 2,
+      "text": "Crop Growth Calendar"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "50",
+          "",
+          "22"
+        ],
+        [
+          "",
+          "70",
+          "",
+          "31"
+        ],
+        [
+          "",
+          "90",
+          "",
+          "40"
+        ],
+        [
+          "",
+          "130",
+          "",
+          "58"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "110g"
+        ],
+        [
+          "",
+          "137g"
+        ],
+        [
+          "",
+          "165g"
+        ],
+        [
+          "",
+          "220g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "121g"
+        ],
+        [
+          "",
+          "150g"
+        ],
+        [
+          "",
+          "181g"
+        ],
+        [
+          "",
+          "242g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "247g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "270g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "345g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "378g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Harvest"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1 Day",
+          "2 Days",
+          "2 Days",
+          "1 Day",
+          "Total: 6 Days"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Base"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Like",
+          "Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sandy • Sebastian • Shane • Willy • Wizard"
+        ],
+        [
+          "Dislike",
+          "Abigail • Haley • Jas • Sam • Vincent"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "7 Spring, Year 1"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Kale#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Kale.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale_Seeds",
+      "text": "Kale Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "Farming XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Tiller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale_Seeds",
+      "text": "Kale Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scythe",
+      "text": "Scythe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Stages",
+      "text": "1 Stages"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Crop_Growth_Calendar",
+      "text": "2 Crop Growth Calendar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Gifting",
+      "text": "3 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Bundles",
+      "text": "4 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Recipes",
+      "text": "5 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Tailoring",
+      "text": "6 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale#History",
+      "text": "8 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Spring_Crops_Bundle",
+      "text": "remixed Spring Crops Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Pantry",
+      "text": "Pantry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmon_Dinner.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon_Dinner",
+      "text": "Salmon Dinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon",
+      "text": "Salmon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Stir_Fry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stir_Fry",
+      "text": "Stir Fry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cave_Carrot",
+      "text": "Cave Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Shirt And Belt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Spring_Crops_Bundle",
+      "text": "remixed Spring Crops Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&oldid=192520",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&oldid=192520"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Spring_crops",
+      "text": "Spring crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Vegetables",
+      "text": "Vegetables"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Kale",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Kale",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Kale&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Kale",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Kale",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&oldid=192520",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Gr%C3%BCnkohl",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Col_rizada",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Chou_fris%C3%A9",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Cavolo_verde",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%B1%E3%83%BC%E3%83%AB",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%BC%80%EC%9D%BC",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Vadk%C3%A1poszta",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Couve",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Lahana",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%94%98%E8%93%9D%E8%8F%9C",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/00/Kale_Seeds.png/24px-Kale_Seeds.png",
+      "alt": "Kale Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b2/Tiller.png/24px-Tiller.png",
+      "alt": "Tiller.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Green_Juice.png/24px-Green_Juice.png",
+      "alt": "Green Juice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Green_Pickles.png/24px-Green_Pickles.png",
+      "alt": "Green Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Green_Juice.png/24px-Green_Juice.png",
+      "alt": "Green Juice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Green_Pickles.png/24px-Green_Pickles.png",
+      "alt": "Green Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Kale_Stage_5.png",
+      "alt": "Kale Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Kale_Stage_1.png/36px-Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Kale_Stage_1.png/36px-Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Kale_Stage_1.png/36px-Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Kale_Stage_1.png/36px-Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Kale_Stage_4.png/36px-Kale_Stage_4.png",
+      "alt": "Kale Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Kale_Stage_1.png/36px-Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/86/Kale_Stage_1.png/36px-Kale_Stage_1.png",
+      "alt": "Kale Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Kale_Stage_2.png/36px-Kale_Stage_2.png",
+      "alt": "Kale Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a3/Kale_Stage_3.png/36px-Kale_Stage_3.png",
+      "alt": "Kale Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/24px-Bundle_Green.png",
+      "alt": "Bundle Green.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+      "alt": "Salmon Dinner.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salmon.png/24px-Salmon.png",
+      "alt": "Salmon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f6/Amaranth.png/24px-Amaranth.png",
+      "alt": "Amaranth.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/16px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Stir_Fry.png",
+      "alt": "Stir Fry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Cave_Carrot.png/24px-Cave_Carrot.png",
+      "alt": "Cave Carrot.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Common_Mushroom.png/24px-Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Shirt159.png/24px-Shirt159.png",
+      "alt": "Shirt159.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Kale - Stardew Valley Wiki",
+      "headline": "Kale - Stardew Valley Wiki",
+      "mainEntityOfPage": "Kale",
+      "identifier": "https://stardewvalleywiki.com/Kale",
+      "url": "https://stardewvalleywiki.com/Kale",
+      "description": "Kale is a vegetable crop that grows from Kale Seeds after 6 days. Kale is harvested using a Scythe or better.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Kale, gift",
+      "dateModified": "2026-04-23T09:56:16Z",
+      "datePublished": "2026-04-23T09:56:16Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Kale - Stardew Valley Wiki Kale From Stardew Valley Wiki Jump to navigation Jump to search Kale The waxy leaves are great in soups and stir fries. Information Seed Kale Seeds Growth Time 6 days Season Spring XP 17 Farming XP Energy / Health 50 22 70 31 90 40 130 58 Sell Prices Base Tiller (+10%) 110g 137g 165g 220g 121g 150g 181g 242g Artisan Sell Prices Base Artisan (+40%) 247g 270g 345g 378g Kale is a vegetable crop that grows from Kale Seeds after 6 days. Kale is harvested using a Scythe or better. Contents 1 Stages 2 Crop Growth Calendar 3 Gifting 4 Bundles 5 Recipes 6 Tailoring 7 Quests 8 History Stages Stage 1 Stage 2 Stage 3 Stage 4 Harvest 1 Day 2 Days 2 Days 1 Day Total: 6 Days Crop Growth Calendar Base Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Gifting Villager Reactions Like Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sandy • Sebastian • Shane • Willy • Wizard Dislike Abigail • Haley • Jas • Sam • Vincent Bundles Kale may be chosen as one of the options for the remixed Spring Crops Bundle in the Pantry . Recipes Image Name Description Ingredients Energy / Health Recipe Source(s) Sell Price Salmon Dinner The lemon spritz makes it special. Salmon (1) Amaranth (1) Kale (1) 125 56 Gus (Mail - 3+ ) data-sort-value=\"300\"> 300g Stir Fry Julienned vegetables on a bed of rice. Cave Carrot (1) Common Mushroom (1) Kale (1) Oil (1) 200 90 The Queen of Sauce 7 Spring, Year 1 data-sort-value=\"335\"> 335g Tailoring Kale is used in the spool of the Sewing Machine with Cloth in the feed to create a dyeable Shirt And Belt . It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in dyeing . Quests Kale may be randomly requested in Spring (year 2+) at the \"Help Wanted\" board outside Pierre's General Store for a reward of data-sort-value=\"330\"> 330g and 150 Friendship points. History 1.4 : Can now be used in Tailoring . 1.5 : Iridium quality is now possible when using Deluxe Fertilizer . 1.6 : Can now be used in the remixed Spring Crops Bundle . Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Kale&oldid=192520 \" Categories : Spring crops Vegetables Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 23 April 2026, at 09:56. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

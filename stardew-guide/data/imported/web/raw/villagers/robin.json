@@ -1,0 +1,3508 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Robin",
+  "finalUrl": "https://stardewvalleywiki.com/Robin",
+  "fetchedAt": "2026-05-18T13:03:25.404944+00:00",
+  "title": "Robin - Stardew Valley Wiki",
+  "description": "Robin is a villager who resides at 24 Mountain Road, on The Mountain, with her husband Demetrius, daughter Maru, and son Sebastian.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Robin"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Anytime"
+    },
+    {
+      "level": 3,
+      "text": "Six Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Seven Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Robin"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Fall 21"
+        ],
+        [
+          "Lives In",
+          "The Mountain"
+        ],
+        [
+          "Address",
+          "24 Mountain Road"
+        ],
+        [
+          "Family",
+          "Demetrius (Husband) Maru (Daughter) Sebastian (Son)"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Clinic Visit",
+          "Summer 18"
+        ],
+        [
+          "Loved Gifts",
+          "Goat Cheese Peach Spaghetti Woody's Secret"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“My parents were bewildered when I told them I wanted to be a carpenter. They were pretty old-fashioned.”"
+        ],
+        [
+          "— Robin"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Spring 16 (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "11:20 AM",
+          "Boards the bus to Calico Desert to attend the Desert Festival."
+        ],
+        [
+          "11:40 AM",
+          "Chats with Marlon and Gil at the Adventurer's Guild challenge booth."
+        ],
+        [
+          "12:20 AM",
+          "Boards the bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Desert Festival (As Vendor)"
+      ],
+      "rows": [
+        [
+          "11:10 AM",
+          "Boards the bus to Calico Desert."
+        ],
+        [
+          "11:30 AM",
+          "Arrives at her booth."
+        ],
+        [
+          "12:00 AM",
+          "Leaves booth and takes bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Green Rain (Year 1)"
+      ],
+      "rows": [
+        [
+          "All day",
+          "In Sebastian's room."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Summer 18"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "7:00 AM",
+          "Walks to the counter of her shop."
+        ],
+        [
+          "8:00 AM",
+          "Leaves home and walks to Harvey's Clinic."
+        ],
+        [
+          "4:00 PM",
+          "Leaves Harvey's Clinic and walks home."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Rain"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "8:00 AM",
+          "Walks to the counter of her shop."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the counter of her shop and walks to the kitchen."
+        ],
+        [
+          "7:30 PM",
+          "Walks to her bedroom."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Monday (Community Center Restored)"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "8:00 AM",
+          "Walks to the counter of her shop."
+        ],
+        [
+          "5:00 PM",
+          "Leaves her shop and walks to the Community Center."
+        ],
+        [
+          "7:30 PM",
+          "Leaves Community Center to return home."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Winter 16"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "8:00 AM",
+          "Walks to the counter of her shop."
+        ],
+        [
+          "5:00 PM",
+          "Leaves her shop to attend Night Market."
+        ],
+        [
+          "11:30 PM",
+          "Leaves Night Market to return home."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Tuesday"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "9:30 AM",
+          "Walks towards Pierre's General Store."
+        ],
+        [
+          "1:00 PM",
+          "Starts to exercise."
+        ],
+        [
+          "4:00 PM",
+          "Finishes the exercise, talks with Jodi, Caroline, and Marnie."
+        ],
+        [
+          "6:00 PM",
+          "Leaves Pierre's General Store and walks back to the kitchen."
+        ],
+        [
+          "7:30 PM",
+          "Leaves the kitchen and walks to her bedroom."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Friday"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "8:00 AM",
+          "Walks to the counter of her shop."
+        ],
+        [
+          "4:00 PM",
+          "Leaves her shop and walks to the Stardrop Saloon."
+        ],
+        [
+          "7:20 PM",
+          "At the Stardrop Saloon, dancing with Demetrius."
+        ],
+        [
+          "9:00 PM",
+          "Leaves the Stardrop Saloon and walks home to go to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Regular Schedule"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In her bedroom at home."
+        ],
+        [
+          "8:00 AM",
+          "Walks to the counter of her shop."
+        ],
+        [
+          "5:00 PM",
+          "Leaves her shop and heads outside to the Mountain area."
+        ],
+        [
+          "7:30 PM",
+          "Leaves the Mountain and walks into her bedroom."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A birthday gift? That's very kind of you! I love it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You remembered my birthday! Thank you. This is great.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, a birthday gift! Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... It's for my birthday? ... Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is for me? Wow, I absolutely love it!!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Wait a sec... you're giving me this? What a special treat! Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“What's this... 'Woody's Secret'? ... Um, what kind of book is this, (Name)? Oh, it's about woodcutting! Hahaha... Oh yeah, I'm going to love this. Thanks!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Goat Cheese",
+          "Soft cheese made from goat's milk.",
+          "Cheese Press",
+          ""
+        ],
+        [
+          "",
+          "Peach",
+          "It's almost fuzzy to the touch.",
+          "Peach Tree",
+          ""
+        ],
+        [
+          "",
+          "Spaghetti",
+          "An old favorite.",
+          "Cooking, The Stardrop Saloon",
+          "Wheat Flour (1) Tomato (1)"
+        ],
+        [
+          "",
+          "Woody's Secret",
+          "Felled trees have a 5% chance to yield double the wood.",
+          "Bookseller",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thanks! This is really nice!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, 'Woodcutter's Weekly'... I was hoping to get my hands on the newest issue! They've got all the latest techniques in here! From one woodcutter to another... Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal LikesAll Fruit (except Peach)All Milk"
+        ],
+        [
+          "",
+          "Hardwood",
+          "A special kind of wood with superior strength and beauty.",
+          "Foraging"
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - Mines"
+        ],
+        [
+          "",
+          "Woodcutter's Weekly",
+          "Read this to gain some foraging experience.",
+          "Bookseller"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank you. This might come in handy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Woodcutter's Weekly & Woody's Secret)All Eggs (except Void Egg)*"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Um... why?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Hardwood)"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“What the...? This is terrible!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates"
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Journey Of The Prairie King: The Motion Picture"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "N/A"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Salted Peanuts Stardrop Sorbet"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Black Licorice Cotton Candy Jawbreaker Joja Cola JojaCorn Rock Candy Sour Slimes"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [
+        "Item",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Wood (50)",
+          "Hey there!I had some extra wood lying around... I thought maybe you could use it. Take care!-Robin"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "You find Robin cleaning the dust off her saw. She asks if you've ever made anything out of wood: \"Yes\" (+50 friendship.) \"No\" (+50 friendship.) She says \"I think we've become good enough friends that I can trust you with my carpentry secrets!\" and gives you two blueprints — the Drum Block and the Flute Block. She says it feels good to decorate your house with things you've made yourself."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Pumpkin Soup",
+          "Here is an old recipe that my grandma passed down to me. Enjoy!-Robin"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you met everyone in town yet? That sounds exhausting.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have I told you that I built our house from the ground up? It's definitely been the highlight of my career so far.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, if you need any materials or blueprints, my shop is the place you're looking for! Plus, your business supports the local economy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey there, [Player]. I was just daydreaming about some new carpentry projects. Are you doing OK at your place? How's the woodwork in your cottage holding up?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're always welcome to visit us, even if you aren't shopping, you know. It can get pretty lonely up here in the mountains.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You've met my son Sebastian, right? He lives downstairs. He's a little shy, but I'm sure he'll warm up to you if you're nice to him.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much... I would talk to him about it but he never opens up to me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Our house is in such a beautiful area, don't you think? I love the fresh air of the mountains.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I hope Demetrius doesn't blow the house up with those science experiments of his. I'm not even sure what he's working on. I think it has something to do with plants.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sorry if it smells weird in here, [Player]. It's my husband's bizarre science project...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...I found you unconscious in the mines. I almost mistook you for a piece of exotic wood! Be a little more careful next time, okay?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The rain doesn't stop me from getting a job done! Although soggy wood isn't a joy to work with.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I miss my Sebby... he was always a little misunderstood, but I believed in him.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sebastian told me he's trying to quit smoking! I'm really proud of him.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I think the farm life is really healthy for Sebby.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hi [Player]! It's good to see you. You're a regular member of the community now, don't you think?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired! It's a miracle of woodworking!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I knew it from the moment you stepped off that bus, [Player]... you were destined to be a town hero!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Our little plan worked out well, don't you think? Pam and Penny seem really happy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If you need any buildings on your farm upgraded, just ask me! You'll need to provide enough lumber and stone for the project. And it costs money, too. But I'm sure you'll be pleased with the results!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“We're pretty insulated from the rest of the world here in Stardew Valley. It has its pros and cons.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“That man is insane! Why does he have to go out there? We have no idea if this rain is dangerous!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I hope Demetrius is happy with the 'samples' he collected. Seems like his little science project is more important to him than his own wife. Hmmph.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“There's all kinds of good wood out there today. Better get chopping, huh?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Maru likes gems. She uses them in her inventions. So how are you and Maru getting along?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're always welcome to visit us, even if you aren't in the market for a building upgrade! It can get pretty lonely up here in the mountains.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you met the wild man that lives behind our house? I guess I don't really mind, as long as he doesn't bother us.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, it's a perfect time of year to gather wood. Maybe you can collect enough to upgrade your house!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“My parents were bewildered when I told them I wanted to be a carpenter. They were pretty old-fashioned.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Our house is in such a beautiful area, don't you think? Everything looks still after a fresh snow.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Wow, look at these structures! I can tell they were made by a master builder. I'm really impressed!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, look! I can see another island from here.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey [Player]. You know, I was just thinking about how far the town has come since you first moved here. You should really be proud of all you've done!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is so relaxing...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“That was fun!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, don't worry... these are tears of joy. I know Sebastian will be very happy on [the Player's] Farm!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“We'll all miss having Maru around the house, but I'm sure we'll still see her often!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sebastian's back in the basement... what happened between you two?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Maru was crying through the night... We're all devastated...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Spring is a busy time of year... so it's nice to have a day off to catch up with friends.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 78,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It feels great to be outside again after that long, cold winter, doesn't it?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 79,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey [Player]. We're just chewing the fat over here. I don't see these guys very often, even though we're neighbors!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 80,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ahh... The air smells so sweet with all these flowers.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 81,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Is that the smell of flowers? Or is it Caroline's perfume?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 82,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ow... you stepped on my foot, dear.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 83,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*yawn*... It's past my bed-time. Hey, did you see that candle-boat? I crafted it myself.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 84,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Woodworking is an ancient tradition that I'm very proud to be a part of.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 85,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Well, winter's almost here. It's a great time to stockpile wood and stone.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 86,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm sorry, but carving ice parapets requires my undivided attention!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 87,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“My favorite thing is seeing the boats. The creaking sound of the wood is strangely comforting.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 88,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hiya, [Player]. You're welcome to join our family table if you need company.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 89,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Robin#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "The Mountain"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "24 Mountain Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat_Cheese",
+      "text": "Goat Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach",
+      "text": "Peach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spaghetti",
+      "text": "Spaghetti"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woody%27s_Secret",
+      "text": "Woody's Secret"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Relationships",
+      "text": "2 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Gifts",
+      "text": "3 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Love",
+      "text": "3.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Like",
+      "text": "3.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Neutral",
+      "text": "3.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Dislike",
+      "text": "3.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Hate",
+      "text": "3.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Movies_.26_Concessions",
+      "text": "4 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Heart_Events",
+      "text": "5 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Anytime",
+      "text": "5.1 Anytime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Six_Hearts",
+      "text": "5.2 Six Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Seven_Hearts",
+      "text": "5.3 Seven Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Quotes",
+      "text": "6 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#Portraits",
+      "text": "8 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin#History",
+      "text": "9 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villager"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "24 Mountain Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "The Mountain"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "Carpenter's Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop#Farm_Buildings",
+      "text": "farm building"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Farm",
+      "text": "the Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Beach_Resort",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festivals",
+      "text": "Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Villager_Shops",
+      "text": "booth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "the kitchen"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "the kitchen"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "her shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "the Mountain"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "the Mountain"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop#Farm_Buildings",
+      "text": "farm buildings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmhouse",
+      "text": "Farmhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coop",
+      "text": "Coop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Barn",
+      "text": "Barn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shed",
+      "text": "Shed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Goat_Cheese.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat_Cheese",
+      "text": "Goat Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Press",
+      "text": "Cheese Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Peach.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach",
+      "text": "Peach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach_Tree",
+      "text": "Peach Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Spaghetti.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spaghetti",
+      "text": "Spaghetti"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Woody%27s_Secret.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woody%27s_Secret",
+      "text": "Woody's Secret"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bookseller",
+      "text": "Bookseller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach",
+      "text": "Peach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hardwood.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood",
+      "text": "Hardwood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Woodcutter%27s_Weekly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woodcutter%27s_Weekly",
+      "text": "Woodcutter's Weekly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bookseller",
+      "text": "Bookseller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woodcutter%27s_Weekly",
+      "text": "Woodcutter's Weekly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woody%27s_Secret",
+      "text": "Woody's Secret"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood",
+      "text": "Hardwood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood",
+      "text": "Wood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Drum_Block",
+      "text": "Drum Block"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flute_Block",
+      "text": "Flute Block"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin_Soup",
+      "text": "Pumpkin Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quarry",
+      "text": "Quarry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "The Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spirit%27s_Eve",
+      "text": "Spirit's Eve"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robins_Lost_Axe.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robins_Lost_Axe.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Robin.27s_Lost_Axe",
+      "text": "\"Robin's Lost Axe\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Robin.27s_Request",
+      "text": "\"Robin's Request\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood",
+      "text": "Hardwood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood",
+      "text": "Wood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone",
+      "text": "Stone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Robin.27s_Project",
+      "text": "\"Robin's Project\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood",
+      "text": "Hardwood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Red_Double_Bed",
+      "text": "Deluxe Red Double Bed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop",
+      "text": "Carpenter's Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Robin.27s_Resource_Rush",
+      "text": "\"Robin's Resource Rush\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wood",
+      "text": "Wood"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone",
+      "text": "Stone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Chest",
+      "text": "Stone Chest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Wave.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Neutral.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Thinking.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_00.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_01.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_02.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_03.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_04.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_05.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Winter_06.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach_Wave.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach_Neutral.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Robin_Beach_Thinking.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&oldid=191769",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&oldid=191769"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Robin",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Robin",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Robin",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Robin",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Robin",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&oldid=191769",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Robin",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Robin",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Robine",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Robin",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%AD%E3%83%93%E3%83%B3",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%A1%9C%EB%B9%88",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Robin",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Robin",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Robin",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%BD%97%E5%AE%BE",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+      "alt": "Robin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/24px-Goat_Cheese.png",
+      "alt": "Goat Cheese.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/24px-Peach.png",
+      "alt": "Peach.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/08/Spaghetti.png/24px-Spaghetti.png",
+      "alt": "Spaghetti.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8b/Woody%27s_Secret.png/24px-Woody%27s_Secret.png",
+      "alt": "Woody's Secret.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fa/Robin_Happy.png/48px-Robin_Happy.png",
+      "alt": "Robin Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png",
+      "alt": "Goat Cheese.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Peach.png",
+      "alt": "Peach.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png",
+      "alt": "Spaghetti.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Tomato.png/24px-Tomato.png",
+      "alt": "Tomato.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Woody%27s_Secret.png",
+      "alt": "Woody's Secret.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fa/Robin_Happy.png/48px-Robin_Happy.png",
+      "alt": "Robin Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Hardwood.png",
+      "alt": "Hardwood.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/46/Woodcutter%27s_Weekly.png",
+      "alt": "Woodcutter's Weekly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Robin.png/48px-Robin.png",
+      "alt": "Robin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/15/Robin_Concerned.png/48px-Robin_Concerned.png",
+      "alt": "Robin Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/15/Robin_Concerned.png/48px-Robin_Concerned.png",
+      "alt": "Robin Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salted_Peanuts.png/24px-Salted_Peanuts.png",
+      "alt": "Salted Peanuts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Black_Licorice.png/24px-Black_Licorice.png",
+      "alt": "Black Licorice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Cotton_Candy.png/24px-Cotton_Candy.png",
+      "alt": "Cotton Candy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Jawbreaker.png/24px-Jawbreaker.png",
+      "alt": "Jawbreaker.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Joja_Cola_%28large%29.png/24px-Joja_Cola_%28large%29.png",
+      "alt": "Joja Cola (large).png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/JojaCorn.png/24px-JojaCorn.png",
+      "alt": "JojaCorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/50/Rock_Candy.png/24px-Rock_Candy.png",
+      "alt": "Rock Candy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Sour_Slimes.png/24px-Sour_Slimes.png",
+      "alt": "Sour Slimes.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+      "alt": "Wood.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Six_Hearts.png",
+      "alt": "Six Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Seven_Hearts.png",
+      "alt": "Seven Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png",
+      "alt": "Pumpkin Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/58/Robins_Lost_Axe.png/120px-Robins_Lost_Axe.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+      "alt": "Robin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/fa/Robin_Happy.png",
+      "alt": "Robin Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/15/Robin_Concerned.png",
+      "alt": "Robin Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Robin_Annoyed.png",
+      "alt": "Robin Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Robin_Wave.png",
+      "alt": "Robin Wave.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Robin_Neutral.png",
+      "alt": "Robin Neutral.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Robin_Thinking.png",
+      "alt": "Robin Thinking.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Robin_Winter_00.png",
+      "alt": "Robin Winter 00.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2c/Robin_Winter_01.png",
+      "alt": "Robin Winter 01.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/48/Robin_Winter_02.png",
+      "alt": "Robin Winter 02.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/95/Robin_Winter_03.png",
+      "alt": "Robin Winter 03.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Robin_Winter_04.png",
+      "alt": "Robin Winter 04.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Robin_Winter_05.png",
+      "alt": "Robin Winter 05.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f0/Robin_Winter_06.png",
+      "alt": "Robin Winter 06.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Robin_Beach.png",
+      "alt": "Robin Beach.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/fa/Robin_Beach_Happy.png",
+      "alt": "Robin Beach Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Robin_Beach_Concerned.png",
+      "alt": "Robin Beach Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f5/Robin_Beach_Annoyed.png",
+      "alt": "Robin Beach Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Robin_Beach_Wave.png",
+      "alt": "Robin Beach Wave.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Robin_Beach_Neutral.png",
+      "alt": "Robin Beach Neutral.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/49/Robin_Beach_Thinking.png",
+      "alt": "Robin Beach Thinking.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Robin - Stardew Valley Wiki",
+      "headline": "Robin - Stardew Valley Wiki",
+      "mainEntityOfPage": "Robin",
+      "identifier": "https://stardewvalleywiki.com/Robin",
+      "url": "https://stardewvalleywiki.com/Robin",
+      "description": "Robin is a villager who resides at 24 Mountain Road, on The Mountain, with her husband Demetrius, daughter Maru, and son Sebastian.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Robin, gift",
+      "dateModified": "2026-03-15T16:47:41Z",
+      "datePublished": "2026-03-15T16:47:41Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Robin - Stardew Valley Wiki Robin From Stardew Valley Wiki Jump to navigation Jump to search Robin Information Birthday Fall 21 Lives In The Mountain Address 24 Mountain Road Family Demetrius (Husband) Maru (Daughter) Sebastian (Son) Marriage No Clinic Visit Summer 18 Loved Gifts Goat Cheese Peach Spaghetti Woody's Secret Contents 1 Schedule 2 Relationships 3 Gifts 3.1 Love 3.2 Like 3.3 Neutral 3.4 Dislike 3.5 Hate 4 Movies & Concessions 5 Heart Events 5.1 Anytime 5.2 Six Hearts 5.3 Seven Hearts 6 Quotes 7 Quests 8 Portraits 9 History “ “My parents were bewildered when I told them I wanted to be a carpenter. They were pretty old-fashioned.” — Robin Robin is a villager who resides at 24 Mountain Road , on The Mountain , with her husband Demetrius , daughter Maru , and son Sebastian . Robin is the town carpenter and runs her own Carpenter's Shop , at her home, from 9am to 5pm every day except Tuesday and part of Friday (closes early). Schedule Robin's shop is closed on Tuesday while she has a weekly exercise class at Caroline 's home. However, if you stand in her path on her way out (near the cash register at 9:40am), you can use her shop momentarily. You can also access her shop when she is returning around 8pm, by clicking the register while she is right behind you. Robin won't leave her home on days when it's raining unless she has been hired to construct a farm building . Her shop will be closed for the days that she is on the Farm completing the construction. After the Beach Resort on Ginger Island is unlocked, Robin may randomly spend Tuesday there. After leaving the Island at 6pm, Robin will immediately go home to bed. Robin never visits the Resort on Festival days. Shown below are Robin's schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it. Spring 16 (Bus Service Restored) 11:20 AM Boards the bus to Calico Desert to attend the Desert Festival . 11:40 AM Chats with Marlon and Gil at the Adventurer's Guild challenge booth. 12:20 AM Boards the bus back to the Valley. Desert Festival (As Vendor) 11:10 AM Boards the bus to Calico Desert . 11:30 AM Arrives at her booth . 12:00 AM Leaves booth and takes bus back to the Valley. Green Rain (Year 1) All day In Sebastian 's room. Summer 18 6:00 AM In her bedroom at home . 7:00 AM Walks to the counter of her shop . 8:00 AM Leaves home and walks to Harvey's Clinic . 4:00 PM Leaves Harvey's Clinic and walks home . 9:00 PM Goes to bed. Rain 6:00 AM In her bedroom at home . 8:00 AM Walks to the counter of her shop . 5:00 PM Leaves the counter of her shop and walks to the kitchen. 7:30 PM Walks to her bedroom. 9:00 PM Goes to bed. Monday (Community Center Restored) 6:00 AM In her bedroom at home . 8:00 AM Walks to the counter of her shop . 5:00 PM Leaves her shop and walks to the Community Center . 7:30 PM Leaves Community Center to return home . 10:00 PM Goes to bed. Winter 16 6:00 AM In her bedroom at home . 8:00 AM Walks to the counter of her shop . 5:00 PM Leaves her shop to attend Night Market . 11:30 PM Leaves Night Market to return home. Tuesday 6:00 AM In her bedroom at home . 9:30 AM Walks towards Pierre's General Store . 1:00 PM Starts to exercise. 4:00 PM Finishes the exercise, talks with Jodi , Caroline , and Marnie . 6:00 PM Leaves Pierre's General Store and walks back to the kitchen . 7:30 PM Leaves the kitchen and walks to her bedroom. 9:00 PM Goes to bed. Friday 6:00 AM In her bedroom at home . 8:00 AM Walks to the counter of her shop . 4:00 PM Leaves her shop and walks to the Stardrop Saloon . 7:20 PM At the Stardrop Saloon , dancing with Demetrius . 9:00 PM Leaves the Stardrop Saloon and walks home to go to bed. Regular Schedule 6:00 AM In her bedroom at home . 8:00 AM Walks to the counter of her shop . 5:00 PM Leaves her shop and heads outside to the Mountain area. 7:30 PM Leaves the Mountain and walks into her bedroom. 9:00 PM Goes to bed. Relationships Robin is married to Demetrius and lives with her daughter Maru and son Sebastian . Maru is her daughter with Demetrius, and Sebastian is from an earlier relationship. It is assumed that Demetrius is Robin's second husband because there are 2 books in the bookcase of their room titled \"Maximizing Your Second Marriage\" and \"Practical Tips For First-Time Step-Dads.\" Robin attends exercise classes on Tuesday with Jodi , Caroline , Emily and Marnie . Gifts Main article: Friendship See also: List of All Gifts You can give Robin up to two gifts per week (plus one on her birthday), which will raise or lower her friendship with you. Gifts on her birthday ( 21 Fall ) will have 8× effect and show a unique dialogue. For loved or liked gifts, Robin responds “ “A birthday gift? That's very kind of you! I love it.” “ “You remembered my birthday! Thank you. This is great.” For neutral gifts, Robin responds “ “Oh, a birthday gift! Thank you.” For disliked or hated gifts, Robin responds “ “Oh... It's for my birthday? ... Thanks.” Note that Robin is unavailable for gifting during construction of most farm buildings . She is available during Farmhouse , Coop , and Barn upgrades, but not during Shed upgrades. Love “ “This is for me? Wow, I absolutely love it!!” Stardrop Tea “ “Wait a sec... you're giving me this? What a special treat! Thank you.” Woody's Secret “ “What's this... 'Woody's Secret'? ... Um, what kind of book is this, (Name)? Oh, it's about woodcutting! Hahaha... Oh yeah, I'm going to love this. Thanks!” Image Name Description Source Ingredients All Universal Loves Goat Cheese Soft cheese made from goat's milk. Cheese Press Peach It's almost fuzzy to the touch. Peach Tree Spaghetti An old favorite. Cooking , The Stardrop Saloon Wheat Flour (1) Tomato (1) Woody's Secret Felled trees have a 5% chance to yield double the wood. Bookseller Like “ “Thanks! This is really nice!” Woodcutter's Weekly “ “Ah, 'Woodcutter's Weekly'... I was hoping to get my hands on the newest issue! They've got all the latest techniques in here! From one woodcutter to another... Thank you.” Image Name Description Source All Universal Likes All Fruit (except Peach ) All Milk Hardwood A special kind of wood with superior strength and beauty. Foraging Quartz A clear crystal commonly found in caves and mines. Foraging - Mines Woodcutter's Weekly Read this to gain some foraging experience. Bookseller Neutral “ “Thank you. This might come in handy.” Image Name Description Source All Universal Neutrals (except Woodcutter's Weekly & Woody's Secret ) All Eggs (except Void Egg )* Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Leek A tasty relative of the onion. Foraging - Spring Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Winter Root A starchy tuber. Foraging - Winter * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Dislike “ “Um... why?” Image Name Description Source All Universal Dislikes (except Hardwood ) Wild Horseradish A spicy root found in the spring. Foraging - Spring Hate “ “What the...? This is terrible!” Image Name Description Source All Universal Hates Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Movies & Concessions Main article: Movie Theater Love Journey Of The Prairie King: The Motion Picture Like It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Dislike N/A Love Salted Peanuts Stardrop Sorbet Dislike Black Licorice Cotton Candy Jawbreaker Joja Cola JojaCorn Rock Candy Sour Slimes Like Everything else Heart Events Anytime At any friendship level greater than zero friendship points, you may receive a gift in the mail from Robin. The chance of receiving a gift in the mail increases as your friendship with Robin increases. Details Item Description Wood (50) Hey there! I had some extra wood lying around... I thought maybe you could use it. Take care! -Robin Six Hearts Enter Robin's house while she is home. Details You find Robin cleaning the dust off her saw. She asks if you've ever made anything out of wood: \"Yes\" (+50 friendship .) \"No\" (+50 friendship .) She says \"I think we've become good enough friends that I can trust you with my carpentry secrets!\" and gives you two blueprints — the Drum Block and the Flute Block . She says it feels good to decorate your house with things you've made yourself. Seven Hearts After reaching 7 hearts with Robin she will send you a recipe in the mail. Details Image Recipe Description Pumpkin Soup Here is an old recipe that my grandma passed down to me. Enjoy! -Robin Quotes Regular First Meeting “ “Have you met everyone in town yet? That sounds exhausting.” Regular “ “Have I told you that I built our house from the ground up? It's definitely been the highlight of my career so far.” “ “Hey, if you need any materials or blueprints, my shop is the place you're looking for! Plus, your business supports the local economy.” “ “Hey there, [Player]. I was just daydreaming about some new carpentry projects. Are you doing OK at your place? How's the woodwork in your cottage holding up?” “ “You're always welcome to visit us, even if you aren't shopping, you know. It can get pretty lonely up here in the mountains.” “ “You've met my son Sebastian, right? He lives downstairs. He's a little shy, but I'm sure he'll warm up to you if you're nice to him.” “ “I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?” “ “Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much... I would talk to him about it but he never opens up to me.” “ “Our house is in such a beautiful area, don't you think? I love the fresh air of the mountains.” “ “I hope Demetrius doesn't blow the house up with those science experiments of his. I'm not even sure what he's working on. I think it has something to do with plants.” “ “My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place.” “ “Sorry if it smells weird in here, [Player]. It's my husband's bizarre science project...” After passing out in the Mines “ “...I found you unconscious in the mines. I almost mistook you for a piece of exotic wood! Be a little more careful next time, okay?” Rainy Days “ “The rain doesn't stop me from getting a job done! Although soggy wood isn't a joy to work with.” If Player is married to Sebastian “ “I miss my Sebby... he was always a little misunderstood, but I believed in him.” “ “Sebastian told me he's trying to quit smoking! I'm really proud of him.” “ “I think the farm life is really healthy for Sebby.” 6+ Hearts “ “Hi [Player]! It's good to see you. You're a regular member of the community now, don't you think?” Community Center visited “ “Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!” Quarry bridge restored “ “Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired! It's a miracle of woodworking!” Community Center completed “ “I knew it from the moment you stepped off that bus, [Player]... you were destined to be a town hero!” Pam's house upgraded “ “Our little plan worked out well, don't you think? Pam and Penny seem really happy.” Summer “ “Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character!” “ “If you need any buildings on your farm upgraded, just ask me! You'll need to provide enough lumber and stone for the project. And it costs money, too. But I'm sure you'll be pleased with the results!” “ “We're pretty insulated from the rest of the world here in Stardew Valley. It has its pros and cons.” Green Rain Year 1 “ “That man is insane! Why does he have to go out there? We have no idea if this rain is dangerous!” Year 2+ “ “I hope Demetrius is happy with the 'samples' he collected. Seems like his little science project is more important to him than his own wife. Hmmph.” Green rain finished (next day) “ “There's all kinds of good wood out there today. Better get chopping, huh?” Fall “ “Maru likes gems. She uses them in her inventions. So how are you and Maru getting along?” “ “You're always welcome to visit us, even if you aren't in the market for a building upgrade! It can get pretty lonely up here in the mountains.” “ “Have you met the wild man that lives behind our house? I guess I don't really mind, as long as he doesn't bother us.” Winter “ “Hey, it's a perfect time of year to gather wood. Maybe you can collect enough to upgrade your house!” “ “My parents were bewildered when I told them I wanted to be a carpenter. They were pretty old-fashioned.” “ “Our house is in such a beautiful area, don't you think? Everything looks still after a fresh snow.” At Ginger Island “ “Wow, look at these structures! I can tell they were made by a master builder. I'm really impressed!” “ “Hey, look! I can see another island from here.” “ “Hey [Player]. You know, I was just thinking about how far the town has come since you first moved here. You should really be proud of all you've done!” “ “This is so relaxing...” “ “That was fun!” If the player marries Sebastian “ “Oh, don't worry... these are tears of joy. I know Sebastian will be very happy on [the Player's] Farm!” If the player marries Maru “ “We'll all miss having Maru around the house, but I'm sure we'll still see her often!” If the player divorces Sebastian “ “Sebastian's back in the basement... what happened between you two?” If the player divorces Maru “ “Maru was crying through the night... We're all devastated...” Events Egg Festival Odd-numbered year “ “Spring is a busy time of year... so it's nice to have a day off to catch up with friends.” Even-numbered year “ “It feels great to be outside again after that long, cold winter, doesn't it?” Desert Festival By Marlon and Gil's tent “ “Hey [Player]. We're just chewing the fat over here. I don't see these guys very often, even though we're neighbors!” Flower Dance Odd-numbered year “ “Ahh... The air smells so sweet with all these flowers.” Even-numbered year “ “Is that the smell of flowers? Or is it Caroline's perfume?” The Luau “ “Ow... you stepped on my foot, dear.” Dance of the Moonlight Jellies “ “*yawn*... It's past my bed-time. Hey, did you see that candle-boat? I crafted it myself.” Stardew Valley Fair “ “Woodworking is an ancient tradition that I'm very proud to be a part of.” Spirit's Eve “ “Well, winter's almost here. It's a great time to stockpile wood and stone.” Festival of Ice “ “I'm sorry, but carving ice parapets requires my undivided attention!” Night Market “ “My favorite thing is seeing the boats. The creaking sound of the wood is strangely comforting.” Feast of the Winter Star “ “Hiya, [Player]. You're welcome to join our family table if you need company.” Quests Robin's lost axe \"Robin's Lost Axe\" : On the 11th of Spring , Robin will send a letter explaining that she lost her favorite axe, and offers a reward of data-sort-value=\"250\"> 250g to anyone who finds and returns it to her. You also gain 1 Friendship heart as a reward. \"Robin's Request\" : On the 21st of Winter , Robin will send a letter requesting that you bring her 10 pieces of Hardwood . The reward is data-sort-value=\"500\"> 500g and 1 Friendship heart. Robin may randomly request an item at the \"Help Wanted\" board outside Pierre's General Store . The reward is 3x the item's base value and 150 Friendship points. Robin may randomly request Wood or Stone at \"Help Wanted\" board . The reward is 8x the number of items requested. \"Robin's Project\" : On the Special Orders board in front of the Mayor's Manor , Robin may randomly request that the player collect 80 Hardwood . The reward is data-sort-value=\"2000\"> 2,000g , 250 Friendship points, and the Deluxe Red Double Bed for sale at the Carpenter's Shop . \"Robin's Resource Rush\" : On the Special Orders board in front of the Mayor's Manor , Robin may randomly request that the player collect 1000 Wood or 1000 Stone . The reward is data-sort-value=\"2500\"> 2,500g and the Stone Chest recipe. Portraits History 1.5 : Added 5 new portraits, 4 beach portraits and one quest portrait. 1.6 : Added custom gift reactions. Added winter portraits and more beach portraits. Six heart event now skippable. Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Robin&oldid=191769 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 15 March 2026, at 16:47. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

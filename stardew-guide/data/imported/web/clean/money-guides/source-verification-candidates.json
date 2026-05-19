@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "tea-saplings",
+    "verifiedSourceUrls": [
+      "https://stardewvalleywiki.com/Tea_Sapling",
+      "https://stardewvalleywiki.com/Tea_Leaves",
+      "https://stardewvalleywiki.com/Caroline"
+    ],
+    "verifiedClaims": [
+      {
+        "claim": "Tea Sapling current sell price is 250g.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Tea_Sapling",
+        "confidence": "high"
+      },
+      {
+        "claim": "Tea Sapling recipe is mailed the day after Caroline's 2-heart event.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Tea_Sapling",
+        "confidence": "high"
+      },
+      {
+        "claim": "Tea Sapling takes 20 days to mature and produces Tea Leaves during the final week of each season except winter outdoors.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Tea_Sapling",
+        "confidence": "high"
+      },
+      {
+        "claim": "Tea Leaves are the crop produced by Tea Bushes.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Tea_Leaves",
+        "confidence": "high"
+      }
+    ],
+    "unverifiedClaims": [
+      {
+        "claim": "Official 1.6 changelog confirms the Tea Sapling sell-price change.",
+        "reason": "Official changelog extraction failed in this environment; Wiki currently verifies current price but not this changelog claim."
+      },
+      {
+        "claim": "100 saplings cash out to about 25,000g before material opportunity cost.",
+        "reason": "Derived estimate; source verifies 250g unit price but not this exact scenario."
+      }
+    ],
+    "recommendedMoneyGuideChanges": {
+      "sourceUrls": [
+        "https://stardewvalleywiki.com/Tea_Sapling",
+        "https://stardewvalleywiki.com/Tea_Leaves",
+        "https://stardewvalleywiki.com/Caroline"
+      ],
+      "confidence": "medium",
+      "profitEstimates": [
+        {
+          "label": "Post-1.6 Tea Sapling sale value",
+          "confidence": "high"
+        },
+        {
+          "label": "100 sapling cash-out",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Wiki sources verify current Tea Sapling price and recipe path. Keep versionRisk high until official 1.6 changelog or wiki history is reviewed."
+    }
+  },
+  {
+    "slug": "fish-smoker",
+    "verifiedSourceUrls": [
+      "https://stardewvalleywiki.com/Fish_Smoker",
+      "https://stardewvalleywiki.com/Smoked_Fish",
+      "https://stardewvalleywiki.com/Fishing",
+      "https://stardewvalleywiki.com/Catfish",
+      "https://stardewvalleywiki.com/Lava_Eel"
+    ],
+    "verifiedClaims": [
+      {
+        "claim": "Fish Smoker recipe is purchased from the Fish Shop for 10,000g.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Fish_Smoker",
+        "confidence": "high"
+      },
+      {
+        "claim": "Fish Smoker crafting ingredients are 10 Hardwood, 1 Sea Jelly, 1 River Jelly, and 1 Cave Jelly.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Fish_Smoker",
+        "confidence": "high"
+      },
+      {
+        "claim": "Fish Smoker uses any fish and 1 coal to create Smoked Fish.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Fish_Smoker",
+        "confidence": "high"
+      },
+      {
+        "claim": "Smoked Fish processing time is 50 minutes.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Smoked_Fish",
+        "confidence": "high"
+      },
+      {
+        "claim": "Smoked Fish doubles fish sell price while retaining quality.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Smoked_Fish",
+        "confidence": "high"
+      },
+      {
+        "claim": "Smoked Fish is an Artisan Good.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Smoked_Fish",
+        "confidence": "high"
+      },
+      {
+        "claim": "Smoked Fish benefits from Fisher, Angler, and Artisan professions.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Smoked_Fish",
+        "confidence": "high"
+      },
+      {
+        "claim": "Catfish and Lava Eel can be used as high-value fish examples.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Catfish",
+        "confidence": "medium"
+      }
+    ],
+    "unverifiedClaims": [
+      {
+        "claim": "Official 1.6 changelog confirms Fish Smoker introduction.",
+        "reason": "Official changelog extraction failed in this environment; Wiki verifies current mechanics but not the official changelog text."
+      },
+      {
+        "claim": "Spring rainy-day Catfish model yields about 16,800g per efficient day.",
+        "reason": "Derived gameplay estimate; source pages verify item mechanics and fish values, not this daily route output."
+      },
+      {
+        "claim": "Profession-boosted active day yields about 21,000g to 25,200g.",
+        "reason": "Derived gameplay estimate based on route assumptions; not directly stated by source pages."
+      }
+    ],
+    "recommendedMoneyGuideChanges": {
+      "sourceUrls": [
+        "https://stardewvalleywiki.com/Fish_Smoker",
+        "https://stardewvalleywiki.com/Smoked_Fish",
+        "https://stardewvalleywiki.com/Fishing",
+        "https://stardewvalleywiki.com/Catfish",
+        "https://stardewvalleywiki.com/Lava_Eel"
+      ],
+      "confidence": "medium",
+      "profitEstimates": [
+        {
+          "label": "Spring rainy-day Catfish model",
+          "confidence": "needs verification"
+        },
+        {
+          "label": "Profession-boosted active day",
+          "confidence": "needs verification"
+        }
+      ],
+      "notes": "Wiki sources verify core Fish Smoker mechanics and profession interactions. Keep exact daily profit estimates under review because they depend on route assumptions."
+    }
+  }
+]

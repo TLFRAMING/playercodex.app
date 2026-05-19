@@ -1,0 +1,3926 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Evelyn",
+  "finalUrl": "https://stardewvalleywiki.com/Evelyn",
+  "fetchedAt": "2026-05-18T13:03:18.559367+00:00",
+  "title": "Evelyn - Stardew Valley Wiki",
+  "description": "Evelyn Mullner is a villager who lives in Pelican Town, and is in charge of the town's flowers.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Evelyn"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Anytime"
+    },
+    {
+      "level": 3,
+      "text": "Four Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Seven Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "Trivia"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Evelyn"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Winter 20"
+        ],
+        [
+          "Lives In",
+          "Pelican Town"
+        ],
+        [
+          "Address",
+          "1 River Road"
+        ],
+        [
+          "Family",
+          "George (Husband) Alex (Grandson)"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Clinic Visit",
+          "The 2nd of each seasonThe 23rd of each season (with George)"
+        ],
+        [
+          "Loved Gifts",
+          "Beet Chocolate Cake Diamond Fairy Rose Raisins Stuffing Tulip"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Evelyn has lived in Pelican Town her entire life. Always hopeful and optimistic, \"Granny\" spends her days tending the town gardens, baking her signature cookies, and reminiscing about Stardew Valley's vibrant past.”"
+        ],
+        [
+          "— Steam Description"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Spring 17 (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "9:50 AM",
+          "Boards the bus to Calico Desert to attend the Desert Festival."
+        ],
+        [
+          "10:00 AM",
+          "With George, at the roadside near the bus."
+        ],
+        [
+          "10:50 PM",
+          "Boards the bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Desert Festival (As Vendor)"
+      ],
+      "rows": [
+        [
+          "11:10 AM",
+          "Boards the bus to Calico Desert."
+        ],
+        [
+          "11:30 AM",
+          "Arrives at her booth."
+        ],
+        [
+          "12:00 AM",
+          "Leaves booth and takes the bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Green Rain (Year 1)"
+      ],
+      "rows": [
+        [
+          "All day",
+          "Standing in her kitchen."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Tuesday the 2nd"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:30 AM",
+          "Leaves home to sit in the waiting room of Harvey's clinic."
+        ],
+        [
+          "1:30 PM",
+          "Moves to the left examination room."
+        ],
+        [
+          "4:00 PM",
+          "Returns home from the clinic to stand in her kitchen."
+        ],
+        [
+          "7:00 PM",
+          "Moves to stand in front of the bookcase in her living room."
+        ],
+        [
+          "9:30 PM",
+          "Goes to her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Tuesday the 23rd"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:40 AM",
+          "Leaves home to wait in Harvey's clinic with George."
+        ],
+        [
+          "1:30 PM",
+          "Moves to the left examination room with George."
+        ],
+        [
+          "4:10 PM",
+          "Returns home from the clinic to stand in her kitchen."
+        ],
+        [
+          "7:00 PM",
+          "Moves to stand in front of the bookcase in her living room."
+        ],
+        [
+          "9:30 PM",
+          "Goes to her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Winter 17"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:40 AM",
+          "Stands next to the TV with George."
+        ],
+        [
+          "12:10 PM",
+          "Stands at her kitchen table."
+        ],
+        [
+          "1:00 PM",
+          "Sits in her house."
+        ],
+        [
+          "4:30 PM",
+          "Arrives at the Night Market."
+        ],
+        [
+          "11:40 PM",
+          "Arrives in her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Rain"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:40 AM",
+          "Stands next to the TV with George."
+        ],
+        [
+          "12:10 PM",
+          "Stands at her kitchen table."
+        ],
+        [
+          "4:30 PM",
+          "Stands in her kitchen, near the appliances."
+        ],
+        [
+          "7:00 PM",
+          "Moves to stand in front of the bookcase in her living room."
+        ],
+        [
+          "9:30 PM",
+          "Goes to her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Monday, Thursday and Saturday (Community Center Restored)"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:40 AM",
+          "Stands next to the TV with George."
+        ],
+        [
+          "12:10 PM",
+          "Heads to the community center to sit in the armchair in the crafts room."
+        ],
+        [
+          "4:30 PM",
+          "Stands in her kitchen, near the appliances."
+        ],
+        [
+          "7:00 PM",
+          "Moves to stand in front of the bookcase in her living room."
+        ],
+        [
+          "9:30 PM",
+          "Goes to her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Summer"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:40 AM",
+          "Stands next to the TV with George."
+        ],
+        [
+          "12:10 PM",
+          "Stands at her kitchen table."
+        ],
+        [
+          "1:00 PM",
+          "Goes to tend the plants just northwest of town square."
+        ],
+        [
+          "4:30 PM",
+          "Stands in her kitchen, near the appliances."
+        ],
+        [
+          "7:00 PM",
+          "Moves to stand in front of the bookcase in her living room."
+        ],
+        [
+          "9:30 PM",
+          "Goes to her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Regular Schedule"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Standing in her kitchen."
+        ],
+        [
+          "10:40 AM",
+          "Stands next to the TV with George."
+        ],
+        [
+          "12:10 PM",
+          "Stands at her kitchen table."
+        ],
+        [
+          "1:00 PM",
+          "Goes to tend the plants just southeast of town square."
+        ],
+        [
+          "4:30 PM",
+          "Stands in her kitchen, near the appliances."
+        ],
+        [
+          "7:00 PM",
+          "Moves to stand in front of the bookcase in her living room."
+        ],
+        [
+          "9:30 PM",
+          "Goes to her bedroom."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Momma-If you're reading this, it means I've passed on. I'm so sorry you had to go through this. Know that I love you both.Don't be too upset, I'm with Yoba now.My final request: take care of Alex. He needs a family, something stable. He's a good kid.Love,Clara”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A birthday gift? That's very kind of you! I love it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You remembered my birthday! Thank you. This is great.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, a birthday gift! Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... It's for my birthday? ... Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*gasp*... This is absolutely marvelous!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You've made an old lady very happy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, you're giving this to me? Thank you so much, dear. This is a really special gift!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Beet",
+          "A sweet and earthy root vegetable. As a bonus, the leaves make a great salad.",
+          "Farming",
+          ""
+        ],
+        [
+          "",
+          "Chocolate Cake",
+          "Rich and moist with a thick fudge icing.",
+          "Cooking",
+          "Wheat Flour (1) Sugar (1) Egg (1)"
+        ],
+        [
+          "",
+          "Diamond",
+          "A rare and valuable gem.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Fairy Rose",
+          "An old folk legend suggests that the sweet smell of this flower attracts fairies.",
+          "Farming",
+          ""
+        ],
+        [
+          "",
+          "Raisins",
+          "It's said to be the Junimos' favorite food.",
+          "Dehydrator",
+          "Grape (5)"
+        ],
+        [
+          "",
+          "Stuffing",
+          "Ahh... the smell of warm bread and sage.",
+          "Cooking",
+          "Bread (1) Cranberries (1) Hazelnut (1)"
+        ],
+        [
+          "",
+          "Tulip",
+          "The most popular spring flower. Has a very faint sweet smell.",
+          "Farming",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh my, it looks wonderful! That's very kind of you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank you, dear. This brings back such sweet memories...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank you, dear. I've been looking everywhere for my reading glasses...My, my! They've become filthy...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Likes (except Fried Eel, Garlic, Maki Roll, Sashimi, Spicy Eel, & Trout Soup)All Milk"
+        ],
+        [
+          "",
+          "Broken Glasses",
+          "It looks like someone lost their glasses. They're busted.",
+          "Garbage Cans, Fishing Trash"
+        ],
+        [
+          "",
+          "Clam",
+          "There's a chewy little guy in there...",
+          "Foraging - The Beach, Saltwater Crab Pots"
+        ],
+        [
+          "",
+          "Cockle",
+          "A common saltwater clam.",
+          "Foraging - The Beach, Saltwater Crab Pots"
+        ],
+        [
+          "",
+          "Coral",
+          "A colony of tiny creatures that clump together to form beautiful structures.",
+          "Foraging - The Beach"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Mussel",
+          "A common bivalve that often lives in clusters.",
+          "Foraging - The Beach, Saltwater Crab Pots"
+        ],
+        [
+          "",
+          "Nautilus Shell",
+          "An ancient shell.",
+          "Foraging - The Beach"
+        ],
+        [
+          "",
+          "Oyster",
+          "Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.",
+          "Foraging - The Beach, Saltwater Crab Pots"
+        ],
+        [
+          "",
+          "Sea Urchin",
+          "A slow-moving, spiny creature that some consider a delicacy.",
+          "Foraging - The Beach"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“How nice. Thank you, dear.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Coral & Nautilus Shell)All Eggs (except Void Egg)*All Fruit (except Fruit Tree Fruit, Salmonberry, & Spice Berry)"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Um, Where will I put this?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Clay & Fish)"
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...it smells awful.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates (except Broken Glasses & Sea Urchin)All Fish (except Clam, Cockle, Mussel, & Oyster)"
+        ],
+        [
+          "",
+          "Clay",
+          "Used in crafting and construction.",
+          "Tilling",
+          ""
+        ],
+        [
+          "",
+          "Fried Eel",
+          "Greasy but flavorful.",
+          "Cooking",
+          "Eel (1) Oil (1)"
+        ],
+        [
+          "",
+          "Garlic",
+          "Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.",
+          "Farming - Spring",
+          ""
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter",
+          ""
+        ],
+        [
+          "",
+          "Maki Roll",
+          "Fish and rice wrapped in seaweed.",
+          "Cooking",
+          "Fish (1) Seaweed (1) Rice (1)"
+        ],
+        [
+          "",
+          "Salmonberry",
+          "A spring-time berry with the flavor of the forest.",
+          "Foraging - Spring",
+          ""
+        ],
+        [
+          "",
+          "Sashimi",
+          "Raw fish sliced into thin pieces.",
+          "Cooking",
+          "Fish (1)"
+        ],
+        [
+          "",
+          "Spice Berry",
+          "It fills the air with a pungent aroma.",
+          "Foraging - Summer",
+          ""
+        ],
+        [
+          "",
+          "Spicy Eel",
+          "It's really spicy! Be careful.",
+          "Cooking",
+          "Eel (1) Hot Pepper (1)"
+        ],
+        [
+          "",
+          "Trout Soup",
+          "Pretty salty.",
+          "Cooking",
+          "Rainbow Trout (1) Green Algae (1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "The Miracle At Coldstar Ranch The Zuzu City Express"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Journey Of The Prairie King: The Motion Picture Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling Wumbus"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "It Howls In The Rain Mysterium"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Cappuccino Mousse Cake Star Cookie Stardrop Sorbet"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Black Licorice Fries Jasmine Tea Joja Cola JojaCorn Nachos Personal Pizza Popcorn Salted Peanuts Truffle Popcorn"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [
+        "Item",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Bread Chocolate Cake Cookie",
+          "Hello there, dear, I hope your farm is doing well. I'm sending you a little something from my kitchen... I hope it didn't crumble in the mail. -Evelyn"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "You find Evelyn baking cookies. She offers you some, and asks what you think: \"It's delicious!\" (+100 friendship.) \"It was like chewing on a hockey puck\" (-100 friendship.) In either case, she gives you the Cookie recipe."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Rice Pudding",
+          "I usually don't give out my recipes... but since you've been such a sweetheart to George and I, I've written this one down for you. - Evelyn"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Why, hello and welcome to our little community, dear! You can call me 'Granny' if you like.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh my! What a lovely day.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't mind my husband, George. He isn't very friendly to strangers. If you get to know him better he'll warm up to you. I'm sure you two could become good friends one day!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“George spends the whole day in front of that darned television set. I wish he'd go outside more. Some fresh air would do him good.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I used to love looking at the clouds, but I have trouble seeing them these days. My eyes just don't work as well as they used to.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier. As kids we hunted for seashells after the tide went out. Those were the days...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“When I woke up I heard dripping from somewhere... I think the roof might be leaking. In the old days, George would've scampered right up and fixed it... *sigh*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's nice of you to take the time to visit George and I. Without young people around, we'd age much faster.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“How's my grandson doing? I imagine he's quite happy living on the farm... He deserves to be happy... he's a good boy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, hello my dear. I think of you as my own grand-daughter/grandson now.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, sweetie... that was so nice of you to put Pam up in a beautiful new house! It warms my heart when people take care of each other like that...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Call me a silly old fool... but I think I have an idea who paid for Pam's new house... *wink*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The good Mayor put me in charge of the town's public gardens.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I've been working on the town flower beds for weeks, so don't step on them!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“When you get to be my age you have to see the doctor more often.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh dear, is it an emergency? Why are you here?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Now now, dear... It's important that Doctor Harvey takes a good look at you. He's a nice young man! Behave yourself, for your dear old wife's sake.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Could you check his lungs? He's been wheezing lately.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't mind my husband, George. He isn't very friendly to strangers. If you get to know him better he'll warm up to you. I'm sure you two could become good friends one day! Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'll be baking cookies today. I like to make flower shapes in the spring. Maybe I'll tell you my recipe one of these days.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hello, dear... I know you're just getting started as a gardener, so I wanted to give you a little tip. Most crops only grow in one season. When summer arrives, your spring crops will all die out. So plan ahead! -Granny Evelyn”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I feel more energetic in this wonderful weather.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“George is always a little less grumpy in the summer. The warm weather softens his bones. You might not be able to tell, but I can. I've known him for sixty years!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The good Mayor put me in charge of the town's public gardens. I've been working on the town flower beds for months, so don't step on them!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm going to bake cookies today. They're coconut wonders shaped like little palm trees! Heehee. Maybe I'll tell you my recipe one of these days.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Be careful out there, dear. You could get sunburnt!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sweet peas are in bloom right now. They've got such a wonderful fragrance, haven't they?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It seems like we always have more visitors when I start baking cookies. My mother taught me the recipe.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“George, dear... Is this the end? It's been a good life, but I'd like to see Alex find his way before departing...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The flowers seem to love this rain...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, my dear... I'm so glad everything ended up okay. And my flowers look healthier than ever!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“With every year I appreciate the seasons more and more. For young people it's easy to let them slip by.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I've been putting raisins in George's oatmeal... but he hasn't said a word. I wonder if he even notices these things?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The good Mayor put me in charge of the town's public gardens. The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Today I'm baking cookies. They're shaped like little pumpkins. Maybe I'll tell you my recipe one of these days.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Are you friends with Alex? Sometime he worries me sick.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“My eyesight may be poor, but my nose hasn't failed me yet! I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Be careful you don't slip on the ice, dear.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Aren't you cold? You should wear a thicker jacket, my dear! This weather isn't good for my joints...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I usually tend to the gardens, but they're covered in snow. I still like to check up on them now and then.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“We've lived here for over 30 years. We've seen a lot of people come and go. Your grandfather, for one. Bless him... *sigh*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 78,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... my dear. You have your grandfather's eyes... Yes... yes... I knew him very well.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 79,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You should make some hot soup to stay warm. And make sure you wear a jacket!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 80,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“[Player], have I told you that George and I have lived in our house for 30 years? I hope you stay here for a while.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 81,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This festival has been a tradition for as long as I can remember. Tradition connects us with both the past and the future... it's comforting.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 82,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Do you have hens on your farm?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 83,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah...the sands of time, the sands of time...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 84,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I've been working on these floral arrangements for a week. Do you like them?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 85,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ahh... The smell of the ocean takes me back many years. Long before you were born.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 86,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Now, don't overeat dear. I wouldn't want you getting a stomach ache.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 87,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I remember seeing the jellies once, as a little girl. Oh, how I jumped with joy when they arrived! But that was long ago... I'm a lot less energetic now.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 88,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wish Gus would include a vegetarian option. Some zucchinni skewers, maybe?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 89,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wish Gus would include a vegetarian option. Some zucchinni skewers, maybe?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 90,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Did I ever tell you how George and I first met? He actually pelted me with a snowball in this very festival. He was a gentleman back then, and came over to see if I was okay.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 91,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is one of the newer traditions in Pelican Town... but we've taken to it rather quickly. Haven't we, George?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 92,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, my! Aren't you cold, dear? It's freezing!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 93,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/1_River_Road",
+      "text": "1 River Road"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chocolate_Cake",
+      "text": "Chocolate Cake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Raisins",
+      "text": "Raisins"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stuffing",
+      "text": "Stuffing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Relationships",
+      "text": "2 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Gifts",
+      "text": "3 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Love",
+      "text": "3.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Like",
+      "text": "3.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Neutral",
+      "text": "3.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Dislike",
+      "text": "3.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Hate",
+      "text": "3.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Movies_.26_Concessions",
+      "text": "4 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Heart_Events",
+      "text": "5 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Anytime",
+      "text": "5.1 Anytime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Four_Hearts",
+      "text": "5.2 Four Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Seven_Hearts",
+      "text": "5.3 Seven Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Quotes",
+      "text": "6 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Portraits",
+      "text": "8 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#Trivia",
+      "text": "9 Trivia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn#History",
+      "text": "10 History"
+    },
+    {
+      "href": "https://steamcommunity.com/market/listings/753/413150-Evelyn",
+      "text": "Steam Description"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villager"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Beach_Resort",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Villager_Shops",
+      "text": "booth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clara_Mullner",
+      "text": "Clara"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yoba",
+      "text": "Yoba"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley",
+      "text": "Stardew Valley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Beet.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chocolate_Cake.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chocolate_Cake",
+      "text": "Chocolate Cake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sugar",
+      "text": "Sugar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg",
+      "text": "Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Diamond.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fairy_Rose.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Raisins.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Raisins",
+      "text": "Raisins"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dehydrator",
+      "text": "Dehydrator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Stuffing.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stuffing",
+      "text": "Stuffing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Tulip.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Eel",
+      "text": "Fried Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spicy_Eel",
+      "text": "Spicy Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Soup",
+      "text": "Trout Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Broken_Glasses.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broken_Glasses",
+      "text": "Broken Glasses"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garbage_Can",
+      "text": "Garbage Cans"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trash",
+      "text": "Fishing Trash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clam",
+      "text": "Clam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot#Saltwater",
+      "text": "Saltwater Crab Pots"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Cockle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cockle",
+      "text": "Cockle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot#Saltwater",
+      "text": "Saltwater Crab Pots"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Coral.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coral",
+      "text": "Coral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mussel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mussel",
+      "text": "Mussel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot#Saltwater",
+      "text": "Saltwater Crab Pots"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Nautilus_Shell.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nautilus_Shell",
+      "text": "Nautilus Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Oyster.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oyster",
+      "text": "Oyster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot#Saltwater",
+      "text": "Saltwater Crab Pots"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sea_Urchin.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coral",
+      "text": "Coral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nautilus_Shell",
+      "text": "Nautilus Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Tree Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clay",
+      "text": "Clay"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Fish_Types",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broken_Glasses",
+      "text": "Broken Glasses"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Fish_Types",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clam",
+      "text": "Clam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cockle",
+      "text": "Cockle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mussel",
+      "text": "Mussel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oyster",
+      "text": "Oyster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clay.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clay",
+      "text": "Clay"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hoes",
+      "text": "Tilling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fried_Eel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Eel",
+      "text": "Fried Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eel",
+      "text": "Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Garlic.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging#Winter",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Maki_Roll.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seaweed",
+      "text": "Seaweed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice",
+      "text": "Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmonberry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sashimi.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Spice_Berry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging#Summer",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Spicy_Eel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spicy_Eel",
+      "text": "Spicy Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eel",
+      "text": "Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Trout_Soup.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Soup",
+      "text": "Trout Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout",
+      "text": "Rainbow Trout"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Algae",
+      "text": "Green Algae"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chocolate_Cake",
+      "text": "Chocolate Cake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cookie",
+      "text": "Cookie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/1_River_Road",
+      "text": "Evelyn's home"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cookie",
+      "text": "Cookie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice_Pudding",
+      "text": "Rice Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "The Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spirit%27s_Eve",
+      "text": "Spirit's Eve"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Granny.27s_Gift",
+      "text": "\"Granny's Gift\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Gifts_for_George",
+      "text": "\"Gifts for George\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leeks"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Maker",
+      "text": "Coffee Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Neutral.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Winter_00.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Winter_01.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Winter_02.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Evelyn_Winter_03.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cookie",
+      "text": "Cookie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broken_Glasses",
+      "text": "Broken Glasses"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&oldid=191129",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&oldid=191129"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Evelyn",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Evelyn",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Evelyn",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Evelyn",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Evelyn",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&oldid=191129",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Evelyn",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Evelyn",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Evelyn",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Evelyn",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%A8%E3%83%96%E3%83%AA%E3%83%B3",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%97%90%EB%B8%94%EB%A6%B0",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Evelyn",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Evelyn",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%AD%D0%B2%D0%B5%D0%BB%D0%B8%D0%BD",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Evelyn",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E8%89%BE%E8%8A%99%E7%90%B3",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+      "alt": "Evelyn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Beet.png/24px-Beet.png",
+      "alt": "Beet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Chocolate_Cake.png/24px-Chocolate_Cake.png",
+      "alt": "Chocolate Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/24px-Diamond.png",
+      "alt": "Diamond.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Fairy_Rose.png/24px-Fairy_Rose.png",
+      "alt": "Fairy Rose.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Raisins.png/24px-Raisins.png",
+      "alt": "Raisins.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9a/Stuffing.png/24px-Stuffing.png",
+      "alt": "Stuffing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Tulip.png/24px-Tulip.png",
+      "alt": "Tulip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8e/Evelyn.png/48px-Evelyn.png",
+      "alt": "Evelyn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Beet.png",
+      "alt": "Beet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+      "alt": "Chocolate Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Sugar.png/24px-Sugar.png",
+      "alt": "Sugar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/26/Egg.png/24px-Egg.png",
+      "alt": "Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png",
+      "alt": "Diamond.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png",
+      "alt": "Fairy Rose.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/06/Raisins.png",
+      "alt": "Raisins.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/24px-Grape.png",
+      "alt": "Grape.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Stuffing.png",
+      "alt": "Stuffing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Bread.png/24px-Bread.png",
+      "alt": "Bread.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Cranberries.png/24px-Cranberries.png",
+      "alt": "Cranberries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Hazelnut.png/24px-Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png",
+      "alt": "Tulip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Evelyn_Happy.png/48px-Evelyn_Happy.png",
+      "alt": "Evelyn Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b5/Broken_Glasses.png",
+      "alt": "Broken Glasses.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+      "alt": "Clam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png",
+      "alt": "Cockle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png",
+      "alt": "Coral.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png",
+      "alt": "Mussel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png",
+      "alt": "Nautilus Shell.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png",
+      "alt": "Oyster.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png",
+      "alt": "Sea Urchin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8e/Evelyn.png/48px-Evelyn.png",
+      "alt": "Evelyn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/80/Evelyn_Concerned.png/48px-Evelyn_Concerned.png",
+      "alt": "Evelyn Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/80/Evelyn_Concerned.png/48px-Evelyn_Concerned.png",
+      "alt": "Evelyn Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png",
+      "alt": "Clay.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png",
+      "alt": "Fried Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png",
+      "alt": "Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png",
+      "alt": "Garlic.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png",
+      "alt": "Maki Roll.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/13/Seaweed.png/24px-Seaweed.png",
+      "alt": "Seaweed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Rice.png/24px-Rice.png",
+      "alt": "Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+      "alt": "Salmonberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+      "alt": "Sashimi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png",
+      "alt": "Spice Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png",
+      "alt": "Spicy Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png",
+      "alt": "Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png",
+      "alt": "Hot Pepper.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/48/Trout_Soup.png",
+      "alt": "Trout Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Green_Algae.png/24px-Green_Algae.png",
+      "alt": "Green Algae.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Cappuccino_Mousse_Cake.png/24px-Cappuccino_Mousse_Cake.png",
+      "alt": "Cappuccino Mousse Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Star_Cookie.png/24px-Star_Cookie.png",
+      "alt": "Star Cookie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Black_Licorice.png/24px-Black_Licorice.png",
+      "alt": "Black Licorice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Fries.png/24px-Fries.png",
+      "alt": "Fries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Jasmine_Tea.png/24px-Jasmine_Tea.png",
+      "alt": "Jasmine Tea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Joja_Cola_%28large%29.png/24px-Joja_Cola_%28large%29.png",
+      "alt": "Joja Cola (large).png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/JojaCorn.png/24px-JojaCorn.png",
+      "alt": "JojaCorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4c/Nachos.png/24px-Nachos.png",
+      "alt": "Nachos.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Personal_Pizza.png/24px-Personal_Pizza.png",
+      "alt": "Personal Pizza.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Popcorn.png/24px-Popcorn.png",
+      "alt": "Popcorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salted_Peanuts.png/24px-Salted_Peanuts.png",
+      "alt": "Salted Peanuts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Truffle_Popcorn.png/24px-Truffle_Popcorn.png",
+      "alt": "Truffle Popcorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Bread.png/24px-Bread.png",
+      "alt": "Bread.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Chocolate_Cake.png/24px-Chocolate_Cake.png",
+      "alt": "Chocolate Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Cookie.png/24px-Cookie.png",
+      "alt": "Cookie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/80/Four_Hearts.png",
+      "alt": "Four Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Seven_Hearts.png",
+      "alt": "Seven Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png",
+      "alt": "Rice Pudding.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+      "alt": "Evelyn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Evelyn_Happy.png",
+      "alt": "Evelyn Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/80/Evelyn_Concerned.png",
+      "alt": "Evelyn Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e7/Evelyn_Neutral.png",
+      "alt": "Evelyn Neutral.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/32/Evelyn_Winter_00.png",
+      "alt": "Evelyn Winter 00.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Evelyn_Winter_01.png",
+      "alt": "Evelyn Winter 01.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Evelyn_Winter_02.png",
+      "alt": "Evelyn Winter 02.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/04/Evelyn_Winter_03.png",
+      "alt": "Evelyn Winter 03.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Evelyn - Stardew Valley Wiki",
+      "headline": "Evelyn - Stardew Valley Wiki",
+      "mainEntityOfPage": "Evelyn",
+      "identifier": "https://stardewvalleywiki.com/Evelyn",
+      "url": "https://stardewvalleywiki.com/Evelyn",
+      "description": "Evelyn Mullner is a villager who lives in Pelican Town, and is in charge of the town's flowers.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Evelyn, gift",
+      "dateModified": "2026-02-13T09:17:08Z",
+      "datePublished": "2026-02-13T09:17:08Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Evelyn - Stardew Valley Wiki Evelyn From Stardew Valley Wiki Jump to navigation Jump to search Evelyn Information Birthday Winter 20 Lives In Pelican Town Address 1 River Road Family George (Husband) Alex (Grandson) Marriage No Clinic Visit The 2nd of each season The 23rd of each season (with George ) Loved Gifts Beet Chocolate Cake Diamond Fairy Rose Raisins Stuffing Tulip Contents 1 Schedule 2 Relationships 3 Gifts 3.1 Love 3.2 Like 3.3 Neutral 3.4 Dislike 3.5 Hate 4 Movies & Concessions 5 Heart Events 5.1 Anytime 5.2 Four Hearts 5.3 Seven Hearts 6 Quotes 7 Quests 8 Portraits 9 Trivia 10 History “ “Evelyn has lived in Pelican Town her entire life. Always hopeful and optimistic, \"Granny\" spends her days tending the town gardens, baking her signature cookies, and reminiscing about Stardew Valley's vibrant past.” — Steam Description Evelyn Mullner is a villager who lives in Pelican Town , and is in charge of the town's flowers. Schedule She can usually be found in her home's kitchen or tending to the gardens in the center of town. On the 2nd of every season, she has an appointment at the clinic , and on the 23rd of every season she accompanies George to his appointment. Evelyn never visits the Beach Resort on Ginger Island. Shown below are Evelyn's schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it. Spring 17 (Bus Service Restored) 9:50 AM Boards the bus to Calico Desert to attend the Desert Festival . 10:00 AM With George , at the roadside near the bus. 10:50 PM Boards the bus back to the Valley. Desert Festival (As Vendor) 11:10 AM Boards the bus to Calico Desert . 11:30 AM Arrives at her booth . 12:00 AM Leaves booth and takes the bus back to the Valley. Green Rain (Year 1) All day Standing in her kitchen. Tuesday the 2nd 8:00 AM Standing in her kitchen. 10:30 AM Leaves home to sit in the waiting room of Harvey's clinic. 1:30 PM Moves to the left examination room. 4:00 PM Returns home from the clinic to stand in her kitchen. 7:00 PM Moves to stand in front of the bookcase in her living room. 9:30 PM Goes to her bedroom. Tuesday the 23rd 8:00 AM Standing in her kitchen. 10:40 AM Leaves home to wait in Harvey's clinic with George. 1:30 PM Moves to the left examination room with George. 4:10 PM Returns home from the clinic to stand in her kitchen. 7:00 PM Moves to stand in front of the bookcase in her living room. 9:30 PM Goes to her bedroom. Winter 17 8:00 AM Standing in her kitchen. 10:40 AM Stands next to the TV with George. 12:10 PM Stands at her kitchen table. 1:00 PM Sits in her house. 4:30 PM Arrives at the Night Market . 11:40 PM Arrives in her bedroom. Rain 8:00 AM Standing in her kitchen. 10:40 AM Stands next to the TV with George. 12:10 PM Stands at her kitchen table. 4:30 PM Stands in her kitchen, near the appliances. 7:00 PM Moves to stand in front of the bookcase in her living room. 9:30 PM Goes to her bedroom. Monday, Thursday and Saturday (Community Center Restored) 8:00 AM Standing in her kitchen. 10:40 AM Stands next to the TV with George. 12:10 PM Heads to the community center to sit in the armchair in the crafts room. 4:30 PM Stands in her kitchen, near the appliances. 7:00 PM Moves to stand in front of the bookcase in her living room. 9:30 PM Goes to her bedroom. Summer 8:00 AM Standing in her kitchen. 10:40 AM Stands next to the TV with George. 12:10 PM Stands at her kitchen table. 1:00 PM Goes to tend the plants just northwest of town square. 4:30 PM Stands in her kitchen, near the appliances. 7:00 PM Moves to stand in front of the bookcase in her living room. 9:30 PM Goes to her bedroom. Regular Schedule 8:00 AM Standing in her kitchen. 10:40 AM Stands next to the TV with George. 12:10 PM Stands at her kitchen table. 1:00 PM Goes to tend the plants just southeast of town square. 4:30 PM Stands in her kitchen, near the appliances. 7:00 PM Moves to stand in front of the bookcase in her living room. 9:30 PM Goes to her bedroom. Relationships Evelyn is married to George , and lives with her grandson Alex . Alex's deceased mother Clara was Evelyn's daughter. In Evelyn's nightstand is a note written to her addressed as Momma. The note reads: “ “Momma- If you're reading this, it means I've passed on. I'm so sorry you had to go through this. Know that I love you both. Don't be too upset, I'm with Yoba now. My final request: take care of Alex . He needs a family, something stable. He's a good kid. Love, Clara” This is possibly a note from Evelyn's daughter, Clara, who is the mother of Alex . Clara passed away and left Alex to live with Evelyn and George . In the beginning of Stardew Valley , when meeting all the townspeople, Evelyn will give you permission to call her \"Granny\". Gifts Main article: Friendship See also: List of All Gifts You can give Evelyn up to two gifts per week (plus one on her birthday), which will raise or lower her friendship with you. Gifts on her birthday ( 20 Winter ) will have 8× effect and show a unique dialogue. For loved or liked gifts, Evelyn responds “ “A birthday gift? That's very kind of you! I love it.” “ “You remembered my birthday! Thank you. This is great.” For neutral gifts, Evelyn responds “ “Oh, a birthday gift! Thank you.” For disliked or hated gifts, Evelyn responds “ “Oh... It's for my birthday? ... Thanks.” Love “ “*gasp*... This is absolutely marvelous!” If you talk to Evelyn again after giving a loved gift, she will say: “ “You've made an old lady very happy.” Stardrop Tea “ “Oh, you're giving this to me? Thank you so much, dear. This is a really special gift!” Image Name Description Source Ingredients All Universal Loves Beet A sweet and earthy root vegetable. As a bonus, the leaves make a great salad. Farming Chocolate Cake Rich and moist with a thick fudge icing. Cooking Wheat Flour (1) Sugar (1) Egg (1) Diamond A rare and valuable gem. Mining Fairy Rose An old folk legend suggests that the sweet smell of this flower attracts fairies. Farming Raisins It's said to be the Junimos' favorite food. Dehydrator Grape (5) Stuffing Ahh... the smell of warm bread and sage. Cooking Bread (1) Cranberries (1) Hazelnut (1) Tulip The most popular spring flower. Has a very faint sweet smell. Farming Like “ “Oh my, it looks wonderful! That's very kind of you.” Any Forage from the Beach (except Seaweed) “ “Thank you, dear. This brings back such sweet memories...” Broken Glasses “ “Thank you, dear. I've been looking everywhere for my reading glasses... My, my! They've become filthy...” Image Name Description Source All Universal Likes (except Fried Eel , Garlic , Maki Roll , Sashimi , Spicy Eel , & Trout Soup ) All Milk Broken Glasses It looks like someone lost their glasses. They're busted. Garbage Cans , Fishing Trash Clam There's a chewy little guy in there... Foraging - The Beach , Saltwater Crab Pots Cockle A common saltwater clam. Foraging - The Beach , Saltwater Crab Pots Coral A colony of tiny creatures that clump together to form beautiful structures. Foraging - The Beach Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Mussel A common bivalve that often lives in clusters. Foraging - The Beach , Saltwater Crab Pots Nautilus Shell An ancient shell. Foraging - The Beach Oyster Constantly filters water to find food. In the process, it removes dangerous toxins from the environment. Foraging - The Beach , Saltwater Crab Pots Sea Urchin A slow-moving, spiny creature that some consider a delicacy. Foraging - The Beach Neutral “ “How nice. Thank you, dear.” Image Name Description Source All Universal Neutrals (except Coral & Nautilus Shell ) All Eggs (except Void Egg )* All Fruit (except Fruit Tree Fruit , Salmonberry , & Spice Berry ) Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Leek A tasty relative of the onion. Foraging - Spring Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Winter Root A starchy tuber. Foraging - Winter * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Dislike “ “Um, Where will I put this?” Image Name Description Source All Universal Dislikes (except Clay & Fish ) Quartz A clear crystal commonly found in caves and mines. Foraging - The Mines Wild Horseradish A spicy root found in the spring. Foraging - Spring Hate “ “...it smells awful.” Image Name Description Source Ingredients All Universal Hates (except Broken Glasses & Sea Urchin ) All Fish (except Clam , Cockle , Mussel , & Oyster ) Clay Used in crafting and construction. Tilling Fried Eel Greasy but flavorful. Cooking Eel (1) Oil (1) Garlic Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy. Farming - Spring Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Maki Roll Fish and rice wrapped in seaweed. Cooking Fish (1) Seaweed (1) Rice (1) Salmonberry A spring-time berry with the flavor of the forest. Foraging - Spring Sashimi Raw fish sliced into thin pieces. Cooking Fish (1) Spice Berry It fills the air with a pungent aroma. Foraging - Summer Spicy Eel It's really spicy! Be careful. Cooking Eel (1) Hot Pepper (1) Trout Soup Pretty salty. Cooking Rainbow Trout (1) Green Algae (1) Movies & Concessions Main article: Movie Theater Love The Miracle At Coldstar Ranch The Zuzu City Express Like Journey Of The Prairie King: The Motion Picture Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling Wumbus Dislike It Howls In The Rain Mysterium Love Cappuccino Mousse Cake Star Cookie Stardrop Sorbet Dislike Black Licorice Fries Jasmine Tea Joja Cola JojaCorn Nachos Personal Pizza Popcorn Salted Peanuts Truffle Popcorn Like Everything else Heart Events Anytime At any friendship level greater than zero friendship points, you may receive a gift in the mail from Evelyn. The chance of receiving a gift in the mail increases as your friendship with Evelyn increases. Details Item Description Bread Chocolate Cake Cookie Hello there, dear, I hope your farm is doing well. I'm sending you a little something from my kitchen... I hope it didn't crumble in the mail. -Evelyn Four Hearts Enter Evelyn's home while she is inside. Details You find Evelyn baking cookies. She offers you some, and asks what you think: \"It's delicious!\" (+100 friendship .) \"It was like chewing on a hockey puck\" (-100 friendship .) In either case, she gives you the Cookie recipe. Seven Hearts After reaching 7 hearts with Evelyn she will send the player a recipe in the mail. Details Image Recipe Description Rice Pudding I usually don't give out my recipes... but since you've been such a sweetheart to George and I, I've written this one down for you. - Evelyn Quotes Regular First Meeting “ “Why, hello and welcome to our little community, dear! You can call me 'Granny' if you like.” Regular “ “Oh my! What a lovely day.” “ “Don't mind my husband, George. He isn't very friendly to strangers. If you get to know him better he'll warm up to you. I'm sure you two could become good friends one day!” “ “George spends the whole day in front of that darned television set. I wish he'd go outside more. Some fresh air would do him good.” “ “I used to love looking at the clouds, but I have trouble seeing them these days. My eyes just don't work as well as they used to.” “ “It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier. As kids we hunted for seashells after the tide went out. Those were the days...” Rainy Day “ “When I woke up I heard dripping from somewhere... I think the roof might be leaking. In the old days, George would've scampered right up and fixed it... *sigh*” 6+ Hearts “ “It's nice of you to take the time to visit George and I. Without young people around, we'd age much faster.” If player marries Alex “ “How's my grandson doing? I imagine he's quite happy living on the farm... He deserves to be happy... he's a good boy.” “ “Oh, hello my dear. I think of you as my own grand-daughter/grandson now.” After upgrading Pam's house “ “Oh, sweetie... that was so nice of you to put Pam up in a beautiful new house! It warms my heart when people take care of each other like that...” If anonymous “ “Call me a silly old fool... but I think I have an idea who paid for Pam's new house... *wink*” Gardening “ “I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday.” “ “The good Mayor put me in charge of the town's public gardens.” “ “I've been working on the town flower beds for weeks, so don't step on them!” Doctor Visit In the clinic's waiting room “ “When you get to be my age you have to see the doctor more often.” In the clinic's examination room “ “Oh dear, is it an emergency? Why are you here?” George's Doctor Visit In the clinic's waiting room with George “ “Now now, dear... It's important that Doctor Harvey takes a good look at you. He's a nice young man! Behave yourself, for your dear old wife's sake.” In the clinic's examination room with George “ “Could you check his lungs? He's been wheezing lately.” Spring “ “Don't mind my husband, George. He isn't very friendly to strangers. If you get to know him better he'll warm up to you. I'm sure you two could become good friends one day! Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year.” “ “I'll be baking cookies today. I like to make flower shapes in the spring. Maybe I'll tell you my recipe one of these days.” Spring 15 On the 15th of Spring Evelyn will send you a letter in the mail. (Note: this letter will arrive whether or not you have actually met Evelyn.) “ “Hello, dear... I know you're just getting started as a gardener, so I wanted to give you a little tip. Most crops only grow in one season. When summer arrives, your spring crops will all die out. So plan ahead! -Granny Evelyn” Summer “ “I feel more energetic in this wonderful weather.” “ “George is always a little less grumpy in the summer. The warm weather softens his bones. You might not be able to tell, but I can. I've known him for sixty years!” “ “The good Mayor put me in charge of the town's public gardens. I've been working on the town flower beds for months, so don't step on them!” “ “I'm going to bake cookies today. They're coconut wonders shaped like little palm trees! Heehee. Maybe I'll tell you my recipe one of these days.” “ “Be careful out there, dear. You could get sunburnt!” “ “Sweet peas are in bloom right now. They've got such a wonderful fragrance, haven't they?” “ “It seems like we always have more visitors when I start baking cookies. My mother taught me the recipe.” Green Rain Year 1 “ “George, dear... Is this the end? It's been a good life, but I'd like to see Alex find his way before departing...” Year 2+ “ “The flowers seem to love this rain...” Green rain finished (next day) “ “Oh, my dear... I'm so glad everything ended up okay. And my flowers look healthier than ever!” Fall “ “With every year I appreciate the seasons more and more. For young people it's easy to let them slip by.” “ “I've been putting raisins in George's oatmeal... but he hasn't said a word. I wonder if he even notices these things?” “ “The good Mayor put me in charge of the town's public gardens. The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do.” “ “Today I'm baking cookies. They're shaped like little pumpkins. Maybe I'll tell you my recipe one of these days.” “ “Are you friends with Alex? Sometime he worries me sick.” “ “My eyesight may be poor, but my nose hasn't failed me yet! I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl.” Winter “ “Be careful you don't slip on the ice, dear.” “ “Aren't you cold? You should wear a thicker jacket, my dear! This weather isn't good for my joints...” “ “I usually tend to the gardens, but they're covered in snow. I still like to check up on them now and then.” “ “We've lived here for over 30 years. We've seen a lot of people come and go. Your grandfather, for one. Bless him... *sigh*” “ “Oh... my dear. You have your grandfather's eyes... Yes... yes... I knew him very well.” “ “You should make some hot soup to stay warm. And make sure you wear a jacket!” 8+ Hearts “ “[Player], have I told you that George and I have lived in our house for 30 years? I hope you stay here for a while.” Events Egg Festival Odd-numbered year “ “This festival has been a tradition for as long as I can remember. Tradition connects us with both the past and the future... it's comforting.” Even-numbered year “ “Do you have hens on your farm?” Yes (No effect on friendship .) \"Oh, good! I'm sure they lay the most delicious eggs...\" No (No effect on friendship .) \"Spring would be a great time to start raising chickens, don't you think?\" Desert Festival Even-numbered year “ “Ah...the sands of time, the sands of time...” Flower Dance “ “I've been working on these floral arrangements for a week. Do you like them?” The Luau Odd-numbered year “ “Ahh... The smell of the ocean takes me back many years. Long before you were born.” Even-numbered year “ “Now, don't overeat dear. I wouldn't want you getting a stomach ache.” Dance of the Moonlight Jellies “ “I remember seeing the jellies once, as a little girl. Oh, how I jumped with joy when they arrived! But that was long ago... I'm a lot less energetic now.” Stardew Valley Fair “ “I wish Gus would include a vegetarian option. Some zucchinni skewers, maybe?” Spirit's Eve Although Evelyn does not attend the Feast, she has dialogue scripted in underlying data files. “ “I wish Gus would include a vegetarian option. Some zucchinni skewers, maybe?” Festival of Ice “ “Did I ever tell you how George and I first met? He actually pelted me with a snowball in this very festival. He was a gentleman back then, and came over to see if I was okay.” Night Market “ “This is one of the newer traditions in Pelican Town... but we've taken to it rather quickly. Haven't we, George?” Feast of the Winter Star “ “Oh, my! Aren't you cold, dear? It's freezing!” Quests \"Granny's Gift\" : Evelyn will send you a letter on the 15th of Spring , year 2, asking for a Leek . The reward is data-sort-value=\"500\"> 500g and 1 Friendship heart. Evelyn may randomly request an item at the \"Help Wanted\" board outside Pierre's General Store . The reward is 3x the item's base value and 150 Friendship points. \"Gifts for George\" : On the Special Orders board in front of the Mayor's Manor during Spring , Evelyn may randomly request that the player collect and deliver 12 Leeks to the stove in her house. The reward is data-sort-value=\"2000\"> 2,000g and a Coffee Maker . Portraits Trivia Evelyn may still tell you she might share her Cookie recipe with you after she shares it with you in her 4-heart event. History 1.6 : Added custom gift reactions. Added winter portraits. Broken Glasses is now a liked item. All foraged items from the Beach (except Seaweed) are now liked. Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Evelyn&oldid=191129 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 13 February 2026, at 09:17. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

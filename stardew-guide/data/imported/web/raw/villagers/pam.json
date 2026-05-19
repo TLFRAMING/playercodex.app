@@ -1,0 +1,3791 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Pam",
+  "finalUrl": "https://stardewvalleywiki.com/Pam",
+  "fetchedAt": "2026-05-18T13:03:24.444817+00:00",
+  "title": "Pam - Stardew Valley Wiki",
+  "description": "Pam is a villager who lives in the trailer just west of the river in Pelican Town. She was the driver of the Pelican Town bus before it broke down. Once the bus service has been restored, Pam will manage the bus stop just east of the Farm, opening the way to the Desert.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Pam"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Anytime"
+    },
+    {
+      "level": 3,
+      "text": "Three Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Seven Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Nine Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Pam"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Spring 18"
+        ],
+        [
+          "Lives In",
+          "Pelican Town"
+        ],
+        [
+          "Address",
+          "Trailer"
+        ],
+        [
+          "Family",
+          "Penny (Daughter)"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Clinic Visit",
+          "Spring 25"
+        ],
+        [
+          "Loved Gifts",
+          "Beer Cactus Fruit Glazed Yams Mead Pale Ale Parsnip Parsnip Soup Piña Colada"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid. Keep your head screwed on right and you'll make it through in one piece... That's what my Pappy always used to say. Heh heh heh.”"
+        ],
+        [
+          "— Pam"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Spring 16 (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "10:30 AM",
+          "Boards the bus to Calico Desert to attend the Desert Festival."
+        ],
+        [
+          "10:50 AM",
+          "Stands in front of one of the villager shops."
+        ],
+        [
+          "12:40 AM",
+          "Boards the bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Desert Festival (As Vendor)"
+      ],
+      "rows": [
+        [
+          "11:10 AM",
+          "Boards the bus to Calico Desert."
+        ],
+        [
+          "11:30 AM",
+          "Arrives at her booth."
+        ],
+        [
+          "12:00 AM",
+          "Leaves booth and takes bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Spring 15 and 17 (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "7:20 AM",
+          "Leaves her trailer."
+        ],
+        [
+          "8:50 AM",
+          "Arrives at the Bus Stop."
+        ],
+        [
+          "12:50 AM",
+          "Heads home."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Spring 25"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Lounges on her couch in the trailer."
+        ],
+        [
+          "11:30 AM",
+          "Leaves her trailer and heads to the medical clinic for her annual checkup."
+        ],
+        [
+          "1:30 PM",
+          "Continues her checkup at the clinic."
+        ],
+        [
+          "4:00 PM",
+          "Leaves the clinic and heads to the saloon."
+        ],
+        [
+          "12:00 AM",
+          "Leaves the saloon and heads home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Green Rain (Year 1)"
+      ],
+      "rows": [
+        [
+          "All day",
+          "In The Stardrop Saloon."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Winter 12 and 13"
+      ],
+      "rows": [
+        [
+          "All day",
+          "On The Beach, watching the SquidFest."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Regular Schedule (No Bus Service)"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Lounges on her couch in the trailer."
+        ],
+        [
+          "12:00 PM",
+          "Leaves the trailer and heads to JojaMart."
+        ],
+        [
+          "4:00 PM",
+          "Leaves JojaMart and heads to the saloon."
+        ],
+        [
+          "12:00 AM",
+          "Leaves the saloon and heads home."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Regular Schedule (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "8:00 AM",
+          "Lounges on her couch in the trailer."
+        ],
+        [
+          "8:30 AM",
+          "Leaves the trailer to head to the bus stop just east of the farm."
+        ],
+        [
+          "10:00 AM",
+          "Arrives at the bus stop for the afternoon."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the bus stop and heads to the saloon."
+        ],
+        [
+          "12:00 AM",
+          "Leaves the saloon and back home for the night."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You remembered my birthday? I'm impressed. Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, is it my birthday today? I guess it is. Thanks. This is nice.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“For my birthday? Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's my birthday and you give me this? Is this some kind of joke?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, hey! Now this is really something! Thanks a million, kid.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Well, I'll be darned... I never expected to get a gift like this. You made my day, kid!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Beer",
+          "Drink in moderation.",
+          "The Stardrop SaloonKeg",
+          "Wheat (1)"
+        ],
+        [
+          "",
+          "Cactus Fruit",
+          "The sweet fruit of the prickly pear cactus.",
+          "Foraging - The Desert",
+          ""
+        ],
+        [
+          "",
+          "Glazed Yams",
+          "Sweet and satisfying... The sugar gives it a hint of caramel.",
+          "Cooking",
+          "Yam (1) Sugar (1)"
+        ],
+        [
+          "",
+          "Mead",
+          "A fermented beverage made from honey. Drink in moderation.",
+          "Keg",
+          "Honey (1)"
+        ],
+        [
+          "",
+          "Pale Ale",
+          "Drink in moderation.",
+          "Keg",
+          "Hops (1)"
+        ],
+        [
+          "",
+          "Parsnip",
+          "A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.",
+          "Farming - Spring",
+          ""
+        ],
+        [
+          "",
+          "Parsnip Soup",
+          "It's fresh and hearty.",
+          "Cooking",
+          "Parsnip (1) Milk (1) Vinegar (1)"
+        ],
+        [
+          "",
+          "Piña Colada",
+          "Drink in moderation.",
+          "Beach Resort on Sundays",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You did good with this one, kid. Thanks!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal LikesAll Fruit (except Cactus Fruit)All Milk"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thanks, kid.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal NeutralsAll Fish (except Carp, Octopus, Snail, & Squid)"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Joja Cola",
+          "The flagship product of Joja corporation.",
+          "Fishing, JojaMart, Saloon Vending Machine, Garbage Can, Soda Machine"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This just ain't my thing.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Fish)All Eggs*"
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - Mines"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Now this is just absolutely despicable.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“(Is this some kind of mean joke?)”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates (except Joja Cola)"
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Octopus",
+          "A mysterious and intelligent creature.",
+          "Fishing"
+        ],
+        [
+          "",
+          "Squid",
+          "A deep sea creature that can grow to enormous size.",
+          "Fishing"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "N/A"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "N/A"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Nachos Stardrop Sorbet"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Apple Slices Black Licorice Cappuccino Mousse Cake Hummus Snack Pack Jasmine Tea Kale Smoothie Panzanella Salad"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [
+        "Item",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Battery Pack Beer Energy Tonic",
+          "Hey.I found this in a drawer somewhere. Thought you could use it.-Pam"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Cheese Cauliflower",
+          "Hey Kid,Here's the recipe for a little treat my pappy used to make. Cook it slow.-Pam"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Stuffing",
+          "Hey Kid,Here's the recipe for a little treat my pappy used to make. Cook it slow.-Pam"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "You find Pam praying before a Sign of the Vessel statue. She confesses that she loves the new house, but hasn't been able to cut back on her drinking. She says she thought the new house would change everything, but it didn't, so she ordered the statue. She then turns to the player for a response. I'm glad you're feeling hopeful (No effect on friendship.) Pam says she's \"getting sappy\" in her old age, and the cutscene ends. Sorry Pam, but Yoba isn't real... (-1000 friendship.) Pam becomes angry and asks \"What in the void is wrong with you?\" before declaring her faith in Yoba and ordering you to leave."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, kid. The name's Pam. Don't be a jerk and we'll get along fine.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You know, I'd eat healthier food if I could afford it. Hey, you probably have a lot of tasty grub growin' on your farm, hm?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, you! Don't be snoopin' around the trailer when I'm out. Got it? Sorry, but I gotta be cautious with strangers.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid. Keep your head screwed on right and you'll make it through in one piece... That's what my Pappy always used to say. Heh heh heh.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Times have been tough lately. I got laid off of my job as a bus driver. If I got that job back I could drive you to Calico Desert.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“My house ain't pretty but at least it's by the river.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Penny says I spend too much time at the saloon...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night. You got any ideas? ...Ehh. Maybe I'll play checkers against myself.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Each day's just the same as the last... If only I'd been born rich...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Make sure your boots are clean before you go stompin' around in my house. It's annoying to clean a mess. You should know that by now.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wish a team of elves would come during the night and tidy up my house. Hahahaha.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I could sure go for some parsnips.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If my legs weren't so stiff I'd visit the mountains every now and then.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Howdy, kid. Stayin' dry?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“urghh... my head...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Blahh... I had one too many caramel porters at the saloon last night... Go away.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, did you hear about the ol' bus? Yep... I'm back on the saddle, kid... hehe. Feels nice.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You don't know how glad I am that the bus is up and running! I feel alive again.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's awful lonely at home all by myself...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey. You better be treatin' Penny right on that old farm of yours. She's the only one I got!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Penny's the only one I've got, so you best treat her kindly.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*grumble*... Doctor know-it-all... *grumble*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“How much do I drink every day? What kind of a question is that?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I can't believe you bought me a house! Is there any catch? Sorry, I'm not used to people being so nice...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I can't believe someone bought me a house! I wonder if it's some kind of scam? Sorry, I'm not used to people being so nice...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Nothin' like a sip o' the good stuff to warm these old bones...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, kid. I'd buy you a drink if I could afford it!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey Gus! Gimme another round! *hic*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*Sigh*... Hey, kid. You're too young to be moping around in a place like this.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*gulp* ... I've been looking forward to this beverage all afternoon. Heh heh.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oi, Gus! Gimme another pint of your strongest!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“(Pam isn't responding.)”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“(Pam seems out of it. Better leave her alone right now.)”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey Kid, are you friends with Gus? He's a pretty good guy. He even gives me free beer on my birthday.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hi, stranger.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, it's [Miss/Mr.] [Player]. Do you need my help or something?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Havin' a local farm is good for our town.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Maybe if you do real well on your farm it'll boost the local economy. Then everyone will have a job and we'll all be happy, right?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, hi there, farmer. I don't often chit-chat with strangers.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I always seem to end up at the saloon at some point. It's too close to my house. It ain't healthy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't mind that ol' dog next to the house. He might look at you cross, but he'll never get up from that box in a hunderd years. The old boy's name? It's Dusty.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Someone's been complainin' about my yard... sayin' it's a mess. Was it you? Hmmm...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...Yeah? You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're a pretty gal. What 're you wastin' your time talkin' to someone like me for?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I had hopes and dreams like you, once... But look at me now. Life doesn't always turn out like you expect. Ah well. There's no sense dwellin' on what you don't have.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 78,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's a sign from the Almighty... We're doomed...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 79,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I think these rains are a show of force... a warning. You could say it's from nature, from Yoba, whatever you like... but that's what I think. What I mean is, we can't get too cocky. Or else, instead of a green rain, maybe we'll have a blood-red rain... See what I mean?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 80,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Well, I guess the end-times haven't come just yet, kid... Ah well, back to the ol' nine to five...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 81,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If I knew you better, I'd be more inclined to chat.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 82,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I used to be young, once. Hard to believe, huh? Time sure goes fast when you grow up.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 83,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 84,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Penny's the only one I've got, so you best treat her kindly.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 85,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Every day is the same old routine... Do you ever have that problem, farmer?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 86,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Would you do me a kindness and clean up my house? Just kidding.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 87,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't you have work to do? You should be thankful that you have a job rather than moping around town all the time.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 88,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio. Times sure do change.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 89,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You got any hogs on that farm?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 90,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Do you want somethin' from me, kid? Best look somewhere else.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 91,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel. ...It's so dry in winter. My skin feels like old parchment.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 92,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey kid. What're you up to? I'm just passin' time, same as always.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 93,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh. Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 94,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Penny sure does like old books. I think she's a heck of a lot smarter than I ever was. I'm glad.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 95,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I oughta take up fishin', seein' as how close the river is.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 96,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Blah... my front yard's a mess.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 97,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 98,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 99,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Now this is comfort! I might even take my shoes off! Better not look too closely at my feet, kid.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 100,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's a special occasion, kid... I'm ordering something unique. Make it a double!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 101,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Penny came home crying... what'd you do to her?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 102,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hehe... I put something nice into the punch. Shhh... that's just between you and me, kid.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 103,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey... If you're gonna feed me eggs, I'm gonna need some hot sauce, kid!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 104,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, kid...you takin' the day off? It's nice to kick back every once in a while, isn't it? Yup. Even ol' Pam needs some sunlight on her skin now and then! Just wake me up before I turn into leather...Heheh.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 105,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Now this is the life... Huh, kid? Sweet wine, a babbling brook, warm air... Did I mention wine?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 106,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Heh... free buffet. One of the perks of living here. Enjoy it, kid!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 107,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't tell Gus, but I'm a little disappointed there's no buffet tonight.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 108,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Better hurry up, kid... Before ol' Pam here fishes every last lunker out of the tent! Hehe.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 109,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'll come to any event with free grub! You won't see me in the haunted maze, though.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 110,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I plan on winning the ice fishing competition! Willy is gonna be pretty hard to beat, though... He does this kinda stuff day and night.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 111,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hmmph... I'm still upset I didn't win the ice fishing competition.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 112,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Pam#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "Trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glazed_Yams",
+      "text": "Glazed Yams"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip_Soup",
+      "text": "Parsnip Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pi%C3%B1a_Colada",
+      "text": "Piña Colada"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Relationships",
+      "text": "2 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Gifts",
+      "text": "3 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Love",
+      "text": "3.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Like",
+      "text": "3.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Neutral",
+      "text": "3.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Dislike",
+      "text": "3.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Hate",
+      "text": "3.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Movies_.26_Concessions",
+      "text": "4 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Heart_Events",
+      "text": "5 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Anytime",
+      "text": "5.1 Anytime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Three_Hearts",
+      "text": "5.2 Three Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Seven_Hearts",
+      "text": "5.3 Seven Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Nine_Hearts",
+      "text": "5.4 Nine Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Quotes",
+      "text": "6 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#Portraits",
+      "text": "8 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam#History",
+      "text": "9 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villager"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "Pelican Town bus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "bus stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Farm",
+      "text": "the Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "the Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/JojaMart",
+      "text": "JojaMart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Beach_Resort",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festivals",
+      "text": "Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Villager_Shops",
+      "text": "booth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "Bus Stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "medical clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "the clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/SquidFest",
+      "text": "SquidFest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/JojaMart",
+      "text": "JojaMart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/JojaMart",
+      "text": "JojaMart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "trailer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "bus stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Farm",
+      "text": "the farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "bus stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "bus stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Beer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Cactus_Fruit.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "The Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Glazed_Yams.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glazed_Yams",
+      "text": "Glazed Yams"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sugar",
+      "text": "Sugar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mead.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Honey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pale_Ale.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Parsnip.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Parsnip_Soup.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip_Soup",
+      "text": "Parsnip Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Milk",
+      "text": "Milk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vinegar",
+      "text": "Vinegar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pi%C3%B1a_Colada.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pi%C3%B1a_Colada",
+      "text": "Piña Colada"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Island_South",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Fish_Types",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snail",
+      "text": "Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid",
+      "text": "Squid"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Joja_Cola.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Joja_Cola",
+      "text": "Joja Cola"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/JojaMart",
+      "text": "JojaMart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon#Joja_Vending_Machine",
+      "text": "Saloon Vending Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garbage_Can",
+      "text": "Garbage Can"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Soda_Machine",
+      "text": "Soda Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Fish_Types",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Joja_Cola",
+      "text": "Joja Cola"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Octopus.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Squid.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid",
+      "text": "Squid"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Battery_Pack",
+      "text": "Battery Pack"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic#Medical_Supplies",
+      "text": "Energy Tonic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Cauliflower",
+      "text": "Cheese Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stuffing",
+      "text": "Stuffing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carpenter%27s_Shop#Community_Upgrades",
+      "text": "Community Upgrade"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trailer",
+      "text": "Pam's house"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sign_of_the_Vessel",
+      "text": "Sign of the Vessel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tools",
+      "text": "tool"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "The Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spirit%27s_Eve",
+      "text": "Spirit's Eve"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Pam_is_Thirsty",
+      "text": "\"Pam is Thirsty\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Pam_Needs_Juice",
+      "text": "\"Pam Needs Juice\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Battery_Pack",
+      "text": "Battery Pack"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#The_Strong_Stuff",
+      "text": "\"The Strong Stuff\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Juice",
+      "text": "Potato Juice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Television",
+      "text": "television"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Neutral.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Winter_00.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Winter_01.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Winter_02.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Winter_04.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Winter_03.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Beach.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Beach_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Beach_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Beach_Neutral.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pam_Beach_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.3.27",
+      "text": "1.3.27"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "Bus Stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "the Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&oldid=191550",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&oldid=191550"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Pam",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Pam",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Pam&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Pam",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Pam",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&oldid=191550",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Pam",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Pam",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Pam",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Pam",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%91%E3%83%A0",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%ED%8C%B8",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Pam",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Pam",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9F%D1%8D%D0%BC",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Pam",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E6%BD%98%E5%A7%86",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+      "alt": "Pam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Beer.png/24px-Beer.png",
+      "alt": "Beer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+      "alt": "Cactus Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Glazed_Yams.png/24px-Glazed_Yams.png",
+      "alt": "Glazed Yams.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/24px-Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+      "alt": "Parsnip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/76/Parsnip_Soup.png/24px-Parsnip_Soup.png",
+      "alt": "Parsnip Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/12/Pi%C3%B1a_Colada.png/24px-Pi%C3%B1a_Colada.png",
+      "alt": "Piña Colada.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Pam_Happy.png/48px-Pam_Happy.png",
+      "alt": "Pam Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png",
+      "alt": "Beer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+      "alt": "Wheat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png",
+      "alt": "Cactus Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png",
+      "alt": "Glazed Yams.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/24px-Yam.png",
+      "alt": "Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Sugar.png/24px-Sugar.png",
+      "alt": "Sugar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+      "alt": "Honey.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png",
+      "alt": "Parsnip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png",
+      "alt": "Parsnip Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+      "alt": "Parsnip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/24px-Milk.png",
+      "alt": "Milk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fe/Vinegar.png/24px-Vinegar.png",
+      "alt": "Vinegar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png",
+      "alt": "Piña Colada.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Pam_Happy.png/48px-Pam_Happy.png",
+      "alt": "Pam Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Pam.png/48px-Pam.png",
+      "alt": "Pam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png",
+      "alt": "Joja Cola.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pam_Concerned.png/48px-Pam_Concerned.png",
+      "alt": "Pam Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Pam_Annoyed.png/48px-Pam_Annoyed.png",
+      "alt": "Pam Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png",
+      "alt": "Octopus.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png",
+      "alt": "Squid.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4c/Nachos.png/24px-Nachos.png",
+      "alt": "Nachos.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0b/Apple_Slices.png/24px-Apple_Slices.png",
+      "alt": "Apple Slices.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Black_Licorice.png/24px-Black_Licorice.png",
+      "alt": "Black Licorice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Cappuccino_Mousse_Cake.png/24px-Cappuccino_Mousse_Cake.png",
+      "alt": "Cappuccino Mousse Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/54/Hummus_Snack_Pack.png/24px-Hummus_Snack_Pack.png",
+      "alt": "Hummus Snack Pack.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Jasmine_Tea.png/24px-Jasmine_Tea.png",
+      "alt": "Jasmine Tea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/61/Kale_Smoothie.png/24px-Kale_Smoothie.png",
+      "alt": "Kale Smoothie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Panzanella_Salad.png/24px-Panzanella_Salad.png",
+      "alt": "Panzanella Salad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Battery_Pack.png/24px-Battery_Pack.png",
+      "alt": "Battery Pack.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Beer.png/24px-Beer.png",
+      "alt": "Beer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a6/Energy_Tonic.png/24px-Energy_Tonic.png",
+      "alt": "Energy Tonic.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Three_Hearts.png",
+      "alt": "Three Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png",
+      "alt": "Cheese Cauliflower.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Seven_Hearts.png",
+      "alt": "Seven Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Stuffing.png",
+      "alt": "Stuffing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/07/Nine_Hearts.png",
+      "alt": "Nine Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+      "alt": "Pam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Pam_Happy.png",
+      "alt": "Pam Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Pam_Concerned.png",
+      "alt": "Pam Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/05/Pam_Neutral.png",
+      "alt": "Pam Neutral.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Pam_Annoyed.png",
+      "alt": "Pam Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0f/Pam_Winter_00.png",
+      "alt": "Pam Winter 00.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/13/Pam_Winter_01.png",
+      "alt": "Pam Winter 01.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Pam_Winter_02.png",
+      "alt": "Pam Winter 02.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/25/Pam_Winter_04.png",
+      "alt": "Pam Winter 04.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Pam_Winter_03.png",
+      "alt": "Pam Winter 03.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/51/Pam_Beach.png",
+      "alt": "Pam Beach.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/88/Pam_Beach_Happy.png",
+      "alt": "Pam Beach Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Pam_Beach_Concerned.png",
+      "alt": "Pam Beach Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/95/Pam_Beach_Neutral.png",
+      "alt": "Pam Beach Neutral.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Pam_Beach_Annoyed.png",
+      "alt": "Pam Beach Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Pam - Stardew Valley Wiki",
+      "headline": "Pam - Stardew Valley Wiki",
+      "mainEntityOfPage": "Pam",
+      "identifier": "https://stardewvalleywiki.com/Pam",
+      "url": "https://stardewvalleywiki.com/Pam",
+      "description": "Pam is a villager who lives in the trailer just west of the river in Pelican Town. She was the driver of the Pelican Town bus before it broke down. Once the bus service has been restored, Pam will manage the bus stop just east of the Farm, opening the way to the Desert.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Pam, gift",
+      "dateModified": "2026-03-10T16:33:40Z",
+      "datePublished": "2026-03-10T16:33:40Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Pam - Stardew Valley Wiki Pam From Stardew Valley Wiki Jump to navigation Jump to search Pam Information Birthday Spring 18 Lives In Pelican Town Address Trailer Family Penny (Daughter) Marriage No Clinic Visit Spring 25 Loved Gifts Beer Cactus Fruit Glazed Yams Mead Pale Ale Parsnip Parsnip Soup Piña Colada Contents 1 Schedule 2 Relationships 3 Gifts 3.1 Love 3.2 Like 3.3 Neutral 3.4 Dislike 3.5 Hate 4 Movies & Concessions 5 Heart Events 5.1 Anytime 5.2 Three Hearts 5.3 Seven Hearts 5.4 Nine Hearts 6 Quotes 7 Quests 8 Portraits 9 History “ “I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid. Keep your head screwed on right and you'll make it through in one piece... That's what my Pappy always used to say. Heh heh heh.” — Pam Pam is a villager who lives in the trailer just west of the river in Pelican Town . She was the driver of the Pelican Town bus before it broke down. Once the bus service has been restored, Pam will manage the bus stop just east of the Farm , opening the way to the Desert . While the bus service is not active, Pam can usually be found in her home until 12:00pm. She'll then walk over to JojaMart for a few hours, leaving there at 4:00pm to walk to the Stardrop Saloon . Pam is one of Gus ' most loyal customers. She spends every evening in his establishment. Schedule After the Beach Resort on Ginger Island is unlocked, Pam may randomly spend the day there. After leaving the Island at 6pm, Pam will immediately go home to bed. Pam never visits the Resort on Fall 15, Festival days, or her checkup day at Harvey's Clinic . Shown below are Pam's schedules prioritized highest to lowest. For example, if Pam has been selected as a vendor at the desert festival, that schedule overrides all others. Spring 16 (Bus Service Restored) 10:30 AM Boards the bus to Calico Desert to attend the Desert Festival . 10:50 AM Stands in front of one of the villager shops. 12:40 AM Boards the bus back to the Valley. Desert Festival (As Vendor) 11:10 AM Boards the bus to Calico Desert . 11:30 AM Arrives at her booth . 12:00 AM Leaves booth and takes bus back to the Valley. Spring 15 and 17 (Bus Service Restored) 7:20 AM Leaves her trailer . 8:50 AM Arrives at the Bus Stop . 12:50 AM Heads home. Spring 25 8:00 AM Lounges on her couch in the trailer . 11:30 AM Leaves her trailer and heads to the medical clinic for her annual checkup. 1:30 PM Continues her checkup at the clinic . 4:00 PM Leaves the clinic and heads to the saloon . 12:00 AM Leaves the saloon and heads home for the night. Green Rain (Year 1) All day In The Stardrop Saloon . Winter 12 and 13 All day On The Beach , watching the SquidFest . Regular Schedule (No Bus Service) 8:00 AM Lounges on her couch in the trailer . 12:00 PM Leaves the trailer and heads to JojaMart . 4:00 PM Leaves JojaMart and heads to the saloon . 12:00 AM Leaves the saloon and heads home. Regular Schedule (Bus Service Restored) 8:00 AM Lounges on her couch in the trailer . 8:30 AM Leaves the trailer to head to the bus stop just east of the farm . 10:00 AM Arrives at the bus stop for the afternoon. 5:00 PM Leaves the bus stop and heads to the saloon . 12:00 AM Leaves the saloon and back home for the night. Relationships Pam lives with her daughter Penny . She spends every evening socializing at The Stardrop Saloon . Gifts Main article: Friendship See also: List of All Gifts You can give Pam up to two gifts per week (plus one on her birthday), which will raise or lower her friendship with you. Gifts on her birthday ( 18 Spring ) will have 8× effect and show a unique dialogue. For loved or liked gifts, Pam responds “ “You remembered my birthday? I'm impressed. Thanks.” “ “Oh, is it my birthday today? I guess it is. Thanks. This is nice.” For neutral gifts, Pam responds “ “For my birthday? Thanks.” For disliked or hated gifts, Pam responds “ “It's my birthday and you give me this? Is this some kind of joke?” Love “ “Hey, hey! Now this is really something! Thanks a million, kid.” Stardrop Tea “ “Well, I'll be darned... I never expected to get a gift like this. You made my day, kid!” Image Name Description Source Ingredients All Universal Loves Beer Drink in moderation. The Stardrop Saloon Keg Wheat (1) Cactus Fruit The sweet fruit of the prickly pear cactus. Foraging - The Desert Glazed Yams Sweet and satisfying... The sugar gives it a hint of caramel. Cooking Yam (1) Sugar (1) Mead A fermented beverage made from honey. Drink in moderation. Keg Honey (1) Pale Ale Drink in moderation. Keg Hops (1) Parsnip A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients. Farming - Spring Parsnip Soup It's fresh and hearty. Cooking Parsnip (1) Milk (1) Vinegar (1) Piña Colada Drink in moderation. Beach Resort on Sundays Like “ “You did good with this one, kid. Thanks!” Image Name Description Source All Universal Likes All Fruit (except Cactus Fruit ) All Milk Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Neutral “ “Thanks, kid.” Image Name Description Source All Universal Neutrals All Fish (except Carp , Octopus , Snail , & Squid ) Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Joja Cola The flagship product of Joja corporation. Fishing , JojaMart , Saloon Vending Machine , Garbage Can , Soda Machine Leek A tasty relative of the onion. Foraging - Spring Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Winter Root A starchy tuber. Foraging - Winter Dislike “ “This just ain't my thing.” Image Name Description Source All Universal Dislikes (except Fish ) All Eggs* Quartz A clear crystal commonly found in caves and mines. Foraging - Mines Wild Horseradish A spicy root found in the spring. Foraging - Spring * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Hate “ “Now this is just absolutely despicable.” If you click on Pam again after giving a Hated gift, she will say: “ “(Is this some kind of mean joke?)” Image Name Description Source All Universal Hates (except Joja Cola ) Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Octopus A mysterious and intelligent creature. Fishing Squid A deep sea creature that can grow to enormous size. Fishing Movies & Concessions Main article: Movie Theater Love N/A Like It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Dislike N/A Love Nachos Stardrop Sorbet Dislike Apple Slices Black Licorice Cappuccino Mousse Cake Hummus Snack Pack Jasmine Tea Kale Smoothie Panzanella Salad Like Everything else Heart Events Anytime At any friendship level greater than zero friendship points, you may receive a gift in the mail from Pam. The chance of receiving a gift in the mail increases as your friendship with Pam increases. Details Item Description Battery Pack Beer Energy Tonic Hey. I found this in a drawer somewhere. Thought you could use it. -Pam Three Hearts After reaching 3 hearts with Pam, she will send you a recipe in the mail. Details Image Recipe Description Cheese Cauliflower Hey Kid, Here's the recipe for a little treat my pappy used to make. Cook it slow. -Pam Seven Hearts After reaching 7 hearts with Pam, she will send you a recipe in the mail. Details Image Recipe Description Stuffing Hey Kid, Here's the recipe for a little treat my pappy used to make. Cook it slow. -Pam Nine Hearts Purchase the \" Community Upgrade \" from the Carpenter's Shop. After earning 9 hearts of friendship with Pam, enter Pam's house at least 4 days after the Community Upgrade is completed. Details You find Pam praying before a Sign of the Vessel statue. She confesses that she loves the new house, but hasn't been able to cut back on her drinking. She says she thought the new house would change everything, but it didn't, so she ordered the statue. She then turns to the player for a response. I'm glad you're feeling hopeful (No effect on friendship .) Pam says she's \"getting sappy\" in her old age, and the cutscene ends. Sorry Pam, but Yoba isn't real... (-1000 friendship .) Pam becomes angry and asks \"What in the void is wrong with you?\" before declaring her faith in Yoba and ordering you to leave. Trivia: The Yoba statue can be found later near Pam's bed on the second floor of the house, and can be removed and obtained by the player by striking it with a tool . Quotes Regular First Meeting “ “Hey, kid. The name's Pam. Don't be a jerk and we'll get along fine.” Regular “ “You know, I'd eat healthier food if I could afford it. Hey, you probably have a lot of tasty grub growin' on your farm, hm?” “ “Hey, you! Don't be snoopin' around the trailer when I'm out. Got it? Sorry, but I gotta be cautious with strangers.” “ “I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid. Keep your head screwed on right and you'll make it through in one piece... That's what my Pappy always used to say. Heh heh heh.” “ “Times have been tough lately. I got laid off of my job as a bus driver. If I got that job back I could drive you to Calico Desert.” “ “My house ain't pretty but at least it's by the river.” “ “Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?” “ “Penny says I spend too much time at the saloon...” “ “You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night. You got any ideas? ...Ehh. Maybe I'll play checkers against myself.” “ “Each day's just the same as the last... If only I'd been born rich...” “ “Make sure your boots are clean before you go stompin' around in my house. It's annoying to clean a mess. You should know that by now.” “ “I wish a team of elves would come during the night and tidy up my house. Hahahaha.” “ “I could sure go for some parsnips.” “ “If my legs weren't so stiff I'd visit the mountains every now and then.” Rainy Days “ “Howdy, kid. Stayin' dry?” Hungover “ “urghh... my head...” “ “Blahh... I had one too many caramel porters at the saloon last night... Go away.” If bus is back in service “ “Hey, did you hear about the ol' bus? Yep... I'm back on the saddle, kid... hehe. Feels nice.” “ “You don't know how glad I am that the bus is up and running! I feel alive again.” If Player is married to Penny “ “It's awful lonely at home all by myself...” “ “Hey. You better be treatin' Penny right on that old farm of yours. She's the only one I got!” “ “Penny's the only one I've got, so you best treat her kindly.” Doctor Visit “ “*grumble*... Doctor know-it-all... *grumble*” “ “How much do I drink every day? What kind of a question is that?” House upgrade “ “I can't believe you bought me a house! Is there any catch? Sorry, I'm not used to people being so nice...” If anonymous “ “I can't believe someone bought me a house! I wonder if it's some kind of scam? Sorry, I'm not used to people being so nice...” In Saloon “ “Nothin' like a sip o' the good stuff to warm these old bones...” “ “Hey, kid. I'd buy you a drink if I could afford it!” “ “Hey Gus! Gimme another round! *hic*” “ “*Sigh*... Hey, kid. You're too young to be moping around in a place like this.” “ “*gulp* ... I've been looking forward to this beverage all afternoon. Heh heh.” “ “Oi, Gus! Gimme another pint of your strongest!” “ “(Pam isn't responding.)” “ “(Pam seems out of it. Better leave her alone right now.)” Spring Sundays “ “Hey Kid, are you friends with Gus? He's a pretty good guy. He even gives me free beer on my birthday.” Summer “ “Hi, stranger.” “ “Oh, it's [Miss/Mr.] [Player]. Do you need my help or something?” “ “Havin' a local farm is good for our town.” “ “Maybe if you do real well on your farm it'll boost the local economy. Then everyone will have a job and we'll all be happy, right?” “ “Oh, hi there, farmer. I don't often chit-chat with strangers.” “ “I always seem to end up at the saloon at some point. It's too close to my house. It ain't healthy.” “ “Don't mind that ol' dog next to the house. He might look at you cross, but he'll never get up from that box in a hunderd years. The old boy's name? It's Dusty.” “ “Someone's been complainin' about my yard... sayin' it's a mess. Was it you? Hmmm...” If male “ “...Yeah? You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?” If female “ “You're a pretty gal. What 're you wastin' your time talkin' to someone like me for?” 6+ Hearts “ “I had hopes and dreams like you, once... But look at me now. Life doesn't always turn out like you expect. Ah well. There's no sense dwellin' on what you don't have.” Green Rain Year 1 “ “It's a sign from the Almighty... We're doomed...” Year 2+ “ “I think these rains are a show of force... a warning. You could say it's from nature, from Yoba, whatever you like... but that's what I think. What I mean is, we can't get too cocky. Or else, instead of a green rain, maybe we'll have a blood-red rain... See what I mean?” Green rain finished (next day) “ “Well, I guess the end-times haven't come just yet, kid... Ah well, back to the ol' nine to five...” Fall “ “If I knew you better, I'd be more inclined to chat.” “ “I used to be young, once. Hard to believe, huh? Time sure goes fast when you grow up.” “ “*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.” “ “Penny's the only one I've got, so you best treat her kindly.” “ “Every day is the same old routine... Do you ever have that problem, farmer?” “ “Would you do me a kindness and clean up my house? Just kidding.” “ “Don't you have work to do? You should be thankful that you have a job rather than moping around town all the time.” “ “I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio. Times sure do change.” Winter “ “You got any hogs on that farm?” “ “Do you want somethin' from me, kid? Best look somewhere else.” “ “I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel. ...It's so dry in winter. My skin feels like old parchment.” “ “Hey kid. What're you up to? I'm just passin' time, same as always.” “ “It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh. Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?” “ “Penny sure does like old books. I think she's a heck of a lot smarter than I ever was. I'm glad.” “ “I oughta take up fishin', seein' as how close the river is.” “ “Blah... my front yard's a mess.” At Ginger Island “ “Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!” “ “Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!” “ “Now this is comfort! I might even take my shoes off! Better not look too closely at my feet, kid.” “ “It's a special occasion, kid... I'm ordering something unique. Make it a double!” If the player divorces Penny “ “Penny came home crying... what'd you do to her?” Events Egg Festival Odd-numbered year “ “Hehe... I put something nice into the punch. Shhh... that's just between you and me, kid.” Even-numbered year “ “Hey... If you're gonna feed me eggs, I'm gonna need some hot sauce, kid!” Desert Festival Even-numbered year “ “Hey, kid...you takin' the day off? It's nice to kick back every once in a while, isn't it? Yup. Even ol' Pam needs some sunlight on her skin now and then! Just wake me up before I turn into leather...Heheh.” Flower Dance “ “Now this is the life... Huh, kid? Sweet wine, a babbling brook, warm air... Did I mention wine?” The Luau “ “Heh... free buffet. One of the perks of living here. Enjoy it, kid!” Dance of the Moonlight Jellies “ “Don't tell Gus, but I'm a little disappointed there's no buffet tonight.” Stardew Valley Fair “ “Better hurry up, kid... Before ol' Pam here fishes every last lunker out of the tent! Hehe.” Spirit's Eve “ “I'll come to any event with free grub! You won't see me in the haunted maze, though.” Festival of Ice “ “I plan on winning the ice fishing competition! Willy is gonna be pretty hard to beat, though... He does this kinda stuff day and night.” Feast of the Winter Star “ “Hmmph... I'm still upset I didn't win the ice fishing competition.” Quests \"Pam is Thirsty\" : Pam will send you a letter on the 14th of Summer requesting a Pale Ale . The reward is data-sort-value=\"350\"> 350g and 1 Friendship heart. \"Pam Needs Juice\" : Pam will send you a letter on the 19th of Fall , Year 2, requesting a Battery Pack . The reward is data-sort-value=\"400\"> 400g and 1 Friendship heart. Pam may randomly request an item at the \"Help Wanted\" board outside Pierre's General Store . The reward is 3x the item's base value and 150 Friendship points. \"The Strong Stuff\" : On the Special Orders board in front of the Mayor's Manor during Spring , Pam may randomly request that the player brew 12 Potato Juice and place them in the kitchen in her house. The reward is data-sort-value=\"3000\"> 3,000g , 250 Friendship points, and the F.I.B.S. television channel. Portraits History 1.3.27 : Added 9-heart event. Changed bus stop animation. 1.4 : Fixed bug where all recipes would be sent at 3 friendship hearts. 1.5 : Added beach portraits. 1.6 : Added custom gift reactions. Added winter portraits. Pam is no longer required to be at the Bus Stop to drive to the Calico Desert on days she is unavailable. Now neutral to Joja Cola. Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Pam&oldid=191550 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 10 March 2026, at 16:33. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

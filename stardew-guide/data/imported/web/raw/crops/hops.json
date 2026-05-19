@@ -1,0 +1,2875 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Hops",
+  "finalUrl": "https://stardewvalleywiki.com/Hops",
+  "fetchedAt": "2026-05-18T13:38:38.731749+00:00",
+  "title": "Hops - Stardew Valley Wiki",
+  "description": "Hops is a vegetable crop that grows from Hops Starter after 11 days and continues to produce every day after maturity.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Hops"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Stages"
+    },
+    {
+      "level": 2,
+      "text": "Crop Growth Calendar"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Artisan Goods"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Tips"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "45",
+          "",
+          "20"
+        ],
+        [
+          "",
+          "63",
+          "",
+          "28"
+        ],
+        [
+          "",
+          "81",
+          "",
+          "36"
+        ],
+        [
+          "",
+          "117",
+          "",
+          "52"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "25g"
+        ],
+        [
+          "",
+          "31g"
+        ],
+        [
+          "",
+          "37g"
+        ],
+        [
+          "",
+          "50g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "27g"
+        ],
+        [
+          "",
+          "34g"
+        ],
+        [
+          "",
+          "40g"
+        ],
+        [
+          "",
+          "55g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "300g"
+        ],
+        [
+          "",
+          "375g"
+        ],
+        [
+          "",
+          "450g"
+        ],
+        [
+          "",
+          "600g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "100g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "420g"
+        ],
+        [
+          "",
+          "525g"
+        ],
+        [
+          "",
+          "630g"
+        ],
+        [
+          "",
+          "840g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "140g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Stage 5",
+        "Harvest",
+        "After-Harvest"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1 Day",
+          "1 Day",
+          "2 Day",
+          "3 Day",
+          "4 Days",
+          "Total: 11 Days",
+          "Regrowth: 1 Day"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Base"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Neutral",
+          "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+        ],
+        [
+          "Hate",
+          "Leo • Penny"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredient",
+        "Equipment",
+        "Time",
+        "Sell Price"
+      ],
+      "rows": [
+        [
+          "",
+          "Pale Ale",
+          "Drink in moderation.",
+          "Hops (1)",
+          "Keg",
+          "2250m (37.5h ≈1.5d)",
+          "data-sort-value=\"300\">300g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Hops#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hops.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops_Starter",
+      "text": "Hops Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "Farming XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Tiller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Artisan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "vegetable"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops_Starter",
+      "text": "Hops Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Stages",
+      "text": "1 Stages"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Crop_Growth_Calendar",
+      "text": "2 Crop Growth Calendar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Gifting",
+      "text": "3 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Bundles",
+      "text": "4 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Recipes",
+      "text": "5 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Artisan_Goods",
+      "text": "6 Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Tailoring",
+      "text": "7 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#Tips",
+      "text": "8 Tips"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops#History",
+      "text": "9 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Wild_Medicine_Bundle",
+      "text": "Wild Medicine Bundle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Remixed_Bundles#Crafts_Room",
+      "text": "Crafts Room (Remixed)"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cask",
+      "text": "Casks"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pale_Ale.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Keg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Shirt and Belt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops_Starter",
+      "text": "Hops Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seed_Maker",
+      "text": "Seed Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Seeds",
+      "text": "Ancient Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&oldid=192075",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&oldid=192075"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Summer_crops",
+      "text": "Summer crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Vegetables",
+      "text": "Vegetables"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Trellis_Crops",
+      "text": "Trellis Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Multiple_harvest_crops",
+      "text": "Multiple harvest crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Hops",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Hops",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Hops&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Hops",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Hops",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&oldid=192075",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Hopfen",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/L%C3%BApulo",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Houblon",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Luppolo",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%9B%E3%83%83%E3%83%97",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%ED%99%89",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Koml%C3%B3",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/L%C3%BApulo",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/%C5%9Eerbet%C3%A7i_Otu",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%95%A4%E9%85%92%E8%8A%B1",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9b/Hops_Starter.png/24px-Hops_Starter.png",
+      "alt": "Hops Starter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b2/Tiller.png/24px-Tiller.png",
+      "alt": "Tiller.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Green_Pickles.png/24px-Green_Pickles.png",
+      "alt": "Green Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/24px-Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Green_Pickles.png/24px-Green_Pickles.png",
+      "alt": "Green Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/32/Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Hops_Stage_3.png",
+      "alt": "Hops Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Hops_Stage_7.png",
+      "alt": "Hops Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Hops_Stage_8.png",
+      "alt": "Hops Stage 8.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/32/Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Hops_Stage_3.png",
+      "alt": "Hops Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Hops_Stage_1.png/36px-Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Hops_Stage_4.png/36px-Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Hops_Stage_1.png/36px-Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Hops_Stage_4.png/36px-Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Hops_Stage_1.png/36px-Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Hops_Stage_4.png/36px-Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Hops_Stage_1.png/36px-Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Hops_Stage_4.png/36px-Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Hops_Stage_1.png/36px-Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Hops_Stage_4.png/36px-Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Hops_Stage_1.png/36px-Hops_Stage_1.png",
+      "alt": "Hops Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Hops_Stage_4.png/36px-Hops_Stage_4.png",
+      "alt": "Hops Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Hops_Stage_5.png/36px-Hops_Stage_5.png",
+      "alt": "Hops Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Hops_Stage_6.png/36px-Hops_Stage_6.png",
+      "alt": "Hops Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/36px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/24px-Bundle_Green.png",
+      "alt": "Bundle Green.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7c/Keg.png/36px-Keg.png",
+      "alt": "Keg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Shirt159.png/24px-Shirt159.png",
+      "alt": "Shirt159.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Hops - Stardew Valley Wiki",
+      "headline": "Hops - Stardew Valley Wiki",
+      "mainEntityOfPage": "Hops",
+      "identifier": "https://stardewvalleywiki.com/Hops",
+      "url": "https://stardewvalleywiki.com/Hops",
+      "description": "Hops is a vegetable crop that grows from Hops Starter after 11 days and continues to produce every day after maturity.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Hops, gift",
+      "dateModified": "2026-04-01T23:12:56Z",
+      "datePublished": "2026-04-01T23:12:56Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Hops - Stardew Valley Wiki Hops From Stardew Valley Wiki Jump to navigation Jump to search Hops A bitter, tangy flower used to flavor beer. Information Seed Hops Starter Growth Time 11 days Season Summer XP 6 Farming XP Energy / Health 45 20 63 28 81 36 117 52 Sell Prices Base Tiller (+10%) 25g 31g 37g 50g 27g 34g 40g 55g Artisan Sell Prices Base Artisan (+40%) 300g 375g 450g 600g 100g 420g 525g 630g 840g 140g Hops is a vegetable crop that grows from Hops Starter after 11 days and continues to produce every day after maturity. Hops can be put into a Keg to make Pale Ale . Contents 1 Stages 2 Crop Growth Calendar 3 Gifting 4 Bundles 5 Recipes 6 Artisan Goods 7 Tailoring 8 Tips 9 History Stages You cannot walk through Hops at any stage of growth. You can walk through dead Hops plants. Stage 1 Stage 2 Stage 3 Stage 4 Stage 5 Harvest After-Harvest 1 Day 1 Day 2 Day 3 Day 4 Days Total: 11 Days Regrowth: 1 Day Crop Growth Calendar Base Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Gifting Villager Reactions Neutral Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard Hate Leo • Penny Bundles Five Hops are one of the options in the Wild Medicine Bundle in the Crafts Room (Remixed) . Recipes Hops is not used in any recipes. Artisan Goods Hops may be placed in a Keg to produce Pale Ale . Pale Ale may be aged in Casks to increase its quality. Image Name Description Ingredient Equipment Time Sell Price Pale Ale Drink in moderation. Hops (1) Keg 2250m (37.5h ≈1.5d) data-sort-value=\"300\"> 300g Tailoring Hops is used in the spool of the Sewing Machine with Cloth in the feed to create a dyeable Shirt and Belt . It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in dyeing . Tips Hops give the 2nd best experience for leveling up Farming skill in a single season, giving 102 to 126 points, depending on speed growth fertilizers. (Mature Ancient Fruit gives the most farming XP.) Selling Hops Starter made from the Seed Maker can be more profitable than selling the Hops directly, and also potentially generates Ancient Seeds . Pale Ale and Pickled Hops are more profitable, but the Seed Maker takes only 20 in-game minutes. History 1.4 : Can now be used in Tailoring . 1.5 : Iridium quality is now possible when using Deluxe Fertilizer . Is now an option in the Wild Medicine Bundle. Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Hops&oldid=192075 \" Categories : Summer crops Vegetables Trellis Crops Multiple harvest crops Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 1 April 2026, at 23:12. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

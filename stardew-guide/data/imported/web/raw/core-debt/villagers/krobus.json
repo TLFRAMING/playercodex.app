@@ -1,0 +1,4637 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Krobus",
+  "finalUrl": "https://stardewvalleywiki.com/Krobus",
+  "fetchedAt": "2026-05-18T22:06:32.813921+00:00",
+  "title": "Krobus - Stardew Valley Wiki",
+  "description": "Krobus is the only friendly monster players will encounter, however he still refers to other hostile monsters as his friends. He is a shadow person who lives in the Sewers. He sells a variety of rare goods. He is also available as a roommate.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Krobus"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Shop"
+    },
+    {
+      "level": 3,
+      "text": "Fixed Stock"
+    },
+    {
+      "level": 3,
+      "text": "Rotating Stock"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Roommate"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Three Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Fourteen Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "Trivia"
+    },
+    {
+      "level": 2,
+      "text": "Bugs"
+    },
+    {
+      "level": 2,
+      "text": "Gallery"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Krobus"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Winter 1"
+        ],
+        [
+          "Lives In",
+          "The Sewers"
+        ],
+        [
+          "Address",
+          "Krobus' Shop"
+        ],
+        [
+          "Marriage",
+          "No, but can become a roommate"
+        ],
+        [
+          "Loved Gifts",
+          "Diamond Iridium Bar Monster Compendium Monster Musk Pumpkin Void Egg Void Mayonnaise Wild Horseradish"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.”"
+        ],
+        [
+          "— Krobus"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Quantity",
+        "Unit Price"
+      ],
+      "rows": [
+        [
+          "",
+          "Void Egg",
+          "A jet-black egg with red flecks. It's warm to the touch.",
+          "Unlimited",
+          "data-sort-value=\"5000\">5,000g"
+        ],
+        [
+          "",
+          "Void Essence",
+          "It's quivering with dark energy.",
+          "10",
+          "data-sort-value=\"100\">100g"
+        ],
+        [
+          "",
+          "Solar Essence",
+          "The glowing face is warm to the touch.",
+          "10",
+          "data-sort-value=\"80\">80g"
+        ],
+        [
+          "",
+          "Sign Of The Vessel",
+          "A decorative piece for your farm.",
+          "Unlimited",
+          "data-sort-value=\"350\">350g"
+        ],
+        [
+          "",
+          "Monster Fireplace",
+          "Can be placed inside your house.",
+          "Unlimited",
+          "data-sort-value=\"20000\">20,000g"
+        ],
+        [
+          "",
+          "Stardrop",
+          "A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others.",
+          "1 (available until purchased)",
+          "data-sort-value=\"20000\">20,000g"
+        ],
+        [
+          "",
+          "Crystal Floor Recipe",
+          "Blueprints for crafting Crystal Floor",
+          "1 (available until purchased)",
+          "data-sort-value=\"500\">500g"
+        ],
+        [
+          "",
+          "Wicked Statue Recipe",
+          "Blueprints for crafting Wicked Statue",
+          "1 (available until purchased)",
+          "data-sort-value=\"1000\">1,000g"
+        ],
+        [
+          "",
+          "Butterfly Powder",
+          "Sprinkle on a pet to remove them from your farm. The process is irreversible.",
+          "Unlimited",
+          "data-sort-value=\"20000\">20,000g"
+        ],
+        [
+          "",
+          "Wizard Catalogue",
+          "M. Rasmodius' private furniture collection.",
+          "Unlimited (one at a time)",
+          "data-sort-value=\"150000\">150,000g"
+        ],
+        [
+          "",
+          "Return Scepter",
+          "The golden handle quivers with raw potential. Hold this scepter to the sky and return home at will.",
+          "1 (available until purchased)",
+          "data-sort-value=\"2000000\">2,000,000g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "List of Dishes"
+      ],
+      "rows": [
+        [
+          "Autumn's Bounty Baked Fish Bean Hotpot Blueberry Tart Bread Carp Surprise Cheese Cauliflower Chocolate Cake Complete Breakfast Cookie",
+          "Cranberry Sauce Crispy Bass Dish O' The Sea Eggplant Parmesan Farmer's Lunch Fish Taco Fried Calamari Fried Eel Fried Egg Fried Mushroom",
+          "Glazed Yams Hashbrowns Ice Cream Lucky Lunch Maki Roll Miner's Treat Omelet Pancakes Parsnip Soup Pepper Poppers",
+          "Pink Cake Pizza Pumpkin Soup Red Plate Rhubarb Pie Rice Pudding Roots Platter Salad Salmon Dinner Sashimi",
+          "Spaghetti Spicy Eel Strange Bun Stuffing Super Meal Survival Burger Tom Kha Soup Tortilla Trout Soup Vegetable Medley"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, a gift to remember the day that I hatched! Thank you!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... is this what you call a 'birthday present'? I don't understand humans...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is an amazing gift. For my people it is a great honor to receive something like this.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, look! All my friends are in here!Wait a minute, is that me?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A gift of lovely perfume? Oh, (players name)... I'm blushing, but you probably can't notice...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Is that Stardrop Tea? Thank you! One drop makes my room smell good for the whole day.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This smells delicious! I'll eat half, and use the other half to moisturize my body!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Diamond",
+          "A rare and valuable gem.",
+          "Mining"
+        ],
+        [
+          "",
+          "Iridium Bar",
+          "A bar of pure iridium.",
+          "Furnace"
+        ],
+        [
+          "",
+          "Monster Compendium",
+          "Monsters have a small chance to drop double loot.",
+          "Bookseller, Monsters"
+        ],
+        [
+          "",
+          "Monster Musk",
+          "Spray this on to draw more monsters out of hiding.",
+          "CraftingBookseller"
+        ],
+        [
+          "",
+          "Pumpkin",
+          "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",
+          "Farming - Fall"
+        ],
+        [
+          "",
+          "Void Egg",
+          "A jet-black egg with red flecks. It's warm to the touch.",
+          "Void ChickenKrobus' shop"
+        ],
+        [
+          "",
+          "Void Mayonnaise",
+          "A thick, black paste that smells like burnt hair.",
+          "Mayonnaise Machine"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank you very much.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Likes (except Life Elixir and All Cooking excluding Seafoam Pudding & Strange Bun)"
+        ],
+        [
+          "",
+          "Gold Bar",
+          "A bar of pure gold.",
+          "Furnace",
+          ""
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - The Mines",
+          ""
+        ],
+        [
+          "",
+          "Seafoam Pudding",
+          "This briny pudding will really get you into the maritime mindset!",
+          "Cooking",
+          "Flounder (1) Midnight Carp (1) Squid Ink (1)"
+        ],
+        [
+          "",
+          "Strange Bun",
+          "What's inside?",
+          "Cooking",
+          "Wheat Flour (1) Periwinkle (1) Void Mayonnaise (1)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Monster Compendium)All Eggs (except Void Egg)*All Fruit (except Fruit Tree Fruit & Salmonberry)All Milk"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Humans have... interesting tastes.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Gold Bar, Iridium Bar, & Void Egg)All Cooking (except Bread, Fried Egg, Seafoam Pudding, & Strange Bun)"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Life Elixir",
+          "Restores health to full.",
+          "Crafting"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Salmonberry",
+          "A spring-time berry with the flavor of the forest.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... Um. I guess I'll accept it... ”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates (except Monster Musk, Seafoam Pudding, Strange Bun, & Void Mayonnaise)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "N/A"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Mysterium"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Black Licorice"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Apple Slices Cappuccino Mousse Cake Chocolate Popcorn Cotton Candy Ice Cream Sandwich Jawbreaker Joja Cola JojaCorn Rock Candy Star Cookie Stardrop Sorbet"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Dark Sign",
+          "Player, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.I hope you are doing okay.I wanted to share this with you... it's notes on how my people build a certain item.-Krobus"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "Krobus sits on the docks at the Beach watching Moonlight Jellies swim, when a sea monster appears. The sea monster raises its tentacles, and Krobus hops on for a ride. A heart dialogue bubble appears over Krobus' head, indicating he enjoyed the ride."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A human visitor? This is most unusual... I'm Krobus, merchant of rare and exotic goods.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“ Please, don't be alarmed. I am different than the others. I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters. You haven't... slain any of my friends, have you?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I find things here and I sell them. Care to buy anything?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Please don't tell anyone about me. Humans tend to destroy things they can't understand.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I am too sensitive to sunlight to go out on most days. The conditions in here are perfect. Care to buy anything?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Please, don't be alarmed. I am different than the others. I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Back again? I suppose it does fit into my theory of human behavior.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“On Fridays I stay silent as a sign of devotion to Yoba.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...Sorry, I'm still a little wary of humans. My shop is still open to you, however.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're not like the other humans, are you?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, the sewers are flowing quickly today. It'll get nice and humid in here... just how I like it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You've opened my eyes to the world of humans. I appreciate that.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“[Player]... I'm afraid we'll have to keep this a secret... Neither my people nor yours would accept us living together.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You know I'll be a very strange person to live with, right? I won't be able to leave the house...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If I could come help you, I would... but I'll do my best to keep the house in order.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to \"get out\" like humans do. But I understand that you need to! Please don't feel like you have to stay here with me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm considering spending my day all balled up and wedged in the corner... What? You mean you don't do that?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“On Fridays, I like to stay quiet out of respect for Yoba. I hope you don't mind.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wish I could help you on the farm, but I can't go out in the sun...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I tried my best to make human food... You can eat it later, don't worry about it...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“We're so physically different that it's a challenge to live together, isn't it? I hope the humidity here isn't bothersome to you. We both have to compromise in order to live together!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'll stay out here for just a bit, but we've got to be careful... if anyone approaches I'll need to hide!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's rare that I can step outside!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“What a beautiful day!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Wide open spaces make me nervous...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Please go about your day, I'll just stay here and guard the house.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'll wait here for a bit, and see if any bugs come my way. I haven't had breakfast yet!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“On a day like this, I can enjoy the outdoors with you. This is really nice! Just let me know if you see anyone coming, so I can hide.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I cleaned all the bugs out of the house today... Sorry, I didn't save you any! *smack*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You feel solid... sometimes I wish I had bones, too...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sometimes I wonder if humans and shadow people could really ever co-exist... It's a lovely idea, but is it realistic? I hope so...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sometimes I pause and think of all that I've learned about humans from you... I wish all my fellow shadow people could know this feeling.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I want to be a good housemate for you, but I never know if I'm doing well... *groan* I have a hard time understanding human expression. B... but... you're happy living with me? Okay!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hi, [Player]. Welcome home. You look like you've been working hard out there!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Do you like rainy days as much as I do, [Player]?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“We're different in so many ways... but that's alright.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wonder if the wizard knows about... this? I hope he can keep a secret.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“As much as I try to be civilized, I have the urge to be mischievous sometimes... They say it's a condition of my people.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, It's more humid today with the rain... I feel a lot more comfortable.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Good morning, [Player]. I went out early and found this for you. I hope it's not too strange.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“On nights like this, those who gaze out windows sometimes see shadowy figures. To think... it might've been me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If the other shadow people knew about our living arrangement, they would... 'punish' me. Most of them despise humans, you know.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're sopping wet, and cold! Isn't that dangerous to your species?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I already had dinner, but it wasn't something you'd be able to eat... sorry.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ever since I left my people, I've been searching for a new home... now I belong somewhere. That means everything to me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's said that my people came here long ago, when a great catastrophe allowed spirits from the void to cross into the physical plane.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The sound of the rain reminds me of the sewers... it's comforting. The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I feel a sensation in my body... is this... 'platonic love'? ... Oh, wait... I'm just shedding my skin.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I've learned to overcome my bias against humans... but Dwarves still disgust me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You started nibbling on me during the night, and mumbling about 'black lick or ish'... what did you mean by that?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“We're making progress, and I feel really hopeful.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 78,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I was just admiring this lovely house... what a wonderful place.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 79,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I won't ever grow old, but you will. Sometimes it makes me sad... but that's okay.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 80,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Do you think your Grandpa would approve of a monster living in his house?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 81,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Do you think we could get in trouble for living together?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 82,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's so bright in here... I might close my eyes for a few hours.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 83,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I can't go outside, I can only eat certain food, I need the temperature a certain way... I hope it's not too much of a bother to live with me, [Player].”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 84,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Welwick says I'm cursed today.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 85,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'll tell you a secret... I don't actually sleep, I just lay there with my eyes closed...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 86,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're a strange one, to want to live with a creature like me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 87,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm going to clean the house all day! This is fun.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 88,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wonder if we'll live here our entire lives? Moving would probably be too dangerous for me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 89,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sigh*... Maybe I should've stayed with my own kind.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 90,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...Do you still like me?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 91,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Are you still happy, living with me?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 92,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I think you'd be happier living with another human...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 93,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I've detected a change in your behavior... what does it mean? *groan*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 94,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You only have one short life to live... are you certain you want to spend it with a hideous creature like me?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 95,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Maybe a relationship like this is destined to fail...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 96,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You seem unhappy lately...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 97,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I miss the sewers.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 98,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm not sure how, but Yoba has blessed this house with a 'child'...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 99,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't worry... I already made <child's name> and [child] a void egg omelet.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 100,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I worry about the future of the children... But I trust that Yoba has a plan for them.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 101,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This house has been blessed with two children, now... Does that mean Yoba approves of our unconventional living arrangement?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 102,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's 'spring' now, isn't it? I can smell the peppery aroma of wild horseradish.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 103,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“What's your plan for the new year, [Player]?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 104,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You should go to the flower dance tomorrow! Don't worry about me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 105,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You call this time of year 'summer', right? The warmth and humidity is nice, but I wish it wasn't so sunny.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 106,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I get sunburnt very easily, so I need to be careful this time of year.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 107,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Mmm... what's that lovely smell? You must've been sweating all night...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 108,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's summer... that means the house is full of flies. Don't worry, I'll take care of them. It's good protein!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 109,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The flow of water has been unusually strong today... what's going on up there?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 110,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'fall', correct?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 111,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I don't feel like doing anything today.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 112,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you figured out what you're going to use for your grange display tomorrow?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 113,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If I showed up to the Spirit's Eve festival they'd put me in a cage...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 114,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The darkness this time of year is very soothing. If only it were warmer!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 115,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thanks for letting me stay here, [Player]. I'm looking forward to another great year!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 116,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 117,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You were gone so long I started to get worried about you! I started crying when I saw your limp body...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 118,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Sewers",
+      "text": "The Sewers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Roommate",
+      "text": "roommate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Compendium",
+      "text": "Monster Compendium"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Musk",
+      "text": "Monster Musk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Shop",
+      "text": "2 Shop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Fixed_Stock",
+      "text": "2.1 Fixed Stock"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Rotating_Stock",
+      "text": "2.2 Rotating Stock"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Relationships",
+      "text": "3 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Gifts",
+      "text": "4 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Love",
+      "text": "4.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Like",
+      "text": "4.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Neutral",
+      "text": "4.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Dislike",
+      "text": "4.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Hate",
+      "text": "4.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Movies_.26_Concessions",
+      "text": "5 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Roommate",
+      "text": "6 Roommate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Heart_Events",
+      "text": "7 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Three_Hearts",
+      "text": "7.1 Three Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Fourteen_Hearts",
+      "text": "7.2 Fourteen Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Quotes",
+      "text": "8 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Quests",
+      "text": "9 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Portraits",
+      "text": "10 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Trivia",
+      "text": "11 Trivia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Bugs",
+      "text": "12 Bugs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Gallery",
+      "text": "13 Gallery"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#History",
+      "text": "14 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monsters",
+      "text": "monster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Sewers",
+      "text": "the Sewers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Roommate",
+      "text": "roommate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Player",
+      "text": "the Player"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rusty_Key",
+      "text": "Rusty Key"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festivals",
+      "text": "festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Void_Egg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Void_Essence.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Essence",
+      "text": "Void Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Solar_Essence.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Essence",
+      "text": "Solar Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sign_Of_The_Vessel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sign_Of_The_Vessel",
+      "text": "Sign Of The Vessel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Monster_Fireplace.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Fireplace",
+      "text": "Monster Fireplace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Stardrop.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardrop",
+      "text": "Stardrop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystal_Floor",
+      "text": "Crystal Floor Recipe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crystal_Floor",
+      "text": "Crystal Floor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wicked_Statue",
+      "text": "Wicked Statue Recipe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wicked_Statue",
+      "text": "Wicked Statue"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Butterfly_Powder.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Butterfly_Powder",
+      "text": "Butterfly Powder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard_Catalogue.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard_Catalogue",
+      "text": "Wizard Catalogue"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Return_Scepter.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Return_Scepter",
+      "text": "Return Scepter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Slime.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime",
+      "text": "Slime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Omni_Geode.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omni_Geode",
+      "text": "Omni Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Bream.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magnet",
+      "text": "Magnet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Albacore",
+      "text": "Albacore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bullhead",
+      "text": "Bullhead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chub",
+      "text": "Chub"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dorado",
+      "text": "Dorado"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Halibut",
+      "text": "Halibut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lingcod",
+      "text": "Lingcod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shad",
+      "text": "Shad"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sturgeon",
+      "text": "Sturgeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tiger_Trout",
+      "text": "Tiger Trout"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tilapia",
+      "text": "Tilapia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magnet",
+      "text": "Magnet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mixed_Seeds.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mixed_Seeds",
+      "text": "Mixed Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Sprinkler.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Cooking_Icon.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooked Dishes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Autumn%27s_Bounty",
+      "text": "Autumn's Bounty"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Baked_Fish",
+      "text": "Baked Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bean_Hotpot",
+      "text": "Bean Hotpot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry_Tart",
+      "text": "Blueberry Tart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp_Surprise",
+      "text": "Carp Surprise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Cauliflower",
+      "text": "Cheese Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chocolate_Cake",
+      "text": "Chocolate Cake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Complete_Breakfast",
+      "text": "Complete Breakfast"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cookie",
+      "text": "Cookie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberry_Sauce",
+      "text": "Cranberry Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crispy_Bass",
+      "text": "Crispy Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dish_O%27_The_Sea",
+      "text": "Dish O' The Sea"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant_Parmesan",
+      "text": "Eggplant Parmesan"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmer%27s_Lunch",
+      "text": "Farmer's Lunch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Taco",
+      "text": "Fish Taco"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Calamari",
+      "text": "Fried Calamari"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Eel",
+      "text": "Fried Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Egg",
+      "text": "Fried Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Mushroom",
+      "text": "Fried Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glazed_Yams",
+      "text": "Glazed Yams"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hashbrowns",
+      "text": "Hashbrowns"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ice_Cream",
+      "text": "Ice Cream"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lucky_Lunch",
+      "text": "Lucky Lunch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Miner%27s_Treat",
+      "text": "Miner's Treat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omelet",
+      "text": "Omelet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pancakes",
+      "text": "Pancakes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip_Soup",
+      "text": "Parsnip Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pepper_Poppers",
+      "text": "Pepper Poppers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pink_Cake",
+      "text": "Pink Cake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pizza",
+      "text": "Pizza"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin_Soup",
+      "text": "Pumpkin Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Plate",
+      "text": "Red Plate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb_Pie",
+      "text": "Rhubarb Pie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice_Pudding",
+      "text": "Rice Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Roots_Platter",
+      "text": "Roots Platter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salad",
+      "text": "Salad"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon_Dinner",
+      "text": "Salmon Dinner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spaghetti",
+      "text": "Spaghetti"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spicy_Eel",
+      "text": "Spicy Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stuffing",
+      "text": "Stuffing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Meal",
+      "text": "Super Meal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Survival_Burger",
+      "text": "Survival Burger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tom_Kha_Soup",
+      "text": "Tom Kha Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tortilla",
+      "text": "Tortilla"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Soup",
+      "text": "Trout Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetable_Medley",
+      "text": "Vegetable Medley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Bat_Wing.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bat_Wing",
+      "text": "Bat Wing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "dwarves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Setting#The_Elemental_Wars",
+      "text": "war"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf#Heart_Events",
+      "text": "intervenes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Diamond.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Monster_Compendium.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Compendium",
+      "text": "Monster Compendium"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bookseller",
+      "text": "Bookseller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monsters",
+      "text": "Monsters"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Monster_Musk.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Musk",
+      "text": "Monster Musk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bookseller",
+      "text": "Bookseller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pumpkin.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Void_Egg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Chicken",
+      "text": "Void Chicken"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Void_Mayonnaise.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "text": "Mayonnaise Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "All Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Gold_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Seafoam_Pudding.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flounder",
+      "text": "Flounder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Midnight_Carp",
+      "text": "Midnight Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid_Ink",
+      "text": "Squid Ink"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Strange_Bun.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Periwinkle",
+      "text": "Periwinkle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Compendium",
+      "text": "Monster Compendium"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Tree Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Sad.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Egg",
+      "text": "Fried Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Life_Elixir.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmonberry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Sad.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Musk",
+      "text": "Monster Musk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "text": "Seafoam Pudding"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marriage",
+      "text": "married"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmhouse",
+      "text": "farmhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Ghost_Pendant",
+      "text": "Void Ghost Pendant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Multiplayer",
+      "text": "multiplayer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cabin",
+      "text": "Cabin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardrop",
+      "text": "Stardrop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wallpaper",
+      "text": "Wallpaper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flooring",
+      "text": "Flooring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furniture",
+      "text": "Furniture"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marriage#Jealousy",
+      "text": "jealous"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouquet#Group_10-Heart_Event",
+      "text": "group 10-heart events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marriage#Divorce",
+      "text": "divorce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Shrine_of_Memory",
+      "text": "Dark Shrine of Memory"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmhouse",
+      "text": "Farmhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Sewers",
+      "text": "the Sewers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Salmon",
+      "text": "Void Salmon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Eel",
+      "text": "Fried Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lucky_Lunch",
+      "text": "Lucky Lunch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppyseed_Muffin",
+      "text": "Poppyseed Muffin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Roommate_Room.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmhouse",
+      "text": "Farmhouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sewer_Chest.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Sewers",
+      "text": "the Sewers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Sign",
+      "text": "Dark Sign"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "the Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Merpeople",
+      "text": "a sea monster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Dark_Talisman",
+      "text": "Dark Talisman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magic_Ink",
+      "text": "Magic Ink"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mutant_Bug_Lair",
+      "text": "Mutant Bug Lair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#A_Winter_Mystery",
+      "text": "\"A Winter Mystery\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bus_Stop",
+      "text": "Bus Stop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Farm",
+      "text": "the Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magnifying_Glass",
+      "text": "Magnifying Glass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Notes",
+      "text": "Secret Notes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Sad.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Surprise.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Blush.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Angry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Sinister.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Laughing.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Krobus_Trenchcoat.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Talisman",
+      "text": "Dark Talisman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Ghost_Pendant",
+      "text": "Void Ghost Pendant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Ticket",
+      "text": "Movie Ticket"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slimes",
+      "text": "slimes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater#Movies",
+      "text": "Mysterium"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Multiplayer",
+      "text": "Multiplayer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinklers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:KrobusInSewer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.0",
+      "text": "1.0"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.1",
+      "text": "1.1"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Return_Scepter",
+      "text": "Return Scepter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Eggs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Dark_Talisman",
+      "text": "Dark Talisman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.3.27",
+      "text": "1.3.27"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sign_Of_The_Vessel",
+      "text": "Sign Of The Vessel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Fireplace",
+      "text": "Monster Fireplace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#A_Winter_Mystery",
+      "text": "A Winter Mystery"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus#Roommate",
+      "text": "roommate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marriage",
+      "text": "unmarried"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "cooked dishes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4.4",
+      "text": "1.4.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Musk",
+      "text": "Monster Musk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strange_Bun",
+      "text": "Strange Bun"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Butterfly_Powder",
+      "text": "Butterfly Powder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard_Catalogue",
+      "text": "Wizard Catalogue"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf#50_Friendship_Points",
+      "text": "50 Friendship Points"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6.3",
+      "text": "1.6.3"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus_Portrait",
+      "text": "Krobus Portrait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&oldid=192255",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&oldid=192255"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Stores",
+      "text": "Stores"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Bugs_tested_in_an_unknown_version",
+      "text": "Bugs tested in an unknown version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Krobus",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Krobus",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Krobus",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Krobus",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Krobus",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&oldid=192255",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Krobus",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Krobus",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Krobus",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Krobus",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%AF%E3%83%AD%E3%83%90%E3%82%B9",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%ED%81%AC%EB%A1%9C%EB%B2%84%EC%8A%A4",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Krobus",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Krobus",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9A%D1%80%D0%BE%D0%B1%D1%83%D1%81",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Krobus",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E7%A7%91%E7%BD%97%E5%B8%83%E6%96%AF",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+      "alt": "Krobus.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/24px-Diamond.png",
+      "alt": "Diamond.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c4/Iridium_Bar.png/24px-Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/15/Monster_Compendium.png/24px-Monster_Compendium.png",
+      "alt": "Monster Compendium.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Monster_Musk.png/24px-Monster_Musk.png",
+      "alt": "Monster Musk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+      "alt": "Pumpkin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/58/Void_Egg.png/24px-Void_Egg.png",
+      "alt": "Void Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/Void_Mayonnaise.png/24px-Void_Mayonnaise.png",
+      "alt": "Void Mayonnaise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/90/Wild_Horseradish.png/24px-Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/58/Void_Egg.png/24px-Void_Egg.png",
+      "alt": "Void Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/24px-Void_Essence.png",
+      "alt": "Void Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png",
+      "alt": "Solar Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Sign_Of_The_Vessel.png/24px-Sign_Of_The_Vessel.png",
+      "alt": "Sign Of The Vessel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Monster_Fireplace.png/24px-Monster_Fireplace.png",
+      "alt": "Monster Fireplace.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Stardrop.png/24px-Stardrop.png",
+      "alt": "Stardrop.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Crystal_Floor.png/24px-Crystal_Floor.png",
+      "alt": "Crystal Floor.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Recipe_Overlay.png/32px-Recipe_Overlay.png",
+      "alt": "Recipe Overlay.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4a/Wicked_Statue.png/24px-Wicked_Statue.png",
+      "alt": "Wicked Statue.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Recipe_Overlay.png/32px-Recipe_Overlay.png",
+      "alt": "Recipe Overlay.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b0/Butterfly_Powder.png/24px-Butterfly_Powder.png",
+      "alt": "Butterfly Powder.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Wizard_Catalogue.png/24px-Wizard_Catalogue.png",
+      "alt": "Wizard Catalogue.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/Return_Scepter.png/24px-Return_Scepter.png",
+      "alt": "Return Scepter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/38/Slime.png",
+      "alt": "Slime.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png",
+      "alt": "Omni Geode.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Bream.png/32px-Bream.png",
+      "alt": "Bream.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Albacore.png/24px-Albacore.png",
+      "alt": "Albacore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Bullhead.png/24px-Bullhead.png",
+      "alt": "Bullhead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bd/Chub.png/24px-Chub.png",
+      "alt": "Chub.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Dorado.png/24px-Dorado.png",
+      "alt": "Dorado.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/02/Halibut.png/24px-Halibut.png",
+      "alt": "Halibut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Lingcod.png/24px-Lingcod.png",
+      "alt": "Lingcod.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ef/Shad.png/24px-Shad.png",
+      "alt": "Shad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Sturgeon.png/24px-Sturgeon.png",
+      "alt": "Sturgeon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Tiger_Trout.png/24px-Tiger_Trout.png",
+      "alt": "Tiger Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Tilapia.png/24px-Tilapia.png",
+      "alt": "Tilapia.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8c/Magnet.png/24px-Magnet.png",
+      "alt": "Magnet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Mixed_Seeds.png",
+      "alt": "Mixed Seeds.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Iridium_Sprinkler.png",
+      "alt": "Iridium Sprinkler.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Cooking_Icon.png",
+      "alt": "Cooking Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Autumn%27s_Bounty.png/24px-Autumn%27s_Bounty.png",
+      "alt": "Autumn's Bounty.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Baked_Fish.png/24px-Baked_Fish.png",
+      "alt": "Baked Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/24/Bean_Hotpot.png/24px-Bean_Hotpot.png",
+      "alt": "Bean Hotpot.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9b/Blueberry_Tart.png/24px-Blueberry_Tart.png",
+      "alt": "Blueberry Tart.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Bread.png/24px-Bread.png",
+      "alt": "Bread.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cc/Carp_Surprise.png/24px-Carp_Surprise.png",
+      "alt": "Carp Surprise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Cheese_Cauliflower.png/24px-Cheese_Cauliflower.png",
+      "alt": "Cheese Cauliflower.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Chocolate_Cake.png/24px-Chocolate_Cake.png",
+      "alt": "Chocolate Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Complete_Breakfast.png/24px-Complete_Breakfast.png",
+      "alt": "Complete Breakfast.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Cookie.png/24px-Cookie.png",
+      "alt": "Cookie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0b/Cranberry_Sauce.png/24px-Cranberry_Sauce.png",
+      "alt": "Cranberry Sauce.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Crispy_Bass.png/24px-Crispy_Bass.png",
+      "alt": "Crispy Bass.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Dish_O%27_The_Sea.png/24px-Dish_O%27_The_Sea.png",
+      "alt": "Dish O' The Sea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Eggplant_Parmesan.png/24px-Eggplant_Parmesan.png",
+      "alt": "Eggplant Parmesan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/79/Farmer%27s_Lunch.png/24px-Farmer%27s_Lunch.png",
+      "alt": "Farmer's Lunch.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/Fish_Taco.png/24px-Fish_Taco.png",
+      "alt": "Fish Taco.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Fried_Calamari.png/24px-Fried_Calamari.png",
+      "alt": "Fried Calamari.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Fried_Eel.png/24px-Fried_Eel.png",
+      "alt": "Fried Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Fried_Egg.png/24px-Fried_Egg.png",
+      "alt": "Fried Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4a/Fried_Mushroom.png/24px-Fried_Mushroom.png",
+      "alt": "Fried Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Glazed_Yams.png/24px-Glazed_Yams.png",
+      "alt": "Glazed Yams.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Hashbrowns.png/24px-Hashbrowns.png",
+      "alt": "Hashbrowns.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Ice_Cream.png/24px-Ice_Cream.png",
+      "alt": "Ice Cream.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Lucky_Lunch.png/24px-Lucky_Lunch.png",
+      "alt": "Lucky Lunch.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Maki_Roll.png/24px-Maki_Roll.png",
+      "alt": "Maki Roll.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/12/Miner%27s_Treat.png/24px-Miner%27s_Treat.png",
+      "alt": "Miner's Treat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/12/Omelet.png/24px-Omelet.png",
+      "alt": "Omelet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6b/Pancakes.png/24px-Pancakes.png",
+      "alt": "Pancakes.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/76/Parsnip_Soup.png/24px-Parsnip_Soup.png",
+      "alt": "Parsnip Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/08/Pepper_Poppers.png/24px-Pepper_Poppers.png",
+      "alt": "Pepper Poppers.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Pink_Cake.png/24px-Pink_Cake.png",
+      "alt": "Pink Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Pizza.png/24px-Pizza.png",
+      "alt": "Pizza.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Pumpkin_Soup.png/24px-Pumpkin_Soup.png",
+      "alt": "Pumpkin Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/45/Red_Plate.png/24px-Red_Plate.png",
+      "alt": "Red Plate.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/21/Rhubarb_Pie.png/24px-Rhubarb_Pie.png",
+      "alt": "Rhubarb Pie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Rice_Pudding.png/24px-Rice_Pudding.png",
+      "alt": "Rice Pudding.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Roots_Platter.png/24px-Roots_Platter.png",
+      "alt": "Roots Platter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Salad.png/24px-Salad.png",
+      "alt": "Salad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8b/Salmon_Dinner.png/24px-Salmon_Dinner.png",
+      "alt": "Salmon Dinner.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/41/Sashimi.png/24px-Sashimi.png",
+      "alt": "Sashimi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/08/Spaghetti.png/24px-Spaghetti.png",
+      "alt": "Spaghetti.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Spicy_Eel.png/24px-Spicy_Eel.png",
+      "alt": "Spicy Eel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5e/Strange_Bun.png/24px-Strange_Bun.png",
+      "alt": "Strange Bun.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9a/Stuffing.png/24px-Stuffing.png",
+      "alt": "Stuffing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Super_Meal.png/24px-Super_Meal.png",
+      "alt": "Super Meal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Survival_Burger.png/24px-Survival_Burger.png",
+      "alt": "Survival Burger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Tom_Kha_Soup.png/24px-Tom_Kha_Soup.png",
+      "alt": "Tom Kha Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d7/Tortilla.png/24px-Tortilla.png",
+      "alt": "Tortilla.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/48/Trout_Soup.png/24px-Trout_Soup.png",
+      "alt": "Trout Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0a/Vegetable_Medley.png/24px-Vegetable_Medley.png",
+      "alt": "Vegetable Medley.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/35/Bat_Wing.png",
+      "alt": "Bat Wing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bc/Krobus_Happy.png/48px-Krobus_Happy.png",
+      "alt": "Krobus Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png",
+      "alt": "Diamond.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/15/Monster_Compendium.png",
+      "alt": "Monster Compendium.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/af/Monster_Musk.png",
+      "alt": "Monster Musk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+      "alt": "Pumpkin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png",
+      "alt": "Void Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f3/Void_Mayonnaise.png",
+      "alt": "Void Mayonnaise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bc/Krobus_Happy.png/48px-Krobus_Happy.png",
+      "alt": "Krobus Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png",
+      "alt": "Gold Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Seafoam_Pudding.png",
+      "alt": "Seafoam Pudding.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Flounder.png/24px-Flounder.png",
+      "alt": "Flounder.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Midnight_Carp.png/24px-Midnight_Carp.png",
+      "alt": "Midnight Carp.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ac/Squid_Ink.png/24px-Squid_Ink.png",
+      "alt": "Squid Ink.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Strange_Bun.png",
+      "alt": "Strange Bun.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Periwinkle.png/24px-Periwinkle.png",
+      "alt": "Periwinkle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/Void_Mayonnaise.png/24px-Void_Mayonnaise.png",
+      "alt": "Void Mayonnaise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/71/Krobus.png/48px-Krobus.png",
+      "alt": "Krobus.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5f/Krobus_Sad.png/48px-Krobus_Sad.png",
+      "alt": "Krobus Sad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Life_Elixir.png",
+      "alt": "Life Elixir.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+      "alt": "Salmonberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5f/Krobus_Sad.png/48px-Krobus_Sad.png",
+      "alt": "Krobus Sad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Black_Licorice.png/24px-Black_Licorice.png",
+      "alt": "Black Licorice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0b/Apple_Slices.png/24px-Apple_Slices.png",
+      "alt": "Apple Slices.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Cappuccino_Mousse_Cake.png/24px-Cappuccino_Mousse_Cake.png",
+      "alt": "Cappuccino Mousse Cake.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/09/Chocolate_Popcorn.png/24px-Chocolate_Popcorn.png",
+      "alt": "Chocolate Popcorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Cotton_Candy.png/24px-Cotton_Candy.png",
+      "alt": "Cotton Candy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Ice_Cream_Sandwich.png/24px-Ice_Cream_Sandwich.png",
+      "alt": "Ice Cream Sandwich.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Jawbreaker.png/24px-Jawbreaker.png",
+      "alt": "Jawbreaker.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Joja_Cola_%28large%29.png/24px-Joja_Cola_%28large%29.png",
+      "alt": "Joja Cola (large).png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/JojaCorn.png/24px-JojaCorn.png",
+      "alt": "JojaCorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/50/Rock_Candy.png/24px-Rock_Candy.png",
+      "alt": "Rock Candy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Star_Cookie.png/24px-Star_Cookie.png",
+      "alt": "Star Cookie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/44/Krobus_Roommate_Room.png/80px-Krobus_Roommate_Room.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8b/Sewer_Chest.png/104px-Sewer_Chest.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Three_Hearts.png",
+      "alt": "Three Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/72/Dark_Sign.png",
+      "alt": "Dark Sign.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Fourteen_Hearts.png",
+      "alt": "Fourteen Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+      "alt": "Krobus.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Krobus_Happy.png",
+      "alt": "Krobus Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/5f/Krobus_Sad.png",
+      "alt": "Krobus Sad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/80/Krobus_Surprise.png",
+      "alt": "Krobus Surprise.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Krobus_Blush.png",
+      "alt": "Krobus Blush.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/47/Krobus_Angry.png",
+      "alt": "Krobus Angry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/40/Krobus_Sinister.png",
+      "alt": "Krobus Sinister.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/53/Krobus_Laughing.png",
+      "alt": "Krobus Laughing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Krobus_Trenchcoat.png",
+      "alt": "Krobus Trenchcoat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/KrobusInSewer.png/97px-KrobusInSewer.png",
+      "alt": ""
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Krobus - Stardew Valley Wiki",
+      "headline": "Krobus - Stardew Valley Wiki",
+      "mainEntityOfPage": "Krobus",
+      "identifier": "https://stardewvalleywiki.com/Krobus",
+      "url": "https://stardewvalleywiki.com/Krobus",
+      "description": "Krobus is the only friendly monster players will encounter, however he still refers to other hostile monsters as his friends. He is a shadow person who lives in the Sewers. He sells a variety of rare goods. He is also available as a roommate.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Krobus, gift",
+      "dateModified": "2026-04-14T09:53:04Z",
+      "datePublished": "2026-04-14T09:53:04Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Krobus - Stardew Valley Wiki Krobus From Stardew Valley Wiki Jump to navigation Jump to search Krobus Information Birthday Winter 1 Lives In The Sewers Address Krobus' Shop Marriage No, but can become a roommate Loved Gifts Diamond Iridium Bar Monster Compendium Monster Musk Pumpkin Void Egg Void Mayonnaise Wild Horseradish Contents 1 Schedule 2 Shop 2.1 Fixed Stock 2.2 Rotating Stock 3 Relationships 4 Gifts 4.1 Love 4.2 Like 4.3 Neutral 4.4 Dislike 4.5 Hate 5 Movies & Concessions 6 Roommate 7 Heart Events 7.1 Three Hearts 7.2 Fourteen Hearts 8 Quotes 9 Quests 10 Portraits 11 Trivia 12 Bugs 13 Gallery 14 History “ “...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.” — Krobus Krobus is the only friendly monster players will encounter, however he still refers to other hostile monsters as his friends. He is a shadow person who lives in the Sewers . He sells a variety of rare goods. He is also available as a roommate . Schedule Krobus can always be found in the Sewers once the Player obtains the Rusty Key . Shop Krobus' Shop is open all hours every day, even festival days. Fixed Stock Image Name Description Quantity Unit Price Void Egg A jet-black egg with red flecks. It's warm to the touch. Unlimited data-sort-value=\"5000\"> 5,000g Void Essence It's quivering with dark energy. 10 data-sort-value=\"100\"> 100g Solar Essence The glowing face is warm to the touch. 10 data-sort-value=\"80\"> 80g Sign Of The Vessel A decorative piece for your farm. Unlimited data-sort-value=\"350\"> 350g Monster Fireplace Can be placed inside your house. Unlimited data-sort-value=\"20000\"> 20,000g Stardrop A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others. 1 (available until purchased) data-sort-value=\"20000\"> 20,000g Crystal Floor Recipe Blueprints for crafting Crystal Floor 1 (available until purchased) data-sort-value=\"500\"> 500g Wicked Statue Recipe Blueprints for crafting Wicked Statue 1 (available until purchased) data-sort-value=\"1000\"> 1,000g Butterfly Powder Sprinkle on a pet to remove them from your farm. The process is irreversible. Unlimited data-sort-value=\"20000\"> 20,000g Wizard Catalogue M. Rasmodius' private furniture collection. Unlimited (one at a time) data-sort-value=\"150000\"> 150,000g Return Scepter The golden handle quivers with raw potential. Hold this scepter to the sky and return home at will. 1 (available until purchased) data-sort-value=\"2000000\"> 2,000,000g Rotating Stock Image Name Description Day Quantity Unit Price Slime A shimmering, gelatinous glob with no smell. Monday 50 data-sort-value=\"10\"> 10g Omni Geode A blacksmith can break this open for you. These geodes contain a wide variety of minerals. Tuesday 1 data-sort-value=\"300\"> 300g Fish or Magnet Albacore • Bullhead • Chub • Dorado • Halibut • Lingcod • Shad • Sturgeon • Tiger Trout • Tilapia • Magnet Note: Each item has a 1/11 (≈9%) chance to appear. Wednesday 5 data-sort-value=\"200\"> 200g Mixed Seeds There's a little bit of everything here. Plant them and see what grows! Thursday 10 data-sort-value=\"30\"> 30g Iridium Sprinkler Waters the 24 adjacent tiles every morning. Friday 1 data-sort-value=\"10000\"> 10,000g Cooked Dishes List of Dishes Autumn's Bounty Baked Fish Bean Hotpot Blueberry Tart Bread Carp Surprise Cheese Cauliflower Chocolate Cake Complete Breakfast Cookie Cranberry Sauce Crispy Bass Dish O' The Sea Eggplant Parmesan Farmer's Lunch Fish Taco Fried Calamari Fried Eel Fried Egg Fried Mushroom Glazed Yams Hashbrowns Ice Cream Lucky Lunch Maki Roll Miner's Treat Omelet Pancakes Parsnip Soup Pepper Poppers Pink Cake Pizza Pumpkin Soup Red Plate Rhubarb Pie Rice Pudding Roots Platter Salad Salmon Dinner Sashimi Spaghetti Spicy Eel Strange Bun Stuffing Super Meal Survival Burger Tom Kha Soup Tortilla Trout Soup Vegetable Medley Note: Bread has a 2/51 (≈3.9%) chance to appear, the other items have a 1/51 (≈2%) chance to appear. The price for each is random. Saturday 5 data-sort-value=\"50\"> 50g - data-sort-value=\"500\"> 500g Bat Wing The material is surprisingly delicate. Sunday 10 data-sort-value=\"30\"> 30g Relationships Krobus is almost never seen outside interacting with other villagers . He dislikes dwarves , stating that a 1,000 year war between the dwarves and his people recently ended. He believes if the dwarves knew where he was, they'd send an assassin. The Wizard is aware of his presence and intervenes to prevent conflicts. Gifts Main article: Friendship See also: List of All Gifts You can give Krobus up to two gifts per week (plus one on his birthday), which will raise or lower his friendship with you. Gifts on his birthday ( 1 Winter ) will have 8× effect and show a unique dialogue. For loved, liked, or neutral gifts, Krobus responds “ “Oh, a gift to remember the day that I hatched! Thank you!” For disliked or hated gifts, Krobus responds “ “Oh... is this what you call a 'birthday present'? I don't understand humans...” Love “ “This is an amazing gift. For my people it is a great honor to receive something like this.” Monster Compendium “ “Hey, look! All my friends are in here! Wait a minute, is that me?” Monster Musk “ “A gift of lovely perfume? Oh, (players name)... I'm blushing, but you probably can't notice...” Stardrop Tea “ “Is that Stardrop Tea? Thank you! One drop makes my room smell good for the whole day.” Void Mayonnaise “ “This smells delicious! I'll eat half, and use the other half to moisturize my body!” Image Name Description Source All Universal Loves Diamond A rare and valuable gem. Mining Iridium Bar A bar of pure iridium. Furnace Monster Compendium Monsters have a small chance to drop double loot. Bookseller , Monsters Monster Musk Spray this on to draw more monsters out of hiding. Crafting Bookseller Pumpkin A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration. Farming - Fall Void Egg A jet-black egg with red flecks. It's warm to the touch. Void Chicken Krobus' shop Void Mayonnaise A thick, black paste that smells like burnt hair. Mayonnaise Machine Wild Horseradish A spicy root found in the spring. Foraging - Spring Like “ “Thank you very much.” Image Name Description Source Ingredients All Universal Likes (except Life Elixir and All Cooking excluding Seafoam Pudding & Strange Bun ) Gold Bar A bar of pure gold. Furnace Quartz A clear crystal commonly found in caves and mines. Foraging - The Mines Seafoam Pudding This briny pudding will really get you into the maritime mindset! Cooking Flounder (1) Midnight Carp (1) Squid Ink (1) Strange Bun What's inside? Cooking Wheat Flour (1) Periwinkle (1) Void Mayonnaise (1) Neutral “ “Thank you.” Image Name Description Source All Universal Neutrals (except Monster Compendium ) All Eggs (except Void Egg )* All Fruit (except Fruit Tree Fruit & Salmonberry ) All Milk * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Dislike “ “Humans have... interesting tastes.” Image Name Description Source All Universal Dislikes (except Gold Bar , Iridium Bar , & Void Egg ) All Cooking (except Bread , Fried Egg , Seafoam Pudding , & Strange Bun ) Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Leek A tasty relative of the onion. Foraging - Spring Life Elixir Restores health to full. Crafting Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Salmonberry A spring-time berry with the flavor of the forest. Foraging - Spring Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Winter Root A starchy tuber. Foraging - Winter Hate “ “Oh... Um. I guess I'll accept it... ” Image Name Description Source All Universal Hates (except Monster Musk , Seafoam Pudding , Strange Bun , & Void Mayonnaise ) Movies & Concessions Main article: Movie Theater Love N/A Like Mysterium Dislike It Howls In The Rain Journey Of The Prairie King: The Motion Picture Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Love Black Licorice Dislike Apple Slices Cappuccino Mousse Cake Chocolate Popcorn Cotton Candy Ice Cream Sandwich Jawbreaker Joja Cola JojaCorn Rock Candy Star Cookie Stardrop Sorbet Like Everything else Roommate If the player is not married , Krobus will move into the farmhouse three days after accepting a Void Ghost Pendant . Like the marriage candidates, he will add his own room on the right of the bedroom. He will not set up an area in the space behind the farmhouse. Krobus leaves the Farmhouse only on rainy days, when he will stand on the front porch. (In multiplayer , Krobus stays inside the Cabin on rainy days instead.) At 13 hearts, he will give the player a Stardrop , like a spouse, and may change Wallpaper or Flooring or add Furniture like a spouse. Although the player's relationship with Krobus is platonic, the game's roommate mechanics are almost identical to the marriage mechanics, with the following exceptions: Kissing is replaced with hugging. Instead of a heart emoji appearing when kissing, a smile emoji appears when hugging. No ceremony takes place. Krobus will never get jealous if the player gives a gift to a marriage candidate. Being roommates with Krobus won't stop the group 10-heart events . Instead of divorce , Krobus can be evicted for free. However, the player still needs to do this through the book in the Mayor's Manor . After Krobus moves out, he is silent towards the player and will refuse gifts. As with an ex-spouse, the Dark Shrine of Memory can be used to erase Krobus' memories of the player. You cannot have or adopt children with Krobus. However, he helps with raising your existing children from previous marriages. Krobus does not do chores like a spouse would. Krobus does not sleep, but he will stand in the center of his room at 10:00 P.M., He can still be interacted with, however, unlike spouses. After Krobus moves into the Farmhouse , he is replaced in the Sewers by a chest, which sells his usual items. On rainy mornings, Krobus may gift you a Sea Urchin , Void Egg , Void Mayonnaise , or Void Salmon . On non-rainy days, he may gift you a Fried Eel , Lucky Lunch , or Poppyseed Muffin . He may also gift you a Strange Bun regardless of the current weather. Krobus' room in the Farmhouse Krobus replaced by a chest in the Sewers Heart Events Three Hearts After reaching 3 hearts with Krobus, he will send you a recipe in the mail. Details Image Recipe Description Dark Sign Player , I'm not sure how the human message system works, so I asked Wizard to help me write this letter. I hope you are doing okay. I wanted to share this with you... it's notes on how my people build a certain item. -Krobus Fourteen Hearts Enter the Beach between 8pm and 1am on a non-rainy day. Details Krobus sits on the docks at the Beach watching Moonlight Jellies swim, when a sea monster appears. The sea monster raises its tentacles, and Krobus hops on for a ride. A heart dialogue bubble appears over Krobus' head, indicating he enjoyed the ride. Quotes Details First Meeting “ “A human visitor? This is most unusual... I'm Krobus, merchant of rare and exotic goods.” “ “ Please, don't be alarmed. I am different than the others. I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?” Regular “ “...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters. You haven't... slain any of my friends, have you?” “ “I find things here and I sell them. Care to buy anything?” “ “Please don't tell anyone about me. Humans tend to destroy things they can't understand.” “ “I am too sensitive to sunlight to go out on most days. The conditions in here are perfect. Care to buy anything?” “ “Please, don't be alarmed. I am different than the others. I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?” “ “Back again? I suppose it does fit into my theory of human behavior.” “ “On Fridays I stay silent as a sign of devotion to Yoba.” “ “...Sorry, I'm still a little wary of humans. My shop is still open to you, however.” “ “You're not like the other humans, are you?” Rainy day “ “Ah, the sewers are flowing quickly today. It'll get nice and humid in here... just how I like it.” 8+ Hearts “ “You've opened my eyes to the world of humans. I appreciate that.” “ “A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides.” 15th of the season, year 1 only “ “Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin.” After receiving the Void Ghost Pendant “ “[Player]... I'm afraid we'll have to keep this a secret... Neither my people nor yours would accept us living together.” “ “You know I'll be a very strange person to live with, right? I won't be able to leave the house...” Roommate Indoor Days “ “If I could come help you, I would... but I'll do my best to keep the house in order.” “ “I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to \"get out\" like humans do. But I understand that you need to! Please don't feel like you have to stay here with me.” “ “I'm considering spending my day all balled up and wedged in the corner... What? You mean you don't do that?” “ “On Fridays, I like to stay quiet out of respect for Yoba. I hope you don't mind.” “ “I wish I could help you on the farm, but I can't go out in the sun...” Giving gift “ “I tried my best to make human food... You can eat it later, don't worry about it...” In his side room “ “We're so physically different that it's a challenge to live together, isn't it? I hope the humidity here isn't bothersome to you. We both have to compromise in order to live together!” Outdoor Days “ “I'll stay out here for just a bit, but we've got to be careful... if anyone approaches I'll need to hide!” “ “It's rare that I can step outside!” “ “What a beautiful day!” “ “Wide open spaces make me nervous...” “ “Please go about your day, I'll just stay here and guard the house.” “ “I'll wait here for a bit, and see if any bugs come my way. I haven't had breakfast yet!” “ “On a day like this, I can enjoy the outdoors with you. This is really nice! Just let me know if you see anyone coming, so I can hide.” Indoor Nights “ “I cleaned all the bugs out of the house today... Sorry, I didn't save you any! *smack*” “ “You feel solid... sometimes I wish I had bones, too...” “ “Sometimes I wonder if humans and shadow people could really ever co-exist... It's a lovely idea, but is it realistic? I hope so...” “ “Sometimes I pause and think of all that I've learned about humans from you... I wish all my fellow shadow people could know this feeling.” “ “I want to be a good housemate for you, but I never know if I'm doing well... *groan* I have a hard time understanding human expression. B... but... you're happy living with me? Okay!” “ “Hi, [Player]. Welcome home. You look like you've been working hard out there!” Rainy Days “ “Do you like rainy days as much as I do, [Player]?” “ “We're different in so many ways... but that's alright.” “ “I wonder if the wizard knows about... this? I hope he can keep a secret.” “ “As much as I try to be civilized, I have the urge to be mischievous sometimes... They say it's a condition of my people.” “ “Ah, It's more humid today with the rain... I feel a lot more comfortable.” Giving gift “ “Good morning, [Player]. I went out early and found this for you. I hope it's not too strange.” Rainy Nights “ “On nights like this, those who gaze out windows sometimes see shadowy figures. To think... it might've been me.” “ “If the other shadow people knew about our living arrangement, they would... 'punish' me. Most of them despise humans, you know.” “ “You're sopping wet, and cold! Isn't that dangerous to your species?” “ “I already had dinner, but it wasn't something you'd be able to eat... sorry.” “ “Ever since I left my people, I've been searching for a new home... now I belong somewhere. That means everything to me.” “ “It's said that my people came here long ago, when a great catastrophe allowed spirits from the void to cross into the physical plane.” “ “The sound of the rain reminds me of the sewers... it's comforting. The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too.” High Hearts “ “I feel a sensation in my body... is this... 'platonic love'? ... Oh, wait... I'm just shedding my skin.” “ “I've learned to overcome my bias against humans... but Dwarves still disgust me.” “ “You started nibbling on me during the night, and mumbling about 'black lick or ish'... what did you mean by that?” “ “We're making progress, and I feel really hopeful.” “ “I was just admiring this lovely house... what a wonderful place.” Neutral Hearts “ “I won't ever grow old, but you will. Sometimes it makes me sad... but that's okay.” “ “Do you think your Grandpa would approve of a monster living in his house?” “ “Do you think we could get in trouble for living together?” “ “It's so bright in here... I might close my eyes for a few hours.” “ “I can't go outside, I can only eat certain food, I need the temperature a certain way... I hope it's not too much of a bother to live with me, [Player].” “ “Welwick says I'm cursed today.” “ “I'll tell you a secret... I don't actually sleep, I just lay there with my eyes closed...” “ “You're a strange one, to want to live with a creature like me.” “ “I'm going to clean the house all day! This is fun.” “ “I wonder if we'll live here our entire lives? Moving would probably be too dangerous for me.” Low Hearts “ “*sigh*... Maybe I should've stayed with my own kind.” “ “...Do you still like me?” “ “Are you still happy, living with me?” “ “I think you'd be happier living with another human...” “ “I've detected a change in your behavior... what does it mean? *groan*” “ “You only have one short life to live... are you certain you want to spend it with a hideous creature like me?” “ “Maybe a relationship like this is destined to fail...” “ “You seem unhappy lately...” “ “I miss the sewers.” Living with one child “ “I'm not sure how, but Yoba has blessed this house with a 'child'...” Living with two children “ “Don't worry... I already made <child's name> and [child] a void egg omelet.” “ “I worry about the future of the children... But I trust that Yoba has a plan for them.” “ “This house has been blessed with two children, now... Does that mean Yoba approves of our unconventional living arrangement?” Spring “ “It's 'spring' now, isn't it? I can smell the peppery aroma of wild horseradish.” Spring 1 “ “What's your plan for the new year, [Player]?” Day before the Flower Dance “ “You should go to the flower dance tomorrow! Don't worry about me.” Summer “ “You call this time of year 'summer', right? The warmth and humidity is nice, but I wish it wasn't so sunny.” Summer 1 “ “I get sunburnt very easily, so I need to be careful this time of year.” Summer 8 “ “Mmm... what's that lovely smell? You must've been sweating all night...” Summer 15 “ “It's summer... that means the house is full of flies. Don't worry, I'll take care of them. It's good protein!” Green Rain “ “The flow of water has been unusually strong today... what's going on up there?” Fall “ “It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'fall', correct?” Fall 8 “ “I don't feel like doing anything today.” Day before the Fair “ “Have you figured out what you're going to use for your grange display tomorrow?” Fall 24 “ “If I showed up to the Spirit's Eve festival they'd put me in a cage...” Winter “ “The darkness this time of year is very soothing. If only it were warmer!” Winter 28 “ “Thanks for letting me stay here, [Player]. I'm looking forward to another great year!” After Eviction “ “...” After defeat in the Mines “ “You were gone so long I started to get worried about you! I started crying when I saw your limp body...” Quests Dark Talisman : After the Wizard requests his Magic Ink , the player must talk to Krobus, who will open the force field blocking the passage to the Mutant Bug Lair , where the talisman can be found. \"A Winter Mystery\" : Sent by mail the day after triggering a cutscene by entering the Bus Stop from the Farm during Winter between 6am and 4pm. To complete the quest, interact with a bush to the left of the Community Center in the north of Pelican Town . A cutscene ensues, during which a \"Shadow Guy\" (who may or may not be Krobus) gives the player a Magnifying Glass . This allows the player to collect Secret Notes . Portraits Trivia Krobus states that he remains silent on Fridays out of respect for Yoba. His normal Friday dialogue is simply \"...\" Krobus will speak on Fridays under certain circumstances. Rainy days First meeting Attempting to give him a gift after he has been evicted as a roommate Speaking to him about the Dark Talisman quest Gifting him a Void Ghost Pendant Giving the Stardrop at 13 hearts Attempting to give Krobus a Movie Ticket on Friday results in a dialogue saying \"Krobus looks puzzled...\" Krobus will not attend movies on Fridays. Despite being considered a roommate, if there are monsters inside the house, such as slimes , he will still say, \"Um... Honey? Why are there monsters in the house?\" Krobus says that he normally does not sleep. However, he will fall asleep while watching any movie except Mysterium . While watching Mysterium, Krobus has negative dialogue about the depiction of shadow people within the movie. However, he still likes the movie overall and gains friendship from watching it. When drinking Void Mayonnaise in front of Krobus, he will respond by saying \"Yummie!\" Bugs If multiple players open Krobus' shop in Multiplayer simultaneously, the limited quantity of items can be bypassed (multiplied by number of players). As an example, this allows two players on Friday to purchase two Iridium Sprinklers instead of one, if neither player has already purchased the Sprinkler. Gallery A Picture of Krobus in the Sewers History 1.0 : Introduced. 1.1 : Now sells Return Scepter and Void Eggs and offers progress in the Dark Talisman quest. 1.3.27 : Added Sign Of The Vessel and Monster Fireplace to shop stock. Added \" A Winter Mystery \" quest. Changed Tuesday dialogue. 1.4 : Added as a potential roommate if the player is unmarried . Removed exploit allowing multiple purchases of fish and cooked dishes by closing and re-opening the shop menu. 1.4.4 : Krobus no longer gets jealous. 1.6 : Added custom gift reactions. Krobus now loves Monster Musk and likes Strange Bun . Butterfly Powder and the Wizard Catalogue are added to fixed stock. The Dwarf 's 50 Friendship Points event (which involves Krobus) can no longer happen on Fridays. 1.6.3 : Added Krobus Portrait . Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Krobus&oldid=192255 \" Categories : NPCs Stores Hidden category: Bugs tested in an unknown version Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 14 April 2026, at 09:53. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

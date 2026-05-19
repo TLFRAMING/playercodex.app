@@ -1,0 +1,4284 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Leo",
+  "finalUrl": "https://stardewvalleywiki.com/Leo",
+  "fetchedAt": "2026-05-18T13:03:22.257997+00:00",
+  "title": "Leo - Stardew Valley Wiki",
+  "description": "Leo is a boy who initially lives on Ginger Island. His parents were lost at sea, and he considers the parrots who inhabit the island to be his family. Initially, he is too shy to speak to the player, until the player \"makes friends\" with the parrots of the island by collecting 10 Golden Walnuts.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Leo"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 3,
+      "text": "Fewer than 6 Hearts"
+    },
+    {
+      "level": 3,
+      "text": "6+ Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Two Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Three Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Four Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Six Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Seven Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Nine Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "Trivia"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Leo"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Summer 26"
+        ],
+        [
+          "Lives In",
+          "Ginger Island"
+        ],
+        [
+          "Address",
+          "Hut (<6 ) Treehouse (≥6 )"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Loved Gifts",
+          "Duck Feather Mango Ostrich Egg Parrot Egg Poi"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“One time... I was at the top of the volcano at night, and I saw lights far, far away. I wonder if there are other bird families out there?”"
+        ],
+        [
+          "— Leo"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Rain"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Inside his hut."
+        ],
+        [
+          "11:00 AM",
+          "Stands outside the entrance to his hut."
+        ],
+        [
+          "2:00 PM",
+          "Returns inside his hut."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Tuesday"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Inside his hut."
+        ],
+        [
+          "10:30 AM",
+          "Walks to the dock on Island South, stands near the entrance to Island Southeast."
+        ],
+        [
+          "1:30 PM",
+          "Walks to the jungle outside his hut (Island East), stands near the bushes at the southwest corner."
+        ],
+        [
+          "5:00 PM",
+          "Walks to Island North, stands to the right of the Island Trader."
+        ],
+        [
+          "8:00 PM",
+          "Goes home to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Sunday"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Inside his hut."
+        ],
+        [
+          "9:30 AM",
+          "Walks to the Gem Bird Shrine, through the hidden passage in the east of the Jungle."
+        ],
+        [
+          "2:00 PM",
+          "Stands outside the entrance to his hut."
+        ],
+        [
+          "5:00 PM",
+          "Enters his hut."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Regular Schedule"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Inside his hut."
+        ],
+        [
+          "10:30 AM",
+          "Stands outside the entrance to his hut."
+        ],
+        [
+          "12:00 PM",
+          "Walks to the docks at Island South, stands at the northwest corner, next to the parrot perch."
+        ],
+        [
+          "3:00 PM",
+          "Walks to Island North, stands at the northwest corner of the map, west of the volcano entrance."
+        ],
+        [
+          "8:00 PM",
+          "Returns home and goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Leaves his treehouse to head to the desert festival and stand north-east of the cactus stand."
+        ],
+        [
+          "12:00 AM",
+          "Returns home."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "11:10 AM",
+          "Boards the bus to Calico Desert."
+        ],
+        [
+          "11:30 AM",
+          "Arrives at his booth."
+        ],
+        [
+          "12:00 AM",
+          "Leaves booth and boards bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:30 AM",
+          "In his treehouse."
+        ],
+        [
+          "7:00 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "9:30 AM",
+          "Walks to the west of the mountain lake."
+        ],
+        [
+          "2:00 PM",
+          "Returns to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "7:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "10:00 AM",
+          "Visits Linus’ tent."
+        ],
+        [
+          "3:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his hut on Ginger Island."
+        ],
+        [
+          "9:30 AM",
+          "Next to the parrot perch in Island South."
+        ],
+        [
+          "2:00 PM",
+          "Stands outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "Enters his hut."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "9:00 AM",
+          "Walks to the museum library."
+        ],
+        [
+          "2:00 PM",
+          "South of the museum."
+        ],
+        [
+          "4:20 PM",
+          "Leaves the museum to stand to the east of his treehouse."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:30 AM",
+          "In his treehouse."
+        ],
+        [
+          "7:00 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "9:30 AM",
+          "Walks to the west of the mountain lake."
+        ],
+        [
+          "2:00 PM",
+          "Returns to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "9:40 AM",
+          "Leaves his treehouse to stand next to Haley and Emily's house."
+        ],
+        [
+          "12:00 PM",
+          "Plays on the playground."
+        ],
+        [
+          "5:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Walks to his hut on Ginger Island from his treehouse."
+        ],
+        [
+          "10:30 AM",
+          "In Island South, near the entrance to Island Southeast."
+        ],
+        [
+          "1:30 PM",
+          "Outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "To the east of the Island Trader."
+        ],
+        [
+          "8:00 PM",
+          "Goes to bed in his hut."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:30 AM",
+          "In his treehouse."
+        ],
+        [
+          "7:00 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "9:30 AM",
+          "Walks to the west of the mountain lake."
+        ],
+        [
+          "2:00 PM",
+          "Returns to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "7:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "10:00 AM",
+          "Visits Linus’ tent."
+        ],
+        [
+          "3:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his hut on Ginger Island."
+        ],
+        [
+          "9:30 AM",
+          "Next to the parrot perch in Island South."
+        ],
+        [
+          "2:00 PM",
+          "Stands outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "Enters his hut."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "9:00 AM",
+          "Walks to the museum library."
+        ],
+        [
+          "2:00 PM",
+          "South of the museum."
+        ],
+        [
+          "4:20 PM",
+          "Leaves the museum to stand to the east of his treehouse."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:30 AM",
+          "Stands outside of his treehouse."
+        ],
+        [
+          "9:40 AM",
+          "Stands on the west edge of the mountain lake."
+        ],
+        [
+          "1:00 PM",
+          "Walks around the tree to the southwest of the mountain lake."
+        ],
+        [
+          "4:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "9:40 AM",
+          "Leaves his treehouse to stand next to Haley and Emily's house."
+        ],
+        [
+          "12:00 PM",
+          "Plays on the playground."
+        ],
+        [
+          "5:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "In his hut on Ginger Island."
+        ],
+        [
+          "10:30 AM",
+          "In Island South, near the entrance to Island Southeast."
+        ],
+        [
+          "1:30 PM",
+          "Outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "To the east of the Island Trader."
+        ],
+        [
+          "8:00 PM",
+          "Goes to bed in his hut."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:30 AM",
+          "In his treehouse."
+        ],
+        [
+          "7:00 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "9:30 AM",
+          "Walks to the west of the mountain lake."
+        ],
+        [
+          "2:00 PM",
+          "Returns to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "7:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "10:00 AM",
+          "Visits Linus’ tent."
+        ],
+        [
+          "3:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his hut on Ginger Island."
+        ],
+        [
+          "9:30 AM",
+          "Next to the parrot perch in Island South."
+        ],
+        [
+          "2:00 PM",
+          "Stands outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "Enters his hut."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "9:00 AM",
+          "Walks to the museum library."
+        ],
+        [
+          "2:00 PM",
+          "South of the museum."
+        ],
+        [
+          "4:20 PM",
+          "Leaves the museum to stands to the east of his treehouse."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "7:40 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "9:00 AM",
+          "Stands south of the community center."
+        ],
+        [
+          "2:00 PM",
+          "Stands to the west of the mountain lake."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "9:40 AM",
+          "Leaves his treehouse to stand next to Haley and Emily's house."
+        ],
+        [
+          "12:00 PM",
+          "Plays on the playground."
+        ],
+        [
+          "5:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Walks to his hut on Ginger Island."
+        ],
+        [
+          "10:30 AM",
+          "In Island South, near the entrance to Island Southeast."
+        ],
+        [
+          "1:30 PM",
+          "Outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "To the east of the Island Trader."
+        ],
+        [
+          "8:00 PM",
+          "Goes to bed in his hut."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "11:00 AM",
+          "Walks to Linus’ tent and stands outside the entrance."
+        ],
+        [
+          "4:00 PM",
+          "Walks to beach to attend Night Market."
+        ],
+        [
+          "11:30 PM",
+          "Goes home to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:30 AM",
+          "In his treehouse."
+        ],
+        [
+          "7:00 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "9:30 AM",
+          "Walks to the west of the mountain lake."
+        ],
+        [
+          "2:00 PM",
+          "Returns to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "7:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "10:00 AM",
+          "Visits Linus’ tent."
+        ],
+        [
+          "3:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his hut on Ginger Island."
+        ],
+        [
+          "9:30 AM",
+          "Next to the parrot perch in Island South."
+        ],
+        [
+          "2:00 PM",
+          "Stands outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "Enters his hut."
+        ],
+        [
+          "9:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "In his treehouse."
+        ],
+        [
+          "9:00 AM",
+          "Walks to the museum library."
+        ],
+        [
+          "2:00 PM",
+          "South of the museum."
+        ],
+        [
+          "4:20 PM",
+          "Leaves the museum to stands to the east of his treehouse."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "11:00 AM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "2:00 PM",
+          "Reads books in the museum library."
+        ],
+        [
+          "8:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "9:40 AM",
+          "Leaves his treehouse to stand next to Haley and Emily's house."
+        ],
+        [
+          "12:00 PM",
+          "Plays on the playground."
+        ],
+        [
+          "5:00 PM",
+          "Stands to the east of his treehouse."
+        ],
+        [
+          "7:00 PM",
+          "Enters his treehouse."
+        ],
+        [
+          "10:00 PM",
+          "Goes to bed."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [
+        "Time",
+        "Location"
+      ],
+      "rows": [
+        [
+          "6:10 AM",
+          "Walks to his hut on Ginger Island."
+        ],
+        [
+          "10:30 AM",
+          "In Island South, near the entrance to Island Southeast."
+        ],
+        [
+          "1:30 PM",
+          "Outside his hut."
+        ],
+        [
+          "5:00 PM",
+          "To the east of the Island Trader."
+        ],
+        [
+          "8:00 PM",
+          "Goes to bed in his hut."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“A birthday gift? That's very kind of you! I love it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You remembered my birthday! Thank you. This is great.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, a birthday gift! Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... It's for my birthday? ... Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I love this. I'm going to put it in my nest.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“ Wow, tastes just like golden walnuts! This is great!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Duck Feather",
+          "It's so colorful.",
+          "Ducks",
+          ""
+        ],
+        [
+          "",
+          "Mango",
+          "A big, sweet tropical fruit with a unique flavor.",
+          "Mango Tree",
+          ""
+        ],
+        [
+          "",
+          "Ostrich Egg",
+          "It may be the world's largest egg.",
+          "Ostrich",
+          ""
+        ],
+        [
+          "",
+          "Parrot Egg",
+          "Summons a level X parrot companion, who grants you a Y chance to find gold coins when slaying monsters.",
+          "Slaying monsters",
+          ""
+        ],
+        [
+          "",
+          "Poi",
+          "A traditional food with a delicate, sweet flavor when eaten fresh.",
+          "Cooking",
+          "Taro Root (4)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Are you sure? This is so nice...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Likes (except Beer, Coffee, Life Elixir, Mead, Pale Ale, Pickles, Piña Colada, Wine, and Cooking other than Bread, Fried Egg, Poi, Mango Sticky Rice, & Triple Shot Espresso)"
+        ],
+        [
+          "",
+          "Dragon Tooth",
+          "These are rumored to be the teeth of ancient serpents. The enamel is made of pure iridium!",
+          "Monster drops, Foraging - Volcano Dungeon",
+          ""
+        ],
+        [
+          "",
+          "Mango Sticky Rice",
+          "Sweet mango and coconut transforms this rice into something very special.",
+          "Cooking",
+          "Mango (1) Coconut (1) Rice (1)"
+        ],
+        [
+          "",
+          "Nautilus Shell",
+          "An ancient shell.",
+          "Foraging",
+          ""
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - Mines",
+          ""
+        ],
+        [
+          "",
+          "Sea Urchin",
+          "A slow-moving, spiny creature that some consider a delicacy.",
+          "Foraging",
+          ""
+        ],
+        [
+          "",
+          "Spice Berry",
+          "It fills the air with a pungent aroma.",
+          "Foraging",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I accept your gift.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Duck Feather, Hops, Nautilus Shell, & Rainbow Shell)All Eggs (except Ostrich Egg and Void Egg)*All Fish (except Carp & Snail)All Fruit (except Fruit Tree fruit, Mango, Salmonberry, & Spice Berry)All Milk"
+        ],
+        [
+          "",
+          "Coffee",
+          "It smells delicious. This is sure to give you a boost.",
+          "Keg, The Stardrop Saloon"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh... I don't know if I can digest this...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Oil, Parrot Egg, Unmilled Rice, & Fish)All Cooked Dishes (other than Bread, Fried Egg, Mango Sticky Rice, Poi, & Triple Shot Espresso)"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Life Elixir",
+          "Restores health to full.",
+          "Crafting"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Pickles",
+          "A jar of your home-made pickles.",
+          "Preserves Jar"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Salmonberry",
+          "A spring-time berry with the flavor of the forest.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates (except Dragon Tooth & Sea Urchin)"
+        ],
+        [
+          "",
+          "Beer",
+          "Drink in moderation.",
+          "Keg",
+          ""
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging",
+          ""
+        ],
+        [
+          "",
+          "Hops",
+          "A bitter, tangy flower used to flavor beer.",
+          "Crops",
+          ""
+        ],
+        [
+          "",
+          "Mead",
+          "A fermented beverage made from honey. Drink in moderation.",
+          "Keg",
+          ""
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging",
+          ""
+        ],
+        [
+          "",
+          "Oil",
+          "All purpose cooking oil.",
+          "Oil Maker",
+          ""
+        ],
+        [
+          "",
+          "Pale Ale",
+          "Drink in moderation.",
+          "Keg",
+          ""
+        ],
+        [
+          "",
+          "Piña Colada",
+          "Drink in moderation.",
+          "The Beach Resort on Ginger Island",
+          ""
+        ],
+        [
+          "",
+          "Triple Shot Espresso",
+          "It's more potent than regular coffee!",
+          "Cooking",
+          "Coffee (3)"
+        ],
+        [
+          "",
+          "Unmilled Rice",
+          "Rice in its rawest form. Run this through a mill to increase the value.",
+          "Crops",
+          ""
+        ],
+        [
+          "",
+          "Wine",
+          "Drink in moderation.",
+          "Keg",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Natural Wonders: Exploring Our Vibrant World"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "N/A"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "None"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "None"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Everything"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "The player is standing by the shore when Leo approaches from behind. He asks what the player is doing. Just enjoying the waves. (No effect on friendship.) Looking for fish. (No effect on friendship.) Thinking about someone special. (No effect on friendship.) Pondering the big questions. (No effect on friendship.) Leo then asks what the player's home is like. There's a town full of people. (No effect on friendship.) There's forests, beaches, and mountains. (No effect on friendship.) It's like here, but colder. (No effect on friendship.) I live on a farm. (No effect on friendship.) Leo thinks about your words for a bit before asking if there are any kids in Pelican Town Yes. (No effect on friendship.) What does that matter to a bird? (No effect on friendship.) Regardless of the answer, Leo says he's aware he's not really a bird, and he tries to avoid thinking about it because it makes him feel lonely. He tries to fit in with the parrots, but knows he truly doesn't belong anywhere. He runs off before Willy enters the scene, wondering if there's any way to help him."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Poi",
+          "(Player name), Here's a food from my home, that me and my family enjoy. Hope you like it. -Leo P.S. Willy helped me write this."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "The player approaches Leo from behind. Leo squawks like a parrot and startles the player, which startles Leo in turn. Leo then apologizes and explains that he has difficulty communicating using words, then asks the player if they find him weird. Leo wonders about the differences in his life if he hadn't been washed ashore and wonders about what \"normal kids\" would have to say about him. Leo then asks the player if they think he could ever be a normal kid again. After the player answers, he states that he's happy he met the parrots regardless, and that he will always consider them family no matter what. Leo thanks the player for talking to him and says that the player may be a part of his family too, someday. He then teaches the player how to say \"let's play\" in parrot-talk. Note that none of the dialogue options in this cutscene affect friendship with Leo."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "Linus invites Leo to move to the mainland of Stardew Valley. Willy says that there are other children there, and Leo can visit Ginger Island anytime he wants to. Willy asks the player what they think. (Choices have no effect on friendship). Leo decides to move to Stardew Valley. That night, parrots build him a treehouse in the tree to the west of Linus' tent."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Mango Sticky Rice",
+          "(Player name), Here's a food from my home, that me and my family enjoy. Hope you like it. -Leo P.S. Willy helped me write this."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "Leo is shown adjusting well to life in Stardew Valley. He is seen cooking a bean hotpot with Linus on the campfire. In the next scene, he is at school at the library/museum with Penny, Vincent and Jas answering a question correctly. Another scene shows him fishing with Willy. The scene after has him watching Jas from the bushes in the playground, and running away when she notices. He arrives home at the treehouse and talks to his parrot friend about how good his day was, but he still misses Ginger Island."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hi... Everything okay?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“When Sun is angry, it feels good in the jungle. Sun can't find us beneath the leaves. We trick him! Haha...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...Sorry... I'm shy today.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...I'm sad today. You go on... have fun. Let me be sad.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I've learned a lot from my parrot family... I'm sure there's a lot more out there I don't know.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Be careful in the volcano... the spirits don't like outsiders.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you met the others like you? I don't talk to them much. I feel safer with my own kind...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“One time... I was at the top of the volcano at night, and I saw lights far, far away. I wonder if there are other bird families out there?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wonder if I could see your home from the top of the volcano?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“When it rains, strange birds visit. I try to speak to them... but they fly away. I guess they don't want to be friends...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I like this weather... it's so humid. It reminds me of the forest back home.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Miss Penny is doing her best to get me up to speed in my schooling. She's really nice.... ..Luckily, I remember some things from my old, old life... before washing up on the island... so it's not as difficult as it could be. Miss Penny says she's impressed with how much I know!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Between Linus and Miss Penny, I'm going to learn everything there is to learn! Mayor Lewis says I'm on the fast track to becoming a 'well-rounded citizen'... whatever that means.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you ever noticed all the interesting birds that live here? If you listen closely, they might tell you something.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Linus has been teaching me about all the wild food in the valley. There's a lot of good stuff out here! Though... I do kind of miss having golden walnuts for breakfast every morning...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, [Player]. Nice to see you back on the island, just like old times. This is fun! You know, I was scared when you first arrived... I knew my life was about to change.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You know, Stardew Valley might be my new home... but the island will always be my home, too. It's nice to be able to come back and visit.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 78,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Maybe some day, I'll visit Zuzu City... But I'm not even close to being ready, yet. This world is already so strange to me, and I'm very comfortable here right now!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 79,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It felt bad at first... to leave the island and set foot in a strange land. But, I got used to it after a while. I'm a very flexible person!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 80,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Uncle Linus says I should 'cook' my fish before eating it... I'm having a hard time getting used to it... so dry...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 81,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I felt like a stranger here, at first. But I've made a lot of friends! For once, I feel like I belong...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 82,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm sure Jas and Vincent thought I was weird, at first. I accidentally squawked at the school table a few times... that didn't help. It was a big change for everyone. But we're good friends now!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 83,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The parrots want me to thank you for all the golden walnuts you've found. They're really enjoying them.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 84,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“[Player]? Um... I'm a little embarrassed to ask.. But... do you think Jas would ever like a guy like me? Or am I too weird? Hahaha... who cares. I'll figure it out some day.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 85,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The birds of this valley don't mind the cold so much. I'm a little jealous of their warm coats...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 86,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Linus taught me how to make a special spice berry rubbed fish... He says if I eat enough of it it'll keep me warm this winter!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 87,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The idea of an egg hunt is a little bit weird... but I guess the eggs don't belong to any of my family members... Oh well, I'll join in anyway!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 88,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The flowers here are nice, but they aren't as colorful as back home! I wonder if I'll ever have to get up there and dance...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 89,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Shhh... I'm learning the secrets of the perfect roast.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 90,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The moonlight jellies are my old friends... they come to the island every year, too.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 91,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Haha! I've never seen anything like this before...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 92,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You could make an igloo twice as warm if you stuffed feathers in the walls!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 93,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I just like looking at the lights. It reminds me of something long, long ago...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 94,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Linus feels uncomfortable about joining in, so I'm going to keep him company. We'll have our own little feast... mashed winter root and spice berry fish!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 95,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Leo#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Treehouse",
+      "text": "Treehouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Duck_Feather",
+      "text": "Duck Feather"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango",
+      "text": "Mango"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich_Egg",
+      "text": "Ostrich Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poi",
+      "text": "Poi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Fewer_than_6_Hearts",
+      "text": "1.1 Fewer than 6 Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#6.2B_Hearts",
+      "text": "1.2 6+ Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Relationships",
+      "text": "2 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Gifts",
+      "text": "3 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Love",
+      "text": "3.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Like",
+      "text": "3.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Neutral",
+      "text": "3.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Dislike",
+      "text": "3.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Hate",
+      "text": "3.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Movies_.26_Concessions",
+      "text": "4 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Heart_Events",
+      "text": "5 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Two_Hearts",
+      "text": "5.1 Two Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Three_Hearts",
+      "text": "5.2 Three Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Four_Hearts",
+      "text": "5.3 Four Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Six_Hearts",
+      "text": "5.4 Six Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Seven_Hearts",
+      "text": "5.5 Seven Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Nine_Hearts",
+      "text": "5.6 Nine Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Quotes",
+      "text": "6 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Portraits",
+      "text": "7 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#Trivia",
+      "text": "8 Trivia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo#History",
+      "text": "9 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Golden_Walnut",
+      "text": "Golden Walnuts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Trader",
+      "text": "Island Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Treehouse",
+      "text": "treehouse"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "The Mountain"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Villager_Shops",
+      "text": "booth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Trader",
+      "text": "Island Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Trader",
+      "text": "Island Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Trader",
+      "text": "Island Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Island_Trader",
+      "text": "Island Trader"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Duck_Feather.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Duck_Feather",
+      "text": "Duck Feather"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Duck",
+      "text": "Ducks"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mango.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango",
+      "text": "Mango"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Tree",
+      "text": "Mango Tree"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ostrich_Egg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich_Egg",
+      "text": "Ostrich Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich",
+      "text": "Ostrich"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Parrot_Egg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monsters",
+      "text": "monsters"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Poi.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poi",
+      "text": "Poi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "text": "Pickles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pi%C3%B1a_Colada",
+      "text": "Piña Colada"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Egg",
+      "text": "Fried Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poi",
+      "text": "Poi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Sticky_Rice",
+      "text": "Mango Sticky Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Triple_Shot_Espresso",
+      "text": "Triple Shot Espresso"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dragon_Tooth.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dragon_Tooth",
+      "text": "Dragon Tooth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monsters",
+      "text": "Monster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mango_Sticky_Rice.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Sticky_Rice",
+      "text": "Mango Sticky Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango",
+      "text": "Mango"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coconut",
+      "text": "Coconut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice",
+      "text": "Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Nautilus_Shell.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nautilus_Shell",
+      "text": "Nautilus Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Foraged_Minerals",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sea_Urchin.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Spice_Berry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Duck_Feather",
+      "text": "Duck Feather"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Nautilus_Shell",
+      "text": "Nautilus Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Shell",
+      "text": "Rainbow Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich_Egg",
+      "text": "Ostrich Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "All Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snail",
+      "text": "Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "All Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Tree fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango",
+      "text": "Mango"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spice_Berry",
+      "text": "Spice Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Coffee.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Sad.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "All Cooked Dishes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bread",
+      "text": "Bread"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Egg",
+      "text": "Fried Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Sticky_Rice",
+      "text": "Mango Sticky Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poi",
+      "text": "Poi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Triple_Shot_Espresso",
+      "text": "Triple Shot Espresso"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Life_Elixir.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Life_Elixir",
+      "text": "Life Elixir"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pickles.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "text": "Pickles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmonberry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Sad.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dragon_Tooth",
+      "text": "Dragon Tooth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Urchin",
+      "text": "Sea Urchin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Beer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beer",
+      "text": "Beer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hops.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mead.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mead",
+      "text": "Mead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Oil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil_Maker",
+      "text": "Oil Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pale_Ale.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pale_Ale",
+      "text": "Pale Ale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pi%C3%B1a_Colada.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pi%C3%B1a_Colada",
+      "text": "Piña Colada"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Triple_Shot_Espresso.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Triple_Shot_Espresso",
+      "text": "Triple Shot Espresso"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Unmilled_Rice.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wine.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wine",
+      "text": "Wine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Island_West",
+      "text": "Island West"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poi",
+      "text": "Poi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Island_North",
+      "text": "Island North"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Island_South",
+      "text": "Island South"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Sticky_Rice",
+      "text": "Mango Sticky Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Sad.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Winter_00.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Winter_01.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Winter_03.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leo_Winter_02.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5.3",
+      "text": "1.5.3"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Sticky_Rice",
+      "text": "Mango Sticky Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&oldid=192150",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&oldid=192150"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Leo",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Leo",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Leo",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Leo",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Leo",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&oldid=192150",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Leo",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Leo",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/L%C3%A9o",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Leo",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%AC%E3%82%AA",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%A0%88%EC%98%A4",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Leo",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Leo",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9B%D0%B5%D0%BE",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Leo",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E9%9B%B7%E6%AC%A7",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+      "alt": "Leo.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/18px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/18px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/24px-Duck_Feather.png",
+      "alt": "Duck Feather.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Mango.png/24px-Mango.png",
+      "alt": "Mango.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Ostrich_Egg.png/24px-Ostrich_Egg.png",
+      "alt": "Ostrich Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/dc/Parrot_Egg.png/24px-Parrot_Egg.png",
+      "alt": "Parrot Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Poi.png/24px-Poi.png",
+      "alt": "Poi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Fall.png/24px-Fall.png",
+      "alt": "Fall.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Leo_Happy.png/48px-Leo_Happy.png",
+      "alt": "Leo Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png",
+      "alt": "Duck Feather.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/38/Mango.png",
+      "alt": "Mango.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Ostrich_Egg.png",
+      "alt": "Ostrich Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Parrot_Egg.png",
+      "alt": "Parrot Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png",
+      "alt": "Poi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Taro_Root.png/24px-Taro_Root.png",
+      "alt": "Taro Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Leo_Happy.png/48px-Leo_Happy.png",
+      "alt": "Leo Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/87/Dragon_Tooth.png",
+      "alt": "Dragon Tooth.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Mango_Sticky_Rice.png",
+      "alt": "Mango Sticky Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Mango.png/24px-Mango.png",
+      "alt": "Mango.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/24px-Coconut.png",
+      "alt": "Coconut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Rice.png/24px-Rice.png",
+      "alt": "Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png",
+      "alt": "Nautilus Shell.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png",
+      "alt": "Sea Urchin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png",
+      "alt": "Spice Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Leo.png/48px-Leo.png",
+      "alt": "Leo.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png",
+      "alt": "Coffee.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Leo_Sad.png/48px-Leo_Sad.png",
+      "alt": "Leo Sad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Life_Elixir.png",
+      "alt": "Life Elixir.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Pickles.png",
+      "alt": "Pickles.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+      "alt": "Salmonberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Leo_Sad.png/48px-Leo_Sad.png",
+      "alt": "Leo Sad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png",
+      "alt": "Beer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png",
+      "alt": "Mead.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/06/Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png",
+      "alt": "Pale Ale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png",
+      "alt": "Piña Colada.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/36/Triple_Shot_Espresso.png",
+      "alt": "Triple Shot Espresso.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e9/Coffee.png/24px-Coffee.png",
+      "alt": "Coffee.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Unmilled_Rice.png",
+      "alt": "Unmilled Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+      "alt": "Wine.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Two_Hearts.png",
+      "alt": "Two Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Three_Hearts.png",
+      "alt": "Three Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png",
+      "alt": "Poi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/80/Four_Hearts.png",
+      "alt": "Four Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Six_Hearts.png",
+      "alt": "Six Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Seven_Hearts.png",
+      "alt": "Seven Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Mango_Sticky_Rice.png",
+      "alt": "Mango Sticky Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/07/Nine_Hearts.png",
+      "alt": "Nine Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+      "alt": "Leo.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/05/Leo_Happy.png",
+      "alt": "Leo Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Leo_Concerned.png",
+      "alt": "Leo Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/da/Leo_Sad.png",
+      "alt": "Leo Sad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e5/Leo_Winter_00.png",
+      "alt": "Leo Winter 00.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Leo_Winter_01.png",
+      "alt": "Leo Winter 01.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Leo_Winter_03.png",
+      "alt": "Leo Winter 03.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Leo_Winter_02.png",
+      "alt": "Leo Winter 02.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Leo - Stardew Valley Wiki",
+      "headline": "Leo - Stardew Valley Wiki",
+      "mainEntityOfPage": "Leo",
+      "identifier": "https://stardewvalleywiki.com/Leo",
+      "url": "https://stardewvalleywiki.com/Leo",
+      "description": "Leo is a boy who initially lives on Ginger Island.  His parents were lost at sea, and he considers the parrots who inhabit the island to be his family.  Initially, he is too shy to speak to the player, until the player \"makes friends\" with the parrots of the island by collecting 10 Golden Walnuts.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Leo, gift",
+      "dateModified": "2026-04-07T08:24:22Z",
+      "datePublished": "2026-04-07T08:24:22Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Leo - Stardew Valley Wiki Leo From Stardew Valley Wiki Jump to navigation Jump to search Leo Information Birthday Summer 26 Lives In Ginger Island Address Hut (<6 ) Treehouse (≥6 ) Marriage No Loved Gifts Duck Feather Mango Ostrich Egg Parrot Egg Poi Contents 1 Schedule 1.1 Fewer than 6 Hearts 1.2 6+ Hearts 2 Relationships 3 Gifts 3.1 Love 3.2 Like 3.3 Neutral 3.4 Dislike 3.5 Hate 4 Movies & Concessions 5 Heart Events 5.1 Two Hearts 5.2 Three Hearts 5.3 Four Hearts 5.4 Six Hearts 5.5 Seven Hearts 5.6 Nine Hearts 6 Quotes 7 Portraits 8 Trivia 9 History “ “One time... I was at the top of the volcano at night, and I saw lights far, far away. I wonder if there are other bird families out there?” — Leo Leo is a boy who initially lives on Ginger Island . His parents were lost at sea, and he considers the parrots who inhabit the island to be his family. Initially, he is too shy to speak to the player, until the player \"makes friends\" with the parrots of the island by collecting 10 Golden Walnuts . When the player reaches six hearts of friendship with Leo, he moves to the mainland of Stardew Valley, where he becomes friends with Linus , Jas and Vincent . Schedule Fewer than 6 Hearts Leo lives on Ginger Island and doesn’t leave until the player has reached 6 hearts of friendship with him. Rain 9:00 AM Inside his hut. 11:00 AM Stands outside the entrance to his hut. 2:00 PM Returns inside his hut. 9:00 PM Goes to bed. Tuesday 9:00 AM Inside his hut. 10:30 AM Walks to the dock on Island South, stands near the entrance to Island Southeast. 1:30 PM Walks to the jungle outside his hut (Island East), stands near the bushes at the southwest corner. 5:00 PM Walks to Island North, stands to the right of the Island Trader . 8:00 PM Goes home to bed. Sunday 9:00 AM Inside his hut. 9:30 AM Walks to the Gem Bird Shrine, through the hidden passage in the east of the Jungle. 2:00 PM Stands outside the entrance to his hut. 5:00 PM Enters his hut. 9:00 PM Goes to bed. Regular Schedule 9:00 AM Inside his hut. 10:30 AM Stands outside the entrance to his hut. 12:00 PM Walks to the docks at Island South, stands at the northwest corner, next to the parrot perch. 3:00 PM Walks to Island North, stands at the northwest corner of the map, west of the volcano entrance. 8:00 PM Returns home and goes to bed. 6+ Hearts Leo lives in a treehouse in The Mountain , and visits Ginger Island on Sundays and some Mondays. Spring Spring 16 (Bus Service Restored) Time Location 9:00 AM Leaves his treehouse to head to the desert festival and stand north-east of the cactus stand. 12:00 AM Returns home. Desert Festival (As Vendor) Time Location 11:10 AM Boards the bus to Calico Desert . 11:30 AM Arrives at his booth . 12:00 AM Leaves booth and boards bus back to the Valley. Spring 9 and 23 Time Location 6:30 AM In his treehouse. 7:00 AM Stands to the east of his treehouse. 9:30 AM Walks to the west of the mountain lake. 2:00 PM Returns to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Rain Time Location 7:00 AM In his treehouse. 10:00 AM Visits Linus’ tent. 3:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Monday Time Location 6:00 AM In his hut on Ginger Island. 9:30 AM Next to the parrot perch in Island South. 2:00 PM Stands outside his hut. 5:00 PM Enters his hut. 9:00 PM Goes to bed. Tuesday and Wednesday Time Location 6:00 AM In his treehouse. 9:00 AM Walks to the museum library. 2:00 PM South of the museum. 4:20 PM Leaves the museum to stand to the east of his treehouse. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Thursday and Friday Time Location 6:30 AM In his treehouse. 7:00 AM Stands to the east of his treehouse. 9:30 AM Walks to the west of the mountain lake. 2:00 PM Returns to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Saturday Time Location 9:40 AM Leaves his treehouse to stand next to Haley and Emily's house. 12:00 PM Plays on the playground. 5:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Sunday Time Location 6:10 AM Walks to his hut on Ginger Island from his treehouse. 10:30 AM In Island South, near the entrance to Island Southeast. 1:30 PM Outside his hut. 5:00 PM To the east of the Island Trader . 8:00 PM Goes to bed in his hut. Summer Summer 9 and 23 Time Location 6:30 AM In his treehouse. 7:00 AM Stands to the east of his treehouse. 9:30 AM Walks to the west of the mountain lake. 2:00 PM Returns to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Rain Time Location 7:00 AM In his treehouse. 10:00 AM Visits Linus’ tent. 3:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Monday Time Location 6:00 AM In his hut on Ginger Island. 9:30 AM Next to the parrot perch in Island South. 2:00 PM Stands outside his hut. 5:00 PM Enters his hut. 9:00 PM Goes to bed. Tuesday and Wednesday Time Location 6:00 AM In his treehouse. 9:00 AM Walks to the museum library. 2:00 PM South of the museum. 4:20 PM Leaves the museum to stand to the east of his treehouse. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Thursday and Friday Time Location 6:30 AM Stands outside of his treehouse. 9:40 AM Stands on the west edge of the mountain lake. 1:00 PM Walks around the tree to the southwest of the mountain lake. 4:00 PM Stands to the east of his treehouse. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Saturday Time Location 9:40 AM Leaves his treehouse to stand next to Haley and Emily's house. 12:00 PM Plays on the playground. 5:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Sunday Time Location 6:10 AM In his hut on Ginger Island. 10:30 AM In Island South, near the entrance to Island Southeast. 1:30 PM Outside his hut. 5:00 PM To the east of the Island Trader . 8:00 PM Goes to bed in his hut. Fall Fall 9 and 23 Time Location 6:30 AM In his treehouse. 7:00 AM Stands to the east of his treehouse. 9:30 AM Walks to the west of the mountain lake. 2:00 PM Returns to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Rain Time Location 7:00 AM In his treehouse. 10:00 AM Visits Linus’ tent. 3:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Monday Time Location 6:00 AM In his hut on Ginger Island. 9:30 AM Next to the parrot perch in Island South. 2:00 PM Stands outside his hut. 5:00 PM Enters his hut. 9:00 PM Goes to bed. Tuesday and Wednesday Time Location 6:00 AM In his treehouse. 9:00 AM Walks to the museum library. 2:00 PM South of the museum. 4:20 PM Leaves the museum to stands to the east of his treehouse. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Thursday and Friday Time Location 6:00 AM In his treehouse. 7:40 AM Stands to the east of his treehouse. 9:00 AM Stands south of the community center. 2:00 PM Stands to the west of the mountain lake. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Saturday Time Location 9:40 AM Leaves his treehouse to stand next to Haley and Emily's house. 12:00 PM Plays on the playground. 5:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Sunday Time Location 6:10 AM Walks to his hut on Ginger Island. 10:30 AM In Island South, near the entrance to Island Southeast. 1:30 PM Outside his hut. 5:00 PM To the east of the Island Trader . 8:00 PM Goes to bed in his hut. Winter Winter 15 Time Location 11:00 AM Walks to Linus’ tent and stands outside the entrance. 4:00 PM Walks to beach to attend Night Market . 11:30 PM Goes home to bed. Winter 9 and 23 Time Location 6:30 AM In his treehouse. 7:00 AM Stands to the east of his treehouse. 9:30 AM Walks to the west of the mountain lake. 2:00 PM Returns to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Rain Time Location 7:00 AM In his treehouse. 10:00 AM Visits Linus’ tent. 3:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Monday Time Location 6:00 AM In his hut on Ginger Island. 9:30 AM Next to the parrot perch in Island South. 2:00 PM Stands outside his hut. 5:00 PM Enters his hut. 9:00 PM Goes to bed. Tuesday and Wednesday Time Location 6:00 AM In his treehouse. 9:00 AM Walks to the museum library. 2:00 PM South of the museum. 4:20 PM Leaves the museum to stands to the east of his treehouse. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Thursday and Friday Time Location 11:00 AM Stands to the east of his treehouse. 2:00 PM Reads books in the museum library. 8:00 PM Enters his treehouse. 10:00 PM Goes to bed. Saturday Time Location 9:40 AM Leaves his treehouse to stand next to Haley and Emily's house. 12:00 PM Plays on the playground. 5:00 PM Stands to the east of his treehouse. 7:00 PM Enters his treehouse. 10:00 PM Goes to bed. Sunday Time Location 6:10 AM Walks to his hut on Ginger Island. 10:30 AM In Island South, near the entrance to Island Southeast. 1:30 PM Outside his hut. 5:00 PM To the east of the Island Trader . 8:00 PM Goes to bed in his hut. Relationships On Ginger Island, Leo is friends with the parrots whom he considers his family. After Leo moves to Stardew Valley, he bonds with Linus and begins attending Penny 's lessons with Vincent and Jas . He also has a crush on Jas, based on one of his quotes. Gifts Main article: Friendship See also: List of All Gifts You can give Leo up to two gifts per week (plus one on his birthday), which will raise or lower his friendship with you. Gifts on his birthday ( 26 Summer ) will have 8× effect and show a unique dialogue. For loved or liked gifts, Leo responds “ “A birthday gift? That's very kind of you! I love it.” “ “You remembered my birthday! Thank you. This is great.” For neutral gifts, Leo responds “ “Oh, a birthday gift! Thank you.” For disliked or hated gifts, Leo responds “ “Oh... It's for my birthday? ... Thanks.” Love “ “I love this. I'm going to put it in my nest.” Parrot Egg “ “This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.” Stardrop Tea “ “ Wow, tastes just like golden walnuts! This is great!” Image Name Description Source Ingredients All Universal Loves Duck Feather It's so colorful. Ducks Mango A big, sweet tropical fruit with a unique flavor. Mango Tree Ostrich Egg It may be the world's largest egg. Ostrich Parrot Egg Summons a level X parrot companion, who grants you a Y chance to find gold coins when slaying monsters. Slaying monsters Poi A traditional food with a delicate, sweet flavor when eaten fresh. Cooking Taro Root (4) Like “ “Are you sure? This is so nice...” Image Name Description Source Ingredients All Universal Likes (except Beer , Coffee , Life Elixir , Mead , Pale Ale , Pickles , Piña Colada , Wine , and Cooking other than Bread , Fried Egg , Poi , Mango Sticky Rice , & Triple Shot Espresso ) Dragon Tooth These are rumored to be the teeth of ancient serpents. The enamel is made of pure iridium! Monster drops, Foraging - Volcano Dungeon Mango Sticky Rice Sweet mango and coconut transforms this rice into something very special. Cooking Mango (1) Coconut (1) Rice (1) Nautilus Shell An ancient shell. Foraging Quartz A clear crystal commonly found in caves and mines. Foraging - Mines Sea Urchin A slow-moving, spiny creature that some consider a delicacy. Foraging Spice Berry It fills the air with a pungent aroma. Foraging Neutral “ “I accept your gift.” Image Name Description Source All Universal Neutrals (except Duck Feather , Hops , Nautilus Shell , & Rainbow Shell ) All Eggs (except Ostrich Egg and Void Egg ) * All Fish (except Carp & Snail ) All Fruit (except Fruit Tree fruit , Mango , Salmonberry , & Spice Berry ) All Milk Coffee It smells delicious. This is sure to give you a boost. Keg , The Stardrop Saloon * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Dislike “ “Oh... I don't know if I can digest this...” Image Name Description Source All Universal Dislikes (except Oil , Parrot Egg , Unmilled Rice , & Fish ) All Cooked Dishes (other than Bread , Fried Egg , Mango Sticky Rice , Poi , & Triple Shot Espresso ) Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Leek A tasty relative of the onion. Foraging - Spring Life Elixir Restores health to full. Crafting Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Pickles A jar of your home-made pickles. Preserves Jar Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Salmonberry A spring-time berry with the flavor of the forest. Foraging - Spring Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Wild Horseradish A spicy root found in the spring. Foraging - Spring Winter Root A starchy tuber. Foraging - Winter Hate “ “*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?” Image Name Description Source Ingredients All Universal Hates (except Dragon Tooth & Sea Urchin ) Beer Drink in moderation. Keg Holly The leaves and bright red berries make a popular winter decoration. Foraging Hops A bitter, tangy flower used to flavor beer. Crops Mead A fermented beverage made from honey. Drink in moderation. Keg Morel Sought after for its unique nutty flavor. Foraging Oil All purpose cooking oil. Oil Maker Pale Ale Drink in moderation. Keg Piña Colada Drink in moderation. The Beach Resort on Ginger Island Triple Shot Espresso It's more potent than regular coffee! Cooking Coffee (3) Unmilled Rice Rice in its rawest form. Run this through a mill to increase the value. Crops Wine Drink in moderation. Keg Movies & Concessions Main article: Movie Theater Love Natural Wonders: Exploring Our Vibrant World Like It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Dislike N/A Love None Dislike None Like Everything Heart Events Two Hearts Enter Island West on a sunny day between 6am and 6pm. Details The player is standing by the shore when Leo approaches from behind. He asks what the player is doing. Just enjoying the waves. (No effect on friendship .) Looking for fish. (No effect on friendship .) Thinking about someone special. (No effect on friendship .) Pondering the big questions. (No effect on friendship .) Leo then asks what the player's home is like. There's a town full of people. (No effect on friendship .) There's forests, beaches, and mountains. (No effect on friendship .) It's like here, but colder. (No effect on friendship .) I live on a farm. (No effect on friendship .) Leo thinks about your words for a bit before asking if there are any kids in Pelican Town Yes. (No effect on friendship .) What does that matter to a bird? (No effect on friendship .) Regardless of the answer, Leo says he's aware he's not really a bird, and he tries to avoid thinking about it because it makes him feel lonely. He tries to fit in with the parrots, but knows he truly doesn't belong anywhere. He runs off before Willy enters the scene, wondering if there's any way to help him. Three Hearts After reaching three hearts with Leo, he sends the player a recipe in the mail. Details Image Recipe Description Poi (Player name), Here's a food from my home, that me and my family enjoy. Hope you like it. -Leo P.S. Willy helped me write this. Four Hearts Enter Island North on a sunny day between 6am and 6pm. This event will only happen if Leo hasn't moved to the Valley yet. Details The player approaches Leo from behind. Leo squawks like a parrot and startles the player, which startles Leo in turn. Leo then apologizes and explains that he has difficulty communicating using words, then asks the player if they find him weird. Leo wonders about the differences in his life if he hadn't been washed ashore and wonders about what \"normal kids\" would have to say about him. Leo then asks the player if they think he could ever be a normal kid again. After the player answers, he states that he's happy he met the parrots regardless, and that he will always consider them family no matter what. Leo thanks the player for talking to him and says that the player may be a part of his family too, someday. He then teaches the player how to say \"let's play\" in parrot-talk. Note that none of the dialogue options in this cutscene affect friendship with Leo. Six Hearts Enter Island South on a sunny day between 6am and 6pm. Details Linus invites Leo to move to the mainland of Stardew Valley. Willy says that there are other children there, and Leo can visit Ginger Island anytime he wants to. Willy asks the player what they think. (Choices have no effect on friendship). Leo decides to move to Stardew Valley. That night, parrots build him a treehouse in the tree to the west of Linus' tent. Seven Hearts After reaching seven hearts with Leo, he sends the player a recipe in the mail. Details Image Recipe Description Mango Sticky Rice (Player name), Here's a food from my home, that me and my family enjoy. Hope you like it. -Leo P.S. Willy helped me write this. Nine Hearts Enter the Mountain on a non-rainy day between 6am and 7pm. Details Leo is shown adjusting well to life in Stardew Valley. He is seen cooking a bean hotpot with Linus on the campfire. In the next scene, he is at school at the library/museum with Penny, Vincent and Jas answering a question correctly. Another scene shows him fishing with Willy. The scene after has him watching Jas from the bushes in the playground, and running away when she notices. He arrives home at the treehouse and talks to his parrot friend about how good his day was, but he still misses Ginger Island. Quotes Regular Regular - Ginger Island “ “Hi... Everything okay?” “ “When Sun is angry, it feels good in the jungle. Sun can't find us beneath the leaves. We trick him! Haha...” “ “...Sorry... I'm shy today.” “ “...I'm sad today. You go on... have fun. Let me be sad.” “ “I've learned a lot from my parrot family... I'm sure there's a lot more out there I don't know.” “ “Be careful in the volcano... the spirits don't like outsiders.” “ “Have you met the others like you? I don't talk to them much. I feel safer with my own kind...” “ “One time... I was at the top of the volcano at night, and I saw lights far, far away. I wonder if there are other bird families out there?” “ “I wonder if I could see your home from the top of the volcano?” “ “When it rains, strange birds visit. I try to speak to them... but they fly away. I guess they don't want to be friends...” Green Rain - Mainland “ “I like this weather... it's so humid. It reminds me of the forest back home.” 6+ Hearts - Mainland “ “Miss Penny is doing her best to get me up to speed in my schooling. She's really nice.... ..Luckily, I remember some things from my old, old life... before washing up on the island... so it's not as difficult as it could be. Miss Penny says she's impressed with how much I know!” “ “Between Linus and Miss Penny, I'm going to learn everything there is to learn! Mayor Lewis says I'm on the fast track to becoming a 'well-rounded citizen'... whatever that means.” “ “Have you ever noticed all the interesting birds that live here? If you listen closely, they might tell you something.” “ “Linus has been teaching me about all the wild food in the valley. There's a lot of good stuff out here! Though... I do kind of miss having golden walnuts for breakfast every morning...” “ “Hey, [Player]. Nice to see you back on the island, just like old times. This is fun! You know, I was scared when you first arrived... I knew my life was about to change.” “ “You know, Stardew Valley might be my new home... but the island will always be my home, too. It's nice to be able to come back and visit.” “ “Maybe some day, I'll visit Zuzu City... But I'm not even close to being ready, yet. This world is already so strange to me, and I'm very comfortable here right now!” 8+ Hearts - Mainland “ “It felt bad at first... to leave the island and set foot in a strange land. But, I got used to it after a while. I'm a very flexible person!” “ “Uncle Linus says I should 'cook' my fish before eating it... I'm having a hard time getting used to it... so dry...” 10 Hearts - Mainland “ “I felt like a stranger here, at first. But I've made a lot of friends! For once, I feel like I belong...” “ “I'm sure Jas and Vincent thought I was weird, at first. I accidentally squawked at the school table a few times... that didn't help. It was a big change for everyone. But we're good friends now!” “ “The parrots want me to thank you for all the golden walnuts you've found. They're really enjoying them.” “ “[Player]? Um... I'm a little embarrassed to ask.. But... do you think Jas would ever like a guy like me? Or am I too weird? Hahaha... who cares. I'll figure it out some day.” Winter “ “The birds of this valley don't mind the cold so much. I'm a little jealous of their warm coats...” “ “Linus taught me how to make a special spice berry rubbed fish... He says if I eat enough of it it'll keep me warm this winter!” Events Egg Festival “ “The idea of an egg hunt is a little bit weird... but I guess the eggs don't belong to any of my family members... Oh well, I'll join in anyway!” Flower Dance “ “The flowers here are nice, but they aren't as colorful as back home! I wonder if I'll ever have to get up there and dance...” Luau “ “Shhh... I'm learning the secrets of the perfect roast.” Dance of the Moonlight Jellies “ “The moonlight jellies are my old friends... they come to the island every year, too.” Stardew Valley Fair “ “Haha! I've never seen anything like this before...” Festival of Ice “ “You could make an igloo twice as warm if you stuffed feathers in the walls!” Night Market “ “I just like looking at the lights. It reminds me of something long, long ago...” Feast of the Winter Star “ “Linus feels uncomfortable about joining in, so I'm going to keep him company. We'll have our own little feast... mashed winter root and spice berry fish!” Portraits Trivia Leo may still tell you it's nice to see you on the island again when you're both on the mainland, particularly when it's raining and his normal schedule dictates he would be on the island that day. If you have missed Leo's four heart event, he gives you the option to view it by talking to him on the mainland. History 1.5 : Introduced. 1.5.3 : Now likes Mango Sticky Rice and is neutral to Coffee as gifts. 1.6 : Added custom gift reactions. Added winter portraits. Added new weather dialogue. Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Leo&oldid=192150 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 7 April 2026, at 08:24. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

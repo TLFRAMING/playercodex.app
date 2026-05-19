@@ -1,0 +1,3683 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Clint",
+  "finalUrl": "https://stardewvalleywiki.com/Clint",
+  "fetchedAt": "2026-05-18T13:03:17.066350+00:00",
+  "title": "Clint - Stardew Valley Wiki",
+  "description": "Clint is a villager who lives in Pelican Town. He owns and runs the local Blacksmith.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Clint"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Relationships"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Anytime"
+    },
+    {
+      "level": 3,
+      "text": "Three Hearts I"
+    },
+    {
+      "level": 3,
+      "text": "Three Hearts II"
+    },
+    {
+      "level": 3,
+      "text": "Six Hearts"
+    },
+    {
+      "level": 3,
+      "text": "Seven Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Questions"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "Trivia"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Clint"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Winter 26"
+        ],
+        [
+          "Lives In",
+          "Pelican Town"
+        ],
+        [
+          "Address",
+          "Blacksmith"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Clinic Visit",
+          "Winter 16"
+        ],
+        [
+          "Loved Gifts",
+          "Amethyst Aquamarine Artichoke Dip Emerald Fiddlehead Risotto Gold Bar Iridium Bar Jade Omni Geode Ruby Topaz"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.”"
+        ],
+        [
+          "— Clint"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Spring 16 (Bus Service Restored)"
+      ],
+      "rows": [
+        [
+          "11:20 AM",
+          "Boards the bus to Calico Desert to attend the Desert Festival."
+        ],
+        [
+          "11:40 AM",
+          "Stands east of the Oasis."
+        ],
+        [
+          "1:30 AM",
+          "Boards the bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Desert Festival (As Vendor)"
+      ],
+      "rows": [
+        [
+          "11:10 AM",
+          "Boards the bus to Calico Desert."
+        ],
+        [
+          "11:30 AM",
+          "Arrives at his booth."
+        ],
+        [
+          "12:00 AM",
+          "Leaves booth and takes the bus back to the Valley."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Winter 15"
+      ],
+      "rows": [
+        [
+          "8:50 AM",
+          "Behind the counter of the Blacksmith."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the Blacksmith to attend the Night Market."
+        ],
+        [
+          "12:00 AM",
+          "Returns to the Blacksmith to sleep."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Winter 16"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Behind the counter of the Blacksmith."
+        ],
+        [
+          "10:30 AM",
+          "Leaves the Blacksmith to go to the waiting room of Harvey's Clinic."
+        ],
+        [
+          "1:30 PM",
+          "Moves to the left examination room in the Clinic."
+        ],
+        [
+          "4:00 PM",
+          "Leaves the Clinic for The Saloon."
+        ],
+        [
+          "12:00 AM",
+          "Returns home to sleep."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Green Rain (Year 1)"
+      ],
+      "rows": [
+        [
+          "6:00 AM",
+          "Leaves home and heads to the Saloon."
+        ],
+        [
+          "7:20 AM",
+          "In the Saloon."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Rain"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Behind the counter of the Blacksmith."
+        ],
+        [
+          "5:00 PM",
+          "Moves to work on the anvil."
+        ],
+        [
+          "7:00 PM",
+          "Heads to The Saloon."
+        ],
+        [
+          "12:00 AM",
+          "Returns home to sleep."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Friday (Community Center Restored)"
+      ],
+      "rows": [
+        [
+          "8:50 AM",
+          "Leaves home, heads to the Community Center Boiler Room."
+        ],
+        [
+          "5:00 PM",
+          "Leaves the Community Center and heads to The Saloon."
+        ],
+        [
+          "12:00 AM",
+          "Returns home to sleep."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Regular Schedule"
+      ],
+      "rows": [
+        [
+          "9:00 AM",
+          "Behind the counter of the Blacksmith."
+        ],
+        [
+          "5:00 PM",
+          "Moves to work on the anvil."
+        ],
+        [
+          "7:00 PM",
+          "Heads to The Saloon."
+        ],
+        [
+          "8:20 PM",
+          "In the Saloon."
+        ],
+        [
+          "12:00 AM",
+          "Returns home to sleep."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Dear Emily, I know you only think of me as a friend. It's my fault. I'm too shy. I'll never have the courage to tell you the truth. That's why I'm writing this letter to myself that I'll certainly crumple up and toss in the corner.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I don't usually get birthday gifts. This actually means a lot, <player>. Thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Is this a birthday gift? It's, uh... an interesting choice. Well I appreciate that you remembered me, anyway.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Yes! This is exactly what I've been looking for!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You're giving this... to me? I don't think I deserve it, but... thank you.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Amethyst",
+          "A purple variant of quartz.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Aquamarine",
+          "A shimmery blue-green gem.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Artichoke Dip",
+          "It's cool and refreshing.",
+          "Cooking",
+          "Artichoke (1) Milk (1)"
+        ],
+        [
+          "",
+          "Emerald",
+          "A precious stone with a brilliant green color.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Fiddlehead Risotto",
+          "A creamy rice dish served with sauteed fern heads. It's a little bland.",
+          "Cooking",
+          "Oil (1) Fiddlehead Fern (1) Garlic (1)"
+        ],
+        [
+          "",
+          "Gold Bar",
+          "A bar of pure gold.",
+          "Furnace",
+          "Gold Ore (5) Coal (1)"
+        ],
+        [
+          "",
+          "Iridium Bar",
+          "A bar of pure iridium.",
+          "Furnace",
+          "Iridium Ore (5) Coal (1)"
+        ],
+        [
+          "",
+          "Jade",
+          "A pale green ornamental stone.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Omni Geode",
+          "A blacksmith can break this open for you. These geodes contain a wide variety of minerals.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Ruby",
+          "A precious stone that is sought after for its rich color and beautiful luster.",
+          "Mining",
+          ""
+        ],
+        [
+          "",
+          "Topaz",
+          "Fairly common but still prized for its beauty.",
+          "Mining",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This is a fun gift. Thanks!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, interesting... These books aren't very easy to come by in the valley. Looks like there's a lot of good tips in here. Thanks, (Name).”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source",
+        "Ingredients"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Likes (except Flowers)"
+        ],
+        [
+          "",
+          "Copper Bar",
+          "A bar of pure copper.",
+          "Furnace",
+          "Copper Ore (5) Coal (1)"
+        ],
+        [
+          "",
+          "Iron Bar",
+          "A bar of pure iron.",
+          "Furnace",
+          "Iron Ore (5) Coal (1)"
+        ],
+        [
+          "",
+          "Mining Monthly",
+          "Read this to gain some mining experience.",
+          "Books",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Mining Monthly)All Eggs (except Void Egg)*All Fruit (except Fruit Tree Fruit & Salmonberry)All Milk"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Coal",
+          "A combustible rock that is useful for crafting and smelting.",
+          "Mining"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Gold Ore",
+          "A precious ore that can be smelted into bars.",
+          "Mining"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Iridium Ore",
+          "An exotic ore with many curious properties. Can be smelted into bars.",
+          "Mining"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Refined Quartz",
+          "A more pure form of quartz.",
+          "Furnace"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*Sigh*...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Coal, Copper Bar, Gold Bar, Gold Ore, Iridium Bar, Iridium Ore, Iron Bar, Omni Geode, & Refined Quartz)All Flowers (except Poppy)"
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Salmonberry",
+          "A spring-time berry with the flavor of the forest.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This makes me depressed.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates"
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "N/A"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "The Zuzu City Express"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Fries Stardrop Sorbet"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Apple Slices Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [
+        "Item",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Copper Bar Iron Bar Gold Bar",
+          "Um, Hello... Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it. -Clint, the blacksmith"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "Clint says he has terrible luck with women, and asks for your advice. \"Impress women with your strength and charm.\" (+25 friendship.) He responds, \"Okay... I'll keep that in mind.\" \"Act crazy, to keep people guessing.\" (+25 friendship.) He responds, \"Okay... I'll keep that in mind.\" \"Just act natural... be yourself.\" (No effect on friendship.) He responds, \"That's the problem... I do act natural... but I never have any success.\" \"Treat women the same as men.\" (+50 friendship.) He responds, \"Okay... I'll keep that in mind.\" Emily walks over to take Clint's order. Clint panics: \"Yes! (pause) Er.. I mean, I'll have the Big n' Cheesy. With extra sauce, please. (pause)\" Emily greets you, and Clint continues: \"Er... *ahem* Th...Thanks, Emily. For... taking my order. Um, Emily? I was...*gulp*... I was wondering... (pause)\" Emily prompts him, but Clint gives up and says nevermind. Emily pauses as sad music plays, then moves away to take Shane's order. Emily and Shane chat easily, and Clint is crestfallen: \"*sigh* I'm doomed...\""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Algae Soup",
+          "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "You find Clint watching Emily from the bushes. He says he was going to ask Emily out on a date, and got as far as her doorstep before he heard her coming and dove into the bushes. He says he's waiting for her to finish talking with Caroline so he can sneak back to his house. You threaten Clint with never upgrading your tools again if he doesn't ask her out, and he begrudgingly agrees. He approaches Emily and asks to speak to her privately. \"I was wondering if you'd go w... with... tomorrow, me... *gulp* (pause) I've got two tickets for the Grampleton Carnival tomorrow. W... Would you go with me?\" Emily says that sounds like fun and accepts; Clint responds that he'll pick her up tomorrow. Clint is ecstatic and nervous. He thanks you for forcing him to finally ask her out."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Recipe",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Bean Hotpot",
+          "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If you want me to upgrade your tools you'll have to give me the correct ore. And you'll have to pay me a fee, of course.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey. What do you need?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Business has been slow lately. You should upgrade your tools. I could use the cash.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The weather doesn't really matter to me. I typically stay near my shop year-round. Depressing, huh?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sometimes I wonder how I ended up in this town.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Don't you have work to do?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“So how are your tools holding up?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“...I found you unconscious in the mines. I think I blew my back out, dragging you all the way up here. Be a little more careful next time, okay?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, hi [Player]. Sorry If I look a little messy. I've been working at the furnace all morning. So, did you need anything, or do you just want to visit?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I should save up and buy a computer. Maybe I can find a girlfriend on the 'internet'... What? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know! What's a guy like me supposed to do? *Groan*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 44,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Be glad you're a farmer, [Player]. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 45,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Business has been slow lately. You should upgrade your tools. I could use the cash.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 46,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm gonna put on my special red trunks. They're supposed to be really eye-catching.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 47,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh no... I forgot to clip my toenails.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 48,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. I hope no one noticed...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 49,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ow... my whole torso is burnt to a crisp.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 50,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm hungry...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 51,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sigh*... We're all at the beach but I still feel so alone...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 52,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Well, that didn't turn out like I was imagining...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 53,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I... um... heard that you and Emily are together. Congratulations.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 54,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's situations like this where a person's true character is put to the test. I'll keep Em... I mean, I'll keep everyone safe from the toxic rain!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 55,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I feel bad admitting it, but sometimes I wish there was a real disaster, not just some dumb green rain. Something to shake everything up, you know? Not that I want people to get hurt... I just want to feel alive... To feel like I have a purpose...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 56,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Well that was a dud. And here I thought it was finally my chance to be a hero. Oh well... Back to the grindstone.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 57,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Is there any more food?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 58,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh no... *gulp*... It's mostly salad this year...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 59,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hey, [Player]. To tell you the truth, I don't really like festivals. But I'd feel even worse if I stayed at home, knowing everyone else was out here having fun.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 60,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Need any ores?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 61,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wonder if Emily would dance with me?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 62,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sigh* Everyone is partnered up... and here I am alone, once again… Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 63,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I'm full, but what else is there to do besides eat?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 64,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*munch* This festival always has the best food.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 65,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I wore my special shoes tonight... No one noticed.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 66,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I got too close to a wave, and it soaked my foot...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 67,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I complain about my job sometimes, but I do take pride in my work. These are some of my finest pieces. I hope you like them.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 68,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world. I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 69,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“One of my iridium-infused maces would make quick work of these things.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 70,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I already made it through the maze... now it's time to kick back with a pumpkin ale! ...I'm trying my best to ignore the spider infestation behind me.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 71,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Emily started helping me without any provocation... does that mean something? *gulp*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 72,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“These lumps of snow won't form into balls… I think I'm better working in the heat than in the cold.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 73,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I have a doctor's appointment tomorrow... Maybe the mermaid show will calm my nerves? But what if they think I'm ogling... *gulp*”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 74,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“*sigh*... All these happy families. But for me, just another lonely year.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 75,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I could use some new blacksmithing tools. Mine have gotten a little rusty over the years.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 76,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Yep. I'm a blacksmith. My father was also a blacksmith. My grandfather was a blacksmith as well. I bet you can't guess what my great-grandfather was...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 77,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Clint#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amethyst",
+      "text": "Amethyst"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Aquamarine",
+      "text": "Aquamarine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke_Dip",
+      "text": "Artichoke Dip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emerald",
+      "text": "Emerald"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Risotto",
+      "text": "Fiddlehead Risotto"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jade",
+      "text": "Jade"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omni_Geode",
+      "text": "Omni Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby",
+      "text": "Ruby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Topaz",
+      "text": "Topaz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Relationships",
+      "text": "2 Relationships"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Gifts",
+      "text": "3 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Love",
+      "text": "3.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Like",
+      "text": "3.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Neutral",
+      "text": "3.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Dislike",
+      "text": "3.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Hate",
+      "text": "3.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Movies_.26_Concessions",
+      "text": "4 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Heart_Events",
+      "text": "5 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Anytime",
+      "text": "5.1 Anytime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Three_Hearts_I",
+      "text": "5.2 Three Hearts I"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Three_Hearts_II",
+      "text": "5.3 Three Hearts II"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Six_Hearts",
+      "text": "5.4 Six Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Seven_Hearts",
+      "text": "5.5 Seven Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Quotes",
+      "text": "6 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Questions",
+      "text": "7 Questions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Quests",
+      "text": "8 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Portraits",
+      "text": "9 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Trivia",
+      "text": "10 Trivia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#History",
+      "text": "11 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villager"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Beach_Resort",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oasis",
+      "text": "Oasis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Calico Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival#Villager_Shops",
+      "text": "booth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Harvey's Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey%27s_Clinic",
+      "text": "Clinic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blacksmith",
+      "text": "Blacksmith"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "The Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "the saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus#Quotes",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Amethyst.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amethyst",
+      "text": "Amethyst"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Aquamarine.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Aquamarine",
+      "text": "Aquamarine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Artichoke_Dip.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke_Dip",
+      "text": "Artichoke Dip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Milk",
+      "text": "Milk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Emerald.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emerald",
+      "text": "Emerald"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Fiddlehead_Risotto.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Risotto",
+      "text": "Fiddlehead Risotto"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "Cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Fern",
+      "text": "Fiddlehead Fern"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Gold_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Ore",
+      "text": "Gold Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Ore",
+      "text": "Iridium Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Jade.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jade",
+      "text": "Jade"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Omni_Geode.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omni_Geode",
+      "text": "Omni Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ruby.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ruby",
+      "text": "Ruby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Topaz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Topaz",
+      "text": "Topaz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flowers",
+      "text": "Flowers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Copper_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Bar",
+      "text": "Copper Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Ore",
+      "text": "Copper Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iron_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Bar",
+      "text": "Iron Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Ore",
+      "text": "Iron Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Mining_Monthly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining_Monthly",
+      "text": "Mining Monthly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Books",
+      "text": "Books"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining_Monthly",
+      "text": "Mining Monthly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Egg",
+      "text": "Void Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Tree Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Coal.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Gold_Ore.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Ore",
+      "text": "Gold Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Ore.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Ore",
+      "text": "Iridium Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Refined_Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Refined_Quartz",
+      "text": "Refined Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "Coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Bar",
+      "text": "Copper Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Ore",
+      "text": "Gold Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Ore",
+      "text": "Iridium Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Bar",
+      "text": "Iron Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omni_Geode",
+      "text": "Omni Geode"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Refined_Quartz",
+      "text": "Refined Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flowers",
+      "text": "Flowers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmonberry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Bar",
+      "text": "Copper Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Bar",
+      "text": "Iron Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon",
+      "text": "saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Algae_Soup",
+      "text": "Algae Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint#Three_Hearts_I",
+      "text": "\"Three Hearts I\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily#Eight_Hearts",
+      "text": "Eight Heart Event"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily#Ten_Hearts",
+      "text": "Ten Heart event"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bean_Hotpot",
+      "text": "Bean Hotpot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "the Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Desert_Festival",
+      "text": "Desert Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "The Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spirit%27s_Eve",
+      "text": "Spirit's Eve"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Forging_Ahead",
+      "text": "\"Forging Ahead\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Copper_Ore",
+      "text": "Copper Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting",
+      "text": "crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Clint.27s_Attempt",
+      "text": "\"Clint's Attempt\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amethyst",
+      "text": "Amethyst"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#A_Favor_For_Clint",
+      "text": "\"A Favor for Clint\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Bar",
+      "text": "Iron Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coal",
+      "text": "coal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monsters",
+      "text": "Monsters"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Cave_Patrol",
+      "text": "\"Cave Patrol\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bats",
+      "text": "Bats"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dust_Sprite",
+      "text": "Dust Sprites"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skeleton",
+      "text": "Skeletons"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grub",
+      "text": "Grubs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Geode_Crusher",
+      "text": "Geode Crusher"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Surprised.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Joja_Cola.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Dress_Up.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Dress_Up_2.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Winter_00.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Winter_01.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Winter_02.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Winter_04.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Winter_03.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Winter_05.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Beach.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Beach_Happy.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Beach_Concerned.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Clint_Beach_Annoyed.png",
+      "text": ""
+    },
+    {
+      "href": "https://www.reddit.com/r/StardewValley/comments/q804ir/",
+      "text": "source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiddlehead_Risotto",
+      "text": "Fiddlehead Risotto"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring#Shirts",
+      "text": "Blacksmith Apron"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&oldid=191347",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&oldid=191347"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Clint",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Clint",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Clint",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Clint",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Clint",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&oldid=191347",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Clint",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Clint",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Clint",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Clint",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%ED%81%B4%EB%A6%B0%ED%8A%B8",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Clint",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Clint",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9A%D0%BB%D0%B8%D0%BD%D1%82",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Clint",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%85%8B%E6%9E%97%E7%89%B9",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+      "alt": "Clint.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Amethyst.png/24px-Amethyst.png",
+      "alt": "Amethyst.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/24px-Aquamarine.png",
+      "alt": "Aquamarine.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/77/Artichoke_Dip.png/24px-Artichoke_Dip.png",
+      "alt": "Artichoke Dip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Emerald.png/24px-Emerald.png",
+      "alt": "Emerald.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Fiddlehead_Risotto.png/24px-Fiddlehead_Risotto.png",
+      "alt": "Fiddlehead Risotto.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png",
+      "alt": "Gold Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c4/Iridium_Bar.png/24px-Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Jade.png/24px-Jade.png",
+      "alt": "Jade.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/09/Omni_Geode.png/24px-Omni_Geode.png",
+      "alt": "Omni Geode.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Ruby.png/24px-Ruby.png",
+      "alt": "Ruby.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Topaz.png/24px-Topaz.png",
+      "alt": "Topaz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Clint_Happy.png/48px-Clint_Happy.png",
+      "alt": "Clint Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png",
+      "alt": "Amethyst.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png",
+      "alt": "Aquamarine.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Artichoke_Dip.png",
+      "alt": "Artichoke Dip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/dd/Artichoke.png/24px-Artichoke.png",
+      "alt": "Artichoke.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/24px-Milk.png",
+      "alt": "Milk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png",
+      "alt": "Emerald.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png",
+      "alt": "Fiddlehead Risotto.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/48/Fiddlehead_Fern.png/24px-Fiddlehead_Fern.png",
+      "alt": "Fiddlehead Fern.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cc/Garlic.png/24px-Garlic.png",
+      "alt": "Garlic.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png",
+      "alt": "Gold Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f7/Gold_Ore.png/24px-Gold_Ore.png",
+      "alt": "Gold Ore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Coal.png/24px-Coal.png",
+      "alt": "Coal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e9/Iridium_Ore.png/24px-Iridium_Ore.png",
+      "alt": "Iridium Ore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Coal.png/24px-Coal.png",
+      "alt": "Coal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png",
+      "alt": "Jade.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png",
+      "alt": "Omni Geode.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png",
+      "alt": "Ruby.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png",
+      "alt": "Topaz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Clint_Happy.png/48px-Clint_Happy.png",
+      "alt": "Clint Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Copper_Bar.png",
+      "alt": "Copper Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Copper_Ore.png/24px-Copper_Ore.png",
+      "alt": "Copper Ore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Coal.png/24px-Coal.png",
+      "alt": "Coal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6c/Iron_Bar.png",
+      "alt": "Iron Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Iron_Ore.png/24px-Iron_Ore.png",
+      "alt": "Iron Ore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Coal.png/24px-Coal.png",
+      "alt": "Coal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Mining_Monthly.png",
+      "alt": "Mining Monthly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Clint.png/48px-Clint.png",
+      "alt": "Clint.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a7/Coal.png",
+      "alt": "Coal.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Gold_Ore.png",
+      "alt": "Gold Ore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Iridium_Ore.png",
+      "alt": "Iridium Ore.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/98/Refined_Quartz.png",
+      "alt": "Refined Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Clint_Concerned.png/48px-Clint_Concerned.png",
+      "alt": "Clint Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+      "alt": "Salmonberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Clint_Concerned.png/48px-Clint_Concerned.png",
+      "alt": "Clint Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Fries.png/24px-Fries.png",
+      "alt": "Fries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0b/Apple_Slices.png/24px-Apple_Slices.png",
+      "alt": "Apple Slices.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Black_Licorice.png/24px-Black_Licorice.png",
+      "alt": "Black Licorice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/54/Hummus_Snack_Pack.png/24px-Hummus_Snack_Pack.png",
+      "alt": "Hummus Snack Pack.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Jasmine_Tea.png/24px-Jasmine_Tea.png",
+      "alt": "Jasmine Tea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Joja_Cola_%28large%29.png/24px-Joja_Cola_%28large%29.png",
+      "alt": "Joja Cola (large).png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/JojaCorn.png/24px-JojaCorn.png",
+      "alt": "JojaCorn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/61/Kale_Smoothie.png/24px-Kale_Smoothie.png",
+      "alt": "Kale Smoothie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Panzanella_Salad.png/24px-Panzanella_Salad.png",
+      "alt": "Panzanella Salad.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/32px-Copper_Bar.png",
+      "alt": "Copper Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Iron_Bar.png/32px-Iron_Bar.png",
+      "alt": "Iron Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/32px-Gold_Bar.png",
+      "alt": "Gold Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Three_Hearts.png",
+      "alt": "Three Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Three_Hearts.png",
+      "alt": "Three Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/53/Algae_Soup.png",
+      "alt": "Algae Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Six_Hearts.png",
+      "alt": "Six Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Seven_Hearts.png",
+      "alt": "Seven Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png",
+      "alt": "Bean Hotpot.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/20/Recipe_Overlay.png",
+      "alt": "48"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+      "alt": "Clint.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Clint_Happy.png",
+      "alt": "Clint Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Clint_Concerned.png",
+      "alt": "Clint Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Clint_Surprised.png",
+      "alt": "Clint Surprised.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/89/Clint_Annoyed.png",
+      "alt": "Clint Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Clint_Joja_Cola.png",
+      "alt": "Clint Joja Cola.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Clint_Dress_Up.png",
+      "alt": "Clint Dress Up.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/83/Clint_Dress_Up_2.png",
+      "alt": "Clint Dress Up 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4f/Clint_Winter_00.png",
+      "alt": "Clint Winter 00.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1f/Clint_Winter_01.png",
+      "alt": "Clint Winter 01.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/af/Clint_Winter_02.png",
+      "alt": "Clint Winter 02.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Clint_Winter_04.png",
+      "alt": "Clint Winter 04.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/36/Clint_Winter_03.png",
+      "alt": "Clint Winter 03.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/42/Clint_Winter_05.png",
+      "alt": "Clint Winter 05.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Clint_Beach.png",
+      "alt": "Clint Beach.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Clint_Beach_Happy.png",
+      "alt": "Clint Beach Happy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Clint_Beach_Concerned.png",
+      "alt": "Clint Beach Concerned.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/29/Clint_Beach_Annoyed.png",
+      "alt": "Clint Beach Annoyed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Clint - Stardew Valley Wiki",
+      "headline": "Clint - Stardew Valley Wiki",
+      "mainEntityOfPage": "Clint",
+      "identifier": "https://stardewvalleywiki.com/Clint",
+      "url": "https://stardewvalleywiki.com/Clint",
+      "description": "Clint is a villager who lives in Pelican Town. He owns and runs the local Blacksmith.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Clint, gift",
+      "dateModified": "2026-02-26T20:16:59Z",
+      "datePublished": "2026-02-26T20:16:59Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Clint - Stardew Valley Wiki Clint From Stardew Valley Wiki Jump to navigation Jump to search Clint Information Birthday Winter 26 Lives In Pelican Town Address Blacksmith Marriage No Clinic Visit Winter 16 Loved Gifts Amethyst Aquamarine Artichoke Dip Emerald Fiddlehead Risotto Gold Bar Iridium Bar Jade Omni Geode Ruby Topaz Contents 1 Schedule 2 Relationships 3 Gifts 3.1 Love 3.2 Like 3.3 Neutral 3.4 Dislike 3.5 Hate 4 Movies & Concessions 5 Heart Events 5.1 Anytime 5.2 Three Hearts I 5.3 Three Hearts II 5.4 Six Hearts 5.5 Seven Hearts 6 Quotes 7 Questions 8 Quests 9 Portraits 10 Trivia 11 History “ “It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.” — Clint Clint is a villager who lives in Pelican Town . He owns and runs the local Blacksmith . Schedule Clint is unavailable for shopping, tool upgrades, or geode processing on Fridays after the Community Center is restored, unless it is raining. After the Beach Resort on Ginger Island is unlocked, Clint may randomly spend Friday there. After leaving the Island at 6pm, Clint will immediately go home to bed. Shown below are Clint's schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it. Spring 16 (Bus Service Restored) 11:20 AM Boards the bus to Calico Desert to attend the Desert Festival . 11:40 AM Stands east of the Oasis . 1:30 AM Boards the bus back to the Valley. Desert Festival (As Vendor) 11:10 AM Boards the bus to Calico Desert . 11:30 AM Arrives at his booth . 12:00 AM Leaves booth and takes the bus back to the Valley. Winter 15 8:50 AM Behind the counter of the Blacksmith . 5:00 PM Leaves the Blacksmith to attend the Night Market . 12:00 AM Returns to the Blacksmith to sleep. Winter 16 9:00 AM Behind the counter of the Blacksmith . 10:30 AM Leaves the Blacksmith to go to the waiting room of Harvey's Clinic . 1:30 PM Moves to the left examination room in the Clinic. 4:00 PM Leaves the Clinic for The Saloon . 12:00 AM Returns home to sleep. Green Rain (Year 1) 6:00 AM Leaves home and heads to the Saloon . 7:20 AM In the Saloon. Rain 9:00 AM Behind the counter of the Blacksmith . 5:00 PM Moves to work on the anvil. 7:00 PM Heads to The Saloon . 12:00 AM Returns home to sleep. Friday (Community Center Restored) 8:50 AM Leaves home, heads to the Community Center Boiler Room. 5:00 PM Leaves the Community Center and heads to The Saloon . 12:00 AM Returns home to sleep. Regular Schedule 9:00 AM Behind the counter of the Blacksmith . 5:00 PM Moves to work on the anvil. 7:00 PM Heads to The Saloon . 8:20 PM In the Saloon. 12:00 AM Returns home to sleep. Relationships Clint often visits the saloon in order to socialize with Emily , who he has a crush on but is nervous to approach. A dialogue with Gus indicates that he suspects Clint's crush but has decided to not ask him about it. A note found in Clint's bedroom confirms his feelings, reading: “ “Dear Emily, I know you only think of me as a friend. It's my fault. I'm too shy. I'll never have the courage to tell you the truth. That's why I'm writing this letter to myself that I'll certainly crumple up and toss in the corner.” Gifts Main article: Friendship See also: List of All Gifts You can give Clint up to two gifts per week (plus one on his birthday), which will raise or lower his friendship with you. Gifts on his birthday ( 26 Winter ) will have 8× effect and show a unique dialogue. For loved, liked, or neutral gifts, Clint responds “ “I don't usually get birthday gifts. This actually means a lot, <player>. Thank you.” For disliked or hated gifts, Clint responds “ “Is this a birthday gift? It's, uh... an interesting choice. Well I appreciate that you remembered me, anyway.” Love “ “Yes! This is exactly what I've been looking for!” Stardrop Tea “ “You're giving this... to me? I don't think I deserve it, but... thank you.” Image Name Description Source Ingredients All Universal Loves Amethyst A purple variant of quartz. Mining Aquamarine A shimmery blue-green gem. Mining Artichoke Dip It's cool and refreshing. Cooking Artichoke (1) Milk (1) Emerald A precious stone with a brilliant green color. Mining Fiddlehead Risotto A creamy rice dish served with sauteed fern heads. It's a little bland. Cooking Oil (1) Fiddlehead Fern (1) Garlic (1) Gold Bar A bar of pure gold. Furnace Gold Ore (5) Coal (1) Iridium Bar A bar of pure iridium. Furnace Iridium Ore (5) Coal (1) Jade A pale green ornamental stone. Mining Omni Geode A blacksmith can break this open for you. These geodes contain a wide variety of minerals. Mining Ruby A precious stone that is sought after for its rich color and beautiful luster. Mining Topaz Fairly common but still prized for its beauty. Mining Like “ “This is a fun gift. Thanks!” Mining Monthly “ “Oh, interesting... These books aren't very easy to come by in the valley. Looks like there's a lot of good tips in here. Thanks, (Name).” Image Name Description Source Ingredients All Universal Likes (except Flowers ) Copper Bar A bar of pure copper. Furnace Copper Ore (5) Coal (1) Iron Bar A bar of pure iron. Furnace Iron Ore (5) Coal (1) Mining Monthly Read this to gain some mining experience. Books Neutral “ “Thanks.” Image Name Description Source All Universal Neutrals (except Mining Monthly ) All Eggs (except Void Egg )* All Fruit (except Fruit Tree Fruit & Salmonberry ) All Milk Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Coal A combustible rock that is useful for crafting and smelting. Mining Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Gold Ore A precious ore that can be smelted into bars. Mining Hazelnut That's one big hazelnut! Foraging - Fall Iridium Ore An exotic ore with many curious properties. Can be smelted into bars. Mining Leek A tasty relative of the onion. Foraging - Spring Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Refined Quartz A more pure form of quartz. Furnace Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Winter Root A starchy tuber. Foraging - Winter * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Dislike “ “*Sigh*...” Image Name Description Source All Universal Dislikes (except Coal , Copper Bar , Gold Bar , Gold Ore , Iridium Bar , Iridium Ore , Iron Bar , Omni Geode , & Refined Quartz ) All Flowers (except Poppy ) Quartz A clear crystal commonly found in caves and mines. Foraging - The Mines Salmonberry A spring-time berry with the flavor of the forest. Foraging - Spring Wild Horseradish A spicy root found in the spring. Foraging - Spring Hate “ “This makes me depressed.” Image Name Description Source All Universal Hates Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Movies & Concessions Main article: Movie Theater Love N/A Like It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus Dislike The Zuzu City Express Love Fries Stardrop Sorbet Dislike Apple Slices Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad Like Everything else Heart Events Anytime At any friendship level greater than zero friendship points, you may receive a gift in the mail from Clint. The chance of receiving a gift in the mail increases as your friendship with Clint increases. Details Item Description Copper Bar Iron Bar Gold Bar Um, Hello... Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it. -Clint, the blacksmith Three Hearts I Visit the saloon between 7pm and 11pm on a Monday. Details Clint says he has terrible luck with women, and asks for your advice. \"Impress women with your strength and charm.\" (+25 friendship .) He responds, \"Okay... I'll keep that in mind.\" \"Act crazy, to keep people guessing.\" (+25 friendship .) He responds, \"Okay... I'll keep that in mind.\" \"Just act natural... be yourself.\" (No effect on friendship .) He responds, \"That's the problem... I do act natural... but I never have any success.\" \"Treat women the same as men.\" (+50 friendship .) He responds, \"Okay... I'll keep that in mind.\" Emily walks over to take Clint's order. Clint panics: \"Yes! (pause) Er.. I mean, I'll have the Big n' Cheesy. With extra sauce, please. (pause) \" Emily greets you, and Clint continues: \"Er... *ahem* Th...Thanks, Emily. For... taking my order. Um, Emily? I was...*gulp*... I was wondering... (pause) \" Emily prompts him, but Clint gives up and says nevermind. Emily pauses as sad music plays, then moves away to take Shane's order. Emily and Shane chat easily, and Clint is crestfallen: \"*sigh* I'm doomed...\" Three Hearts II Clint sends you a recipe in the mail. Details Image Recipe Description Algae Soup Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint Six Hearts Enter town from Cindersap Forest between 9am and 6:30pm. Only happens if you saw his \"Three Hearts I\" event. Note: This event will not trigger if you are married to Emily , or have seen or triggered her Eight Heart Event or Ten Heart event . Details You find Clint watching Emily from the bushes. He says he was going to ask Emily out on a date, and got as far as her doorstep before he heard her coming and dove into the bushes. He says he's waiting for her to finish talking with Caroline so he can sneak back to his house. You threaten Clint with never upgrading your tools again if he doesn't ask her out, and he begrudgingly agrees. He approaches Emily and asks to speak to her privately. \"I was wondering if you'd go w... with... tomorrow, me... *gulp* (pause) I've got two tickets for the Grampleton Carnival tomorrow. W... Would you go with me?\" Emily says that sounds like fun and accepts; Clint responds that he'll pick her up tomorrow. Clint is ecstatic and nervous. He thanks you for forcing him to finally ask her out. Seven Hearts Clint sends you a recipe in the mail. Details Image Recipe Description Bean Hotpot Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint Quotes Regular First Meeting “ “Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.” Regular “ “If you want me to upgrade your tools you'll have to give me the correct ore. And you'll have to pay me a fee, of course.” “ “Hey. What do you need?” “ “Business has been slow lately. You should upgrade your tools. I could use the cash.” “ “The weather doesn't really matter to me. I typically stay near my shop year-round. Depressing, huh?” “ “Sometimes I wonder how I ended up in this town.” “ “Don't you have work to do?” “ “So how are your tools holding up?” After passing out in the Mines “ “...I found you unconscious in the mines. I think I blew my back out, dragging you all the way up here. Be a little more careful next time, okay?” 6+ Hearts “ “Oh, hi [Player]. Sorry If I look a little messy. I've been working at the furnace all morning. So, did you need anything, or do you just want to visit?” “ “Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work.” 8+ Hearts, Friday “ “I should save up and buy a computer. Maybe I can find a girlfriend on the 'internet'... What? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know! What's a guy like me supposed to do? *Groan*” Summer “ “Be glad you're a farmer, [Player]. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.” “ “Business has been slow lately. You should upgrade your tools. I could use the cash.” At Ginger Island “ “I'm gonna put on my special red trunks. They're supposed to be really eye-catching.” “ “Oh no... I forgot to clip my toenails.” “ “I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. I hope no one noticed...” “ “Ow... my whole torso is burnt to a crisp.” “ “I'm hungry...” “ “*sigh*... We're all at the beach but I still feel so alone...” “ “Well, that didn't turn out like I was imagining...” If the player starts dating Emily “ “I... um... heard that you and Emily are together. Congratulations.” Green Rain Year 1 “ “It's situations like this where a person's true character is put to the test. I'll keep Em... I mean, I'll keep everyone safe from the toxic rain!” Years 2+ “ “I feel bad admitting it, but sometimes I wish there was a real disaster, not just some dumb green rain. Something to shake everything up, you know? Not that I want people to get hurt... I just want to feel alive... To feel like I have a purpose...” Green rain finished (next day) “ “Well that was a dud. And here I thought it was finally my chance to be a hero. Oh well... Back to the grindstone.” Events Egg Festival Odd-numbered year “ “Is there any more food?” Even-numbered year “ “Oh no... *gulp*... It's mostly salad this year...” Desert Festival “ “Hey, [Player]. To tell you the truth, I don't really like festivals. But I'd feel even worse if I stayed at home, knowing everyone else was out here having fun.” If a shop owner “ “Need any ores?” Flower Dance Odd-numbered year “ “I wonder if Emily would dance with me?” Even-numbered year “ “*sigh* Everyone is partnered up... and here I am alone, once again… Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.” The Luau Odd-numbered year “ “I'm full, but what else is there to do besides eat?” Even-numbered year “ “*munch* This festival always has the best food.” Dance of the Moonlight Jellies Odd-numbered year “ “I wore my special shoes tonight... No one noticed.” Even-numbered year “ “I got too close to a wave, and it soaked my foot...” Stardew Valley Fair Odd-numbered year “ “I complain about my job sometimes, but I do take pride in my work. These are some of my finest pieces. I hope you like them.” Even-numbered year “ “It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world. I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!” Spirit's Eve Odd-numbered year “ “One of my iridium-infused maces would make quick work of these things.” Even-numbered year “ “I already made it through the maze... now it's time to kick back with a pumpkin ale! ...I'm trying my best to ignore the spider infestation behind me.” Festival of Ice Odd-numbered year “ “Emily started helping me without any provocation... does that mean something? *gulp*” Even-numbered year “ “These lumps of snow won't form into balls… I think I'm better working in the heat than in the cold.” Night Market “ “I have a doctor's appointment tomorrow... Maybe the mermaid show will calm my nerves? But what if they think I'm ogling... *gulp*” Feast of the Winter Star Odd-numbered year “ “*sigh*... All these happy families. But for me, just another lonely year.” Even-numbered year “ “I could use some new blacksmithing tools. Mine have gotten a little rusty over the years.” Questions Monday “ “Yep. I'm a blacksmith. My father was also a blacksmith. My grandfather was a blacksmith as well. I bet you can't guess what my great-grandfather was...” A blacksmith. (+30 friendship .) \"How'd you know?\" A silly clown. (+50 friendship .) \"Hahahaha. Good one.\" A sarcastic jerk. (-50 friendship .) \"Wow. That was rude. I was just being funny and you took it to a whole new level.\" Quests \"Forging Ahead\" : The morning after you collect your first Copper Ore , Clint will visit and give you the blueprints for crafting a Furnace . \"Clint's Attempt\" : Clint will send you a letter on the 6th of Winter asking that you give Emily an Amethyst and tell her it's from him. The reward is 1 Friendship heart with Emily. \"A Favor for Clint\" : Clint will send you a letter on the 17th of Winter asking you to bring him an Iron Bar . The reward is data-sort-value=\"500\"> 500g and 1 Friendship heart. Clint may randomly request ores or coal at the \"Help Wanted\" board outside Pierre's General Store . The reward is an amount of gold that varies by requested item/amount. Note that you do not need to have any ore/coal in inventory to finish the quest. Once the required items are gathered, simply talking to Clint will complete the quest. Handing him any amount of ore or coal will always result in gifting him one of them. Clint may randomly request that you kill a certain number of Monsters or bring him a random item at the \"Help Wanted\" board . The reward for killing monsters is an amount of gold that varies by the type and number of monsters requested. The reward for item delivery is 3x the item's base value and 150 Friendship points. \"Cave Patrol\" : On the Special Orders board in front of the Mayor's Manor , Clint may randomly request that the player slay 50 Bats , Dust Sprites , Skeletons , or Grubs . The reward is data-sort-value=\"6000\"> 6,000g and the Geode Crusher recipe. Portraits Trivia According to a tape in a boombox in Clint's room, he is a fan of the blues. As shown in the picture of him holding a Joja Cola, Clint has only four fingers on his left hand. Clint's 7 heart recipe is the Bean Hotpot, and Emily has a quote during Winter asking if the player knows how to cook that recipe. This hints that Clint has perhaps introduced her to the dish, or learned it for her. Developer ConcernedApe has stated that Clint's age is \"late 30s-40ish\" ( source ). Clint's apron can be tailored with 1 Cloth and 1 Fiddlehead Risotto , creating the Blacksmith Apron . History 1.4 : Fixed bug where all recipes would be sent at 3 friendship hearts. Fixed bug where 6 heart event wouldn't trigger if entering town on a horse. Removed ore gathering quest exploits. 1.5 : Added beach portraits. 1.6 : Added custom gift reactions. Added winter portraits. Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Clint&oldid=191347 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 26 February 2026, at 20:16. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

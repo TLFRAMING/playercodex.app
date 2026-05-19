@@ -1,0 +1,261 @@
+[
+  {
+    "slug": "keg-empire",
+    "verifiedSourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Fruit",
+      "https://stardewvalleywiki.com/Starfruit",
+      "https://stardewvalleywiki.com/Starfruit_Seeds",
+      "https://stardewvalleywiki.com/Keg",
+      "https://stardewvalleywiki.com/Wine",
+      "https://stardewvalleywiki.com/Greenhouse",
+      "https://stardewvalleywiki.com/Farming"
+    ],
+    "verifiedClaims": [
+      {
+        "claim": "Ancient Fruit grows after 28 days and continues to produce every 7 days after maturity.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Ancient_Fruit",
+        "confidence": "high"
+      },
+      {
+        "claim": "Starfruit Seeds cost 400g at the Oasis.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Starfruit_Seeds",
+        "confidence": "high"
+      },
+      {
+        "claim": "Starfruit grows in summer and has a 13-day growth time.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Starfruit",
+        "confidence": "high"
+      },
+      {
+        "claim": "The Keg processes fruit and vegetables into beverages and artisan goods.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Keg",
+        "confidence": "high"
+      },
+      {
+        "claim": "Wine is made in a Keg from any fruit.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Wine",
+        "confidence": "high"
+      },
+      {
+        "claim": "Wine value is based on fruit value, with normal wine selling for three times the fruit base price before profession or aging modifiers.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Wine",
+        "confidence": "high"
+      },
+      {
+        "claim": "The Greenhouse has a 10 by 12 growing area and can grow crops from any season.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Greenhouse",
+        "confidence": "high"
+      },
+      {
+        "claim": "The Artisan profession increases artisan goods sell price by 40%.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Farming",
+        "confidence": "high"
+      }
+    ],
+    "unverifiedClaims": [
+      {
+        "claim": "Mature greenhouse Ancient Fruit wine produces about 277,200g per week.",
+        "reason": "Derived route estimate: sources verify 120 greenhouse tiles, Ancient Fruit weekly regrowth, wine value, and Artisan modifier, but no source states this complete scenario directly."
+      },
+      {
+        "claim": "30 Starfruit wine bridge batch produces about 94,500g gross.",
+        "reason": "Derived estimate: sources verify Starfruit wine value mechanics, but the 30-fruit batch scenario is not directly sourced."
+      }
+    ],
+    "recommendedMoneyGuideChanges": {
+      "sourceUrls": [
+        "https://stardewvalleywiki.com/Ancient_Fruit",
+        "https://stardewvalleywiki.com/Starfruit",
+        "https://stardewvalleywiki.com/Starfruit_Seeds",
+        "https://stardewvalleywiki.com/Keg",
+        "https://stardewvalleywiki.com/Wine",
+        "https://stardewvalleywiki.com/Greenhouse",
+        "https://stardewvalleywiki.com/Farming"
+      ],
+      "confidence": "medium",
+      "profitEstimates": [
+        {
+          "label": "Mature greenhouse Ancient Fruit wine",
+          "confidence": "medium"
+        },
+        {
+          "label": "Starfruit bridge batch",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Wiki verified crop timing, greenhouse constraints, Keg/Wine mechanics, and Artisan profession. Profit estimates are derived route math and should not be marked high."
+    }
+  },
+  {
+    "slug": "truffle-pigs",
+    "verifiedSourceUrls": [
+      "https://stardewvalleywiki.com/Pig",
+      "https://stardewvalleywiki.com/Truffle",
+      "https://stardewvalleywiki.com/Truffle_Oil",
+      "https://stardewvalleywiki.com/Oil_Maker",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "verifiedClaims": [
+      {
+        "claim": "Pigs live in Deluxe Barns and produce Truffles.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Pig",
+        "confidence": "high"
+      },
+      {
+        "claim": "A mature and fed pig produces Truffles when required conditions are met.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Pig",
+        "confidence": "high"
+      },
+      {
+        "claim": "Pigs do not produce Truffles in winter.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Pig",
+        "confidence": "high"
+      },
+      {
+        "claim": "Truffle has a base sell value of 625g.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Truffle",
+        "confidence": "high"
+      },
+      {
+        "claim": "Truffle Oil has a base sell value of 1,065g.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Truffle_Oil",
+        "confidence": "high"
+      },
+      {
+        "claim": "Oil Maker processes Truffle into Truffle Oil.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Oil_Maker",
+        "confidence": "high"
+      },
+      {
+        "claim": "Gatherer gives a chance to double harvested foraged items and Botanist makes foraged items highest quality.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Foraging",
+        "confidence": "high"
+      }
+    ],
+    "unverifiedClaims": [
+      {
+        "claim": "Ten mature pigs selling iridium truffles directly produces about 3.15M per year.",
+        "reason": "Derived route estimate: sources verify animal mechanics, truffle values, oil value, and professions, but no source states this full annual model directly."
+      },
+      {
+        "claim": "Direct iridium truffle sales are always preferable to Truffle Oil.",
+        "reason": "The comparison depends on profession choices, quality assumptions, processing capacity, and labor preference; it should be presented as contextual."
+      }
+    ],
+    "recommendedMoneyGuideChanges": {
+      "sourceUrls": [
+        "https://stardewvalleywiki.com/Pig",
+        "https://stardewvalleywiki.com/Truffle",
+        "https://stardewvalleywiki.com/Truffle_Oil",
+        "https://stardewvalleywiki.com/Oil_Maker",
+        "https://stardewvalleywiki.com/Foraging"
+      ],
+      "confidence": "medium",
+      "profitEstimates": [
+        {
+          "label": "Ten mature pigs, direct iridium truffle sales",
+          "confidence": "needs verification"
+        }
+      ],
+      "notes": "Wiki verified pig production constraints, Truffle and Truffle Oil values, Oil Maker processing, and Foraging profession relevance. The annual profit estimate remains a route model."
+    }
+  },
+  {
+    "slug": "fairy-rose-honey",
+    "verifiedSourceUrls": [
+      "https://stardewvalleywiki.com/Bee_House",
+      "https://stardewvalleywiki.com/Honey",
+      "https://stardewvalleywiki.com/Fairy_Rose",
+      "https://stardewvalleywiki.com/Ginger_Island"
+    ],
+    "verifiedClaims": [
+      {
+        "claim": "Bee Houses produce Honey every 4 days during valid outdoor seasons and do not produce in winter.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Bee_House",
+        "confidence": "high"
+      },
+      {
+        "claim": "Bee Houses can make flower honey when a grown flower is nearby.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Bee_House",
+        "confidence": "high"
+      },
+      {
+        "claim": "Bee Houses indoors, including in the Greenhouse, do not produce honey.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Bee_House",
+        "confidence": "high"
+      },
+      {
+        "claim": "Honey value depends on nearby flower type.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Honey",
+        "confidence": "high"
+      },
+      {
+        "claim": "Fairy Rose Honey has a sell value of 680g.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Honey",
+        "confidence": "high"
+      },
+      {
+        "claim": "Fairy Rose is a fall flower crop.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Fairy_Rose",
+        "confidence": "high"
+      },
+      {
+        "claim": "Ginger Island includes the Island Farm location.",
+        "status": "verified",
+        "sourceUrl": "https://stardewvalleywiki.com/Ginger_Island",
+        "confidence": "medium"
+      }
+    ],
+    "unverifiedClaims": [
+      {
+        "claim": "A 44 Bee House Fairy Rose array produces about 1.17M per year.",
+        "reason": "Derived layout estimate: sources verify Bee House cycle and Fairy Rose Honey value, but not this exact layout or annual model."
+      },
+      {
+        "claim": "The exact Bee House flower range/layout should be used for a diagram.",
+        "reason": "Bee House page verifies nearby flower mechanics, but any specific diagram should be separately checked against tile range rules before publication."
+      },
+      {
+        "claim": "Island Farm page details were directly verified.",
+        "reason": "The Island Farm extraction failed; Ginger Island page was used instead for island relevance."
+      }
+    ],
+    "recommendedMoneyGuideChanges": {
+      "sourceUrls": [
+        "https://stardewvalleywiki.com/Bee_House",
+        "https://stardewvalleywiki.com/Honey",
+        "https://stardewvalleywiki.com/Fairy_Rose",
+        "https://stardewvalleywiki.com/Ginger_Island"
+      ],
+      "confidence": "medium",
+      "profitEstimates": [
+        {
+          "label": "Compact Fairy Rose Honey array",
+          "confidence": "needs verification"
+        }
+      ],
+      "notes": "Wiki verified Bee House production, flower honey mechanics, Fairy Rose Honey value, and Ginger Island relevance. Layout and yearly profit remain derived estimates."
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Island_Farm",
+  "finalUrl": "",
+  "fetchedAt": "2026-05-18T05:02:28.700864+00:00",
+  "title": "",
+  "description": "",
+  "canonicalUrl": "",
+  "headings": [],
+  "tables": [],
+  "links": [],
+  "images": [],
+  "jsonLd": [],
+  "visibleText": "",
+  "confidence": "low",
+  "warnings": [
+    "Fetch or parse failed: HTTP Error 404: Not Found"
+  ]
+}

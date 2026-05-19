@@ -1,0 +1,4182 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Coffee_Bean",
+  "finalUrl": "https://stardewvalleywiki.com/Coffee_Bean",
+  "fetchedAt": "2026-05-18T13:38:35.618697+00:00",
+  "title": "Coffee Bean - Stardew Valley Wiki",
+  "description": "A Coffee Bean is a plantable seed that is also the crop harvested from the plants. Coffee Beans grow after 10 days and continue to produce every 2 days after maturity in Spring and Summer. The primary source of Coffee Beans is Dust Sprites, but they are only rarely dropped (1% chance). They may also randomly appear in the Traveling Cart's Special Stock for data-sort-value=\"2500\">2,500g (25% chance in Fall/Winter) or Standard Stock for data-sort-value=\"15\"100–1,000g (during all seasons). Coffee Beans cannot be purchased from any other stores.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Coffee Bean"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Stages"
+    },
+    {
+      "level": 2,
+      "text": "Crop Growth Calendar"
+    },
+    {
+      "level": 2,
+      "text": "Multi-Seasonal Crop"
+    },
+    {
+      "level": 2,
+      "text": "Crafting"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Notes"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "15g"
+        ],
+        [
+          "",
+          "18g"
+        ],
+        [
+          "",
+          "22g"
+        ],
+        [
+          "",
+          "30g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "150g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "Stage 4",
+        "Stage 5",
+        "Harvest",
+        "After-Harvest"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1 Day",
+          "2 Days",
+          "2 Days",
+          "3 Days",
+          "2 Days",
+          "Total: 10 Days",
+          "Regrowth: 2 Days"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Base"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Season 2 Base (if planted on Spring 1)"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "10%*"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "25%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [
+        "33%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [
+        "20%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [
+        "35%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "43%"
+      ],
+      "rows": [
+        [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Ingredient",
+        "Equipment",
+        "Time",
+        "Sell Price"
+      ],
+      "rows": [
+        [
+          "",
+          "Coffee",
+          "It smells delicious. This is sure to give you a boost.",
+          "Coffee Bean (5)",
+          "Keg",
+          "120m (2h)",
+          "data-sort-value=\"150\">150g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Dislike",
+          "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [
+        "Seeds, Starters, and Saplings"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Apricot Sapling • Bean Starter • Carrot Seeds • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb"
+        ],
+        [
+          "Summer",
+          "Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Summer Squash Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds"
+        ],
+        [
+          "Fall",
+          "Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Broccoli Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds"
+        ],
+        [
+          "Winter",
+          "Powdermelon Seeds • Winter Seeds"
+        ],
+        [
+          "Other",
+          "Acorn • Ancient Seeds • Banana Sapling • Blue Grass Starter • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Flower Seeds • Mixed Seeds • Mossy Seed • Mushroom Tree Seed • Mystic Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Coffee_Bean.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dust_Sprite",
+      "text": "Dust Sprite"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "Farming XP"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dust_Sprite",
+      "text": "Dust Sprites"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Tiller"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Stages",
+      "text": "1 Stages"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Crop_Growth_Calendar",
+      "text": "2 Crop Growth Calendar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Multi-Seasonal_Crop",
+      "text": "3 Multi-Seasonal Crop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Crafting",
+      "text": "4 Crafting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Gifting",
+      "text": "5 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Bundles",
+      "text": "6 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Recipes",
+      "text": "7 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Tailoring",
+      "text": "8 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Quests",
+      "text": "9 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#Notes",
+      "text": "10 Notes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean#History",
+      "text": "11 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "text": "Hyper Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Farming",
+      "text": "Agriculturist Profession"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Coffee.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee",
+      "text": "Coffee"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Keg.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles",
+      "text": "Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Shirt154.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Flannel Shirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dyeing",
+      "text": "dyeing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blobfish",
+      "text": "Blobfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Fish Pond quest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Triple_Shot_Espresso",
+      "text": "Triple Shot Espresso"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.1",
+      "text": "1.1"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Fish Pond quest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apricot_Sapling",
+      "text": "Apricot Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bean_Starter",
+      "text": "Bean Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot_Seeds",
+      "text": "Carrot Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower_Seeds",
+      "text": "Cauliflower Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cherry_Sapling",
+      "text": "Cherry Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic_Seeds",
+      "text": "Garlic Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jazz_Seeds",
+      "text": "Jazz Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale_Seeds",
+      "text": "Kale Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip_Seeds",
+      "text": "Parsnip Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato_Seeds",
+      "text": "Potato Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice_Shoot",
+      "text": "Rice Shoot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb_Seeds",
+      "text": "Rhubarb Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring_Seeds",
+      "text": "Spring Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry_Seeds",
+      "text": "Strawberry Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip_Bulb",
+      "text": "Tulip Bulb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry_Seeds",
+      "text": "Blueberry Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn_Seeds",
+      "text": "Corn Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops_Starter",
+      "text": "Hops Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon_Seeds",
+      "text": "Melon Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Orange_Sapling",
+      "text": "Orange Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Peach_Sapling",
+      "text": "Peach Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pepper_Seeds",
+      "text": "Pepper Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy_Seeds",
+      "text": "Poppy Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish_Seeds",
+      "text": "Radish Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage_Seeds",
+      "text": "Red Cabbage Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spangle_Seeds",
+      "text": "Spangle Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Seeds",
+      "text": "Summer Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash_Seeds",
+      "text": "Summer Squash Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower_Seeds",
+      "text": "Sunflower Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit_Seeds",
+      "text": "Starfruit Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato_Seeds",
+      "text": "Tomato Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Seeds",
+      "text": "Wheat Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth_Seeds",
+      "text": "Amaranth Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Apple_Sapling",
+      "text": "Apple Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke_Seeds",
+      "text": "Artichoke Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet_Seeds",
+      "text": "Beet Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy_Seeds",
+      "text": "Bok Choy Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli_Seeds",
+      "text": "Broccoli Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn_Seeds",
+      "text": "Corn Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberry_Seeds",
+      "text": "Cranberry Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant_Seeds",
+      "text": "Eggplant Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Seeds",
+      "text": "Fairy Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall_Seeds",
+      "text": "Fall Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape_Starter",
+      "text": "Grape Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pomegranate_Sapling",
+      "text": "Pomegranate Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin_Seeds",
+      "text": "Pumpkin Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rare_Seed",
+      "text": "Rare Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower_Seeds",
+      "text": "Sunflower Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Seeds",
+      "text": "Wheat Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam_Seeds",
+      "text": "Yam Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon_Seeds",
+      "text": "Powdermelon Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Seeds",
+      "text": "Winter Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Acorn",
+      "text": "Acorn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Seeds",
+      "text": "Ancient Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Banana_Sapling",
+      "text": "Banana Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Grass_Starter",
+      "text": "Blue Grass Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Seeds",
+      "text": "Cactus Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fiber_Seeds",
+      "text": "Fiber Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grass_Starter",
+      "text": "Grass Starter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mahogany_Seed",
+      "text": "Mahogany Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mango_Sapling",
+      "text": "Mango Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Seed",
+      "text": "Maple Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mixed_Flower_Seeds",
+      "text": "Mixed Flower Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mixed_Seeds",
+      "text": "Mixed Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mossy_Seed",
+      "text": "Mossy Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mushroom_Tree_Seed",
+      "text": "Mushroom Tree Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mystic_Tree_Seed",
+      "text": "Mystic Tree Seed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple_Seeds",
+      "text": "Pineapple Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Bean",
+      "text": "Qi Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Sapling",
+      "text": "Tea Sapling"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pine_Cone",
+      "text": "Pine Cone"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Tuber",
+      "text": "Taro Tuber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&oldid=192093",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&oldid=192093"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Summer_crops",
+      "text": "Summer crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Spring_crops",
+      "text": "Spring crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Spring_seeds",
+      "text": "Spring seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Summer_seeds",
+      "text": "Summer seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Multi-Seasonal_crops",
+      "text": "Multi-Seasonal crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Multiple_harvest_crops",
+      "text": "Multiple harvest crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Coffee+Bean",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Coffee+Bean",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Coffee_Bean",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Coffee_Bean",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Coffee_Bean",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&oldid=192093",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Kaffeebohne",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Grano_de_caf%C3%A9",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Grain_de_caf%C3%A9",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Chicco_di_caff%C3%A8",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EC%BB%A4%ED%94%BC%EC%BD%A9",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/K%C3%A1v%C3%A9bab",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Gr%C3%A3o_de_caf%C3%A9",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%9A%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B5%D1%80%D0%BD%D0%BE",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Kahve_%C3%87ekirde%C4%9Fi",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E5%92%96%E5%95%A1%E8%B1%86",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9c/Spring.png/24px-Spring.png",
+      "alt": "Spring.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e9/Coffee.png/24px-Coffee.png",
+      "alt": "Coffee.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/43/Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/25/Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/af/Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Coffee_Stage_6.png",
+      "alt": "Coffee Stage 6.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/43/Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/25/Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/25/Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/af/Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/af/Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/af/Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Coffee_Stage_1.png/36px-Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Coffee_Stage_2.png/36px-Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Coffee_Stage_3.png/36px-Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Coffee_Stage_1.png/36px-Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Coffee_Stage_2.png/36px-Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Coffee_Stage_3.png/36px-Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Coffee_Stage_1.png/36px-Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Coffee_Stage_2.png/36px-Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Coffee_Stage_3.png/36px-Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Coffee_Stage_1.png/36px-Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Coffee_Stage_2.png/36px-Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Coffee_Stage_3.png/36px-Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Coffee_Stage_1.png/36px-Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Coffee_Stage_2.png/36px-Coffee_Stage_2.png",
+      "alt": "Coffee Stage 2.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Coffee_Stage_3.png/36px-Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Coffee_Stage_1.png/36px-Coffee_Stage_1.png",
+      "alt": "Coffee Stage 1.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Coffee_Stage_3.png/36px-Coffee_Stage_3.png",
+      "alt": "Coffee Stage 3.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Coffee_Stage_4.png/36px-Coffee_Stage_4.png",
+      "alt": "Coffee Stage 4.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coffee_Stage_5.png/36px-Coffee_Stage_5.png",
+      "alt": "Coffee Stage 5.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Hyper_Speed-Gro.png/24px-Hyper_Speed-Gro.png",
+      "alt": "Hyper Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Coffee_Stage_7.png/36px-Coffee_Stage_7.png",
+      "alt": "Coffee Stage 7.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/36px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png",
+      "alt": "Coffee.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7c/Keg.png/40px-Keg.png",
+      "alt": "Keg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Shirt154.png/24px-Shirt154.png",
+      "alt": "Shirt154.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Coffee Bean - Stardew Valley Wiki",
+      "headline": "Coffee Bean - Stardew Valley Wiki",
+      "mainEntityOfPage": "Coffee Bean",
+      "identifier": "https://stardewvalleywiki.com/Coffee_Bean",
+      "url": "https://stardewvalleywiki.com/Coffee_Bean",
+      "description": "A Coffee Bean is a plantable seed that is also the crop harvested from the plants. Coffee Beans grow after 10 days and continue to produce every 2 days after maturity in Spring and Summer. The primary source of Coffee Beans is Dust Sprites, but they are only rarely dropped (1% chance). They may also randomly appear in the Traveling Cart's Special Stock for data-sort-value=\"2500\"&gt;2,500g (25% chance in Fall/Winter) or Standard Stock for data-sort-value=\"15\"100–1,000g (during all seasons). Coffee Beans cannot be purchased from any other stores.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Coffee Bean, gift",
+      "dateModified": "2026-04-02T00:07:30Z",
+      "datePublished": "2026-04-02T00:07:30Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Coffee Bean - Stardew Valley Wiki Coffee Bean From Stardew Valley Wiki Jump to navigation Jump to search Coffee Bean Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee. Information Source Dust Sprite • Traveling Cart Seed Coffee Bean Growth Time 10 days Season Spring • Summer XP 4 Farming XP per harvest Energy Inedible Sell Price 15g 18g 22g 30g Artisan Sell Price 150g A Coffee Bean is a plantable seed that is also the crop harvested from the plants. Coffee Beans grow after 10 days and continue to produce every 2 days after maturity in Spring and Summer . The primary source of Coffee Beans is Dust Sprites , but they are only rarely dropped (1% chance). They may also randomly appear in the Traveling Cart 's Special Stock for data-sort-value=\"2500\"> 2,500g (25% chance in Fall/Winter) or Standard Stock for data-sort-value=\"15\" 100–1,000g (during all seasons). Coffee Beans cannot be purchased from any other stores. When harvested, each plant gives four beans every 2 days, with a 2% chance for more beans. Basic Fertilizer and Quality Fertilizer affect only the first bean from every harvest. Because Coffee Bean is fundamentally considered to be a seed (rather than a vegetable or fruit), its sale price does not benefit from the Tiller profession. Also, it cannot be placed into a Preserves Jar . However, 5 Coffee Beans can be placed inside a Keg to produce Coffee . Contents 1 Stages 2 Crop Growth Calendar 3 Multi-Seasonal Crop 4 Crafting 5 Gifting 6 Bundles 7 Recipes 8 Tailoring 9 Quests 10 Notes 11 History Stages Stage 1 Stage 2 Stage 3 Stage 4 Stage 5 Harvest After-Harvest 1 Day 2 Days 2 Days 3 Days 2 Days Total: 10 Days Regrowth: 2 Days Crop Growth Calendar Base Mon Tue Wed Thu Fri Sat Sun Season 2 Base (if planted on Spring 1) Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison - Season 1 Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Agriculturist and Speed-Gro Comparison - Season 2 Speed-Gro Deluxe Speed-Gro Hyper Speed-Gro Regular 10%* Mon Tue Wed Thu Fri Sat Sun 25% Mon Tue Wed Thu Fri Sat Sun 33% Mon Tue Wed Thu Fri Sat Sun * Note that the 10% table also applies to the Agriculturist Profession without any fertilizer. Agriculturist 20% Mon Tue Wed Thu Fri Sat Sun 35% Mon Tue Wed Thu Fri Sat Sun 43% Mon Tue Wed Thu Fri Sat Sun Multi-Seasonal Crop Coffee Beans may be planted in both Spring and Summer. There is no difference in their behavior in either season. If a Coffee Bean plant (of any growth stage) is in the ground on the 28th of Spring, it will continue growing on the 1st of Summer as though nothing had changed. Fertilizer in the ground underneath a Coffee Bean plant on Spring 28 will not disappear on Summer 1. Crafting In order to make Coffee , 5 Coffee Beans from one stack must be put into the Keg. It is not possible, for example, to place 3 Coffee Beans of silver quality and 2 of gold quality into a Keg, because the different quality levels are not stackable with each other, and the Keg will only accept 5 Coffee Beans at a time. Image Name Description Ingredient Equipment Time Sell Price Coffee It smells delicious. This is sure to give you a boost. Coffee Bean (5) Keg 120m (2h) data-sort-value=\"150\"> 150g Gifting Villager Reactions Dislike Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard Bundles Coffee Bean is not used in any Bundles . Recipes Coffee Bean is not used in any recipes. Tailoring Coffee Bean is used in the spool of the Sewing Machine to create the dyeable Flannel Shirt . It can be used in dyeing , serving as an orange dye at the dye pots, located in Emily 's and Haley 's house, 2 Willow Lane . Quests Five Coffee Beans may be requested by Blobfish in a Fish Pond quest to increase the capacity of the pond from 3 to 5. Notes For Coffee Beans of Gold Star quality (sold at data-sort-value=\"22\"> 22g each) or lower, it is always more profitable to brew the beans into coffee before shipping. Each coffee is sold at data-sort-value=\"150\"> 150g each, regardless of the quality level of the source beans. Using Iridium-star Coffee Beans to brew coffee is not profitable, because the price of 5 Iridium beans ( data-sort-value=\"30\"> 30g each) is equal to 1 Coffee ( data-sort-value=\"150\"> 150g each). There is no price difference between selling 3 Coffees and 1 Triple Shot Espresso , so it is more time efficient to simply ship the Coffee. History 1.1 : Introduced. 1.4 : Can now be used in Tailoring . Can be requested in a Fish Pond quest . 1.5 : Iridium quality is now possible when using Deluxe Fertilizer . Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves Seeds, Starters, and Saplings Spring Apricot Sapling • Bean Starter • Carrot Seeds • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb Summer Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Summer Squash Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds Fall Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Broccoli Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds Winter Powdermelon Seeds • Winter Seeds Other Acorn • Ancient Seeds • Banana Sapling • Blue Grass Starter • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Flower Seeds • Mixed Seeds • Mossy Seed • Mushroom Tree Seed • Mystic Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Coffee_Bean&oldid=192093 \" Categories : Summer crops Spring crops Spring seeds Summer seeds Multi-Seasonal crops Multiple harvest crops Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 2 April 2026, at 00:07. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

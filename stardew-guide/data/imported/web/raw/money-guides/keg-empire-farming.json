@@ -1,0 +1,3089 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Farming",
+  "finalUrl": "https://stardewvalleywiki.com/Farming",
+  "fetchedAt": "2026-05-18T05:02:23.763074+00:00",
+  "title": "Farming - Stardew Valley Wiki",
+  "description": "Farming is the skill associated with planting, growing, and harvesting crops on the farm, and also the care of farm animals. It's one of the main income sources for the game, and provides most of the ingredients for cooking.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Farming"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Farming Skill"
+    },
+    {
+      "level": 3,
+      "text": "Effect of Coopmaster and Shepherd on Animal Product Quality Frequency"
+    },
+    {
+      "level": 4,
+      "text": "Complete Formula"
+    },
+    {
+      "level": 3,
+      "text": "Crop Quality Frequency"
+    },
+    {
+      "level": 4,
+      "text": "Normal soil"
+    },
+    {
+      "level": 4,
+      "text": "Soil with Basic Fertilizer"
+    },
+    {
+      "level": 4,
+      "text": "Soil with Quality Fertilizer"
+    },
+    {
+      "level": 4,
+      "text": "Soil with Deluxe Fertilizer"
+    },
+    {
+      "level": 4,
+      "text": "Complete Formula"
+    },
+    {
+      "level": 2,
+      "text": "Experience Points"
+    },
+    {
+      "level": 2,
+      "text": "Food"
+    },
+    {
+      "level": 2,
+      "text": "Crops"
+    },
+    {
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [
+        "Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5"
+      ],
+      "rows": [
+        [
+          "Crafting Recipes:",
+          "Crafting Recipes:",
+          "Crafting / Cooking Recipes:",
+          "Crafting Recipes:",
+          "Choose a Profession:"
+        ],
+        [
+          "Scarecrow Basic Fertilizer",
+          "Mayonnaise Machine Stone Fence Sprinkler",
+          "Bee House Speed-Gro Farmer's Lunch",
+          "Preserves Jar Basic Retaining Soil Iron Fence",
+          "Rancher Animal products worth 20% more.",
+          "Tiller Crops worth 10% more. (Bonus applies to all Vegetables and Flowers, plus any Fruit that has not been foraged)"
+        ],
+        [
+          ""
+        ],
+        [
+          "Level 6",
+          "Level 7",
+          "Level 8",
+          "Level 9",
+          "Level 10"
+        ],
+        [
+          "Crafting Recipes:",
+          "Crafting Recipes:",
+          "Crafting Recipes:",
+          "Crafting Recipes:",
+          "Rancher:",
+          "Tiller:"
+        ],
+        [
+          "Cheese Press Hardwood Fence Quality Sprinkler",
+          "Loom Quality Retaining Soil",
+          "Oil Maker Keg Deluxe Speed-Gro",
+          "Seed Maker Iridium Sprinkler Quality Fertilizer",
+          "Coopmaster Befriend coop animals quicker. Incubation time (for Incubator, Ostrich Incubator, and Slime Incubator) cut in half. (Also improves coop product quality, see details here)",
+          "Artisan Artisan goods (wine, cheese, oil, etc.) worth 40% more. (Note that oil does not actually benefit from the Artisan Profession)"
+        ],
+        [
+          "Shepherd Befriend barn animals quicker. Sheep produce wool faster. (Also improves barn product quality, see details here)",
+          "Agriculturist All crops grow 10% faster."
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [
+        "Profession",
+        "% Iridium quality",
+        "% Gold quality",
+        "% Silver quality"
+      ],
+      "rows": [
+        [
+          "No (or other) Profession",
+          "56.665%",
+          "24.556%",
+          "18.779%"
+        ],
+        [
+          "Coopmaster or Shepherd",
+          "73.315%",
+          "19.564%",
+          "7.121%"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [
+        "Details"
+      ],
+      "rows": [
+        [
+          "The game normally calculates animal product quality using a score for each animal with the following formula: ((Friendship/1000) - (1 - (Mood/225)) (interestingly, the game doesn't factor in daily luck in this calculation) For example, an animal with 1000 Friendship and 255 Mood (max friendship and mood) would be calculated thus: =((1000/1000) - (1 - (255/225)) =1 - (1 - 1.1333...) =1 + 0.1333... =1.1333... The game will begin checking what quality to create by first seeing if the whole score is above 0.95. If it is, the score divided by 2 will be compared against a random number between 0-1. If the score divided by 2 is greater than the random number, the item will be Iridium quality. If the score is below 0.95 or the check fails, the score divided by 2 will then be compared against a random number between 0-1. If the score divided by 2 is greater than the random number, the item will be Gold quality. If that check also fails, the whole score will then be compared against a random number between 0-1. If it is greater than the random number, the item will be Silver quality. Finally, if that check also fails, the item will be normal quality (though in the example above, the score is higher than 1, so a check for silver quality will always succeed if the two prior fail). (Note that the 0.333 bonus to the score by the Coopmaster and Shepherd professions is applied to the whole score, not the halved score.) Since the score is above 1 and the odds of normal quality produce can be ignored, the odds in this example without the bonus 0.333 can be calculated as: 1.1333 / 2 = 0.56665 = 56.665% iridium (1 - 0.56665) × (1.1333 / 2) = 0.24556 = 24.556% gold 1 - 0.56665 - 0.24556 = 0.18779 = 18.779% silver Since iridium products are worth 2× base price, gold products are worth 1.5× base price, and silver products are worth 1.25× base price, we can then calculate the percentage of base price in profits this results in: =(0.56665 × 2) + (0.24556 × 1.5) + (0.18779 × 1.25) = 1.13330 + 0.36834 + 0.23474 = 1.73638 = 173.638%"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [
+        "Farming level",
+        "% Regular quality",
+        "% Silver quality",
+        "% Gold quality",
+        "Average price"
+      ],
+      "rows": [
+        [
+          "0",
+          "97%",
+          "2%",
+          "1%",
+          "1.01"
+        ],
+        [
+          "1",
+          "91%",
+          "6%",
+          "3%",
+          "1.03"
+        ],
+        [
+          "2",
+          "85%",
+          "10%",
+          "5%",
+          "1.05"
+        ],
+        [
+          "3",
+          "80%",
+          "13%",
+          "7%",
+          "1.07"
+        ],
+        [
+          "4",
+          "75%",
+          "16%",
+          "9%",
+          "1.09"
+        ],
+        [
+          "5",
+          "69%",
+          "20%",
+          "11%",
+          "1.10"
+        ],
+        [
+          "6",
+          "64%",
+          "23%",
+          "13%",
+          "1.12"
+        ],
+        [
+          "7",
+          "60%",
+          "25%",
+          "15%",
+          "1.14"
+        ],
+        [
+          "8",
+          "55%",
+          "28%",
+          "17%",
+          "1.16"
+        ],
+        [
+          "9",
+          "50%",
+          "31%",
+          "19%",
+          "1.17"
+        ],
+        [
+          "10",
+          "46%",
+          "33%",
+          "21%",
+          "1.19"
+        ],
+        [
+          "11",
+          "42%",
+          "35%",
+          "23%",
+          "1.20"
+        ],
+        [
+          "12",
+          "38%",
+          "37%",
+          "25%",
+          "1.22"
+        ],
+        [
+          "13",
+          "34%",
+          "39%",
+          "27%",
+          "1.23"
+        ],
+        [
+          "14",
+          "30%",
+          "41%",
+          "29%",
+          "1.25"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [
+        "Farming level",
+        "% Regular quality",
+        "% Silver quality",
+        "% Gold quality",
+        "Average price"
+      ],
+      "rows": [
+        [
+          "0",
+          "88%",
+          "8%",
+          "4%",
+          "1.04"
+        ],
+        [
+          "1",
+          "77%",
+          "15%",
+          "8%",
+          "1.08"
+        ],
+        [
+          "2",
+          "68%",
+          "20%",
+          "12%",
+          "1.11"
+        ],
+        [
+          "3",
+          "59%",
+          "26%",
+          "15%",
+          "1.14"
+        ],
+        [
+          "4",
+          "50%",
+          "31%",
+          "19%",
+          "1.17"
+        ],
+        [
+          "5",
+          "42%",
+          "35%",
+          "23%",
+          "1.20"
+        ],
+        [
+          "6",
+          "35%",
+          "39%",
+          "26%",
+          "1.23"
+        ],
+        [
+          "7",
+          "28%",
+          "42%",
+          "30%",
+          "1.25"
+        ],
+        [
+          "8",
+          "22%",
+          "44%",
+          "34%",
+          "1.28"
+        ],
+        [
+          "9",
+          "16%",
+          "47%",
+          "37%",
+          "1.30"
+        ],
+        [
+          "10",
+          "15%",
+          "44%",
+          "41%",
+          "1.32"
+        ],
+        [
+          "11",
+          "14%",
+          "41%",
+          "45%",
+          "1.33"
+        ],
+        [
+          "12",
+          "13%",
+          "39%",
+          "48%",
+          "1.34"
+        ],
+        [
+          "13",
+          "12%",
+          "36%",
+          "52%",
+          "1.35"
+        ],
+        [
+          "14",
+          "11%",
+          "33%",
+          "56%",
+          "1.36"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [
+        "Farming level",
+        "% Regular quality",
+        "% Silver quality",
+        "% Gold quality",
+        "Average price"
+      ],
+      "rows": [
+        [
+          "0",
+          "78%",
+          "14%",
+          "8%",
+          "1.07"
+        ],
+        [
+          "1",
+          "64%",
+          "23%",
+          "13%",
+          "1.12"
+        ],
+        [
+          "2",
+          "52%",
+          "30%",
+          "18%",
+          "1.17"
+        ],
+        [
+          "3",
+          "40%",
+          "36%",
+          "24%",
+          "1.21"
+        ],
+        [
+          "4",
+          "30%",
+          "41%",
+          "29%",
+          "1.25"
+        ],
+        [
+          "5",
+          "21%",
+          "45%",
+          "34%",
+          "1.28"
+        ],
+        [
+          "6",
+          "15%",
+          "45%",
+          "40%",
+          "1.31"
+        ],
+        [
+          "7",
+          "14%",
+          "41%",
+          "45%",
+          "1.33"
+        ],
+        [
+          "8",
+          "13%",
+          "37%",
+          "50%",
+          "1.34"
+        ],
+        [
+          "9",
+          "11%",
+          "33%",
+          "56%",
+          "1.36"
+        ],
+        [
+          "10",
+          "10%",
+          "29%",
+          "61%",
+          "1.38"
+        ],
+        [
+          "11",
+          "9%",
+          "25%",
+          "66%",
+          "1.39"
+        ],
+        [
+          "12",
+          "7%",
+          "21%",
+          "72%",
+          "1.41"
+        ],
+        [
+          "13",
+          "6%",
+          "17%",
+          "77%",
+          "1.43"
+        ],
+        [
+          "14",
+          "4%",
+          "13%",
+          "82%",
+          "1.44"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [
+        "Farming level",
+        "% Silver quality",
+        "% Gold quality",
+        "% Iridium Quality",
+        "Average price"
+      ],
+      "rows": [
+        [
+          "0",
+          "84%",
+          "10%",
+          "6%",
+          "1.32"
+        ],
+        [
+          "1",
+          "75%",
+          "16%",
+          "9%",
+          "1.36"
+        ],
+        [
+          "2",
+          "66%",
+          "22%",
+          "13%",
+          "1.40"
+        ],
+        [
+          "3",
+          "57%",
+          "27%",
+          "16%",
+          "1.44"
+        ],
+        [
+          "4",
+          "49%",
+          "31%",
+          "20%",
+          "1.47"
+        ],
+        [
+          "5",
+          "42%",
+          "35%",
+          "23%",
+          "1.51"
+        ],
+        [
+          "6",
+          "35%",
+          "39%",
+          "27%",
+          "1.55"
+        ],
+        [
+          "7",
+          "28%",
+          "42%",
+          "30%",
+          "1.58"
+        ],
+        [
+          "8",
+          "22%",
+          "45%",
+          "34%",
+          "1.61"
+        ],
+        [
+          "9",
+          "16%",
+          "47%",
+          "37%",
+          "1.64"
+        ],
+        [
+          "10",
+          "11%",
+          "48%",
+          "41%",
+          "1.67"
+        ],
+        [
+          "11",
+          "7%",
+          "49%",
+          "44%",
+          "1.70"
+        ],
+        [
+          "12",
+          "3%",
+          "50%",
+          "47%",
+          "1.73"
+        ],
+        [
+          "13",
+          "0%",
+          "49%",
+          "51%",
+          "1.76"
+        ],
+        [
+          "14",
+          "0%",
+          "46%",
+          "55%",
+          "1.77"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Quality",
+        "Formula"
+      ],
+      "rows": [
+        [
+          "Gold",
+          "0.2 * (farming level / 10) + 0.2 * (fertilizer level) * ((farming level + 2) / 12) + 0.01"
+        ],
+        [
+          "Silver",
+          "2 * chance for gold quality (capped at 75%)"
+        ],
+        [
+          "Iridium",
+          "chance for gold quality / 2"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Spring"
+      ],
+      "rows": [
+        [
+          "Crop",
+          "XP"
+        ],
+        [
+          "Coffee Bean",
+          "4"
+        ],
+        [
+          "Tulip",
+          "7"
+        ],
+        [
+          "Unmilled Rice",
+          "7"
+        ],
+        [
+          "Carrot",
+          "8"
+        ],
+        [
+          "Parsnip",
+          "8"
+        ],
+        [
+          "Green Bean",
+          "9"
+        ],
+        [
+          "Blue Jazz",
+          "10"
+        ],
+        [
+          "Garlic",
+          "12"
+        ],
+        [
+          "Potato",
+          "14"
+        ],
+        [
+          "Kale",
+          "17"
+        ],
+        [
+          "Strawberry",
+          "18"
+        ],
+        [
+          "Cauliflower",
+          "23"
+        ],
+        [
+          "Rhubarb",
+          "26"
+        ],
+        [
+          "Ancient Fruit",
+          "38"
+        ],
+        [
+          "Cactus Fruit",
+          "14"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [
+        "Summer"
+      ],
+      "rows": [
+        [
+          "Crop",
+          "XP"
+        ],
+        [
+          "Coffee Bean",
+          "4"
+        ],
+        [
+          "Hops",
+          "6"
+        ],
+        [
+          "Wheat",
+          "6"
+        ],
+        [
+          "Hot Pepper",
+          "9"
+        ],
+        [
+          "Summer Squash",
+          "9"
+        ],
+        [
+          "Blueberry",
+          "10"
+        ],
+        [
+          "Corn",
+          "10"
+        ],
+        [
+          "Tomato",
+          "12"
+        ],
+        [
+          "Sunflower",
+          "5[2]"
+        ],
+        [
+          "Radish",
+          "15"
+        ],
+        [
+          "Summer Spangle",
+          "15"
+        ],
+        [
+          "Poppy",
+          "20"
+        ],
+        [
+          "Melon",
+          "27"
+        ],
+        [
+          "Red Cabbage",
+          "28"
+        ],
+        [
+          "Starfruit",
+          "43"
+        ],
+        [
+          "Ancient Fruit",
+          "38"
+        ],
+        [
+          "Cactus Fruit",
+          "14"
+        ],
+        [
+          "Taro Root",
+          "16"
+        ],
+        [
+          "Pineapple",
+          "30"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Fall"
+      ],
+      "rows": [
+        [
+          "Crop",
+          "XP"
+        ],
+        [
+          "Wheat",
+          "6"
+        ],
+        [
+          "Corn",
+          "10"
+        ],
+        [
+          "Eggplant",
+          "12"
+        ],
+        [
+          "Broccoli",
+          "13"
+        ],
+        [
+          "Bok Choy",
+          "14"
+        ],
+        [
+          "Cranberries",
+          "14"
+        ],
+        [
+          "Grape",
+          "14"
+        ],
+        [
+          "Sunflower",
+          "5[2]"
+        ],
+        [
+          "Beet",
+          "16"
+        ],
+        [
+          "Amaranth",
+          "21"
+        ],
+        [
+          "Artichoke",
+          "22"
+        ],
+        [
+          "Yam",
+          "22"
+        ],
+        [
+          "Fairy Rose",
+          "29"
+        ],
+        [
+          "Pumpkin",
+          "31"
+        ],
+        [
+          "Ancient Fruit",
+          "38"
+        ],
+        [
+          "Sweet Gem Berry",
+          "64"
+        ],
+        [
+          "Cactus Fruit",
+          "14"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Winter"
+      ],
+      "rows": [
+        [
+          "Crop",
+          "XP"
+        ],
+        [
+          "Powdermelon",
+          "12"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "Lvl",
+        "Total Lifetime Parsnips Harvested",
+        "Experience"
+      ],
+      "rows": [
+        [
+          "1",
+          "13",
+          "100"
+        ],
+        [
+          "2",
+          "48",
+          "380"
+        ],
+        [
+          "3",
+          "97",
+          "770"
+        ],
+        [
+          "4",
+          "163",
+          "1300"
+        ],
+        [
+          "5",
+          "269",
+          "2150"
+        ],
+        [
+          "6",
+          "413",
+          "3300"
+        ],
+        [
+          "7",
+          "600",
+          "4800"
+        ],
+        [
+          "8",
+          "863",
+          "6900"
+        ],
+        [
+          "9",
+          "1250",
+          "10000"
+        ],
+        [
+          "10",
+          "1875",
+          "15000"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "21 Spring, Year 2"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "14 Spring, Year 2"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "14 Summer, Year 2"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "Crops"
+      ],
+      "rows": [
+        [
+          "Spring",
+          "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+        ],
+        [
+          "Summer",
+          "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+        ],
+        [
+          "Fall",
+          "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+        ],
+        [
+          "Winter",
+          "Powdermelon"
+        ],
+        [
+          "Special",
+          "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Skills & Stats"
+      ],
+      "rows": [
+        [
+          "Skills",
+          "Farming • Mining • Foraging • Fishing • Combat"
+        ],
+        [
+          "Stats",
+          "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Farming#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills",
+      "text": "skill"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Farm",
+      "text": "the farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals",
+      "text": "farm animals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "cooking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "1 Farming Skill"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Effect_of_Coopmaster_and_Shepherd_on_Animal_Product_Quality_Frequency",
+      "text": "1.1 Effect of Coopmaster and Shepherd on Animal Product Quality Frequency"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Complete_Formula",
+      "text": "1.1.1 Complete Formula"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Crop_Quality_Frequency",
+      "text": "1.2 Crop Quality Frequency"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Normal_soil",
+      "text": "1.2.1 Normal soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Soil_with_Basic_Fertilizer",
+      "text": "1.2.2 Soil with Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Soil_with_Quality_Fertilizer",
+      "text": "1.2.3 Soil with Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Soil_with_Deluxe_Fertilizer",
+      "text": "1.2.4 Soil with Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Complete_Formula_2",
+      "text": "1.2.5 Complete Formula"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Experience_Points",
+      "text": "2 Experience Points"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Food",
+      "text": "3 Food"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Crops",
+      "text": "4 Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#References",
+      "text": "5 References"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#History",
+      "text": "6 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Farming_Skill_Icon.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Proficiency",
+      "text": "proficiency"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hoes",
+      "text": "Hoe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Watering_Cans",
+      "text": "Watering Can"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Almanac",
+      "text": "Stardew Valley Almanac"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Book_Of_Stars",
+      "text": "Book Of Stars"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scarecrow",
+      "text": "Scarecrow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "text": "Mayonnaise Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stone_Fence",
+      "text": "Stone Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sprinkler",
+      "text": "Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bee_House",
+      "text": "Bee House"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed-Gro",
+      "text": "Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmer%27s_Lunch",
+      "text": "Farmer's Lunch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Preserves_Jar",
+      "text": "Preserves Jar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Retaining_Soil",
+      "text": "Basic Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iron_Fence",
+      "text": "Iron Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals",
+      "text": "Animal"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vegetables",
+      "text": "Vegetables"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flowers",
+      "text": "Flowers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "foraged"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese_Press",
+      "text": "Cheese Press"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hardwood_Fence",
+      "text": "Hardwood Fence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "text": "Quality Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Loom",
+      "text": "Loom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Retaining_Soil",
+      "text": "Quality Retaining Soil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil_Maker",
+      "text": "Oil Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Keg",
+      "text": "Keg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "text": "Deluxe Speed-Gro"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seed_Maker",
+      "text": "Seed Maker"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "text": "Iridium Sprinkler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals#Coop_Animals",
+      "text": "coop animals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Incubator",
+      "text": "Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ostrich_Incubator",
+      "text": "Ostrich Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Incubator",
+      "text": "Slime Incubator"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Effect_of_Coopmaster_and_Shepherd_on_Animal_Product_Quality_Frequency",
+      "text": "here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals#Barn_Animals",
+      "text": "barn animals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sheep",
+      "text": "Sheep"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Effect_of_Coopmaster_and_Shepherd_on_Animal_Product_Quality_Frequency",
+      "text": "here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fertilizer",
+      "text": "Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Food",
+      "text": "Food"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Farming level"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Farming level"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Farming level"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#Farming_Skill",
+      "text": "Farming level"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "text": "Basic Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "text": "Deluxe Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#cite_note-qualitycrops-1",
+      "text": "[1]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Gold_Quality.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Silver_Quality.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Quality.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "cranberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Milk_Pail",
+      "text": "milking"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cow",
+      "text": "cow"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goat",
+      "text": "goat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shears",
+      "text": "shearing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sheep",
+      "text": "sheep"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coop",
+      "text": "coop"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Truffle",
+      "text": "Truffles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Almanac",
+      "text": "Stardew Valley Almanac"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Book_Of_Stars",
+      "text": "Book Of Stars"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#cite_note-sunflower-2",
+      "text": "[2]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#cite_note-sunflower-2",
+      "text": "[2]"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Modding:Objects",
+      "text": "Data/Objects.xnb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crafting#Seeds",
+      "text": "Wild Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cooking",
+      "text": "cooked dishes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Seasoning",
+      "text": "Qi Seasoning"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Complete_Breakfast.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Complete_Breakfast",
+      "text": "Complete Breakfast"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fried_Egg",
+      "text": "Fried Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Milk",
+      "text": "Milk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hashbrowns",
+      "text": "Hashbrowns"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pancakes",
+      "text": "Pancakes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Max Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hashbrowns.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hashbrowns",
+      "text": "Hashbrowns"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oil",
+      "text": "Oil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon#Menu",
+      "text": "Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Pepper_Poppers.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pepper_Poppers",
+      "text": "Pepper Poppers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cheese",
+      "text": "Cheese"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Tom_Kha_Soup.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tom_Kha_Soup",
+      "text": "Tom Kha Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coconut",
+      "text": "Coconut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shrimp",
+      "text": "Shrimp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Max Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Farmer%27s_Lunch.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farmer%27s_Lunch",
+      "text": "Farmer's Lunch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omelet",
+      "text": "Omelet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Maple_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Bar",
+      "text": "Maple Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maple_Syrup",
+      "text": "Maple Syrup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sugar",
+      "text": "Sugar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat_Flour",
+      "text": "Wheat Flour"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crops",
+      "text": "Crops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring#Crops",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Jazz",
+      "text": "Blue Jazz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carrot",
+      "text": "Carrot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cauliflower",
+      "text": "Cauliflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garlic",
+      "text": "Garlic"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Bean",
+      "text": "Green Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kale",
+      "text": "Kale"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parsnip",
+      "text": "Parsnip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Potato",
+      "text": "Potato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rhubarb",
+      "text": "Rhubarb"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Strawberry",
+      "text": "Strawberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tulip",
+      "text": "Tulip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Unmilled_Rice",
+      "text": "Unmilled Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer#Crops",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blueberry",
+      "text": "Blueberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coffee_Bean",
+      "text": "Coffee Bean"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hops",
+      "text": "Hops"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hot_Pepper",
+      "text": "Hot Pepper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Melon",
+      "text": "Melon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Poppy",
+      "text": "Poppy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radish",
+      "text": "Radish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Cabbage",
+      "text": "Red Cabbage"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Starfruit",
+      "text": "Starfruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Spangle",
+      "text": "Summer Spangle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer_Squash",
+      "text": "Summer Squash"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tomato",
+      "text": "Tomato"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall#Crops",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Amaranth",
+      "text": "Amaranth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artichoke",
+      "text": "Artichoke"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Beet",
+      "text": "Beet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bok_Choy",
+      "text": "Bok Choy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Broccoli",
+      "text": "Broccoli"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Corn",
+      "text": "Corn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cranberries",
+      "text": "Cranberries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eggplant",
+      "text": "Eggplant"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fairy_Rose",
+      "text": "Fairy Rose"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grape",
+      "text": "Grape"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pumpkin",
+      "text": "Pumpkin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunflower",
+      "text": "Sunflower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wheat",
+      "text": "Wheat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Yam",
+      "text": "Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter#Crops",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Powdermelon",
+      "text": "Powdermelon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ancient_Fruit",
+      "text": "Ancient Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cactus_Fruit",
+      "text": "Cactus Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pineapple",
+      "text": "Pineapple"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Qi_Fruit",
+      "text": "Qi Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sweet_Gem_Berry",
+      "text": "Sweet Gem Berry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Taro_Root",
+      "text": "Taro Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tea_Leaves",
+      "text": "Tea Leaves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#cite_ref-qualitycrops_1-0",
+      "text": "↑"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#cite_ref-sunflower_2-0",
+      "text": "2.0"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming#cite_ref-sunflower_2-1",
+      "text": "2.1"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.0",
+      "text": "1.0"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.1",
+      "text": "1.1"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artisan_Goods",
+      "text": "Artisan Goods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.2.26",
+      "text": "1.2.26"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.3.27",
+      "text": "1.3.27"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Almanac",
+      "text": "Stardew Valley Almanac"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Book_Of_Stars",
+      "text": "Book Of Stars"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Seeds",
+      "text": "Wild Seeds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills",
+      "text": "Skills"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills",
+      "text": "Skills"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mining",
+      "text": "Mining"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Combat",
+      "text": "Combat"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Attack",
+      "text": "Attack"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crit._Chance",
+      "text": "Crit. Chance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crit._Power",
+      "text": "Crit. Power"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Defense",
+      "text": "Defense"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Immunity",
+      "text": "Immunity"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luck",
+      "text": "Luck"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magnetism",
+      "text": "Magnetism"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Speed",
+      "text": "Speed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Weight",
+      "text": "Weight"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&oldid=191914",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&oldid=191914"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Farming",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Farming",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Talk:Farming",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Farming",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Farming",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&oldid=191914",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Hofarbeit",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Agricultura",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Agriculture",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Fattoria",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E8%BE%B2%E6%A5%AD",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%86%8D%EC%82%AC",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Kert%C3%A9szked%C3%A9s",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Cultivo",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/%C3%87ift%C3%A7ilik",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E8%80%95%E7%A7%8D",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Farming_Skill_Icon.png/32px-Farming_Skill_Icon.png",
+      "alt": "Farming Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/75/Scarecrow.png/24px-Scarecrow.png",
+      "alt": "Scarecrow.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9b/Basic_Fertilizer.png/24px-Basic_Fertilizer.png",
+      "alt": "Basic Fertilizer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ef/Mayonnaise_Machine.png/24px-Mayonnaise_Machine.png",
+      "alt": "Mayonnaise Machine.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Stone_Fence.png/24px-Stone_Fence.png",
+      "alt": "Stone Fence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/08/Sprinkler.png/24px-Sprinkler.png",
+      "alt": "Sprinkler.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bee_House.png/24px-Bee_House.png",
+      "alt": "Bee House.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png",
+      "alt": "Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/79/Farmer%27s_Lunch.png/24px-Farmer%27s_Lunch.png",
+      "alt": "Farmer's Lunch.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1e/Preserves_Jar.png/24px-Preserves_Jar.png",
+      "alt": "Preserves Jar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Basic_Retaining_Soil.png/24px-Basic_Retaining_Soil.png",
+      "alt": "Basic Retaining Soil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Iron_Fence.png/24px-Iron_Fence.png",
+      "alt": "Iron Fence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3c/Rancher.png/24px-Rancher.png",
+      "alt": "Rancher.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b2/Tiller.png/24px-Tiller.png",
+      "alt": "Tiller.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/79/Cheese_Press.png/24px-Cheese_Press.png",
+      "alt": "Cheese Press.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Hardwood_Fence.png/24px-Hardwood_Fence.png",
+      "alt": "Hardwood Fence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Quality_Sprinkler.png/24px-Quality_Sprinkler.png",
+      "alt": "Quality Sprinkler.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Loom.png/24px-Loom.png",
+      "alt": "Loom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0a/Quality_Retaining_Soil.png/24px-Quality_Retaining_Soil.png",
+      "alt": "Quality Retaining Soil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Oil_Maker.png/24px-Oil_Maker.png",
+      "alt": "Oil Maker.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7c/Keg.png/24px-Keg.png",
+      "alt": "Keg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Deluxe_Speed-Gro.png/24px-Deluxe_Speed-Gro.png",
+      "alt": "Deluxe Speed-Gro.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Seed_Maker.png/24px-Seed_Maker.png",
+      "alt": "Seed Maker.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/90/Iridium_Sprinkler.png/24px-Iridium_Sprinkler.png",
+      "alt": "Iridium Sprinkler.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a0/Quality_Fertilizer.png/24px-Quality_Fertilizer.png",
+      "alt": "Quality Fertilizer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/26/Coopmaster.png/24px-Coopmaster.png",
+      "alt": "Coopmaster.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/80/Shepherd.png/24px-Shepherd.png",
+      "alt": "Shepherd.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png",
+      "alt": "Agriculturist.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Gold_Quality.png/18px-Gold_Quality.png",
+      "alt": "Gold Quality.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Silver_Quality.png/18px-Silver_Quality.png",
+      "alt": "Silver Quality.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bc/Iridium_Quality.png/18px-Iridium_Quality.png",
+      "alt": "Iridium Quality.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Tulip.png/24px-Tulip.png",
+      "alt": "Tulip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fe/Unmilled_Rice.png/24px-Unmilled_Rice.png",
+      "alt": "Unmilled Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Carrot.png/24px-Carrot.png",
+      "alt": "Carrot.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+      "alt": "Parsnip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Green_Bean.png/24px-Green_Bean.png",
+      "alt": "Green Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Blue_Jazz.png/24px-Blue_Jazz.png",
+      "alt": "Blue Jazz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cc/Garlic.png/24px-Garlic.png",
+      "alt": "Garlic.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Potato.png/24px-Potato.png",
+      "alt": "Potato.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/24px-Kale.png",
+      "alt": "Kale.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Strawberry.png/24px-Strawberry.png",
+      "alt": "Strawberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Cauliflower.png/24px-Cauliflower.png",
+      "alt": "Cauliflower.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Rhubarb.png/24px-Rhubarb.png",
+      "alt": "Rhubarb.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Ancient_Fruit.png/24px-Ancient_Fruit.png",
+      "alt": "Ancient Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+      "alt": "Cactus Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/33/Coffee_Bean.png/24px-Coffee_Bean.png",
+      "alt": "Coffee Bean.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/59/Hops.png/24px-Hops.png",
+      "alt": "Hops.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+      "alt": "Wheat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png",
+      "alt": "Hot Pepper.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Summer_Squash.png/24px-Summer_Squash.png",
+      "alt": "Summer Squash.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Blueberry.png/24px-Blueberry.png",
+      "alt": "Blueberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+      "alt": "Corn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Tomato.png/24px-Tomato.png",
+      "alt": "Tomato.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png",
+      "alt": "Sunflower.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/Radish.png/24px-Radish.png",
+      "alt": "Radish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Summer_Spangle.png/24px-Summer_Spangle.png",
+      "alt": "Summer Spangle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/24px-Poppy.png",
+      "alt": "Poppy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+      "alt": "Melon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png",
+      "alt": "Red Cabbage.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Starfruit.png/24px-Starfruit.png",
+      "alt": "Starfruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Ancient_Fruit.png/24px-Ancient_Fruit.png",
+      "alt": "Ancient Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+      "alt": "Cactus Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Taro_Root.png/24px-Taro_Root.png",
+      "alt": "Taro Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Pineapple.png/24px-Pineapple.png",
+      "alt": "Pineapple.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+      "alt": "Wheat.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+      "alt": "Corn.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Eggplant.png/24px-Eggplant.png",
+      "alt": "Eggplant.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Broccoli.png/24px-Broccoli.png",
+      "alt": "Broccoli.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Bok_Choy.png/24px-Bok_Choy.png",
+      "alt": "Bok Choy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Cranberries.png/24px-Cranberries.png",
+      "alt": "Cranberries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/24px-Grape.png",
+      "alt": "Grape.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png",
+      "alt": "Sunflower.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Beet.png/24px-Beet.png",
+      "alt": "Beet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f6/Amaranth.png/24px-Amaranth.png",
+      "alt": "Amaranth.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/dd/Artichoke.png/24px-Artichoke.png",
+      "alt": "Artichoke.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/24px-Yam.png",
+      "alt": "Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Fairy_Rose.png/24px-Fairy_Rose.png",
+      "alt": "Fairy Rose.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+      "alt": "Pumpkin.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Ancient_Fruit.png/24px-Ancient_Fruit.png",
+      "alt": "Ancient Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Sweet_Gem_Berry.png/24px-Sweet_Gem_Berry.png",
+      "alt": "Sweet Gem Berry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+      "alt": "Cactus Fruit.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Powdermelon.png/24px-Powdermelon.png",
+      "alt": "Powdermelon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png",
+      "alt": "Complete Breakfast.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Fried_Egg.png/24px-Fried_Egg.png",
+      "alt": "Fried Egg.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/24px-Milk.png",
+      "alt": "Milk.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Hashbrowns.png/24px-Hashbrowns.png",
+      "alt": "Hashbrowns.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6b/Pancakes.png/24px-Pancakes.png",
+      "alt": "Pancakes.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Farming.png/24px-Farming.png",
+      "alt": "Farming.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Max_Energy.png/24px-Max_Energy.png",
+      "alt": "Max Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png",
+      "alt": "Hashbrowns.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Potato.png/24px-Potato.png",
+      "alt": "Potato.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png",
+      "alt": "Oil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Farming.png/24px-Farming.png",
+      "alt": "Farming.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Gus_Icon.png/24px-Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png",
+      "alt": "Pepper Poppers.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png",
+      "alt": "Hot Pepper.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Cheese.png/24px-Cheese.png",
+      "alt": "Cheese.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Farming.png/24px-Farming.png",
+      "alt": "Farming.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed.png/24px-Speed.png",
+      "alt": "Speed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/16px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png",
+      "alt": "Tom Kha Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/24px-Coconut.png",
+      "alt": "Coconut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Shrimp.png/24px-Shrimp.png",
+      "alt": "Shrimp.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Common_Mushroom.png/24px-Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Farming.png/24px-Farming.png",
+      "alt": "Farming.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Max_Energy.png/24px-Max_Energy.png",
+      "alt": "Max Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/16px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png",
+      "alt": "Farmer's Lunch.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/12/Omelet.png/24px-Omelet.png",
+      "alt": "Omelet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+      "alt": "Parsnip.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Farming.png/24px-Farming.png",
+      "alt": "Farming.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Farming_Skill_Icon.png/24px-Farming_Skill_Icon.png",
+      "alt": "Farming Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png",
+      "alt": "Maple Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png",
+      "alt": "Maple Syrup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Sugar.png/24px-Sugar.png",
+      "alt": "Sugar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/24px-Wheat_Flour.png",
+      "alt": "Wheat Flour.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Farming.png/24px-Farming.png",
+      "alt": "Farming.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Fishing.png/24px-Fishing.png",
+      "alt": "Fishing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/41/Mining.png/24px-Mining.png",
+      "alt": "Mining.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Farming - Stardew Valley Wiki",
+      "headline": "Farming - Stardew Valley Wiki",
+      "mainEntityOfPage": "Farming",
+      "identifier": "https://stardewvalleywiki.com/Farming",
+      "url": "https://stardewvalleywiki.com/Farming",
+      "description": "Farming is the skill associated with planting, growing, and harvesting crops on the farm, and also the care of farm animals. It's one of the main income sources for the game, and provides most of the ingredients for cooking.",
+      "dateModified": "2026-03-23T20:41:25Z",
+      "datePublished": "2026-03-23T20:41:25Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Farming - Stardew Valley Wiki Farming From Stardew Valley Wiki Jump to navigation Jump to search Farming is the skill associated with planting, growing, and harvesting crops on the farm , and also the care of farm animals . It's one of the main income sources for the game, and provides most of the ingredients for cooking . Contents 1 Farming Skill 1.1 Effect of Coopmaster and Shepherd on Animal Product Quality Frequency 1.1.1 Complete Formula 1.2 Crop Quality Frequency 1.2.1 Normal soil 1.2.2 Soil with Basic Fertilizer 1.2.3 Soil with Quality Fertilizer 1.2.4 Soil with Deluxe Fertilizer 1.2.5 Complete Formula 2 Experience Points 3 Food 4 Crops 5 References 6 History Farming Skill The farming skill level can be viewed in the skill tab of the pause menu. Each level grants +1 proficiency to the Hoe and Watering Can , which reduces the energy cost of using the tools. Higher farming skill also increases the chance to obtain quality crops. To level up farming skill requires experience points, which are gained by harvesting crops, petting farm animals, milking cows or goats, shearing sheep, picking up animal products inside a coop, or reading the Stardew Valley Almanac or Book Of Stars . Level 1 Level 2 Level 3 Level 4 Level 5 Crafting Recipes: Crafting Recipes: Crafting / Cooking Recipes: Crafting Recipes: Choose a Profession: Scarecrow Basic Fertilizer Mayonnaise Machine Stone Fence Sprinkler Bee House Speed-Gro Farmer's Lunch Preserves Jar Basic Retaining Soil Iron Fence Rancher Animal products worth 20% more. Tiller Crops worth 10% more. (Bonus applies to all Vegetables and Flowers , plus any Fruit that has not been foraged ) Level 6 Level 7 Level 8 Level 9 Level 10 Crafting Recipes: Crafting Recipes: Crafting Recipes: Crafting Recipes: Rancher: Tiller: Cheese Press Hardwood Fence Quality Sprinkler Loom Quality Retaining Soil Oil Maker Keg Deluxe Speed-Gro Seed Maker Iridium Sprinkler Quality Fertilizer Coopmaster Befriend coop animals quicker. Incubation time (for Incubator , Ostrich Incubator , and Slime Incubator ) cut in half. (Also improves coop product quality, see details here ) Artisan Artisan goods (wine, cheese, oil, etc.) worth 40% more. (Note that oil does not actually benefit from the Artisan Profession) Shepherd Befriend barn animals quicker. Sheep produce wool faster. (Also improves barn product quality, see details here ) Agriculturist All crops grow 10% faster. Effect of Coopmaster and Shepherd on Animal Product Quality Frequency On top of the ability in the skill description of befriending the relevant animal type faster (+30 friendship when petted instead of the base +15) and either halving incubation time or increasing wool production from sheep, the Coopmaster and Shepherd professions have a hidden benefit that isn't stated anywhere in the game. They each add 0.333 to the score used to calculate product quality for the animal type relevant to the skill. This results in substantially higher rates of iridium quality products. To illustrate, below is a table showing average frequency of iridium, gold and silver products with and without the Shepherd/Coopmaster professions for an animal with max friendship (5 hearts, 1000 friendship points) and max mood (255): Profession % Iridium quality % Gold quality % Silver quality No (or other) Profession 56.665% 24.556% 18.779% Coopmaster or Shepherd 73.315% 19.564% 7.121% Complete Formula Details The game normally calculates animal product quality using a score for each animal with the following formula: (( Friendship /1000) - (1 - ( Mood /225)) (interestingly, the game doesn't factor in daily luck in this calculation) For example, an animal with 1000 Friendship and 255 Mood (max friendship and mood) would be calculated thus: =(( 1000 /1000) - (1 - ( 255 /225)) =1 - (1 - 1.1333...) =1 + 0.1333... = 1.1333... The game will begin checking what quality to create by first seeing if the whole score is above 0.95. If it is, the score divided by 2 will be compared against a random number between 0-1. If the score divided by 2 is greater than the random number, the item will be Iridium quality. If the score is below 0.95 or the check fails, the score divided by 2 will then be compared against a random number between 0-1. If the score divided by 2 is greater than the random number, the item will be Gold quality. If that check also fails, the whole score will then be compared against a random number between 0-1. If it is greater than the random number, the item will be Silver quality. Finally, if that check also fails, the item will be normal quality (though in the example above, the score is higher than 1, so a check for silver quality will always succeed if the two prior fail). (Note that the 0.333 bonus to the score by the Coopmaster and Shepherd professions is applied to the whole score, not the halved score.) Since the score is above 1 and the odds of normal quality produce can be ignored, the odds in this example without the bonus 0.333 can be calculated as: 1.1333 / 2 = 0.56665 = 56.665% iridium (1 - 0.56665) × (1.1333 / 2) = 0.24556 = 24.556% gold 1 - 0.56665 - 0.24556 = 0.18779 = 18.779% silver Since iridium products are worth 2× base price, gold products are worth 1.5× base price, and silver products are worth 1.25× base price, we can then calculate the percentage of base price in profits this results in: =(0.56665 × 2) + (0.24556 × 1.5) + (0.18779 × 1.25) = 1.13330 + 0.36834 + 0.23474 = 1.73638 = 173.638% Crop Quality Frequency Quality is determined when the crop is harvested, and not when it is planted. For crops that produce multiples at harvest ( i.e., Coffee Bean , Blueberry , Cranberries ), Basic and Quality fertilizers affect only the first crop produced. First the game tests if the crop gets gold quality, if it doesn't it tries again with silver quality. If both fail the crop is normal quality. Quality is also dependent on the use of Fertilizer . The basic formula for finding a gold quality crop (not including fertilizer) is 1% + 2% per farming level. The basic formula for finding a silver quality crop is 2% + 4% per level, though the game must first fail to award a gold quality crop before it will check to award a silver quality crop, so the chances for a silver quality are slightly reduced. The tables below show the probabilities of harvesting each quality of crop. Note that it is possible to reach Farming level 11-14 with buffs from Food . Normal soil Farming level % Regular quality % Silver quality % Gold quality Average price 0 97% 2% 1% 1.01 1 91% 6% 3% 1.03 2 85% 10% 5% 1.05 3 80% 13% 7% 1.07 4 75% 16% 9% 1.09 5 69% 20% 11% 1.10 6 64% 23% 13% 1.12 7 60% 25% 15% 1.14 8 55% 28% 17% 1.16 9 50% 31% 19% 1.17 10 46% 33% 21% 1.19 11 42% 35% 23% 1.20 12 38% 37% 25% 1.22 13 34% 39% 27% 1.23 14 30% 41% 29% 1.25 Soil with Basic Fertilizer Farming level % Regular quality % Silver quality % Gold quality Average price 0 88% 8% 4% 1.04 1 77% 15% 8% 1.08 2 68% 20% 12% 1.11 3 59% 26% 15% 1.14 4 50% 31% 19% 1.17 5 42% 35% 23% 1.20 6 35% 39% 26% 1.23 7 28% 42% 30% 1.25 8 22% 44% 34% 1.28 9 16% 47% 37% 1.30 10 15% 44% 41% 1.32 11 14% 41% 45% 1.33 12 13% 39% 48% 1.34 13 12% 36% 52% 1.35 14 11% 33% 56% 1.36 Soil with Quality Fertilizer Farming level % Regular quality % Silver quality % Gold quality Average price 0 78% 14% 8% 1.07 1 64% 23% 13% 1.12 2 52% 30% 18% 1.17 3 40% 36% 24% 1.21 4 30% 41% 29% 1.25 5 21% 45% 34% 1.28 6 15% 45% 40% 1.31 7 14% 41% 45% 1.33 8 13% 37% 50% 1.34 9 11% 33% 56% 1.36 10 10% 29% 61% 1.38 11 9% 25% 66% 1.39 12 7% 21% 72% 1.41 13 6% 17% 77% 1.43 14 4% 13% 82% 1.44 Soil with Deluxe Fertilizer Normal quality crops cannot be produced when using Deluxe Fertilizer. Farming level % Silver quality % Gold quality % Iridium Quality Average price 0 84% 10% 6% 1.32 1 75% 16% 9% 1.36 2 66% 22% 13% 1.40 3 57% 27% 16% 1.44 4 49% 31% 20% 1.47 5 42% 35% 23% 1.51 6 35% 39% 27% 1.55 7 28% 42% 30% 1.58 8 22% 45% 34% 1.61 9 16% 47% 37% 1.64 10 11% 48% 41% 1.67 11 7% 49% 44% 1.70 12 3% 50% 47% 1.73 13 0% 49% 51% 1.76 14 0% 46% 55% 1.77 Complete Formula The probability that a crop's quality increases is linear with respect to your farming level and the soil fertilizer quality (0 for normal soil, 1 for Basic Fertilizer , 2 for Quality Fertilizer , and 3 for Deluxe Fertilizer ). That is, the probability increases the same amount with each level for the same fertilizer quality, and with each fertilizer quality for the same farming level. The formulas used in the game's code are as follows [1] : Quality Formula Gold 0.2 * (farming level / 10) + 0.2 * (fertilizer level) * ((farming level + 2) / 12) + 0.01 Silver 2 * chance for gold quality (capped at 75%) Iridium chance for gold quality / 2 Additionally, if the fertilizer is deluxe or better, then silver is the guaranteed minimum quality, and iridium is made possible. The game checks each formula in the order iridium, gold, and silver. Note the probability calculation must take that into account: for instance on a soil without deluxe fertilizer, silver quality can be selected only if gold has not been chosen, and then the global chance for silver is equal to (1 - chance for gold quality) * (minimum between (0.75) and (2 * chance for gold quality)) . Experience Points The amount of experience gained from harvesting crops varies from crop to crop, with more expensive crops giving more experience upon harvest. Crops with multiple harvests give experience for every harvest. Crops that yield multiple produce per harvest, such as blueberry , cranberry , or potato , only reward experience for the first product and do not offer any extra experience for the multiples. Petting a farm animal, milking a cow or goat , shearing a sheep , or picking up an animal product inside a coop gives 5 experience points each. (Picking up Truffles gives Foraging experience rather than Farming experience.) 250 Farming XP is gained for reading a copy of the Stardew Valley Almanac or Book Of Stars . To level up farming from level 0 to 1, it takes 13 parsnips, or 8 potatoes, or 5 cauliflowers. From level 0 to 2, it takes about 48 parsnips, or 28 potatoes, or 17 cauliflowers. Spring Crop XP Coffee Bean 4 Tulip 7 Unmilled Rice 7 Carrot 8 Parsnip 8 Green Bean 9 Blue Jazz 10 Garlic 12 Potato 14 Kale 17 Strawberry 18 Cauliflower 23 Rhubarb 26 Ancient Fruit 38 Cactus Fruit 14 Summer Crop XP Coffee Bean 4 Hops 6 Wheat 6 Hot Pepper 9 Summer Squash 9 Blueberry 10 Corn 10 Tomato 12 Sunflower 5 [2] Radish 15 Summer Spangle 15 Poppy 20 Melon 27 Red Cabbage 28 Starfruit 43 Ancient Fruit 38 Cactus Fruit 14 Taro Root 16 Pineapple 30 Fall Crop XP Wheat 6 Corn 10 Eggplant 12 Broccoli 13 Bok Choy 14 Cranberries 14 Grape 14 Sunflower 5 [2] Beet 16 Amaranth 21 Artichoke 22 Yam 22 Fairy Rose 29 Pumpkin 31 Ancient Fruit 38 Sweet Gem Berry 64 Cactus Fruit 14 Winter Crop XP Powdermelon 12 The experience points awarded are calculated using the formula XP=||16 × ln(0.018 × PRICE + 1)|| where PRICE is the base sell price of the crop (listed in Data/Objects.xnb ). High quality crops grant the same amount of XP as normal-quality crops. Harvesting forage plants grown from Wild Seeds grants 3 Farming experience points and 2 Foraging experience points per plant. Experience level is increased immediately upon harvesting, but the \"level up\" window doesn't appear until after going to sleep. Lvl Total Lifetime Parsnips Harvested Experience 1 13 100 2 48 380 3 97 770 4 163 1300 5 269 2150 6 413 3300 7 600 4800 8 863 6900 9 1250 10000 10 1875 15000 Food Certain cooked dishes will temporarily increase farming level. Qi Seasoning can be applied to further increase the stat buff for dishes cooked by the player. Image Name Description Ingredients Energy / Health Buff(s) Buff Duration Recipe Source(s) Sell Price Complete Breakfast You'll feel ready to take on the world! Fried Egg (1) Milk (1) Hashbrowns (1) Pancakes (1) 200 90 Farming (+2) Max Energy (+50) 7m The Queen of Sauce 21 Spring, Year 2 data-sort-value=\"350\"> 350g Hashbrowns Crispy and golden-brown! Potato (1) Oil (1) 90 40 Farming (+1) 5m 35s The Queen of Sauce 14 Spring, Year 2 Stardrop Saloon for data-sort-value=\"50\"> 50g data-sort-value=\"120\"> 120g Pepper Poppers Spicy breaded peppers filled with cheese. Hot Pepper (1) Cheese (1) 130 58 Farming (+2) Speed (+1) 7m Shane (Mail - 3+ ) data-sort-value=\"200\"> 200g Tom Kha Soup These flavors are incredible! Coconut (1) Shrimp (1) Common Mushroom (1) 175 78 Farming (+2) Max Energy (+30) 7m Sandy (Mail - 7+ ) data-sort-value=\"250\"> 250g Farmer's Lunch This'll keep you going. Omelet (1) Parsnip (1) 200 90 Farming (+3) 5m 35s Farming Level 3 data-sort-value=\"150\"> 150g Maple Bar It's a sweet doughnut topped with a rich maple glaze. Maple Syrup (1) Sugar (1) Wheat Flour (1) 225 101 Farming (+1) Fishing (+1) Mining (+1) 16m 47s The Queen of Sauce 14 Summer, Year 2 data-sort-value=\"300\"> 300g Crops Crops Spring Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice Summer Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat Fall Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam Winter Powdermelon Special Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves References ↑ See Crop::harvest in the game code. ↑ 2.0 2.1 In Crop::harvest , Sunflower Seeds are substituted for Sunflowers before XP is calculated. Therefore, the price of Sunflower Seeds is used. History 1.0 : Introduced. 1.1 : Adjusted Rancher bonus to 20%, up from 10%, Artisan now increases the value of Artisan Goods by 40%, down from 50%. 1.2.26 : Farming level now affects crop yield prior to level 10. 1.3.27 : Fixed bug that prevented farming XP being granted when harvesting with Scythe. 1.6 : Farming Experience can now be gained by reading the Stardew Valley Almanac or Book Of Stars . Harvesting Wild Seeds now gives 3 Farming XP. Skills & Stats Skills Farming • Mining • Foraging • Fishing • Combat Stats Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Farming&oldid=191914 \" Category : Farming Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 23 March 2026, at 20:41. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

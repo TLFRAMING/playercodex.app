@@ -1,0 +1,178 @@
+# Web Extraction Review
+
+- Source URL: https://stardewvalleywiki.com/Jodi
+- Final URL: https://stardewvalleywiki.com/Jodi
+- Title: Jodi - Stardew Valley Wiki
+- Canonical URL: n/a
+- Confidence: high
+- Recommendation: approve for cleaning
+
+## Tables
+- Table 0: 0 headers, 10 rows, caption: none
+- Table 1: 0 headers, 2 rows, caption: none
+- Table 2: 2 headers, 3 rows, caption: none
+- Table 3: 2 headers, 3 rows, caption: none
+- Table 4: 2 headers, 7 rows, caption: none
+- Table 5: 2 headers, 7 rows, caption: none
+- Table 6: 2 headers, 6 rows, caption: none
+- Table 7: 2 headers, 11 rows, caption: none
+- Table 8: 2 headers, 5 rows, caption: none
+- Table 9: 2 headers, 7 rows, caption: none
+- Table 10: 2 headers, 4 rows, caption: none
+- Table 11: 2 headers, 5 rows, caption: none
+- Table 12: 2 headers, 8 rows, caption: none
+- Table 13: 2 headers, 1 rows, caption: none
+- Table 14: 2 headers, 6 rows, caption: none
+- Table 15: 2 headers, 11 rows, caption: none
+- Table 16: 2 headers, 5 rows, caption: none
+- Table 17: 2 headers, 7 rows, caption: none
+- Table 18: 2 headers, 4 rows, caption: none
+- Table 19: 2 headers, 5 rows, caption: none
+- Table 20: 2 headers, 8 rows, caption: none
+- Table 21: 2 headers, 6 rows, caption: none
+- Table 22: 2 headers, 11 rows, caption: none
+- Table 23: 2 headers, 5 rows, caption: none
+- Table 24: 2 headers, 7 rows, caption: none
+- Table 25: 2 headers, 4 rows, caption: none
+- Table 26: 2 headers, 5 rows, caption: none
+- Table 27: 2 headers, 8 rows, caption: none
+- Table 28: 2 headers, 5 rows, caption: none
+- Table 29: 2 headers, 6 rows, caption: none
+- Table 30: 2 headers, 11 rows, caption: none
+- Table 31: 2 headers, 5 rows, caption: none
+- Table 32: 2 headers, 7 rows, caption: none
+- Table 33: 2 headers, 4 rows, caption: none
+- Table 34: 2 headers, 5 rows, caption: none
+- Table 35: 2 headers, 8 rows, caption: none
+- Table 36: 0 headers, 1 rows, caption: none
+- Table 37: 0 headers, 1 rows, caption: none
+- Table 38: 0 headers, 1 rows, caption: none
+- Table 39: 0 headers, 1 rows, caption: none
+- Table 40: 0 headers, 1 rows, caption: none
+- Table 41: 0 headers, 1 rows, caption: none
+- Table 42: 5 headers, 9 rows, caption: none
+- Table 43: 0 headers, 1 rows, caption: none
+- Table 44: 4 headers, 1 rows, caption: none
+- Table 45: 0 headers, 1 rows, caption: none
+- Table 46: 4 headers, 1 rows, caption: none
+- Table 47: 0 headers, 1 rows, caption: none
+- Table 48: 4 headers, 15 rows, caption: none
+- Table 49: 0 headers, 1 rows, caption: none
+- Table 50: 4 headers, 4 rows, caption: none
+- Table 51: 1 headers, 5 rows, caption: none
+- Table 52: 1 headers, 5 rows, caption: none
+- Table 53: 2 headers, 1 rows, caption: none
+- Table 54: 0 headers, 1 rows, caption: none
+- Table 55: 3 headers, 1 rows, caption: none
+- Table 56: 0 headers, 2 rows, caption: none
+- Table 57: 3 headers, 1 rows, caption: none
+- Table 58: 0 headers, 1 rows, caption: none
+- Table 59: 0 headers, 1 rows, caption: none
+- Table 60: 0 headers, 1 rows, caption: none
+- Table 61: 0 headers, 1 rows, caption: none
+- Table 62: 0 headers, 1 rows, caption: none
+- Table 63: 0 headers, 1 rows, caption: none
+- Table 64: 0 headers, 1 rows, caption: none
+- Table 65: 0 headers, 1 rows, caption: none
+- Table 66: 0 headers, 1 rows, caption: none
+- Table 67: 0 headers, 1 rows, caption: none
+- Table 68: 0 headers, 1 rows, caption: none
+- Table 69: 0 headers, 1 rows, caption: none
+- Table 70: 0 headers, 1 rows, caption: none
+- Table 71: 0 headers, 1 rows, caption: none
+- Table 72: 0 headers, 1 rows, caption: none
+- Table 73: 0 headers, 1 rows, caption: none
+- Table 74: 0 headers, 1 rows, caption: none
+- Table 75: 0 headers, 1 rows, caption: none
+- Table 76: 0 headers, 1 rows, caption: none
+- Table 77: 0 headers, 1 rows, caption: none
+- Table 78: 0 headers, 1 rows, caption: none
+- Table 79: 0 headers, 1 rows, caption: none
+- Table 80: 0 headers, 1 rows, caption: none
+- Table 81: 0 headers, 1 rows, caption: none
+- Table 82: 0 headers, 1 rows, caption: none
+- Table 83: 0 headers, 1 rows, caption: none
+- Table 84: 0 headers, 1 rows, caption: none
+- Table 85: 0 headers, 1 rows, caption: none
+- Table 86: 0 headers, 1 rows, caption: none
+- Table 87: 0 headers, 1 rows, caption: none
+- Table 88: 0 headers, 1 rows, caption: none
+- Table 89: 0 headers, 1 rows, caption: none
+- Table 90: 0 headers, 1 rows, caption: none
+- Table 91: 0 headers, 1 rows, caption: none
+- Table 92: 0 headers, 1 rows, caption: none
+- Table 93: 0 headers, 1 rows, caption: none
+- Table 94: 0 headers, 1 rows, caption: none
+- Table 95: 0 headers, 1 rows, caption: none
+- Table 96: 0 headers, 1 rows, caption: none
+- Table 97: 0 headers, 1 rows, caption: none
+- Table 98: 0 headers, 1 rows, caption: none
+- Table 99: 0 headers, 1 rows, caption: none
+- Table 100: 0 headers, 1 rows, caption: none
+- Table 101: 0 headers, 1 rows, caption: none
+- Table 102: 0 headers, 1 rows, caption: none
+- Table 103: 0 headers, 1 rows, caption: none
+- Table 104: 0 headers, 1 rows, caption: none
+- Table 105: 0 headers, 1 rows, caption: none
+- Table 106: 0 headers, 1 rows, caption: none
+- Table 107: 0 headers, 1 rows, caption: none
+- Table 108: 0 headers, 1 rows, caption: none
+- Table 109: 0 headers, 1 rows, caption: none
+- Table 110: 0 headers, 1 rows, caption: none
+- Table 111: 0 headers, 1 rows, caption: none
+- Table 112: 0 headers, 1 rows, caption: none
+- Table 113: 0 headers, 1 rows, caption: none
+- Table 114: 0 headers, 1 rows, caption: none
+- Table 115: 0 headers, 1 rows, caption: none
+- Table 116: 0 headers, 1 rows, caption: none
+- Table 117: 1 headers, 4 rows, caption: none
+
+## JSON-LD
+- Blocks parsed: 1
+
+## Headings
+- h1: Jodi
+- h2: Contents
+- h2: Schedule
+- h2: Relationships
+- h2: Gifts
+- h3: Love
+- h3: Like
+- h3: Neutral
+- h3: Dislike
+- h3: Hate
+- h2: Movies & Concessions
+- h2: Heart Events
+- h3: Anytime
+- h3: Two Hearts
+- h3: Three Hearts
+- h3: Four Hearts
+- h3: Seven Hearts
+- h2: Quotes
+- h2: Quests
+- h2: Portraits
+- h2: History
+- h2: Navigation menu
+- h3: Personal tools
+- h3: Namespaces
+- h3: Variants
+- h3: Views
+- h3: More
+- h3: Search
+- h3: Navigation
+- h3: Links
+
+## Warnings
+- None.
+
+## Candidate Facts
+- Review raw JSON before converting any value into production data.
+- Mark uncertain or missing values as `needs verification`.
+
+## Candidate Summary
+- Field: likedGifts
+- Current value: ["needs verification"]
+- Candidate value: []
+- Excluded rules: All Universal Likes (except Garlic) | All Eggs (except Void Egg) | All Fruit (except Spice Berry) | All Milk
+- Confidence: needs verification
+- Notes: Wiki only exposes rule-based likes for this field; no explicit item gift list should be written.

@@ -1,0 +1,2479 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Wizard",
+  "finalUrl": "https://stardewvalleywiki.com/Wizard",
+  "fetchedAt": "2026-05-18T22:06:34.386485+00:00",
+  "title": "Wizard - Stardew Valley Wiki",
+  "description": "The Wizard, also known as M. Rasmodius, is a villager who lives in the Wizard's Tower to the far west of Cindersap Forest.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Wizard"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Schedule"
+    },
+    {
+      "level": 2,
+      "text": "Gifts"
+    },
+    {
+      "level": 3,
+      "text": "Love"
+    },
+    {
+      "level": 3,
+      "text": "Like"
+    },
+    {
+      "level": 3,
+      "text": "Neutral"
+    },
+    {
+      "level": 3,
+      "text": "Dislike"
+    },
+    {
+      "level": 3,
+      "text": "Hate"
+    },
+    {
+      "level": 2,
+      "text": "Movies & Concessions"
+    },
+    {
+      "level": 2,
+      "text": "Heart Events"
+    },
+    {
+      "level": 3,
+      "text": "Anytime"
+    },
+    {
+      "level": 3,
+      "text": "Four Hearts"
+    },
+    {
+      "level": 2,
+      "text": "Quotes"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "Trivia"
+    },
+    {
+      "level": 2,
+      "text": "Portraits"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "Wizard"
+        ],
+        [
+          ""
+        ],
+        [
+          "Information"
+        ],
+        [
+          "Birthday",
+          "Winter 17"
+        ],
+        [
+          "Lives In",
+          "Cindersap Forest"
+        ],
+        [
+          "Address",
+          "Wizard's Tower"
+        ],
+        [
+          "Marriage",
+          "No"
+        ],
+        [
+          "Loved Gifts",
+          "Book of Mysteries Purple Mushroom Solar Essence Super Cucumber Void Essence"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Wizard studies the spirit world from his tower in cindersap forest. He is fluent in many elemental languages.”"
+        ],
+        [
+          "— Steam Description"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You remembered my birthday? I'm impressed. Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Oh, is it my birthday today? I guess it is. Thanks. This is nice.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“For my birthday? Thanks.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It's my birthday and you give me this? Is this some kind of joke?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“ Ah, what do we have here? A rare and potent elixir, it seems. Yes, this will make a fine addition to my reagent chest.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Loves"
+        ],
+        [
+          "",
+          "Book of Mysteries",
+          "You have a slightly greater chance to find Mystery Boxes.",
+          "Mystery Box"
+        ],
+        [
+          "",
+          "Purple Mushroom",
+          "A rare mushroom found deep in caves.",
+          "Foraging - The Mines"
+        ],
+        [
+          "",
+          "Solar Essence",
+          "The glowing face is warm to the touch.",
+          "Monster Loot"
+        ],
+        [
+          "",
+          "Super Cucumber",
+          "A rare, purple variety of sea cucumber.",
+          "Fishing"
+        ],
+        [
+          "",
+          "Void Essence",
+          "It's quivering with dark energy.",
+          "Monster Loot"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Many thanks. This item has some very interesting properties.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal LikesAll Geode MineralsAll Trinkets"
+        ],
+        [
+          "",
+          "Iridium Bar",
+          "A bar of pure iridium.",
+          "Furnace"
+        ],
+        [
+          "",
+          "Quartz",
+          "A clear crystal commonly found in caves and mines.",
+          "Foraging - Mines"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Thank you, this will prove useful, I think.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Neutrals (except Book of Mysteries)All Fruit (except Fruit Tree Fruit & Salmonberry)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 13,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“This?... I suppose I'll cast it into the flames and see what happens.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 14,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Dislikes (except Geode Minerals, Iridium Bar, Solar Essence, Super Cucumber, Trinkets, & Void Essence)All Eggs*All Milk"
+        ],
+        [
+          "",
+          "Chanterelle",
+          "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Common Mushroom",
+          "Slightly nutty, with good texture.",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Daffodil",
+          "A traditional spring flower that makes a nice gift.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Dandelion",
+          "Not the prettiest flower, but the leaves make a good salad.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Ginger",
+          "This sharp, spicy root is said to increase vitality.",
+          "Foraging - Ginger Island"
+        ],
+        [
+          "",
+          "Hazelnut",
+          "That's one big hazelnut!",
+          "Foraging - Fall"
+        ],
+        [
+          "",
+          "Holly",
+          "The leaves and bright red berries make a popular winter decoration.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Leek",
+          "A tasty relative of the onion.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Magma Cap",
+          "A very rare mushroom that lives next to pools of lava.",
+          "Foraging - Volcano Dungeon"
+        ],
+        [
+          "",
+          "Morel",
+          "Sought after for its unique nutty flavor.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Salmonberry",
+          "A spring-time berry with the flavor of the forest.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Slime",
+          "A shimmering, gelatinous glob with no smell.",
+          "Slimes, Krobus, Slime Ball"
+        ],
+        [
+          "",
+          "Snow Yam",
+          "This little yam was hiding beneath the snow.",
+          "Foraging - Winter"
+        ],
+        [
+          "",
+          "Wild Horseradish",
+          "A spicy root found in the spring.",
+          "Foraging - Spring"
+        ],
+        [
+          "",
+          "Winter Root",
+          "A starchy tuber.",
+          "Foraging - Winter"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 15,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 16,
+      "caption": "",
+      "headers": [
+        "Image",
+        "Name",
+        "Description",
+        "Source"
+      ],
+      "rows": [
+        [
+          "",
+          "All Universal Hates (except Slime)"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 17,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Mysterium"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "N/A"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 18,
+      "caption": "",
+      "headers": [
+        "Love"
+      ],
+      "rows": [
+        [
+          "Black Licorice Star Cookie Stardrop Sorbet"
+        ],
+        [
+          "Like"
+        ],
+        [
+          "Cotton Candy Ice Cream Sandwich Jasmine Tea Jawbreaker Rock Candy Salmon Burger Sour Slimes"
+        ],
+        [
+          "Dislike"
+        ],
+        [
+          "Everything else"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 19,
+      "caption": "",
+      "headers": [
+        "Item",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Fire Quartz Frozen Tear Jade Purple Mushroom",
+          "Greetings, young adept.I have enclosed in this package an item of arcane significance. Use it wisely.-M. Rasmodius, Wizard"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 20,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, yes. I have predicted your arrival a long time ago, young [Player]. However, your fate is ultimately in your own hands.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 21,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, yes. I have seen many things about your future, young [Player]. If I were to tell you, there could be grave consequences.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 22,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“If you have nothing important to tell me, leave me be. I have much work to do.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 23,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“It takes years of study to understand the language of the elementals. To actually speak their language requires a lifetime of devoted effort. Now, if you'll excuse me...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 24,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“There are many mysteries around us. You must be patient if you wish to discover them.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 25,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I believe the townsfolk are afraid of me. It is unfortunate, but I suppose it is human to be afraid of the unknown.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 26,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Beware, you are standing above a potent magical field. I built my hut right here on purpose, you know.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 27,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Have you made any headway with the forest spirits?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 28,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I sometimes observe the local villagers in secret. I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 29,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I trust you enough to allow you in my basement. Treat what you find there with respect.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 30,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw. It's not a very mature way to express one's anger.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 31,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter... I could be mistaken... It's rare, but it does happen.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 32,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Stormy days are the only time I can commune with certain elementals. I don't expect you to understand.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 33,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Though the unusual rains may be alarming, there is nothing to fear on this day. In fact, it is a day of great joy for many living things.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 34,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Nature is a powerful force, not to be trifled with. Excuse me, but there are special matters I can only attend to on this day.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 35,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Hmm... And what about raw lizard egg sprinkled with blackened marrow?”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 36,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“You shouldn't be up here.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 37,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The merpeople are curious about your festivities. They become upset when you litter into the ocean.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 38,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“How did you find me back here? I thought I was well-hidden. Perhaps you are blessed with the gift of clairvoyance. I'm here to observe the Lunaloos... or 'Moonlight Jellies', as you call them. They possess an unusually potent magical aura for an aquatic life form.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 39,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Welwick and I have known each other for a long time... she is a remarkable diviner, and a good friend. ...That clown... I know him from somewhere. Was it the school of illusion? Or maybe the Carnival of Secrets? Hmm...”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 40,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“The affairs of mundane folk matter little to me, but the elementals like a chance to see you up close. It was for them that I created this silly maze.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 41,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Sneaking off to visit my weird tower? You're odd for a mundane.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 42,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "“",
+          "“Ah, the mysterious Winter Star. One of the reasons I chose this valley as the location for my... research.”"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 43,
+      "caption": "",
+      "headers": [
+        "Villagers"
+      ],
+      "rows": [
+        [
+          "Bachelors",
+          "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+        ],
+        [
+          "Bachelorettes",
+          "Abigail • Emily • Haley • Leah • Maru • Penny"
+        ],
+        [
+          "Townspeople",
+          "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+        ],
+        [
+          "Other",
+          "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "Cindersap Forest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard's Tower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Book_of_Mysteries",
+      "text": "Book of Mysteries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Essence",
+      "text": "Solar Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Cucumber",
+      "text": "Super Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Essence",
+      "text": "Void Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Schedule",
+      "text": "1 Schedule"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Gifts",
+      "text": "2 Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Love",
+      "text": "2.1 Love"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Like",
+      "text": "2.2 Like"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Neutral",
+      "text": "2.3 Neutral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Dislike",
+      "text": "2.4 Dislike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Hate",
+      "text": "2.5 Hate"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Movies_.26_Concessions",
+      "text": "3 Movies & Concessions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Heart_Events",
+      "text": "4 Heart Events"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Anytime",
+      "text": "4.1 Anytime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Four_Hearts",
+      "text": "4.2 Four Hearts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Quotes",
+      "text": "5 Quotes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Quests",
+      "text": "6 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Trivia",
+      "text": "7 Trivia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#Portraits",
+      "text": "8 Portraits"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard#History",
+      "text": "9 History"
+    },
+    {
+      "href": "https://steamcommunity.com/market/listings/753/413150-Wizard%20%28Foil%29",
+      "text": "Steam Description"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "villager"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard's Tower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "Cindersap Forest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard's Tower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festivals",
+      "text": "Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Hut",
+      "text": "Witch's Hut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Hut",
+      "text": "Witch's Hut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island#Beach_Resort",
+      "text": "Beach Resort"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Gifts",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/List_of_All_Gifts",
+      "text": "List of All Gifts"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard_Surprised.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Loves",
+      "text": "Universal Loves"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Book_of_Mysteries.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Book_of_Mysteries",
+      "text": "Book of Mysteries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mystery_Box",
+      "text": "Mystery Box"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Purple_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "The Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Solar_Essence.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Essence",
+      "text": "Solar Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Loot",
+      "text": "Monster Loot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Super_Cucumber.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Cucumber",
+      "text": "Super Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Void_Essence.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Essence",
+      "text": "Void Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Loot",
+      "text": "Monster Loot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard_Surprised.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Likes",
+      "text": "Universal Likes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Geode_Minerals",
+      "text": "Geode Minerals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Iridium_Bar.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Furnace",
+      "text": "Furnace"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quartz.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quartz",
+      "text": "Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Neutrals",
+      "text": "Universal Neutrals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Book_of_Mysteries",
+      "text": "Book of Mysteries"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruits",
+      "text": "Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fruit_Trees",
+      "text": "Fruit Tree Fruit"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Dislikes",
+      "text": "Universal Dislikes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Minerals#Geode_Minerals",
+      "text": "Geode Minerals"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Solar_Essence",
+      "text": "Solar Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Cucumber",
+      "text": "Super Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Essence",
+      "text": "Void Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Chanterelle.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chanterelle",
+      "text": "Chanterelle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Common_Mushroom.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Common_Mushroom",
+      "text": "Common Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Daffodil.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Daffodil",
+      "text": "Daffodil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Dandelion.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dandelion",
+      "text": "Dandelion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Ginger.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger",
+      "text": "Ginger"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Hazelnut.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Hazelnut",
+      "text": "Hazelnut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fall",
+      "text": "Fall"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Holly.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Holly",
+      "text": "Holly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Leek.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leek",
+      "text": "Leek"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Magma_Cap.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magma_Cap",
+      "text": "Magma Cap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Volcano_Dungeon",
+      "text": "Volcano Dungeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Morel.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morel",
+      "text": "Morel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Salmonberry.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmonberry",
+      "text": "Salmonberry"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Slime.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime",
+      "text": "Slime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slimes",
+      "text": "Slimes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime_Ball",
+      "text": "Slime Ball"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Snow_Yam.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snow_Yam",
+      "text": "Snow Yam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wild_Horseradish.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wild_Horseradish",
+      "text": "Wild Horseradish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spring",
+      "text": "Spring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Winter_Root.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter_Root",
+      "text": "Winter Root"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Foraging",
+      "text": "Foraging"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "text": "Dinosaur Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Artifacts",
+      "text": "Artifact"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frog_Egg",
+      "text": "Frog Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Parrot_Egg",
+      "text": "Parrot Egg"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trinkets",
+      "text": "Trinkets"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship#Universal_Hates",
+      "text": "Universal Hates"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slime",
+      "text": "Slime"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Movie_Theater",
+      "text": "Movie Theater"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fire_Quartz",
+      "text": "Fire Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Frozen_Tear",
+      "text": "Frozen Tear"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jade",
+      "text": "Jade"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushroom"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard's Tower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Shrine_of_Illusions",
+      "text": "The Shrine of Illusions"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Egg_Festival",
+      "text": "Egg Festival"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flower_Dance",
+      "text": "Flower Dance"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Luau",
+      "text": "The Luau"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dance_of_the_Moonlight_Jellies",
+      "text": "Dance of the Moonlight Jellies"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Fair",
+      "text": "Stardew Valley Fair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spirit%27s_Eve",
+      "text": "Spirit's Eve"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Festival_of_Ice",
+      "text": "Festival of Ice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Feast_of_the_Winter_Star",
+      "text": "Feast of the Winter Star"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Meet_the_Wizard",
+      "text": "\"Meet the Wizard\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles#Crafts_Room",
+      "text": "Crafts Room"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard's Tower"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#A_Dark_Reagent",
+      "text": "\"A Dark Reagent\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Winter",
+      "text": "Winter"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Essence",
+      "text": "Void Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Staff_of_Power",
+      "text": "\"Staff of Power\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Dark_Talisman",
+      "text": "\"Dark Talisman\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Community_Center",
+      "text": "Community Center"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles",
+      "text": "Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Joja_Community_Development_Form",
+      "text": "Joja Community Development Form"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Railroad",
+      "text": "Railroad"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Talisman",
+      "text": "Dark Talisman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Sewers",
+      "text": "The Sewers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mutant_Bug_Lair",
+      "text": "Mutant Bug Lair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dark_Talisman",
+      "text": "Dark Talisman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Swamp",
+      "text": "Witch's Swamp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Goblin_Problem",
+      "text": "The \"Goblin Problem\" Quest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Goblin_Problem",
+      "text": "\"Goblin Problem\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Swamp",
+      "text": "Witch's Swamp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Hut",
+      "text": "Witch's Hut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Mayonnaise",
+      "text": "Void Mayonnaise"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Goblin_Problem",
+      "text": "Goblin Problem"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magic_Ink",
+      "text": "Magic Ink"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard%27s_Tower",
+      "text": "Wizard buildings"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Farm",
+      "text": "The Farm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monsters",
+      "text": "Monsters"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Arctic_Shard",
+      "text": "Arctic Shard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#The_Pirate.27s_Wife",
+      "text": "The Pirate's Wife"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#A_Curious_Substance",
+      "text": "\"A Curious Substance\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ectoplasm",
+      "text": "Ectoplasm"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mini-Obelisk",
+      "text": "Mini-Obelisk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Prismatic_Jelly",
+      "text": "\"Prismatic Jelly\""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Prismatic_Jelly",
+      "text": "Prismatic Jelly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Monster_Musk",
+      "text": "Monster Musk"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cloth",
+      "text": "Cloth"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Essence",
+      "text": "Void Essence"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring#Shirts",
+      "text": "Arcane Shirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Wizard_Surprised.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.3.27",
+      "text": "1.3.27"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Bar",
+      "text": "Iridium Bar"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Villagers",
+      "text": "Villagers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gil",
+      "text": "Gil"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gunther",
+      "text": "Gunther"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marlon",
+      "text": "Marlon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Birdie",
+      "text": "Birdie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bouncer",
+      "text": "Bouncer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fizz",
+      "text": "Fizz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Governor",
+      "text": "Governor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Grandpa",
+      "text": "Grandpa"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Henchman",
+      "text": "Henchman"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Junimos",
+      "text": "Junimos"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Morris",
+      "text": "Morris"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mr._Qi",
+      "text": "Mr. Qi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Old_Mariner",
+      "text": "Old Mariner"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Professor_Snail",
+      "text": "Professor Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&oldid=192727",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&oldid=192727"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Category"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:NPCs",
+      "text": "NPCs"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Wizard",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Wizard",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Wizard&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Wizard",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Wizard",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&oldid=192727",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Zauberer",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Rasmodius",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Sorcier",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Mago",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E9%AD%94%E8%A1%93%E5%B8%AB",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%A7%88%EB%B2%95%EC%82%AC",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Var%C3%A1zsl%C3%B3",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Feiticeiro",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/B%C3%BCy%C3%BCc%C3%BC",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E6%B3%95%E5%B8%88",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+      "alt": "Wizard.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Book_of_Mysteries.png/24px-Book_of_Mysteries.png",
+      "alt": "Book of Mysteries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png",
+      "alt": "Solar Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/Super_Cucumber.png/24px-Super_Cucumber.png",
+      "alt": "Super Cucumber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/24px-Void_Essence.png",
+      "alt": "Void Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/Winter.png/24px-Winter.png",
+      "alt": "Winter.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Wizard_Surprised.png/48px-Wizard_Surprised.png",
+      "alt": "Wizard Surprised.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/df/Book_of_Mysteries.png",
+      "alt": "Book of Mysteries.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png",
+      "alt": "Solar Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png",
+      "alt": "Super Cucumber.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png",
+      "alt": "Void Essence.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Wizard_Surprised.png/48px-Wizard_Surprised.png",
+      "alt": "Wizard Surprised.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png",
+      "alt": "Iridium Bar.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "alt": "Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Wizard.png/48px-Wizard.png",
+      "alt": "Wizard.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Wizard.png/48px-Wizard.png",
+      "alt": "Wizard.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+      "alt": "Chanterelle.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "alt": "Common Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "alt": "Daffodil.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "alt": "Dandelion.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+      "alt": "Ginger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "alt": "Hazelnut.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+      "alt": "Holly.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "alt": "Leek.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+      "alt": "Magma Cap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "alt": "Morel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+      "alt": "Salmonberry.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/38/Slime.png",
+      "alt": "Slime.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "alt": "Snow Yam.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "alt": "Wild Horseradish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "alt": "Winter Root.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Wizard.png/48px-Wizard.png",
+      "alt": "Wizard.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/03/%27Mysterium%27.png/24px-%27Mysterium%27.png",
+      "alt": "'Mysterium'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b9/%27It_Howls_In_The_Rain%27.png/24px-%27It_Howls_In_The_Rain%27.png",
+      "alt": "'It Howls In The Rain'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ee/%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png/24px-%27Journey_Of_The_Prairie_King_The_Motion_Picture%27.png",
+      "alt": "'Journey Of The Prairie King The Motion Picture'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png/24px-%27Natural_Wonders_Exploring_Our_Vibrant_World%27.png",
+      "alt": "'Natural Wonders Exploring Our Vibrant World'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/%27The_Brave_Little_Sapling%27.png/24px-%27The_Brave_Little_Sapling%27.png",
+      "alt": "'The Brave Little Sapling'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/%27The_Miracle_At_Coldstar_Ranch%27.png/24px-%27The_Miracle_At_Coldstar_Ranch%27.png",
+      "alt": "'The Miracle At Coldstar Ranch'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/%27The_Zuzu_City_Express%27.png/24px-%27The_Zuzu_City_Express%27.png",
+      "alt": "'The Zuzu City Express'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/%27Wumbus%27.png/24px-%27Wumbus%27.png",
+      "alt": "'Wumbus'.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/ConcessionLove.png/24px-ConcessionLove.png",
+      "alt": "ConcessionLove.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Black_Licorice.png/24px-Black_Licorice.png",
+      "alt": "Black Licorice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Star_Cookie.png/24px-Star_Cookie.png",
+      "alt": "Star Cookie.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Stardrop_Sorbet.png/24px-Stardrop_Sorbet.png",
+      "alt": "Stardrop Sorbet.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a7/ConcessionLike.png/24px-ConcessionLike.png",
+      "alt": "ConcessionLike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Cotton_Candy.png/24px-Cotton_Candy.png",
+      "alt": "Cotton Candy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Ice_Cream_Sandwich.png/24px-Ice_Cream_Sandwich.png",
+      "alt": "Ice Cream Sandwich.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Jasmine_Tea.png/24px-Jasmine_Tea.png",
+      "alt": "Jasmine Tea.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Jawbreaker.png/24px-Jawbreaker.png",
+      "alt": "Jawbreaker.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/50/Rock_Candy.png/24px-Rock_Candy.png",
+      "alt": "Rock Candy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/50/Salmon_Burger.png/24px-Salmon_Burger.png",
+      "alt": "Salmon Burger.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Sour_Slimes.png/24px-Sour_Slimes.png",
+      "alt": "Sour Slimes.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/ConcessionDislike.png/24px-ConcessionDislike.png",
+      "alt": "ConcessionDislike.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Fire_Quartz.png/24px-Fire_Quartz.png",
+      "alt": "Fire Quartz.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Frozen_Tear.png/24px-Frozen_Tear.png",
+      "alt": "Frozen Tear.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Jade.png/24px-Jade.png",
+      "alt": "Jade.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+      "alt": "Purple Mushroom.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/80/Four_Hearts.png",
+      "alt": "Four Hearts.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+      "alt": "Wizard.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/04/Wizard_Surprised.png",
+      "alt": "Wizard Surprised.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Wizard - Stardew Valley Wiki",
+      "headline": "Wizard - Stardew Valley Wiki",
+      "mainEntityOfPage": "Wizard",
+      "identifier": "https://stardewvalleywiki.com/Wizard",
+      "url": "https://stardewvalleywiki.com/Wizard",
+      "description": "The Wizard, also known as M. Rasmodius, is a villager who lives in the Wizard's Tower to the far west of Cindersap Forest.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Wizard, gift",
+      "dateModified": "2026-04-28T19:54:21Z",
+      "datePublished": "2026-04-28T19:54:21Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Wizard - Stardew Valley Wiki Wizard From Stardew Valley Wiki Jump to navigation Jump to search Wizard Information Birthday Winter 17 Lives In Cindersap Forest Address Wizard's Tower Marriage No Loved Gifts Book of Mysteries Purple Mushroom Solar Essence Super Cucumber Void Essence Contents 1 Schedule 2 Gifts 2.1 Love 2.2 Like 2.3 Neutral 2.4 Dislike 2.5 Hate 3 Movies & Concessions 4 Heart Events 4.1 Anytime 4.2 Four Hearts 5 Quotes 6 Quests 7 Trivia 8 Portraits 9 History “ “Wizard studies the spirit world from his tower in cindersap forest. He is fluent in many elemental languages.” — Steam Description The Wizard , also known as M. Rasmodius , is a villager who lives in the Wizard's Tower to the far west of Cindersap Forest . Schedule The Wizard does not leave the Wizard's Tower (except for certain Festival days), and can be found there when the tower is accessible (6am to 11pm). After the player has unlocked the Witch's Hut , he can be found in his tower after 11pm by using the warp spot in the Witch's Hut . The Wizard never visits the Beach Resort on Ginger Island. Gifts Main article: Friendship See also: List of All Gifts You can give the Wizard up to two gifts per week (plus one on his birthday), which will raise or lower his friendship with you. Gifts on his birthday ( 17 Winter ) will have 8× effect and show a unique dialogue. For loved or liked gifts, the Wizard responds “ “You remembered my birthday? I'm impressed. Thanks.” “ “Oh, is it my birthday today? I guess it is. Thanks. This is nice.” For neutral gifts, the Wizard responds “ “For my birthday? Thanks.” For disliked or hated gifts, the Wizard responds “ “It's my birthday and you give me this? Is this some kind of joke?” Love “ “Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!” Stardrop Tea “ “ Ah, what do we have here? A rare and potent elixir, it seems. Yes, this will make a fine addition to my reagent chest.” Image Name Description Source All Universal Loves Book of Mysteries You have a slightly greater chance to find Mystery Boxes. Mystery Box Purple Mushroom A rare mushroom found deep in caves. Foraging - The Mines Solar Essence The glowing face is warm to the touch. Monster Loot Super Cucumber A rare, purple variety of sea cucumber. Fishing Void Essence It's quivering with dark energy. Monster Loot Like “ “Many thanks. This item has some very interesting properties.” Image Name Description Source All Universal Likes All Geode Minerals All Trinkets Iridium Bar A bar of pure iridium. Furnace Quartz A clear crystal commonly found in caves and mines. Foraging - Mines Neutral “ “Thank you, this will prove useful, I think.” Image Name Description Source All Universal Neutrals (except Book of Mysteries ) All Fruit (except Fruit Tree Fruit & Salmonberry ) Dislike “ “This?... I suppose I'll cast it into the flames and see what happens.” Image Name Description Source All Universal Dislikes (except Geode Minerals , Iridium Bar , Solar Essence , Super Cucumber , Trinkets , & Void Essence ) All Eggs* All Milk Chanterelle A tasty mushroom with a fruity smell and slightly peppery flavor. Foraging - Fall Common Mushroom Slightly nutty, with good texture. Foraging - Fall Daffodil A traditional spring flower that makes a nice gift. Foraging - Spring Dandelion Not the prettiest flower, but the leaves make a good salad. Foraging - Spring Ginger This sharp, spicy root is said to increase vitality. Foraging - Ginger Island Hazelnut That's one big hazelnut! Foraging - Fall Holly The leaves and bright red berries make a popular winter decoration. Foraging - Winter Leek A tasty relative of the onion. Foraging - Spring Magma Cap A very rare mushroom that lives next to pools of lava. Foraging - Volcano Dungeon Morel Sought after for its unique nutty flavor. Foraging - Spring Salmonberry A spring-time berry with the flavor of the forest. Foraging - Spring Slime A shimmering, gelatinous glob with no smell. Slimes , Krobus , Slime Ball Snow Yam This little yam was hiding beneath the snow. Foraging - Winter Wild Horseradish A spicy root found in the spring. Foraging - Spring Winter Root A starchy tuber. Foraging - Winter * Note that the following are not considered Eggs for gifting purposes: Dinosaur Egg is an Artifact ; Frog Egg and Parrot Egg are considered Trinkets . Hate “ “Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.” Image Name Description Source All Universal Hates (except Slime ) Movies & Concessions Main article: Movie Theater Love Mysterium Like N/A Dislike It Howls In The Rain Journey Of The Prairie King: The Motion Picture Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Love Black Licorice Star Cookie Stardrop Sorbet Like Cotton Candy Ice Cream Sandwich Jasmine Tea Jawbreaker Rock Candy Salmon Burger Sour Slimes Dislike Everything else Heart Events Anytime At any friendship level greater than zero friendship points, you may receive a gift in the mail from the Wizard. The chance of receiving a gift in the mail increases as your friendship with the Wizard increases. Details Item Description Fire Quartz Frozen Tear Jade Purple Mushroom Greetings, young adept. I have enclosed in this package an item of arcane significance. Use it wisely. -M. Rasmodius, Wizard Four Hearts Players gain access to the basement of the Wizard's Tower , where they can change their character's appearance at The Shrine of Illusions for data-sort-value=\"500\"> 500g . Quotes Regular First Meeting “ “Ah, yes. I have predicted your arrival a long time ago, young [Player]. However, your fate is ultimately in your own hands.” Regular “ “Ah, yes. I have seen many things about your future, young [Player]. If I were to tell you, there could be grave consequences.” “ “If you have nothing important to tell me, leave me be. I have much work to do.” “ “It takes years of study to understand the language of the elementals. To actually speak their language requires a lifetime of devoted effort. Now, if you'll excuse me...” “ “There are many mysteries around us. You must be patient if you wish to discover them.” “ “I believe the townsfolk are afraid of me. It is unfortunate, but I suppose it is human to be afraid of the unknown.” “ “Beware, you are standing above a potent magical field. I built my hut right here on purpose, you know.” “ “Have you made any headway with the forest spirits?” “ “I sometimes observe the local villagers in secret. I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue.” 4+ Hearts “ “I trust you enough to allow you in my basement. Treat what you find there with respect.” 6+ Hearts “ “I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw. It's not a very mature way to express one's anger.” 10 Hearts “ “You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter... I could be mistaken... It's rare, but it does happen.” Rain “ “Stormy days are the only time I can commune with certain elementals. I don't expect you to understand.” Green Rain Year 1 “ “Though the unusual rains may be alarming, there is nothing to fear on this day. In fact, it is a day of great joy for many living things.” Year 2+ “ “Nature is a powerful force, not to be trifled with. Excuse me, but there are special matters I can only attend to on this day.” Events Note: The Wizard is not always accessible at festivals. Regardless, he has unique dialogue for each. Egg Festival “ “Hmm... And what about raw lizard egg sprinkled with blackened marrow?” Flower Dance “ “You shouldn't be up here.” The Luau “ “The merpeople are curious about your festivities. They become upset when you litter into the ocean.” Dance of the Moonlight Jellies “ “How did you find me back here? I thought I was well-hidden. Perhaps you are blessed with the gift of clairvoyance. I'm here to observe the Lunaloos... or 'Moonlight Jellies', as you call them. They possess an unusually potent magical aura for an aquatic life form.” Stardew Valley Fair “ “Welwick and I have known each other for a long time... she is a remarkable diviner, and a good friend. ...That clown... I know him from somewhere. Was it the school of illusion? Or maybe the Carnival of Secrets? Hmm...” Spirit's Eve Although you cannot reach the Wizard to see the dialogue in-game, he has dialogue scripted in underlying data files. “ “The affairs of mundane folk matter little to me, but the elementals like a chance to see you up close. It was for them that I created this silly maze.” Festival of Ice Although you cannot reach the Wizard to see the dialogue in-game, he has dialogue scripted in underlying data files. “ “Sneaking off to visit my weird tower? You're odd for a mundane.” Feast of the Winter Star Although the Wizard does not attend the Feast, he has dialogue scripted in underlying data files. “ “Ah, the mysterious Winter Star. One of the reasons I chose this valley as the location for my... research.” Quests \"Meet the Wizard\" : The morning after examining the golden scroll in the Crafts Room of the Community Center , the Wizard will send you a letter saying he has information for you. Visit the Wizard's Tower and he will give you a potion that allows you to read the language of the Junimos . \"A Dark Reagent\" : The Wizard will send you a letter on the 12th of Winter requesting that you bring him a Void Essence . The reward is data-sort-value=\"1000\"> 1,000g and 1 Friendship heart. \"Staff of Power\" : The Wizard will send you a letter on the 5th of Winter, year 2, requesting that you bring him an Iridium Bar . The reward is data-sort-value=\"5000\"> 5,000g and 1 Friendship heart. \"Dark Talisman\" : After completing the Community Center Bundles or the Joja Community Development Form , trigger a cutscene at the Railroad , where the Wizard will request that you find a Dark Talisman . Speak to Krobus in The Sewers , who will remove the force-field blocking the entrance to the Mutant Bug Lair . Obtain the Dark Talisman from a chest in the Mutant Bug Lair, then bring it back to the Railroad area and place it on the artifact blocking the cave. Inside the cave is a teleportation rune which leads to the Witch's Swamp . This unlocks The \"Goblin Problem\" Quest . \"Goblin Problem\" : Once inside the Witch's Swamp , the Witch's Henchman will be blocking the way to the Witch's Hut . He will only allow the player to pass if he is given Void Mayonnaise , which completes the quest Goblin Problem and gives access to the Dark Shrines inside the Witch's Hut. Recover the Magic Ink inside the Witch's Hut, then bring the ink back to the Wizard, who will unlock six Wizard buildings for The Farm . The Wizard may request that you slay a certain number of Monsters or bring him a random item at the \"Help Wanted\" board outside Pierre's General Store . The reward for slaying monsters varies by the number/type of monster, but is always an amount of gold. The reward for an item delivery quest is 3x the item's base value and 150 Friendship points. The Wizard is to be gifted the Arctic Shard in The Pirate's Wife quest. \"A Curious Substance\" : On the Special Orders board in front of the Mayor's Manor , the Wizard may randomly request that the player obtain and bring him an Ectoplasm . The reward is data-sort-value=\"2500\"> 2,500g and the Mini-Obelisk recipe. \"Prismatic Jelly\" : On the Special Orders board in front of the Mayor's Manor , the Wizard may randomly request that the player obtain and bring him a Prismatic Jelly . The reward is data-sort-value=\"5000\"> 5,000g and the Monster Musk recipe. Trivia Despite being unreachable in most festivals, the Wizard has unique dialogue for every festival, some with backstory on the events. The Wizard's shirt can be tailored with 1 Cloth and 1 Void Essence , creating the Arcane Shirt . Portraits History 1.3.27 : Added unique blue stationery used exclusively for letters from the Wizard. 1.5 : Added \"A Curious Substance\" and \"Prismatic Jelly\" quests. 1.6 : Now likes Iridium Bar . Villagers Bachelors Alex • Elliott • Harvey • Sam • Sebastian • Shane Bachelorettes Abigail • Emily • Haley • Leah • Maru • Penny Townspeople Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy Other Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Wizard&oldid=192727 \" Category : NPCs Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 28 April 2026, at 19:54. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

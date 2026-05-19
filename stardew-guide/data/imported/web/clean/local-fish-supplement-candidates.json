@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "largemouth-bass",
+    "matchedName": "Largemouth Bass",
+    "candidateFields": {
+      "nameZh": "大嘴鲈鱼",
+      "descriptionZh": "生活在湖中的热门鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png"
+  },
+  {
+    "slug": "bullhead",
+    "matchedName": "Bullhead",
+    "candidateFields": {
+      "nameZh": "大头鱼",
+      "descriptionZh": "与鲶鱼亲缘相近，吃各种食物。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png"
+  },
+  {
+    "slug": "halibut",
+    "matchedName": "Halibut",
+    "candidateFields": {
+      "nameZh": "大比目鱼",
+      "descriptionZh": "扁平的大型海鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/0/02/Halibut.png"
+  },
+  {
+    "slug": "walleye",
+    "matchedName": "Walleye",
+    "candidateFields": {
+      "nameZh": "大眼鱼",
+      "descriptionZh": "夜间可钓到的淡水鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png"
+  },
+  {
+    "slug": "sunfish",
+    "matchedName": "Sunfish",
+    "candidateFields": {
+      "nameZh": "太阳鱼",
+      "descriptionZh": "常见河鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png"
+  },
+  {
+    "slug": "smallmouth-bass",
+    "matchedName": "Smallmouth Bass",
+    "candidateFields": {
+      "nameZh": "小嘴鲈鱼",
+      "descriptionZh": "对污染很敏感的淡水鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png"
+  },
+  {
+    "slug": "flounder",
+    "matchedName": "Flounder",
+    "candidateFields": {
+      "nameZh": "比目鱼",
+      "descriptionZh": "扁平的海鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png"
+  },
+  {
+    "slug": "sardine",
+    "matchedName": "Sardine",
+    "candidateFields": {
+      "nameZh": "沙丁鱼",
+      "descriptionZh": "常见海鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png"
+  },
+  {
+    "slug": "perch",
+    "matchedName": "Perch",
+    "candidateFields": {
+      "nameZh": "河鲈",
+      "descriptionZh": "冬季淡水鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/4/43/Perch.png"
+  },
+  {
+    "slug": "pike",
+    "matchedName": "Pike",
+    "candidateFields": {
+      "nameZh": "狗鱼",
+      "descriptionZh": "有锋利牙齿的掠食性淡水鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/3/31/Pike.png"
+  },
+  {
+    "slug": "octopus",
+    "matchedName": "Octopus",
+    "candidateFields": {
+      "nameZh": "章鱼",
+      "descriptionZh": "神秘且聪明的海洋生物。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
+  },
+  {
+    "slug": "red-snapper",
+    "matchedName": "Red Snapper",
+    "candidateFields": {
+      "nameZh": "红鲷鱼",
+      "descriptionZh": "受欢迎的红色海鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png"
+  },
+  {
+    "slug": "tilapia",
+    "matchedName": "Tilapia",
+    "candidateFields": {
+      "nameZh": "罗非鱼",
+      "descriptionZh": "以素食为主、喜欢温水的鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png"
+  },
+  {
+    "slug": "tiger-trout",
+    "matchedName": "Tiger Trout",
+    "candidateFields": {
+      "nameZh": "虎纹鳟鱼",
+      "descriptionZh": "罕见的杂交鳟鱼，不能繁殖。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png"
+  },
+  {
+    "slug": "rainbow-trout",
+    "matchedName": "Rainbow Trout",
+    "candidateFields": {
+      "nameZh": "虹鳟鱼",
+      "descriptionZh": "带有彩色斑纹的淡水鳟鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png"
+  },
+  {
+    "slug": "shad",
+    "matchedName": "Shad",
+    "candidateFields": {
+      "nameZh": "西鲱",
+      "descriptionZh": "逆流产卵的河鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png"
+  },
+  {
+    "slug": "tuna",
+    "matchedName": "Tuna",
+    "candidateFields": {
+      "nameZh": "金枪鱼",
+      "descriptionZh": "生活在海洋中的大型鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png"
+  },
+  {
+    "slug": "salmon",
+    "matchedName": "Salmon",
+    "candidateFields": {
+      "nameZh": "鲑鱼",
+      "descriptionZh": "会逆流而上产卵的鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Salmon.png"
+  },
+  {
+    "slug": "sturgeon",
+    "matchedName": "Sturgeon",
+    "candidateFields": {
+      "nameZh": "鲟鱼",
+      "descriptionZh": "古老的底栖鱼，雌鱼寿命可达150年。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png"
+  },
+  {
+    "slug": "carp",
+    "matchedName": "Carp",
+    "candidateFields": {
+      "nameZh": "鲤鱼",
+      "descriptionZh": "常见池塘鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png"
+  },
+  {
+    "slug": "herring",
+    "matchedName": "Herring",
+    "candidateFields": {
+      "nameZh": "鲱鱼",
+      "descriptionZh": "常见海鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png"
+  },
+  {
+    "slug": "catfish",
+    "matchedName": "Catfish",
+    "candidateFields": {
+      "nameZh": "鲶鱼",
+      "descriptionZh": "溪流中不常见的鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png"
+  },
+  {
+    "slug": "bream",
+    "matchedName": "Bream",
+    "candidateFields": {
+      "nameZh": "鲷鱼",
+      "descriptionZh": "夜间活跃的常见河鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/8/82/Bream.png"
+  },
+  {
+    "slug": "anchovy",
+    "matchedName": "Anchovy",
+    "candidateFields": {
+      "nameZh": "鳀鱼",
+      "descriptionZh": "海里常见的小型银色鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/7/79/Anchovy.png"
+  },
+  {
+    "slug": "eel",
+    "matchedName": "Eel",
+    "candidateFields": {
+      "nameZh": "鳗鱼",
+      "descriptionZh": "长而滑的小鱼。"
+    },
+    "localSourceFile": "C:/Users/lizhi/OneDrive/桌面/星露谷物语资料库/JSON文件/stardew_all_fish_data_with_icons_zh.json",
+    "confidence": "high",
+    "needsWikiVerification": [
+      "descriptionZh"
+    ],
+    "iconUrlForReviewOnly": "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png"
+  }
+]
