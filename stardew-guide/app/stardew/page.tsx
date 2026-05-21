@@ -17,7 +17,7 @@ const features = [
   {
     href: "/stardew/villagers",
     title: "Villager Gift Finder",
-    description: "Find beginner-friendly loved and liked gifts from local JSON data.",
+    description: "Find Stardew Valley villagers, gift ideas, birthdays, and friendship notes.",
     tone: "meadow" as const
   },
   {
