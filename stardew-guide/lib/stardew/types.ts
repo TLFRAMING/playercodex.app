@@ -141,3 +141,46 @@ export type MoneyGuide = StardewDataSource & {
   confidence: string | VerificationValue;
   notes: string;
 };
+
+export type StardewGuideArticleCategory = "beginner" | "progression" | "farming" | "mining" | "fishing" | "community-center" | "friendship" | "animals";
+
+export type StardewGuideArticleConfidence = "high" | "medium" | VerificationValue;
+
+export type StardewGuideArticlePatchSensitivity = "low" | "medium" | "high";
+
+export type StardewGuideArticleBlock =
+  | {
+      type: "heading";
+      level: 2 | 3;
+      text: string;
+    }
+  | {
+      type: "paragraph";
+      text: string;
+    }
+  | {
+      type: "list";
+      ordered: boolean;
+      items: string[];
+    };
+
+export type StardewGuideRelatedDataLink = {
+  label: string;
+  href: string;
+};
+
+export type StardewGuideArticleMeta = StardewDataSource & {
+  slug: string;
+  title: string;
+  category: StardewGuideArticleCategory;
+  summary: string;
+  confidence: StardewGuideArticleConfidence;
+  patchSensitivity: StardewGuideArticlePatchSensitivity;
+  relatedDataLinks?: StardewGuideRelatedDataLink[];
+};
+
+export type StardewGuideArticle = StardewGuideArticleMeta & {
+  fileName: string;
+  readingTimeMinutes: number;
+  blocks: StardewGuideArticleBlock[];
+};
