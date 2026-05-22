@@ -33,7 +33,8 @@ const groups: HubGroup[] = [
       { title: "Crops", href: "/stardew/crops", note: "Season, price, and growth references.", status: "Live" },
       { title: "Fruit Trees", href: "/stardew/fruit-trees", note: "Sapling prices, seasons, and fruit values.", status: "Live" },
       { title: "Animals", href: "/stardew/animals", note: "Barn and coop animals, unlocks, products, and care notes.", status: "Live" },
-      { title: "Animal Products", href: "/stardew/animal-products", note: "Eggs, milk, wool, truffles, processing, and bundle uses.", status: "Live" }
+      { title: "Animal Products", href: "/stardew/animal-products", note: "Eggs, milk, wool, truffles, processing, and bundle uses.", status: "Live" },
+      { title: "Artisan Goods", href: "/stardew/artisan-goods", note: "Animal processing outputs, machines, input items, and value references.", status: "Live" }
     ]
   },
   {
@@ -50,7 +51,6 @@ const groups: HubGroup[] = [
     name: "Items",
     tone: "border-green-950/10 bg-white/75",
     items: [
-      { title: "Artisan Goods", note: "Planned processed-goods reference.", status: "Planned" },
       { title: "Minerals", href: "/stardew/minerals", note: "Location, value, and museum lookup.", status: "Live" },
       { title: "Artifacts", note: "Planned artifact index.", status: "Planned" }
     ]

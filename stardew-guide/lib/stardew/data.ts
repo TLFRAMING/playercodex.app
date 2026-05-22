@@ -107,6 +107,10 @@ export function getAllArtisanGoods(): ArtisanGood[] {
   return readJsonArray<ArtisanGood>("artisan-goods.json");
 }
 
+export function getArtisanGoodBySlug(slug: string): ArtisanGood | undefined {
+  return getAllArtisanGoods().find((good) => good.slug === slug);
+}
+
 export function getArtisanGoodsForInput(itemName: string): ArtisanGood[] {
   return getAllArtisanGoods().filter((good) => good.inputs.some((input) => input.itemName === itemName));
 }

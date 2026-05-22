@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllRogueCommandArticles } from "@/lib/rogue-command/data";
-import { getAllAnimalProducts, getAllAnimals, getAllCrops, getAllFish, getAllForage, getAllFruitTrees, getAllMinerals, getAllMoneyGuides, getAllVillagers } from "@/lib/stardew/data";
+import { getAllAnimalProducts, getAllAnimals, getAllArtisanGoods, getAllCrops, getAllFish, getAllForage, getAllFruitTrees, getAllMinerals, getAllMoneyGuides, getAllVillagers } from "@/lib/stardew/data";
 import { getAllStardewGuideArticles } from "@/lib/stardew/guides";
 
 const siteUrl = "https://playercodex.app";
@@ -19,6 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/stardew/fruit-trees",
     "/stardew/animals",
     "/stardew/animal-products",
+    "/stardew/artisan-goods",
     "/stardew/forage",
     "/stardew/minerals",
     "/stardew/fish",
@@ -33,6 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const fruitTreeRoutes = getAllFruitTrees().map((tree) => `/stardew/fruit-trees/${tree.slug}`);
   const animalRoutes = getAllAnimals().map((animal) => `/stardew/animals/${animal.slug}`);
   const animalProductRoutes = getAllAnimalProducts().map((product) => `/stardew/animal-products/${product.slug}`);
+  const artisanGoodRoutes = getAllArtisanGoods().map((good) => `/stardew/artisan-goods/${good.slug}`);
   const forageRoutes = getAllForage().map((item) => `/stardew/forage/${item.slug}`);
   const mineralRoutes = getAllMinerals().map((item) => `/stardew/minerals/${item.slug}`);
   const fishRoutes = getAllFish().map((fish) => `/stardew/fish/${fish.slug}`);
@@ -40,7 +42,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const rogueCommandRoutes = getAllRogueCommandArticles().map((article) => `/rogue-command/${article.slug}`);
   const stardewGuideRoutes = getAllStardewGuideArticles().map((article) => `/stardew/guides/${article.slug}`);
 
-  return [...staticRoutes, ...rogueCommandRoutes, ...villagerRoutes, ...cropRoutes, ...fruitTreeRoutes, ...animalRoutes, ...animalProductRoutes, ...forageRoutes, ...mineralRoutes, ...fishRoutes, ...moneyRoutes, ...stardewGuideRoutes].map((route) => ({
+  return [...staticRoutes, ...rogueCommandRoutes, ...villagerRoutes, ...cropRoutes, ...fruitTreeRoutes, ...animalRoutes, ...animalProductRoutes, ...artisanGoodRoutes, ...forageRoutes, ...mineralRoutes, ...fishRoutes, ...moneyRoutes, ...stardewGuideRoutes].map((route) => ({
     url: `${siteUrl}${route}`,
     lastModified: new Date()
   }));
