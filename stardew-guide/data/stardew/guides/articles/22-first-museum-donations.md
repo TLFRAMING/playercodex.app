@@ -12,6 +12,7 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Minerals"
   - "https://stardewvalleywiki.com/Geode"
   - "https://stardewvalleywiki.com/Blacksmith"
+  - "https://stardewvalleywiki.com/Fish_Pond"
 relatedDataLinks:
   - label: "Minerals Database"
     href: "/stardew/minerals"
