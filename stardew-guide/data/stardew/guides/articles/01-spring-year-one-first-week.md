@@ -11,6 +11,11 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Days_of_the_Week"
   - "https://stardewvalleywiki.com/Crops"
   - "https://stardewvalleywiki.com/The_Mines"
+relatedDataLinks:
+  - label: "Crop Database"
+    href: "/stardew/crops"
+  - label: "Minerals Database"
+    href: "/stardew/minerals"
 ---
 
 # Spring Year 1 First Week: What to Do Before the Farm Opens Up

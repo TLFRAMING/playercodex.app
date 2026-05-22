@@ -11,6 +11,13 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Fish"
   - "https://stardewvalleywiki.com/Energy"
   - "https://stardewvalleywiki.com/Calendar"
+relatedDataLinks:
+  - label: "Fish Calendar"
+    href: "/stardew/fish"
+  - label: "Community Center Tracker"
+    href: "/stardew/community-center"
+  - label: "Money-Making Guides"
+    href: "/stardew/money"
 ---
 
 # Early Fishing Cash Without Burning Out

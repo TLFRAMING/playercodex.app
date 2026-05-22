@@ -11,6 +11,13 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Tools"
   - "https://stardewvalleywiki.com/Fishing"
   - "https://stardewvalleywiki.com/The_Mines"
+relatedDataLinks:
+  - label: "Crop Database"
+    href: "/stardew/crops"
+  - label: "Fish Calendar"
+    href: "/stardew/fish"
+  - label: "Minerals Database"
+    href: "/stardew/minerals"
 ---
 
 # Energy Management for New Stardew Valley Players

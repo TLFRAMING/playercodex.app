@@ -11,6 +11,11 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Crops"
   - "https://stardewvalleywiki.com/Mining"
   - "https://stardewvalleywiki.com/Farming"
+relatedDataLinks:
+  - label: "Crop Database"
+    href: "/stardew/crops"
+  - label: "Minerals Database"
+    href: "/stardew/minerals"
 ---
 
 # When Sprinklers Start to Matter and How to Scale Around Them

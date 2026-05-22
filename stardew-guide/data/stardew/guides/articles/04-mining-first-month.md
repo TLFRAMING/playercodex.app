@@ -11,6 +11,11 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Mining"
   - "https://stardewvalleywiki.com/Energy"
   - "https://stardewvalleywiki.com/Tools"
+relatedDataLinks:
+  - label: "Minerals Database"
+    href: "/stardew/minerals"
+  - label: "Stardew Database"
+    href: "/stardew/database"
 ---
 
 # Mining in the First Month: When to Push, When to Leave
