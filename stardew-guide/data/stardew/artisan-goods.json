@@ -1,0 +1,223 @@
+[
+  {
+    "id": "mayonnaise",
+    "slug": "mayonnaise",
+    "name": "Mayonnaise",
+    "machine": "Mayonnaise Machine",
+    "processingTime": "3h",
+    "inputs": [
+      {
+        "itemName": "Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 190,
+        "artisanSellPrice": 266,
+        "note": "Normal-sized chicken eggs produce regular Mayonnaise."
+      },
+      {
+        "itemName": "Large Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "gold",
+        "sellPrice": 285,
+        "artisanSellPrice": 399,
+        "note": "Large chicken eggs produce gold-quality Mayonnaise."
+      },
+      {
+        "itemName": "Golden Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 3,
+        "outputQuality": "gold",
+        "sellPrice": 855,
+        "artisanSellPrice": 1197,
+        "note": "Golden Eggs produce three gold-quality Mayonnaise."
+      },
+      {
+        "itemName": "Ostrich Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 10,
+        "outputQuality": "matches input quality",
+        "sellPrice": 1900,
+        "artisanSellPrice": 2660,
+        "note": "Ostrich Eggs produce 10 Mayonnaise; the Mayonnaise quality matches the egg quality, so this row uses normal-quality value as the baseline."
+      }
+    ],
+    "bundleUsage": [],
+    "beginnerNote": "Mayonnaise is the core coop processing output and usually makes basic eggs more valuable than selling them raw.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Mayonnaise"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "duck-mayonnaise",
+    "slug": "duck-mayonnaise",
+    "name": "Duck Mayonnaise",
+    "machine": "Mayonnaise Machine",
+    "processingTime": "3h",
+    "inputs": [
+      {
+        "itemName": "Duck Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 375,
+        "artisanSellPrice": 525,
+        "note": "Duck Eggs produce Duck Mayonnaise."
+      }
+    ],
+    "bundleUsage": [],
+    "beginnerNote": "Duck Mayonnaise is a straightforward upgrade path for Duck Eggs when a Mayonnaise Machine is available.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Duck_Mayonnaise"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "dinosaur-mayonnaise",
+    "slug": "dinosaur-mayonnaise",
+    "name": "Dinosaur Mayonnaise",
+    "machine": "Mayonnaise Machine",
+    "processingTime": "3h",
+    "inputs": [
+      {
+        "itemName": "Dinosaur Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 800,
+        "artisanSellPrice": 1120,
+        "note": "Dinosaur Eggs produce Dinosaur Mayonnaise."
+      }
+    ],
+    "bundleUsage": [],
+    "beginnerNote": "Dinosaur Mayonnaise is a high-value special coop product, but Dinosaur Eggs may also matter for museum or hatching decisions.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Dinosaur_Mayonnaise"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "void-mayonnaise",
+    "slug": "void-mayonnaise",
+    "name": "Void Mayonnaise",
+    "machine": "Mayonnaise Machine",
+    "processingTime": "3h",
+    "inputs": [
+      {
+        "itemName": "Void Egg",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 275,
+        "artisanSellPrice": 385,
+        "note": "Void Eggs produce Void Mayonnaise."
+      }
+    ],
+    "bundleUsage": [],
+    "beginnerNote": "Void Mayonnaise gives Void Eggs a simple processing route, but it can also have quest relevance later.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Void_Mayonnaise"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "cheese",
+    "slug": "cheese",
+    "name": "Cheese",
+    "machine": "Cheese Press",
+    "processingTime": "200m",
+    "inputs": [
+      {
+        "itemName": "Milk",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 230,
+        "artisanSellPrice": 322,
+        "note": "Milk produces normal-quality Cheese."
+      },
+      {
+        "itemName": "Large Milk",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "gold",
+        "sellPrice": 345,
+        "artisanSellPrice": 483,
+        "note": "Large Milk produces gold-quality Cheese."
+      }
+    ],
+    "bundleUsage": ["Artisan Bundle"],
+    "beginnerNote": "Cheese is the basic barn processing route and can also be aged later in Casks.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Cheese"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "goat-cheese",
+    "slug": "goat-cheese",
+    "name": "Goat Cheese",
+    "machine": "Cheese Press",
+    "processingTime": "200m",
+    "inputs": [
+      {
+        "itemName": "Goat Milk",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 400,
+        "artisanSellPrice": 560,
+        "note": "Goat Milk produces normal-quality Goat Cheese."
+      },
+      {
+        "itemName": "Large Goat Milk",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "gold",
+        "sellPrice": 600,
+        "artisanSellPrice": 840,
+        "note": "Large Goat Milk produces gold-quality Goat Cheese."
+      }
+    ],
+    "bundleUsage": ["Artisan Bundle"],
+    "beginnerNote": "Goat Cheese is a higher-value dairy output and can be aged in Casks after processing.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Goat_Cheese"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "cloth",
+    "slug": "cloth",
+    "name": "Cloth",
+    "machine": "Loom",
+    "processingTime": "240m",
+    "inputs": [
+      {
+        "itemName": "Wool",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 470,
+        "artisanSellPrice": 658,
+        "note": "Quality Wool can produce two Cloth; this row uses the one-Cloth baseline."
+      }
+    ],
+    "bundleUsage": ["Artisan Bundle"],
+    "beginnerNote": "Cloth is useful beyond selling because it connects animal production to bundles, crafting, buildings, and tailoring.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Cloth"],
+    "lastChecked": "2026-05-22"
+  },
+  {
+    "id": "truffle-oil",
+    "slug": "truffle-oil",
+    "name": "Truffle Oil",
+    "machine": "Oil Maker",
+    "processingTime": "6h",
+    "inputs": [
+      {
+        "itemName": "Truffle",
+        "inputQuantity": 1,
+        "outputQuantity": 1,
+        "outputQuality": "normal",
+        "sellPrice": 1065,
+        "artisanSellPrice": 1491,
+        "note": "Iridium-quality Truffles can be worth more raw without Artisan; compare against your profession setup."
+      }
+    ],
+    "bundleUsage": ["Artisan Bundle"],
+    "beginnerNote": "Truffle Oil can add value, but the processing choice depends on profession setup, Truffle quality, and machine handling time.",
+    "sourceUrls": ["https://stardewvalleywiki.com/Truffle_Oil"],
+    "lastChecked": "2026-05-22"
+  }
+]

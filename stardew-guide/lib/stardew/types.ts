@@ -118,6 +118,27 @@ export type AnimalProduct = StardewDataSource & {
   beginnerNote: string;
 };
 
+export type ArtisanGoodInput = {
+  itemName: string;
+  inputQuantity: number;
+  outputQuantity: number;
+  outputQuality: string;
+  sellPrice: number | VerificationValue;
+  artisanSellPrice: number | VerificationValue;
+  note: string;
+};
+
+export type ArtisanGood = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  machine: string;
+  processingTime: string;
+  inputs: ArtisanGoodInput[];
+  bundleUsage: string[];
+  beginnerNote: string;
+};
+
 export type BundleItem = {
   id: string;
   name: string;

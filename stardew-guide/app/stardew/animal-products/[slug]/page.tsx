@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
-import { getAllAnimalProducts, getAllAnimals, getAnimalProductBySlug } from "@/lib/stardew/data";
+import { getAllAnimalProducts, getAllAnimals, getAnimalProductBySlug, getArtisanGoodsForInput } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
@@ -44,6 +44,7 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
     "first-winter-preparation"
   ]);
   const animalLinks = getAllAnimals().filter((animal) => product.producedBy.includes(animal.name));
+  const artisanOutputs = getArtisanGoodsForInput(product.name);
 
   return (
     <PageShell eyebrow="Animal Products Database" title={product.name}>
@@ -73,6 +74,38 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
                   {animal.name}
                 </Link>
               ))}
+            </div>
+          </DataCard>
+        ) : null}
+
+        {artisanOutputs.length > 0 ? (
+          <DataCard>
+            <h2 className="text-lg font-black text-green-950">Artisan processing</h2>
+            <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">Compare the raw product value with its artisan output before deciding whether to process or sell directly.</p>
+            <div className="mt-4 grid gap-3 md:grid-cols-2">
+              {artisanOutputs.map((good) => {
+                const input = good.inputs.find((entry) => entry.itemName === product.name);
+
+                if (!input) {
+                  return null;
+                }
+
+                return (
+                  <div className="rounded-md border border-green-950/10 bg-green-950/[0.025] p-4" key={good.slug}>
+                    <div className="flex flex-wrap items-center gap-2">
+                      <span className="rounded-sm bg-pond/10 px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-pond">{good.machine}</span>
+                      <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">{good.processingTime}</span>
+                    </div>
+                    <h3 className="mt-3 text-base font-black text-green-950">{good.name}</h3>
+                    <dl className="mt-3 grid gap-2 sm:grid-cols-3">
+                      <Fact label="Raw" value={formatGold(product.sellPrice)} />
+                      <Fact label="Output" value={`${formatGold(input.sellPrice)}${input.outputQuantity > 1 ? ` total (${input.outputQuantity}x)` : ""}`} />
+                      <Fact label="Artisan" value={formatGold(input.artisanSellPrice)} />
+                    </dl>
+                    <p className="mt-3 text-xs font-semibold leading-5 text-green-950/56">{input.note}</p>
+                  </div>
+                );
+              })}
             </div>
           </DataCard>
         ) : null}

@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
-import type { Animal, AnimalProduct, Bundle, BundleItem, Crop, Fish, ForageItem, FruitTree, Mineral, MoneyGuide, Season, Villager } from "./types";
+import type { Animal, AnimalProduct, ArtisanGood, Bundle, BundleItem, Crop, Fish, ForageItem, FruitTree, Mineral, MoneyGuide, Season, Villager } from "./types";
 
 type BundleJson = Omit<Bundle, "items" | "name" | "slug"> & {
   slug?: string;
@@ -101,6 +101,14 @@ export function getAllAnimalProducts(): AnimalProduct[] {
 
 export function getAnimalProductBySlug(slug: string): AnimalProduct | undefined {
   return getAllAnimalProducts().find((product) => product.slug === slug);
+}
+
+export function getAllArtisanGoods(): ArtisanGood[] {
+  return readJsonArray<ArtisanGood>("artisan-goods.json");
+}
+
+export function getArtisanGoodsForInput(itemName: string): ArtisanGood[] {
+  return getAllArtisanGoods().filter((good) => good.inputs.some((input) => input.itemName === itemName));
 }
 
 export function getAllBundles(): Bundle[] {
