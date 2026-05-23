@@ -29,10 +29,16 @@ export type RogueCommandArticleBlock =
   | {
       type: "paragraph";
       text: string;
+    }
+  | {
+      type: "list";
+      ordered: boolean;
+      items: string[];
     };
 
 export type RogueCommandArticle = RogueCommandArticleMeta & {
   fileName: string;
+  readingTimeMinutes: number;
   summary: string;
   blocks: RogueCommandArticleBlock[];
   sources: RogueCommandSource[];

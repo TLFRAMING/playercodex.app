@@ -49,6 +49,12 @@ export function getRogueCommandArticlesByCategory() {
   }, {});
 }
 
+export function getRelatedRogueCommandArticles(article: RogueCommandArticle, limit = 3): RogueCommandArticle[] {
+  return getAllRogueCommandArticles()
+    .filter((candidate) => candidate.slug !== article.slug && candidate.category === article.category)
+    .slice(0, limit);
+}
+
 function parseArticle(fileName: string, sourcesById: Map<string, RogueCommandSource>): RogueCommandArticle | undefined {
   const filePath = path.join(articleDirectory, fileName);
   const raw = readFileSync(filePath, "utf8");
@@ -62,10 +68,12 @@ function parseArticle(fileName: string, sourcesById: Map<string, RogueCommandSou
   const blocks = parseMarkdownBlocks(match[2]);
   const summary = blocks.find((block): block is Extract<RogueCommandArticleBlock, { type: "paragraph" }> => block.type === "paragraph")?.text ?? "";
   const sources = meta.sourceIds.map((sourceId) => sourcesById.get(sourceId)).filter((source): source is RogueCommandSource => Boolean(source));
+  const readingTimeMinutes = estimateReadingTime(match[2]);
 
   return {
     ...meta,
     fileName,
+    readingTimeMinutes,
     summary,
     blocks,
     sources
@@ -116,6 +124,8 @@ function parseFrontmatter(frontmatter: string): RogueCommandArticleMeta {
 function parseMarkdownBlocks(markdown: string): RogueCommandArticleBlock[] {
   const blocks: RogueCommandArticleBlock[] = [];
   const paragraphs: string[] = [];
+  let listItems: string[] = [];
+  let listOrdered = false;
 
   function flushParagraph() {
     if (paragraphs.length === 0) {
@@ -129,34 +139,80 @@ function parseMarkdownBlocks(markdown: string): RogueCommandArticleBlock[] {
     paragraphs.length = 0;
   }
 
+  function flushList() {
+    if (listItems.length === 0) {
+      return;
+    }
+
+    blocks.push({
+      type: "list",
+      ordered: listOrdered,
+      items: listItems
+    });
+    listItems = [];
+    listOrdered = false;
+  }
+
   for (const line of markdown.split(/\r?\n/)) {
     if (line.startsWith("# ")) {
       flushParagraph();
+      flushList();
       continue;
     }
 
     if (line.startsWith("## ")) {
       flushParagraph();
+      flushList();
       blocks.push({ type: "heading", level: 2, text: line.replace(/^## /, "") });
       continue;
     }
 
     if (line.startsWith("### ")) {
       flushParagraph();
+      flushList();
       blocks.push({ type: "heading", level: 3, text: line.replace(/^### /, "") });
+      continue;
+    }
+
+    const unorderedListItem = line.match(/^\s*[-*]\s+(.+)$/);
+    const orderedListItem = line.match(/^\s*\d+\.\s+(.+)$/);
+
+    if (unorderedListItem || orderedListItem) {
+      flushParagraph();
+
+      const ordered = Boolean(orderedListItem);
+      if (listItems.length > 0 && listOrdered !== ordered) {
+        flushList();
+      }
+
+      listOrdered = ordered;
+      listItems.push((unorderedListItem?.[1] ?? orderedListItem?.[1] ?? "").trim());
       continue;
     }
 
     if (line.trim() === "") {
       flushParagraph();
+      flushList();
       continue;
     }
 
+    flushList();
     paragraphs.push(line.trim());
   }
 
   flushParagraph();
+  flushList();
   return blocks;
+}
+
+function estimateReadingTime(markdown: string) {
+  const wordCount = markdown
+    .replace(/^---\r?\n[\s\S]*?\r?\n---/, "")
+    .replace(/[#>*_`-]/g, " ")
+    .split(/\s+/)
+    .filter(Boolean).length;
+
+  return Math.max(1, Math.ceil(wordCount / 220));
 }
 
 function stringValue(value: string | string[] | undefined) {

@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { PageShell } from "@/components/PageShell";
 import sources from "@/data/rogue-command/sources.json";
-import { getRogueCommandArticlesByCategory } from "@/lib/rogue-command/data";
+import { getAllRogueCommandArticles, getRogueCommandArticlesByCategory } from "@/lib/rogue-command/data";
+import type { RogueCommandArticle } from "@/lib/rogue-command/types";
 
 export const metadata: Metadata = {
   title: "Rogue Command | Player Codex",
@@ -42,9 +43,40 @@ const categoryLabels: Record<string, string> = {
   systems: "Systems"
 };
 
+const readingPaths: Array<{ category: string; title: string; note: string }> = [
+  {
+    category: "getting-started",
+    title: "Start here",
+    note: "Learn how to keep the run stable before chasing reward synergy."
+  },
+  {
+    category: "systems",
+    title: "Understand the systems",
+    note: "Use economy, base tempo, Blueprints, Upgrades, and Hacks as decision tools."
+  },
+  {
+    category: "starters",
+    title: "Choose a starter",
+    note: "Compare early identity without turning the page into a ranking."
+  },
+  {
+    category: "specialists",
+    title: "Read Specialist notes",
+    note: "Treat wiki-backed Specialist details as patch-sensitive until rechecked."
+  },
+  {
+    category: "progression",
+    title: "Improve long-term runs",
+    note: "Use Ascension and Battle Archive advice to review losses and reduce expensive mistakes."
+  }
+];
+
 export default function RogueCommandPage() {
+  const articles = getAllRogueCommandArticles();
   const articleGroups = getRogueCommandArticlesByCategory();
-  const categoryEntries = Object.entries(articleGroups).sort(([first], [second]) => first.localeCompare(second));
+  const categoryEntries = readingPaths
+    .map((path) => [path.category, articleGroups[path.category] ?? []] as const)
+    .filter(([, groupArticles]) => groupArticles.length > 0);
 
   return (
     <PageShell eyebrow="Player Codex" kicker="Source-backed beginner guides and patch-sensitive strategy notes for Rogue Command." title="Rogue Command">
@@ -122,38 +154,42 @@ export default function RogueCommandPage() {
         <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
           <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <h2 className="text-base font-black text-green-950">Rogue Command guides</h2>
+              <h2 className="text-base font-black text-green-950">Rogue Command reading path</h2>
               <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                Start with fundamentals, then move into systems, Specialists, and long-term progression.
+                Follow the guide layer in the same order a new player usually needs it: basics, systems, starter identity, Specialists, then long-term improvement.
               </p>
             </div>
             <span className="w-fit rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-xs font-black uppercase tracking-[0.14em] text-green-950/50">
-              10 articles
+              {articles.length} articles
             </span>
           </div>
-          <div className="grid gap-3 md:grid-cols-2">
-            {categoryEntries.flatMap(([, articles]) =>
-              articles.map((article) => (
-                <Link
-                  key={article.slug}
-                  className="group rounded-sm border border-green-950/10 bg-green-950/[0.025] p-4 transition hover:-translate-y-0.5 hover:border-green-950/20 hover:bg-green-950/[0.045]"
-                  href={`/rogue-command/${article.slug}`}
-                >
-                  <div className="flex flex-wrap items-center gap-2">
-                    <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">
-                      {categoryLabels[article.category] ?? article.category}
-                    </span>
-                    <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
-                      {confidenceLabels[article.confidence] ?? article.confidence}
+          <div className="space-y-4">
+            {readingPaths.map((path) => {
+              const pathArticles = articleGroups[path.category] ?? [];
+
+              if (pathArticles.length === 0) {
+                return null;
+              }
+
+              return (
+                <section className="rounded-sm border border-green-950/10 bg-green-950/[0.02] p-3 sm:p-4" key={path.category}>
+                  <div className="mb-3 flex flex-col gap-1 border-b border-green-950/10 pb-3 sm:flex-row sm:items-end sm:justify-between">
+                    <div>
+                      <h3 className="text-base font-black text-green-950">{path.title}</h3>
+                      <p className="mt-1 text-sm font-semibold leading-6 text-green-950/58">{path.note}</p>
+                    </div>
+                    <span className="w-fit rounded-sm bg-white/70 px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
+                      {pathArticles.length} guides
                     </span>
                   </div>
-                  <h3 className="mt-3 break-words text-base font-black leading-snug text-green-950 group-hover:text-meadow">
-                    {article.title}
-                  </h3>
-                  <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{article.summary}</p>
-                </Link>
-              ))
-            )}
+                  <div className="grid gap-3 md:grid-cols-2">
+                    {pathArticles.map((article) => (
+                      <GuideCard article={article} key={article.slug} />
+                    ))}
+                  </div>
+                </section>
+              );
+            })}
           </div>
         </section>
 
@@ -195,5 +231,28 @@ export default function RogueCommandPage() {
         </div>
       </div>
     </PageShell>
+  );
+}
+
+function GuideCard({ article }: { article: RogueCommandArticle }) {
+  return (
+    <Link
+      className="group rounded-sm border border-green-950/10 bg-white/70 p-4 transition hover:-translate-y-0.5 hover:border-green-950/20 hover:bg-white"
+      href={`/rogue-command/${article.slug}`}
+    >
+      <div className="flex flex-wrap items-center gap-2">
+        <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">
+          {categoryLabels[article.category] ?? article.category}
+        </span>
+        <span className="rounded-sm bg-green-950/[0.045] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
+          {confidenceLabels[article.confidence] ?? article.confidence}
+        </span>
+        <span className="rounded-sm bg-green-950/[0.045] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
+          {article.readingTimeMinutes} min
+        </span>
+      </div>
+      <h3 className="mt-3 break-words text-base font-black leading-snug text-green-950 group-hover:text-meadow">{article.title}</h3>
+      <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{article.summary}</p>
+    </Link>
   );
 }
