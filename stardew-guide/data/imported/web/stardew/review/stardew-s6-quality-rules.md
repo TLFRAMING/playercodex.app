@@ -1,6 +1,6 @@
 # Stardew-S6 Guide Quality Rules
 
-Last checked: 2026-05-21
+Last checked: 2026-05-23
 
 ## Scope
 
@@ -202,6 +202,71 @@ relatedDataLinks:
 ```
 
 Do not add unrelated links just to increase clicks. The link should help a player check concrete data after reading the guide.
+
+### 14. Resource Links Are A Batch Gate, Not A Later Polish Pass
+
+The 2026-05-22 review found that the stronger late-batch articles added `relatedDataLinks`, while several earlier reviewed articles touched live resources but had no related links. Future daily article generation should treat this as a pre-publication gate:
+
+- if the guide names crops, fish, forage, minerals, bundles, villagers, money routes, museum items, tools, machines, or festivals, decide whether a live Player Codex page helps the reader act on that reference;
+- add `relatedDataLinks` when the player would naturally need a database, tracker, or companion guide after reading;
+- omit `relatedDataLinks` only when there is no useful destination, and record that choice in the review note;
+- avoid generic self-links unless they are clearly a hub path for discovery.
+
+The practical test is: "What would the player check next before making this decision in-game?"
+
+### 15. Overview Articles Need Extra Originality Pressure
+
+Broad overview articles, especially "every festival", "all fish", "all bundles", or "all villagers" topics, can drift toward wiki-summary structure even when the wording is original. They are allowed only when they add a decision layer that a table does not provide.
+
+Before publishing an overview, require:
+
+- a first-screen answer that explains how the player should use the overview;
+- section framing around preparation, timing, failure modes, or prioritization, not only source order;
+- a source boundary that names excluded checklist/detail work;
+- at least one internal path to the database, tracker, or narrower guide that should carry exact lookup work.
+
+If an article's promise is mostly "list every X", convert it into "how to plan around X" or keep it as a database page instead of a guide.
+
+### 16. High-Risk Topics Can Publish Only As Bounded Decision Guides
+
+S6 introduced production articles on Community Center priorities, friendship/gifts, and first animal buildings, which were previously deferred as high-risk areas. These topics can be useful, but only when the article stays inside a bounded decision frame.
+
+Required safeguards for these topics:
+
+- Community Center guides must state standard bundles only, avoid speed-route claims, and link to the tracker instead of reproducing bundle tables.
+- Friendship and gift guides must avoid publishing unverified individual gift tables, warn about universal-gift exceptions, and send specific lookup work to the Villager Gift Finder.
+- Animal guides must avoid profit rankings, exact yearly output, and universal coop-vs-barn claims; they should focus on feed, cash reserve, building timing, bundle relevance, and routine fit.
+
+If a draft starts ranking, optimizing, or promising completion speed in these areas, keep it in review until source verification or own testing supports the claim.
+
+### 17. Review The Newest Production-Like Files Too
+
+Daily generation may leave a new Markdown article in `data/stardew/guides/articles/` before it is committed. Rule review should inspect the latest approximately 10 files by numeric prefix and include untracked production-folder articles in the editorial review. Do not edit those articles by default, but report any serious factual, safety, or routing issue.
+
+### 18. Separate New-Batch Issues From Unresolved Legacy Gaps
+
+Quality-rule review may run again before the daily article automation adds new production files. When the latest numeric-prefix article set has not changed since the previous review, record that explicitly and do not treat the old batch as a new generation failure.
+
+Future review notes should separate:
+
+- newly introduced article issues;
+- unresolved production article gaps from earlier batches;
+- durable writing lessons that should change future generation behavior.
+
+This matters most for metadata gaps such as missing `relatedDataLinks`. If the issue is already known and production article edits are out of scope, keep it in the "later fix" list rather than rewriting the same rule as if it were newly discovered.
+
+### 19. Bound Money-Guide Overlap In Broad Guides
+
+Some beginner guides naturally touch money decisions, but they should not duplicate `data/stardew/money-guides.json` route economics unless the article is intentionally a money guide.
+
+When a guide mentions cash, income, profit, or route value:
+
+- keep the guide's promise centered on the player's immediate decision, such as timing, preparation, storage, or failure avoidance;
+- link to `/stardew/money` or a narrower money guide when the reader needs route comparison;
+- avoid importing exact profit estimates, machine formulas, or "best money" claims from money-guide records unless the article has current source and testing support;
+- state when money is only a constraint, not the article's main topic.
+
+This prevents broad guides such as fishing, animals, museum, festivals, and winter preparation from drifting into duplicate economy pages.
 
 ## Review Checklist For Each Future Batch
 
