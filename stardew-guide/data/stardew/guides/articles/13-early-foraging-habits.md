@@ -10,6 +10,15 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Foraging"
   - "https://stardewvalleywiki.com/Wild_Seeds"
   - "https://stardewvalleywiki.com/Spring"
+relatedDataLinks:
+  - label: "Forage Database"
+    href: "/stardew/forage"
+  - label: "Crop Database"
+    href: "/stardew/crops"
+  - label: "Money Guides"
+    href: "/stardew/money"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # Early Foraging Habits That Make the First Season Easier

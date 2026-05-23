@@ -11,6 +11,13 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Quality_Sprinkler"
   - "https://stardewvalleywiki.com/Farming"
   - "https://stardewvalleywiki.com/The_Mines"
+relatedDataLinks:
+  - label: "Crop Database"
+    href: "/stardew/crops"
+  - label: "Mineral Database"
+    href: "/stardew/minerals"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # Your First Sprinklers: When the Farm Starts Running Without You

@@ -12,6 +12,15 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Crops"
   - "https://stardewvalleywiki.com/Calendar"
   - "https://stardewvalleywiki.com/Bundles"
+relatedDataLinks:
+  - label: "Crop Database"
+    href: "/stardew/crops"
+  - label: "Community Center Tracker"
+    href: "/stardew/community-center"
+  - label: "Money Guides"
+    href: "/stardew/money"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # Preparing for Fall Year 1 Without Wasting Summer

@@ -11,6 +11,13 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Tools"
   - "https://stardewvalleywiki.com/The_Mines"
   - "https://stardewvalleywiki.com/Fishing"
+relatedDataLinks:
+  - label: "Fish Database"
+    href: "/stardew/fish"
+  - label: "Mineral Database"
+    href: "/stardew/minerals"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # Rainy Day Planning: What to Do When You Do Not Have to Water

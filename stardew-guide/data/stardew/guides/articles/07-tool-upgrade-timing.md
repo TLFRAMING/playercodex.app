@@ -11,6 +11,11 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Blacksmith"
   - "https://stardewvalleywiki.com/Weather"
   - "https://stardewvalleywiki.com/Calendar"
+relatedDataLinks:
+  - label: "Mineral Database"
+    href: "/stardew/minerals"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # Tool Upgrade Timing: Avoiding Bad Rainy-Day Decisions
