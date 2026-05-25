@@ -1,9 +1,9 @@
 ---
 slug: specialist-overview
-title: "Rogue Command Specialist Overview: Understand Roles Before Rankings"
+title: "Rogue Command Unit Roles and Specialist Guide: Build Armies Around Jobs, Not Rankings"
 category: specialists
 patchVersion: "1.0"
-lastVerified: "2026-05-20"
+lastVerified: "2026-05-24"
 confidence: wiki
 patchSensitivity: high
 sourceIds:
@@ -11,62 +11,74 @@ sourceIds:
   - wiki-gg
 ---
 
-# Rogue Command Specialist Overview: Understand Roles Before Rankings
+# Rogue Command Unit Roles and Specialist Guide: Build Armies Around Jobs, Not Rankings
 
-This guide helps players read Specialist identity without turning the roster into a ranking. A Specialist is the combat foundation of a run. It changes what the early army is good at and what kinds of rewards become attractive later.
+This guide helps players think about army composition and Specialists without turning the roster into a tier list. The practical answer is to build around jobs: something holds space, something deals damage, something protects the economy, and something lets the army recover or reposition when the fight goes wrong.
 
-Because Specialist mechanics and balance are patch-sensitive, this article describes roles and player fit. It does not claim current-version strength order. Read each Specialist as a question: what problem does this identity make easier, and what mistake does it punish harder?
+Rogue Command's Specialists and unit options are patch-sensitive. That means this page describes roles, failure modes, and drafting logic. It does not claim that one Specialist, unit, or composition is the best current-version answer.
 
-## How to Read a Specialist Safely
+## Start Every Composition With Jobs
 
-Before judging a Specialist, separate three things:
+Before judging a unit, ask what job it performs. A useful army usually needs several of these jobs:
 
-- Role: what kind of fight or map pattern it naturally supports.
-- Requirement: what the player must do for that role to matter.
-- Failure mode: what happens when the role is forced into the wrong situation.
+- Frontline presence to keep enemies from reaching fragile units or structures.
+- Reliable damage to end fights before pressure compounds.
+- Map control to scout, protect expansion, and choose engagements.
+- Support or recovery to preserve the units the run depends on.
+- Structure or defensive coverage to protect harvesting and production.
 
-This keeps the roster useful without turning uncertain balance notes into a verdict. It also helps you pick rewards that support the role you are actually playing.
+If a unit does not have a clear job in the current army, it can still be interesting, but it may not deserve production space yet.
 
-## Castle: For Players Who Want a Position to Fight From
+## Avoid Single-Role Armies Unless the Run Supports Them
 
-Castle points toward defense and artillery pressure. It suits players who like building a stable position, forcing enemies to approach prepared firepower, and expanding after the front is safe.
+A one-note army can feel strong until the map asks a different question. If every unit wants the same range, speed, or target type, the run may collapse when enemies pressure a weak angle.
 
-It can fail if the player becomes too static. Defense should create space for economy and map control, not turn the run into waiting.
+Use reward picks to cover the army's missing job. If the army can attack but cannot hold a route, draft defense or control. If it can hold but cannot finish fights, draft damage or pressure. If it wins fights but loses key units, draft preservation.
 
-## Incinerator: For Players Who Like Area Pressure
+This is safer than chasing a generic "strong unit" because it adapts to what the run is actually missing.
 
-Incinerator leans into fire and battlefield control. It rewards players who can keep enemies inside damaging zones and draft rewards that support status pressure.
+## Read Specialists as Playstyle Questions
 
-The risk is assuming fire solves every fight. If a map asks for mobility, direct damage, or protection, the rest of the build must cover that.
+A Specialist should shape how you choose fights and rewards. Read each one through three questions:
 
-## Robo Recycler: For Attrition-Minded Players
+1. What kind of fight does this identity make easier?
+2. What support does it need before that strength matters?
+3. What mistake does this identity punish harder?
 
-Recycler turns losses into a resource pattern. That identity rewards players who can distinguish acceptable losses from wasteful ones.
+This frame keeps Specialist choice useful without pretending to know a permanent strength order. A defensive identity can still fail if it never expands. A mobility identity can still fail if it overextends. A sacrifice or attrition identity can still fail if the army trades away pieces it cannot replace.
 
-The failure mode is careless trading. If you feed units into bad fights without preserving economy and production, the mechanic becomes a way to lose more slowly, not a plan.
+## Match Rewards to the Specialist's Actual Need
 
-## Support Tank: For Players Who Value Army Preservation
+Specialist synergy is not just taking every reward with a matching theme. A themed reward is good only when it supports the run's current job structure.
 
-Support Tank protects squads and makes key units harder to lose. It fits players who think in formations, identify priority units, and prefer stable pushes.
+If the Specialist helps preserve units, make sure the army has units worth preserving. If the Specialist encourages pressure, make sure the economy can replace losses. If the Specialist rewards positioning, use scouting and retreat paths so mobility does not become overextension.
 
-It needs an army worth supporting. If your production is weak or your damage plan is unclear, support alone will not finish fights.
+The best reward for a Specialist is often the one that covers its weak side, not the one that makes its strength more dramatic.
 
-## Swarm Walker: For Players Who Like Pressure That Spreads
+## Counter Pressure by Rebalancing Jobs
 
-Swarm Walker points toward infection-style and spawn-pressure ideas. It fits players who like fights that snowball after contact.
+When the enemy pressure rises, do not immediately blame the composition. First ask which job failed:
 
-Its patch-sensitive details should be tested before making specific claims. Treat the role as a pressure identity, not a guaranteed answer.
+- Did the frontline disappear?
+- Did damage arrive too late?
+- Did the Engineer move before the route was safe?
+- Did the Harvester or economy route become exposed?
+- Did a reward need a trigger the army could not provide?
 
-## Mantis Mech: For Players Who Accept Sacrifice Decisions
+The answer tells you what to draft, build, or preserve next. Rebalancing jobs is more reliable than abandoning the entire plan after one hard fight.
 
-Mantis asks a different question: when is an allied unit worth more as fuel than as a fighter? It suits players who enjoy resource conversion and a growing centerpiece.
+## Common Composition Mistakes
 
-It can fail if the player consumes too much army too early or forgets that a melee core still needs support, economy, and answers to dangerous enemies.
+The first mistake is producing only the unit that felt good in the last fight. The second is choosing a Specialist and then drafting rewards that do not support its actual needs. The third is adding support before the army has a clear damage plan. The fourth is adding damage while the economy route is already unsafe.
 
-## Rush Beacon and Phase Walker: For Players Who Read the Map
+Army strength is not just the sum of units. It is whether the army can protect the base, take fights, preserve key pieces, and keep the Engineer safe.
 
-Rush Beacon and Phase Walker lean toward mobility, map presence, and disruption. They reward players who use positioning to create better fights instead of only relying on raw army size.
+## When To Experiment
 
-These roles punish late reactions. If you do not scout, plan retreat routes, or track the Engineer's safety, mobility can turn into overextension.
+Experiment when the fundamentals are stable. If Crystal is flowing, the Engineer is safe, and production is active, trying a new Specialist interaction or unusual composition can teach you something useful. If those basics are unstable, experimentation often hides the real problem.
 
-Source boundary: role descriptions combine official store framing with wiki-backed roster structure. This is role guidance and should not be used as a balance verdict.
+Use failed runs as tests. If an offbeat idea fails, identify whether the idea was unsupported or whether the command layer collapsed before the idea had a fair chance.
+
+## Source Boundary and Confidence Note
+
+Official store material supports the broad RTS and build-crafting frame. Wiki-backed material supports roster and Specialist structure, so this article keeps mechanics patch-sensitive. It intentionally excludes unit rankings, Specialist tier lists, exact current-version counters, and player-review balance conclusions.

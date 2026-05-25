@@ -1,65 +1,92 @@
 ---
 slug: beginner-first-run
-title: "Rogue Command First Run Guide: Learn the RTS Before Chasing Synergy"
+title: "Rogue Command First Run Guide: Core Mechanics and Early-Game Essentials"
 category: getting-started
 patchVersion: "1.0"
-lastVerified: "2026-05-20"
+lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
 sourceIds:
   - steam-store
 ---
 
-# Rogue Command First Run Guide: Learn the RTS Before Chasing Synergy
+# Rogue Command First Run Guide: Core Mechanics and Early-Game Essentials
 
-This guide helps new players make better first-run decisions in Rogue Command 1.0. The goal is not to win with a perfect route. The goal is to leave the run understanding what broke: Engineer safety, economy, production, army control, or reward direction.
+This guide helps new Rogue Command players survive the first few runs by treating the game as an RTS first and a roguelite build second. The practical answer is simple: protect the Engineer, keep Crystal moving, build from controlled space, and use rewards to solve the problem the last fight revealed.
 
-Rogue Command gives you roguelite rewards after battles, but the fight itself is still an RTS. If the base is idle, the Harvester is exposed, and the Engineer is walking into danger, no clever Hack will save the run. Treat the first few attempts as training for the command layer: protect the Engineer, keep Crystal moving, produce before greed, and draft around the last thing that nearly killed you.
+Rogue Command is built around real-time base building, resource harvesting, unit control, exploration, defense, and attack planning. The roguelite layer matters, but it only becomes powerful when the basic command layer is stable. If the Engineer is exposed, production is idle, and your economy route is unsafe, no reward pick can fully repair the run.
 
-## The First Principle: The Engineer Is Not a Scout
+## Learn the RTS Loop Before Chasing Synergy
 
-Your Engineer is the run's map presence. It calls down buildings, controls armies, and creates your base footprint. Losing it ends the run, so the first habit to build is simple: combat units reveal danger before the Engineer moves forward.
+The first loop to practice is not a perfect build. It is a repeatable map routine:
 
-Before crossing into new space, send units ahead, slow time if enemies appear, then move the Engineer only after you know where the threat is. If you need to build near the front, clear enough room first. A rushed forward building is rarely worth a dead Engineer.
+1. Scout with units.
+2. Keep the Engineer behind controlled space.
+3. Secure Crystal and production.
+4. Fight with a retreat path.
+5. Draft a reward that solves the next visible problem.
 
-## Keep Economy and Production Moving Together
+This loop prevents the most common early collapse: expanding, fighting, and drafting as separate decisions. In Rogue Command, they are one system. Your reward choices only matter if the economy and army survive long enough to use them.
 
-New players often separate economy from combat, but in Rogue Command they are the same tempo problem. Crystal is only useful when it becomes production, and production is only useful when the army survives long enough to matter.
+## Protect the Engineer Like the Run Depends on It
 
-After each fight, run a short check. Is the Harvester still working? Is the production structure queued or idle? Do you have enough army to protect the next resource move? If Crystal is floating, add production or units. If production is idle because Crystal is missing, stop expanding the army plan and secure economy first.
+The Engineer is your builder and your way to turn map control into structures. Do not use it as a scout. If the Engineer finds the enemy first, the run is already taking unnecessary risk.
 
-## Run This Five-Point Check After Every Fight
+Before moving it forward, send combat units ahead and confirm where the next threat can appear. If a fight starts near the Engineer, slow down, pull it back, and let the army make contact first. Forward building is useful only when the area is already controlled or the risk is deliberate and escorted.
 
-Use the same check even when the fight felt easy:
+This advice fails only when waiting would completely stall the run. In that case, take the gamble with units nearby and a retreat path already chosen.
 
-- Is the Engineer behind controlled space?
-- Is the Harvester working without crossing unknown danger?
-- Is production queued instead of sitting idle?
-- Did any key unit survive that the next reward should support?
-- Did the last fight reveal a clear weakness?
+## Expand Early, But Not Blindly
 
-If two or more answers are weak, stabilize before pushing. First-run losses usually come from stacking small problems until one enemy wave turns them into a collapse.
+Staying inside the starting area too long usually leaves the economy behind the map's pressure curve. Expanding too fast creates the opposite problem: the Engineer and harvest route become targets before the army can protect them.
 
-## Use Slow Time Before the Crisis Peaks
+Use a controlled expansion rule. Take the next Crystal area when you can answer three questions:
 
-The store page describes the ability to slow time dramatically. Use it proactively. Slow time when an enemy wave splits, when your Engineer has to cross danger, when a new attack pattern appears, or when you are choosing whether to retreat.
+- Which unit group will reveal danger first?
+- Which structure or unit group protects the harvesting path?
+- Where does the army retreat if the push finds more resistance than expected?
 
-Do not save slow time only for panic. Good use looks boring: pull the Engineer back, retarget dangerous enemies, queue a unit, reposition the frontline, then resume. The point is to prevent chaos, not to look fast while drowning in it.
+If those answers are weak, clear closer threats or strengthen the current base before reaching farther. Expansion is not about touching more map. It is about owning enough map that your economy keeps working during the next fight.
 
-## Pick Rewards That Repair Real Problems
+## Use Slow Time Before the Screen Becomes Unreadable
 
-Your first run should not chase a fragile combo. After a battle, name the problem you just had. Did enemies reach your base? You may need defense, control, or more bodies. Did fights take too long? You may need damage or better production. Did the Harvester get threatened? You may need safer map control.
+Rogue Command supports dramatic time slowdown. Treat it as a planning tool, not just a panic button. Use it when a fight opens on two fronts, when the Engineer must move near danger, when you need to retarget units, or when a reward-enabled mechanic needs careful timing.
 
-Take a Blueprint when you need a new tool. Take an Upgrade when you already rely on the target. Take a Hack when you can trigger the mechanic now or very soon. If a reward sounds exciting but does not solve a visible problem, it belongs in a later test run.
+Good slowdown use should feel boring. You are buying time to make one clean decision: retreat, focus fire, queue production, reposition, or cancel a bad move. If you wait until the army is already scattered, slowdown becomes damage control instead of prevention.
 
-## Common First-Run Failures
+## Push Small Targets Instead of Full Turtling
 
-The most common failure is moving the Engineer like a hero unit. The second is building a base that cannot defend its economy. The third is taking rewards in three unrelated directions, then having no coherent army when pressure rises.
+Pure turtling can leave enemy pressure untouched while your base becomes wider and harder to defend. The safer beginner habit is not reckless aggression. It is small, deliberate pressure.
 
-When you lose, write one sentence: "I lost because..." Make it specific. "Engineer died while expanding." "Production was idle after the second fight." "I picked fire rewards without enough fire sources." That sentence is more valuable than blaming random rewards.
+After stabilizing the starting area, look for nearby targets your army can hit without abandoning the economy. The goal is to reduce future pressure, not to win the map in one push. If a strike would expose the Engineer, empty the base defense, or split your army too far, delay it.
 
-## When This Advice Stops Being Enough
+Think of early pressure as housekeeping. You are removing the next problem before it grows into a crisis.
 
-Once you can keep the Engineer safe, maintain Crystal flow, and produce continuously, then start testing Specialist-specific routes and more complex reward chains. Until then, the most practical improvement is cleaner RTS execution.
+## Keep Harvesting and Production in the Same Conversation
 
-Patch note: this article uses official store-level mechanics and broad gameplay framing. It does not claim current-version optimal starts, Specialist rankings, or exact build routes.
+Crystal income matters only when it becomes units, structures, or defense. Production matters only when the economy can support it. New players often check one side and forget the other.
+
+After each fight, ask:
+
+- Is the Harvester or economy route still protected?
+- Is production queued or idle?
+- Did the last fight reveal a missing role?
+- Can the next build step happen without exposing the Engineer?
+
+If Crystal is floating, turn it into a practical answer. If production is idle because Crystal is short, stop adding new plans and secure the economy route first.
+
+## First-Run Review Checklist
+
+When the run ends, do not review only the final fight. Find the first expensive mistake:
+
+- Engineer moved before the army controlled the route.
+- Expansion reached farther than the defense could cover.
+- Production stayed idle after a fight.
+- Rewards pointed in several directions without supporting the army.
+- The army had no retreat path when the map pushed back.
+
+Pick one mistake to fix next run. Rogue Command rewards repeated attempts, but the improvement comes from making the next attempt cleaner, not from chasing a perfect script.
+
+## Source Boundary and Confidence Note
+
+Official store material supports the broad RTS and roguelite framing: building, harvesting, exploring, defending, attacking, and build crafting. This guide turns those verified systems into a beginner safety routine. It intentionally excludes current-version optimal starts, exact stage timings, Specialist rankings, and player-review claims.

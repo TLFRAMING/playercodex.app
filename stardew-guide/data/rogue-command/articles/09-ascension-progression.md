@@ -1,9 +1,9 @@
 ---
 slug: ascension-progression
-title: "Rogue Command Ascension Progression: Make Fewer Expensive Mistakes"
+title: "Rogue Command Advanced Progression Guide: Use Pressure, Losses, and Heat as Training Tools"
 category: progression
 patchVersion: "1.0"
-lastVerified: "2026-05-20"
+lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
 sourceIds:
@@ -11,51 +11,91 @@ sourceIds:
   - steam-community-1-0-announcement
 ---
 
-# Rogue Command Ascension Progression: Make Fewer Expensive Mistakes
+# Rogue Command Advanced Progression Guide: Use Pressure, Losses, and Heat as Training Tools
 
-This guide helps players approach Ascension as a learning curve, not a race to a fixed route. Official sources frame a first win as the beginning, with Ascensions and Heat Levels adding escalating pressure. The higher you climb, the more every loose habit costs.
+This guide helps players move beyond early survival without turning progression into a fixed route. The practical answer is to treat higher pressure as a diagnostic tool: it shows which habit breaks first, then gives your next run a specific thing to improve.
 
-The point is not to find a universal climb route. The point is to identify which mistakes each layer starts punishing, then raise pressure only when the previous layer is failing later and for clearer reasons.
+Rogue Command's long-term progression, repeated runs, and escalating pressure work best when you review mistakes clearly. Do not chase a universal advanced build. Build a process that tells you why a run failed and what to test next.
 
-## Low Ascension: Prove the Fundamentals
+## Make Progression Expand Options, Not Excuses
 
-At lower Ascension, focus on basics that should work in any run. Keep the Engineer behind controlled space. Maintain Crystal flow. Keep production active. Use slow time before the army breaks. Draft rewards that solve the last fight's problem.
+Long-term upgrades and unlocks can make runs more flexible, but they should not hide weak command habits. If the Engineer is unsafe, production is idle, or rewards do not connect to the army, progression will only delay the collapse.
 
-If you lose here, do not assume the build was doomed. Look first for execution leaks: idle factories, exposed Harvesters, late retreats, greedy expansion, or rewards that never connected to the army.
+Use progression to widen what you can test. Then review whether the new option actually solved a problem. A new unlock is useful when it improves the next few fights, not just when it looks like a future strategy.
 
-## Mid Ascension: Stop Taking Unfunded Ideas
+## Raise Pressure Only After the Basics Are Stable
 
-Mid Ascension starts punishing speculative drafting. A reward that might become useful later has to compete with a reward that solves the next map. If the run lacks defense, take defense. If the army cannot kill priority targets, add damage or control. If economy is unstable, repair the map position.
+Before increasing difficulty or pressure, confirm that your baseline runs are failing for clearer reasons:
 
-This is where players should learn to pass on attractive but unsupported mechanics. A Hack without a trigger, an Upgrade for a unit you are not producing, or a Blueprint you cannot afford may be interesting, but it can also delay survival.
+- The Engineer usually stays behind controlled space.
+- Crystal routes are protected before deep expansion.
+- Production stays active after fights.
+- Rewards support the army you are actually building.
+- You can identify the first expensive mistake after a loss.
 
-## High Ascension: Plan Before the Mistake Happens
+If these habits are inconsistent, higher pressure will not teach much. It will only make old mistakes happen faster.
 
-Higher pressure makes late reactions weaker. You need retreat paths before the fight starts, base defense before the flank arrives, and production queues before losses happen.
+## Use Losses as Categories
 
-Use slow time to execute decisions you already made, not to invent a plan after everything has gone wrong. If the Engineer must move, escort it. If the Harvester route is exposed, secure it before chasing the next objective. If a fight starts badly, retreat before the core army is gone.
+Advanced improvement starts with sorting losses into useful categories. Use five:
 
-## Heat Levels Are Stress Tests
+1. Engineer safety
+2. Economy and harvesting
+3. Army preservation
+4. Reward direction
+5. Map control
 
-Heat Levels should be treated as pressure tests for routes you understand. If you cannot explain how the run handles early economy, army preservation, reward direction, and dangerous map conditions, Heat will expose that uncertainty quickly.
+Pick the category that started the collapse, not the one that appeared at the end. A final base breach may have started as an unsafe expansion three minutes earlier. A bad reward screen may have started as an army with no clear job.
 
-Do not use Heat to validate a half-built idea. Use it to test whether a working idea remains stable under pressure.
+## Review Reward Clutter as a Decision Problem
 
-## Before Raising Pressure, Confirm This
+As the run offers more possibilities, the danger is not only weak rewards. It is taking rewards that do not belong to the current plan.
 
-Move upward only when you can answer these questions after most losses:
+When the reward pool feels noisy, narrow the decision:
 
-- What was the first expensive mistake?
-- Was the reward plan connected to the army you were actually producing?
-- Did the Engineer stay behind controlled space until the run was already unstable?
-- Did higher pressure reveal a new problem, or repeat an old one?
+- What did the last fight expose?
+- Which reward affects the next map soonest?
+- Which reward improves a unit, structure, or mechanic already in use?
+- Which reward needs a missing trigger?
 
-If the same mistake repeats, stay at the current pressure and fix it. If the mistake changes, the run is teaching you something useful.
+This converts clutter into a practical filter. It does not require a tier list. It requires knowing what the run can actually use.
 
-## Review Losses by the First Expensive Error
+## Break the Deathball Habit
 
-After a loss, find the first error that forced a bad chain. Was the Engineer too far forward? Was production idle? Did a reward fail to affect the next fight? Did the army overextend without a retreat path?
+Many RTS players naturally drift toward one large army that waits until it can win everything at once. That can work sometimes, but it can also let enemy pressure grow while your base becomes harder to defend.
 
-Fix one repeated error at a time. Ascension progress comes from reducing expensive mistakes, not from copying a route without understanding why it works.
+Use controlled pressure instead. Send units to scout, clear nearby threats, and reduce future attack angles while the base remains defended. If the army cannot leave without exposing the Engineer or economy, the problem is not that you need a bigger attack. The problem is that the base footprint is not stable enough yet.
 
-Source boundary: this article uses official progression framing. It does not provide a speed-climb route, balance-route prescription, or exact Ascension modifier walkthrough.
+## Treat Heat and Higher Pressure as Stress Tests
+
+Higher pressure should test a plan you understand. If a run has no clear answer to early economy, army preservation, reward direction, and map control, pressure will expose all of those at once.
+
+Use higher pressure to ask one question at a time:
+
+- Does my opening keep the Engineer safe?
+- Does my economy survive expansion?
+- Does my main army preserve its key units?
+- Does my reward plan still work when fights become less forgiving?
+
+If the same answer fails repeatedly, lower the pressure or simplify the plan until the failure becomes fixable.
+
+## Advanced Run Review Checklist
+
+After a hard loss, write one short review:
+
+1. The first expensive mistake was...
+2. It damaged safety, economy, army, rewards, or map control.
+3. The later collapse happened because...
+4. Next run I will test one rule: ...
+
+Keep the rule small. "Scout before moving the Engineer." "Skip Hacks without triggers." "Stop adding Blueprints while production is idle." "Secure the Harvester route before attacking." A small rule produces clearer learning than a vague promise to play better.
+
+## What This Guide Does Not Claim
+
+This is not a current-meta guide. It does not rank Specialists, list best builds, prescribe exact difficulty routes, or claim that one composition solves progression. Those topics need current-version testing evidence.
+
+The value here is a progression method: raise pressure when the basics are stable, diagnose the first failure, and use the next run to test one correction.
+
+## Source Boundary and Confidence Note
+
+Official sources support Rogue Command's broad run-based structure, build crafting, long-term progression, and 1.0 context. This article turns that into an advanced review framework. It intentionally excludes player-review conclusions, multiplayer complaints, external review claims, exact Heat routing, current balance judgments, and achievement walkthroughs.
