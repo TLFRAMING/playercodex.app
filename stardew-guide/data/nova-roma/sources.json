@@ -1,0 +1,72 @@
+[
+  {
+    "id": "steam-store",
+    "title": "Nova Roma Steam Store Page",
+    "url": "https://store.steampowered.com/app/2426530/Nova_Roma/",
+    "publisher": "Steam",
+    "sourceType": "store",
+    "lastChecked": "2026-05-24",
+    "confidence": "high",
+    "notes": "Official Steam store page. Use for release state, genre tags, developer/publisher, supported languages, Steam features, and official high-level feature claims only. Do not use this source for ranked layouts, precise economy formulas, live strategy verdicts, completion walkthroughs, review sentiment, player-community conclusions, or image usage rights."
+  },
+  {
+    "id": "official-wiki-main",
+    "title": "Nova Roma Official Wiki Main Page",
+    "url": "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki",
+    "publisher": "Hooded Horse Official Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-24",
+    "confidence": "medium",
+    "notes": "Use for broad system categories and official wiki navigation only. The wiki is marked as a work in progress, so use conservative confidence and avoid exact optimization claims unless independently verified."
+  },
+  {
+    "id": "official-wiki-water-supply",
+    "title": "Nova Roma Official Wiki Water Supply",
+    "url": "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply",
+    "publisher": "Hooded Horse Official Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-24",
+    "confidence": "medium",
+    "notes": "Use for water infrastructure concepts such as wells, fountains, aqueducts, water towers, dams, spillways, and water sources. Keep strategy conclusions patch-sensitive."
+  },
+  {
+    "id": "official-wiki-resources",
+    "title": "Nova Roma Official Wiki Resources",
+    "url": "https://wiki.hoodedhorse.com/Nova_Roma/Resources",
+    "publisher": "Hooded Horse Official Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-24",
+    "confidence": "medium",
+    "notes": "Use for resource categories and item names. Do not infer exact production ratios, ideal opening orders, or best economy routes from this source alone."
+  },
+  {
+    "id": "official-wiki-infrastructure",
+    "title": "Nova Roma Official Wiki Infrastructure",
+    "url": "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure",
+    "publisher": "Hooded Horse Official Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-24",
+    "confidence": "medium",
+    "notes": "Use for infrastructure categories including outpost, roads, temples, and defenses. Keep building placement advice framed as planning guidance, not a fixed blueprint."
+  },
+  {
+    "id": "official-wiki-religion",
+    "title": "Nova Roma Official Wiki Religion Infrastructure",
+    "url": "https://wiki.hoodedhorse.com/Nova_Roma/Buildings/Infrastructure/Religion",
+    "publisher": "Hooded Horse Official Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-24",
+    "confidence": "medium",
+    "notes": "Use for temple size and vault/storage framing. Do not publish unverified god priority, exact favor recovery cycles, or ideal offering plans from this source alone."
+  },
+  {
+    "id": "official-wiki-combat",
+    "title": "Nova Roma Official Wiki Combat",
+    "url": "https://wiki.hoodedhorse.com/Nova_Roma/Combat",
+    "publisher": "Hooded Horse Official Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-24",
+    "confidence": "medium",
+    "notes": "Use for broad defense concepts such as invaders, militia, walls, towers, infantry, and cavalry. Do not publish exact raid timing or solved defense layouts without testing."
+  }
+]

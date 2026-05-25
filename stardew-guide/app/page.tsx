@@ -21,6 +21,13 @@ const games = [
     status: "Live",
     description: "Beginner guides, systems primers, Specialist notes, and long-term progression advice with patch-sensitive source metadata.",
     meta: "Rogue Command"
+  },
+  {
+    title: "Nova Roma",
+    href: "/nova-roma",
+    status: "Live",
+    description: "Early Access city-building guide coverage. Beginner planning, resource pressure, water, religion, and defense notes.",
+    meta: "Nova Roma"
   }
 ];
 
@@ -44,7 +51,7 @@ export default function HomePage() {
             </div>
             <p className="text-xs font-bold text-green-950/58">{games.length} codex entries</p>
           </div>
-          <div className="grid gap-3 md:grid-cols-2">
+          <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
             {games.map((game) => (
               <Link
                 className="codex-entry group block rounded-md border border-green-950/10 bg-white/82 transition hover:-translate-y-0.5 hover:border-green-950/20"
