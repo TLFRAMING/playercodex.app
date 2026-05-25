@@ -151,7 +151,9 @@ function buildVillagerQuickAnswer(villager: {
 function buildVillagerMetaTitle(villager: { slug: string; name: string }) {
   const focusedTitles: Record<string, string> = {
     evelyn: "Evelyn Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    george: "George Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     gus: "Gus Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    penny: "Penny Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     wizard: "Wizard Stardew Gifts: Loved Items, Birthday, and Friendship Tips",
     haley: "Haley Stardew Gifts: Loved Items, Birthday, and Friendship Tips"
   };

@@ -142,7 +142,8 @@ function buildFishQuickAnswer(item: Fish) {
 function buildFishMetaTitle(item: Fish) {
   const focusedTitles: Record<string, string> = {
     bream: "Bream Stardew Valley: Location, Time, Season, Weather, and Uses",
-    halibut: "Halibut Stardew Valley: Where to Catch, Season, Time, and Uses"
+    halibut: "Halibut Stardew Valley: Where to Catch, Season, Time, and Uses",
+    "tiger-trout": "Tiger Trout Stardew Valley: Location, Season, Time, Weather, and Uses"
   };
 
   return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: Location, Time, Season, Weather, and Uses`;
