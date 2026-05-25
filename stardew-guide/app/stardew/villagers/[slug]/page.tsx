@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${villager.name} Stardew Gifts, Birthday, and Schedule`,
+    title: buildVillagerMetaTitle(villager),
     description: buildVillagerMetaDescription(villager)
   };
 }
@@ -119,6 +119,7 @@ function formatScheduleNotes(value: string[] | string | "needs verification" | u
 }
 
 function buildVillagerMetaDescription(villager: {
+  slug: string;
   name: string;
   birthday: string;
   location?: string;
@@ -130,7 +131,7 @@ function buildVillagerMetaDescription(villager: {
   const giftText = [...villager.lovedGifts.slice(0, 2), ...villager.likedGifts.slice(0, 1)].filter(Boolean).join(", ");
   const locationText = villager.location && villager.location !== "needs verification" ? ` Location: ${villager.location}.` : "";
 
-  return `Find ${villager.name} loved gifts, liked gifts, birthday (${villager.birthday}), schedule notes, and friendship planning tips.${giftText ? ` Gift ideas include ${giftText}.` : ""}${locationText}`;
+  return `${villager.name} Stardew Valley guide: loved gifts, liked gifts, birthday (${villager.birthday}), schedule notes, location, and friendship planning tips.${giftText ? ` Gift ideas include ${giftText}.` : ""}${locationText}`;
 }
 
 function buildVillagerQuickAnswer(villager: {
@@ -145,4 +146,15 @@ function buildVillagerQuickAnswer(villager: {
   const location = villager.location && villager.location !== "needs verification" ? ` They are associated with ${villager.location}.` : "";
 
   return `${villager.name}'s birthday is ${villager.birthday}. Start with confirmed loved gifts such as ${loved}; if those are not available, use liked gifts such as ${liked}.${location} Check the schedule notes before planning a birthday or weekly gift route.`;
+}
+
+function buildVillagerMetaTitle(villager: { slug: string; name: string }) {
+  const focusedTitles: Record<string, string> = {
+    evelyn: "Evelyn Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    gus: "Gus Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    wizard: "Wizard Stardew Gifts: Loved Items, Birthday, and Friendship Tips",
+    haley: "Haley Stardew Gifts: Loved Items, Birthday, and Friendship Tips"
+  };
+
+  return focusedTitles[villager.slug] ?? `${villager.name} Stardew Valley Gifts, Birthday, Loved Items, and Schedule`;
 }

@@ -2,7 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { getAllMinerals, getMineralBySlug } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
+import type { Mineral } from "@/lib/stardew/types";
 
 export const dynamicParams = false;
 
@@ -18,8 +21,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${item.name} | Stardew Guide | Player Codex`,
-    description: item.beginnerNote ?? `Mineral details for ${item.name}.`
+    title: buildMineralMetaTitle(item),
+    description: buildMineralMetaDescription(item)
   };
 }
 
@@ -35,9 +38,16 @@ export default async function MineralDetailPage({ params }: { params: Promise<{ 
     notFound();
   }
 
+  const relatedGuides = getStardewGuideArticlesBySlugs(["first-museum-donations", "mining-first-month"]);
+
   return (
     <PageShell eyebrow="Minerals" title={item.name}>
       <div className="space-y-4">
+        <DataCard>
+          <h2 className="text-xl font-black text-green-950">{item.name} quick answer</h2>
+          <p className="mt-3 text-sm leading-6 text-green-950/72">{buildMineralQuickAnswer(item)}</p>
+        </DataCard>
+
         <DataCard>
           <p className="text-sm leading-6 text-green-950/72">{item.beginnerNote}</p>
         </DataCard>
@@ -52,6 +62,8 @@ export default async function MineralDetailPage({ params }: { params: Promise<{ 
           <TagList label="Locations" values={item.locations} />
           <SourceBlock lastChecked={item.lastChecked} sourceUrls={item.sourceUrls} />
         </DataCard>
+
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for museum donations, geodes, and early mining choices" />
       </div>
     </PageShell>
   );
@@ -87,4 +99,21 @@ function formatGold(value: number | "needs verification") {
 
 function formatUses(value: string[]) {
   return value.length > 0 ? value.join(", ") : "None";
+}
+
+function buildMineralMetaTitle(item: Mineral) {
+  const focusedTitles: Record<string, string> = {
+    basalt: "Basalt Stardew Valley: How to Get It, Museum Use, Fish Pond, and Gifts"
+  };
+
+  return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: How to Get It, Museum Use, and Gifts`;
+}
+
+function buildMineralMetaDescription(item: Mineral) {
+  return `${item.name} Stardew Valley mineral guide: locations ${item.locations.join(", ")}, sell price ${formatGold(item.sellPrice)}, uses ${formatUses(item.uses)}, and museum donation status.`;
+}
+
+function buildMineralQuickAnswer(item: Mineral) {
+  const museum = item.museumDonation ? "Donate one to the Museum before treating extras as flexible use items." : "It is not marked as a Museum donation in this database.";
+  return `${item.name} can be found from ${item.locations.join(", ")}. It sells for ${formatGold(item.sellPrice)} and is used for ${formatUses(item.uses)}. ${museum}`;
 }

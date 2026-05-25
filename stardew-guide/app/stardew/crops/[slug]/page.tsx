@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${crop.name} Stardew Crop: Season, Price, Growth`,
+    title: buildCropMetaTitle(crop),
     description: buildCropMetaDescription(crop)
   };
 }
@@ -132,7 +132,7 @@ function buildBeginnerRecommendation(crop: {
 }
 
 function buildCropMetaDescription(crop: Crop) {
-  return `${crop.name} Stardew Valley crop details: season ${crop.seasons.join(" / ")}, seed source ${formatValueList(crop.seedSource)}, growth ${formatDays(crop.growthDays)}, sell price ${formatGold(crop.sellPrice)}, and beginner use notes.`;
+  return `${crop.name} Stardew Valley crop guide: season ${crop.seasons.join(" / ")}, seed source ${formatValueList(crop.seedSource)}, growth ${formatDays(crop.growthDays)}, regrowth ${formatDays(crop.regrowthDays)}, sell price ${formatGold(crop.sellPrice)}, and best uses.`;
 }
 
 function buildCropQuickAnswer(crop: Crop) {
@@ -143,7 +143,20 @@ function buildCropQuickAnswer(crop: Crop) {
   const seedSource = formatValueList(crop.seedSource);
   const regrowthText = regrowth === "needs verification" ? "" : ` Regrowth: ${regrowth}.`;
 
-  return `${crop.name} grows in ${season}. It takes ${growth}, sells for ${sellPrice}, and comes from ${seedSource}.${regrowthText} Use the guide links below when deciding whether this crop fits your season plan, scarecrow coverage, or sprinkler transition.`;
+  const uses = formatValueList(crop.bestUses);
+  const usesText = uses === "needs verification" ? "" : ` Best uses: ${uses}.`;
+
+  return `${crop.name} grows in ${season}. It takes ${growth}, sells for ${sellPrice}, and comes from ${seedSource}.${regrowthText}${usesText} Use the guide links below when deciding whether this crop fits your season plan, scarecrow coverage, or sprinkler transition.`;
+}
+
+function buildCropMetaTitle(crop: Crop) {
+  const focusedTitles: Record<string, string> = {
+    cranberries: "Cranberries Stardew Valley: Growth Time, Regrowth, Profit, and Uses",
+    "red-cabbage": "Red Cabbage Stardew Valley: Seeds, Growth Time, Bundle Use, and Year 1 Tips",
+    wheat: "Wheat Stardew Valley: Growth Time, Hay, Beer, and Summer/Fall Uses"
+  };
+
+  return focusedTitles[crop.slug] ?? `${crop.name} Stardew Valley: Season, Growth Time, Price, and Uses`;
 }
 
 function getRelatedCropGuideSlugs(crop: Crop) {

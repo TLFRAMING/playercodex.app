@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${item.name} Stardew Fish: Location, Time, Weather`,
+    title: buildFishMetaTitle(item),
     description: buildFishMetaDescription(item)
   };
 }
@@ -129,14 +129,23 @@ function buildHowToCatch(item: {
 }
 
 function buildFishMetaDescription(item: Fish) {
-  return `${item.name} Stardew Valley fish details: seasons ${item.seasons.join(" / ")}, locations ${item.locations.join(", ")}, time ${item.time}, weather ${item.weather.join(", ")}, difficulty ${item.difficulty}, and bundle usage.`;
+  return `${item.name} Stardew Valley guide: where to catch it, seasons ${item.seasons.join(" / ")}, locations ${item.locations.join(", ")}, time ${item.time}, weather ${item.weather.join(", ")}, difficulty ${item.difficulty}, sell price ${formatGold(item.sellPrice)}, and bundle use.`;
 }
 
 function buildFishQuickAnswer(item: Fish) {
   const bundle = formatBundleUsage(item.bundleUsage);
-  const bundleText = bundle === "Yes" ? " It is used for a Community Center bundle, so check the guide links before the season changes." : "";
+  const bundleText = bundle === "Yes" ? " It is used for a Community Center bundle, so check the guide links before the season changes." : " It is not listed for a standard Community Center bundle in this database.";
 
-  return `Catch ${item.name} during ${item.seasons.join(" / ")} at ${item.locations.join(", ")}. Time window: ${item.time}. Weather: ${item.weather.join(", ")}. Difficulty: ${item.difficulty}.${bundleText}`;
+  return `${item.name} is caught at ${item.locations.join(", ")} during ${item.seasons.join(" / ")}. Time window: ${item.time}. Weather: ${item.weather.join(", ")}. Difficulty: ${item.difficulty}. Base sell price: ${formatGold(item.sellPrice)}.${bundleText}`;
+}
+
+function buildFishMetaTitle(item: Fish) {
+  const focusedTitles: Record<string, string> = {
+    bream: "Bream Stardew Valley: Location, Time, Season, Weather, and Uses",
+    halibut: "Halibut Stardew Valley: Where to Catch, Season, Time, and Uses"
+  };
+
+  return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: Location, Time, Season, Weather, and Uses`;
 }
 
 function getRelatedFishGuideSlugs(item: Fish) {
