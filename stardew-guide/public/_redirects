@@ -6,7 +6,9 @@
 /fish/* /stardew/fish/:splat 301
 /community-center /stardew/community-center 301
 /money /stardew/money 301
+/money/tea-saplings /stardew/money/early-game-tea-saplings 301
 /money/* /stardew/money/:splat 301
+/stardew/money/tea-saplings /stardew/money/early-game-tea-saplings 301
 /fruit-trees /stardew/fruit-trees 301
 /fruit-trees/* /stardew/fruit-trees/:splat 301
 /forage /stardew/forage 301
