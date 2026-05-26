@@ -69,6 +69,21 @@ export default async function FruitTreeDetailPage({ params }: { params: Promise<
             { href: "/stardew/guides/year-one-fall-preparation", label: "Season planning guide" }
           ]}
         />
+
+        <DataCard>
+          <h2 className="text-lg font-black text-green-950">Player decision notes for {tree.name}</h2>
+          <div className="mt-3 space-y-3 text-sm font-semibold leading-6 text-green-950/68">
+            <p>
+              Treat {tree.name} as a long-term farm layout choice, not a quick cash purchase. The sapling cost is paid up front, the tree needs an uninterrupted growth window, and the payoff depends on whether you will actually collect {tree.fruitName} during {tree.seasons.join(" / ")}.
+            </p>
+            <p>
+              Before buying, ask what the tree is solving. It may support fruit collection, gifting, bundles, artisan planning, or a complete orchard route, but it can also delay tool upgrades, animals, or sprinklers if the farm is still short on basic infrastructure.
+            </p>
+            <p>
+              A safe beginner approach is to plant fruit trees only after the tile plan is stable. If you are still moving paths, buildings, scarecrows, or sprinklers every few days, hold the money until the orchard space will not need to be rebuilt.
+            </p>
+          </div>
+        </DataCard>
       </div>
     </PageShell>
   );

@@ -69,6 +69,21 @@ export default async function ForageDetailPage({ params }: { params: Promise<{ s
             { href: "/stardew/community-center", label: "Community Center" }
           ]}
         />
+
+        <DataCard>
+          <h2 className="text-lg font-black text-green-950">Player decision notes for {item.name}</h2>
+          <div className="mt-3 space-y-3 text-sm font-semibold leading-6 text-green-950/68">
+            <p>
+              Forage is easy to underestimate because each pickup looks small on its own. The real value is timing: a seasonal item can solve a bundle, fill a gift need, bridge early cash, or become a low-effort route while you are already walking through {item.locations.join(" / ")}.
+            </p>
+            <p>
+              If {item.name} appears during {item.seasons.join(" / ")}, save at least one copy until you know whether the season has any bundle, crafting, or gift pressure for your current save. Selling every pickup is simple, but it can force an awkward search later when the season is almost over.
+            </p>
+            <p>
+              Once one reserve copy is stored, treat extras according to your current bottleneck. Sell them if backpack space or early cash matters, keep them if the item is hard to replace, or route them into Community Center planning when the bundle field says it has a use.
+            </p>
+          </div>
+        </DataCard>
       </div>
     </PageShell>
   );

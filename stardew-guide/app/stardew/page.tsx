@@ -50,6 +50,17 @@ export default function HomePage() {
   return (
     <PageShell eyebrow="Player Codex" kicker="Current codex: Stardew Guide, a practical reference for new farmers." title="Stardew Guide Codex">
       <div className="space-y-4">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <div className="max-w-3xl space-y-3 text-sm font-semibold leading-6 text-green-950/70">
+            <p>
+              Stardew Guide is the Stardew Valley section of Player Codex. It combines searchable database pages with original beginner and progression guides so a player can move from a raw item fact to a practical decision.
+            </p>
+            <p>
+              Use the database when you need a specific villager, crop, fish, animal product, mineral, or bundle reference. Use the guide articles when you need planning help: first-week priorities, energy management, mining windows, fishing cash, sprinkler scaling, tool upgrades, festivals, animals, and long-term preparation.
+            </p>
+          </div>
+        </section>
+
         <section className="tool-directory rounded-md p-3 sm:p-4">
           <div className="mb-3 flex flex-col gap-2 border-b border-[rgba(122,86,56,0.18)] pb-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
@@ -81,6 +92,14 @@ export default function HomePage() {
               Browse Database
             </a>
           </div>
+        </section>
+
+        <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5">
+          <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/46">How to read this section</p>
+          <h2 className="mt-1 text-lg font-black text-green-950">Database facts become planning choices</h2>
+          <p className="mt-2 max-w-3xl text-sm font-semibold leading-6 text-green-950/66">
+            A crop page can tell you season and growth time, but a guide explains whether that crop fits your cash, sprinklers, and bundle pressure. A fish page can tell you weather and time, while a fishing guide helps decide whether today should be a cash day, bundle day, or mining day. That separation keeps reference pages useful without turning every lookup into the same generic article.
+          </p>
         </section>
       </div>
     </PageShell>

@@ -34,7 +34,19 @@ const games = [
 export default function DatabasePage() {
   return (
     <PageShell eyebrow="Player Codex" kicker="A cross-game index for live databases, guide hubs, and codex modules." title="Game Guides and Databases">
-      <section className="space-y-4">
+      <div className="space-y-4">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <div className="max-w-3xl space-y-3 text-sm font-semibold leading-6 text-green-950/70">
+            <p>
+              This page is the cross-game map for Player Codex. Use it to move between structured reference pages, beginner guide hubs, and source-bounded strategy notes without mixing data from different games.
+            </p>
+            <p>
+              Stardew Valley has the largest live database because its stable item and villager data supports searchable reference pages. Rogue Command and Nova Roma are guide-first sections, so their entries point to source-aware articles rather than unfinished databases.
+            </p>
+          </div>
+        </section>
+
+        <section className="space-y-4">
         {games.map((game) => (
           <article className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5" key={game.name}>
             <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
@@ -61,6 +73,7 @@ export default function DatabasePage() {
           </article>
         ))}
       </section>
+      </div>
     </PageShell>
   );
 }

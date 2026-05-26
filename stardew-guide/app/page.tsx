@@ -46,6 +46,17 @@ export default function HomePage() {
   return (
     <PageShell eyebrow="Player Codex" kicker="A multi-game home for practical reference pages and player tools." title="Choose a codex">
       <div className="space-y-4">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <div className="max-w-3xl space-y-3 text-sm font-semibold leading-6 text-green-950/70">
+            <p>
+              Player Codex publishes fan-made game guides that are meant to help players make practical decisions: what to check before spending resources, which systems need planning, and where a database fact should change the next in-game action.
+            </p>
+            <p>
+              The site currently focuses on Stardew Valley, Rogue Command, and Nova Roma. Established game data is paired with original guide notes, while newer and Early Access coverage stays cautious about patch-sensitive systems, exact numbers, and live-balance claims.
+            </p>
+          </div>
+        </section>
+
         <section className="tool-directory rounded-md p-3 sm:p-4">
           <div className="mb-3 flex flex-col gap-2 border-b border-[rgba(122,86,56,0.18)] pb-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
