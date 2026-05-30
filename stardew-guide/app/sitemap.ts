@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/nova-roma",
     "/nova-roma/guides",
     "/rogue-command",
+    "/songs-of-conquest-mobile",
     "/stardew",
     "/stardew/database",
     "/stardew/villagers",
