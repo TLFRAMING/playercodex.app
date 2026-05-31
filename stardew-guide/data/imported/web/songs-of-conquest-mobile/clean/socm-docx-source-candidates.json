@@ -1,0 +1,110 @@
+[
+  {
+    "id": "app-store",
+    "title": "Songs of Conquest Mobile App Store Page",
+    "url": "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+    "tier": "A",
+    "recommendedUse": "Mobile availability, iOS store framing, mobile-facing description, device requirements, and official store metadata.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not use user reviews as production facts, ratings proof, or quoted guide material."
+  },
+  {
+    "id": "google-play",
+    "title": "Songs of Conquest Mobile Google Play Page",
+    "url": "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+    "tier": "A",
+    "recommendedUse": "Android availability, Google Play store framing, mobile-facing description, update metadata, and store category context.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not use reviews as production facts, sentiment proof, or community consensus."
+  },
+  {
+    "id": "official-site",
+    "title": "Songs of Conquest Official Website",
+    "url": "https://www.songsofconquest.com/",
+    "tier": "A",
+    "recommendedUse": "Official identity, genre framing, Wielders, armies, adventure strategy, empire building, and broad feature language.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not use official art, screenshots, press images, or PC-only assumptions without separate clearance."
+  },
+  {
+    "id": "steam-store",
+    "title": "Songs of Conquest Steam Store Page",
+    "url": "https://store.steampowered.com/app/867210/Songs_of_Conquest/",
+    "tier": "A",
+    "recommendedUse": "PC baseline context for broad genre, developer/publisher identity, and desktop feature comparison.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not convert PC multiplayer, workshop, DLC, control, or balance details into mobile facts."
+  },
+  {
+    "id": "lavapotion",
+    "title": "Lavapotion Official Website",
+    "url": "https://www.lavapotion.com/",
+    "tier": "A",
+    "recommendedUse": "Developer identity and high-level official context.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not use for mechanics or mobile-specific guide conclusions."
+  },
+  {
+    "id": "soc-database",
+    "title": "Songs of Conquest Community Database",
+    "url": "https://soc.th.gl/",
+    "tier": "B",
+    "recommendedUse": "Cross-check buildings, factions, units, skills, spells, Wielders, artifacts, and reference names.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not publish exact mobile values, rankings, or solved builds without mobile verification."
+  },
+  {
+    "id": "essence-wiki",
+    "title": "Songs of Conquest Wiki: The Essence",
+    "url": "https://songsofconquest.fandom.com/wiki/The_essence",
+    "tier": "B",
+    "recommendedUse": "Essence vocabulary, spell-resource framing, and beginner spellcasting explanation.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not publish exact spell-path rankings or strongest magic builds."
+  },
+  {
+    "id": "wielders-wiki",
+    "title": "Songs of Conquest Wiki: Wielders",
+    "url": "https://songsofconquest.fandom.com/wiki/Wielders",
+    "tier": "B",
+    "recommendedUse": "Wielder role vocabulary, map-army-spell relationship framing, and role-based beginner guidance.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not publish Wielder tier lists, exact skill builds, or strongest Wielder verdicts."
+  },
+  {
+    "id": "resources-wiki",
+    "title": "Songs of Conquest Wiki: Resources",
+    "url": "https://songsofconquest.fandom.com/wiki/Resources",
+    "tier": "B",
+    "recommendedUse": "Resource names, broad resource pressure, and town-building planning vocabulary.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not publish exact opening economy formulas or resource thresholds."
+  },
+  {
+    "id": "factions-wiki",
+    "title": "Songs of Conquest Wiki: Factions",
+    "url": "https://songsofconquest.fandom.com/wiki/Factions",
+    "tier": "B",
+    "recommendedUse": "Base faction vocabulary and faction-identity framing.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not claim DLC faction mobile availability or faction rankings."
+  },
+  {
+    "id": "official-changelogs",
+    "title": "Songs of Conquest Official Changelogs",
+    "url": "https://www.songsofconquest.com/changelogs",
+    "tier": "A",
+    "recommendedUse": "Official version-history context and PC/mobile comparison checks.",
+    "productionSourceStatus": "registered",
+    "blockedUse": "Do not assume PC balance, editor, multiplayer, or DLC state applies to mobile."
+  },
+  {
+    "id": "mobile-reviews",
+    "title": "Mobile Review And Store Feedback Pool",
+    "url": null,
+    "tier": "C",
+    "recommendedUse": "Review-only pain-point discovery for touch targeting, save habits, onboarding friction, and large-map fatigue.",
+    "productionSourceStatus": "review-only",
+    "blockedUse": "Never use as production source, consensus proof, quoted material, or factual mechanics evidence."
+  }
+]

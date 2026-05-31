@@ -48,5 +48,65 @@
     "lastChecked": "2026-05-30",
     "confidence": "high",
     "notes": "Official developer site. Use for developer identity and confirmation that Songs of Conquest is Lavapotion's first title and is available on major platforms. Do not use this source for mechanics, mobile-specific functionality, or guide conclusions."
+  },
+  {
+    "id": "soc-database",
+    "title": "Songs of Conquest Community Database",
+    "url": "https://soc.th.gl/",
+    "publisher": "SoC.th.gl",
+    "sourceType": "database",
+    "lastChecked": "2026-05-31",
+    "confidence": "medium",
+    "notes": "Use for cross-checking buildings, factions, units, skills, spells, Wielders, artifacts, and other reference terms. Treat exact values and PC-derived entries as requiring mobile verification before strong production claims."
+  },
+  {
+    "id": "essence-wiki",
+    "title": "Songs of Conquest Wiki: The Essence",
+    "url": "https://songsofconquest.fandom.com/wiki/The_essence",
+    "publisher": "Fandom Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-31",
+    "confidence": "medium",
+    "notes": "Use for Essence system vocabulary and basic spell-resource framing. Treat exact spell interactions and mobile parity as requiring mobile build verification."
+  },
+  {
+    "id": "wielders-wiki",
+    "title": "Songs of Conquest Wiki: Wielders",
+    "url": "https://songsofconquest.fandom.com/wiki/Wielders",
+    "publisher": "Fandom Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-31",
+    "confidence": "medium",
+    "notes": "Use for Wielder role vocabulary and broad army/spell relationship framing. Do not use for exact build rankings or strongest Wielder claims."
+  },
+  {
+    "id": "resources-wiki",
+    "title": "Songs of Conquest Wiki: Resources",
+    "url": "https://songsofconquest.fandom.com/wiki/Resources",
+    "publisher": "Fandom Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-31",
+    "confidence": "medium",
+    "notes": "Use for resource names and broad use cases. Do not publish exact mobile economy routes, resource thresholds, or build orders without mobile testing."
+  },
+  {
+    "id": "factions-wiki",
+    "title": "Songs of Conquest Wiki: Factions",
+    "url": "https://songsofconquest.fandom.com/wiki/Factions",
+    "publisher": "Fandom Wiki",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-31",
+    "confidence": "medium",
+    "notes": "Use for faction vocabulary and base faction context. Keep DLC faction availability separate from mobile-confirmed content unless official mobile sources confirm it."
+  },
+  {
+    "id": "official-changelogs",
+    "title": "Songs of Conquest Official Changelogs",
+    "url": "https://www.songsofconquest.com/changelogs",
+    "publisher": "Lavapotion",
+    "sourceType": "official-site",
+    "lastChecked": "2026-05-31",
+    "confidence": "medium",
+    "notes": "Use for official version-history context. Do not assume PC changelog balance, editor, multiplayer, or DLC state applies to mobile without mobile-specific confirmation."
   }
 ]
