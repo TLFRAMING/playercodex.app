@@ -9,7 +9,14 @@ import type {
 
 const dataDirectory = path.resolve(process.cwd(), "data", "songs-of-conquest-mobile");
 const articleDirectory = path.join(dataDirectory, "guides", "articles");
-const preferredGuideOrder = ["beginner-first-campaign", "faction-choice-framework", "combat-positioning-basics"] as const;
+const preferredGuideOrder = [
+  "beginner-first-campaign",
+  "faction-choice-framework",
+  "combat-positioning-basics",
+  "essence-spellcasting-basics",
+  "wielder-role-and-skill-basics",
+  "mobile-vs-pc-content-differences"
+] as const;
 const preferredGuideOrderIndex = new Map<string, number>(preferredGuideOrder.map((slug, index) => [slug, index]));
 
 function readJsonArray<T>(fileName: string): T[] {
