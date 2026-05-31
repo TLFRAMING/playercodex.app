@@ -29,7 +29,7 @@ const verifiedFacts = [
   ["Categories", "Action, Simulation, Strategy"]
 ];
 
-const systemsUnderReview = ["Blueprints", "Upgrades", "Hacks", "Engineer", "Economy", "Specialist"];
+const coreSystems = ["Blueprints", "Upgrades", "Hacks", "Engineer", "Economy", "Specialist"];
 
 const sourceTypeLabels: Record<string, string> = {
   announcement: "Announcement",
@@ -137,12 +137,12 @@ export default function RogueCommandPage() {
 
         <section className="grid gap-5 lg:grid-cols-2">
           <div className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
-            <h2 className="text-base font-black text-green-950">Systems Under Review</h2>
+            <h2 className="text-base font-black text-green-950">Core systems</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              These system names are included as the current guide vocabulary. Detailed RC data pages are not published yet.
+              These are the main terms used throughout the Rogue Command guide layer.
             </p>
             <ul className="mt-4 grid grid-cols-2 gap-2">
-              {systemsUnderReview.map((system) => (
+              {coreSystems.map((system) => (
                 <li key={system} className="rounded-sm border border-green-950/10 bg-green-950/[0.035] px-3 py-2 text-sm font-black text-green-950/75">
                   {system}
                 </li>
@@ -213,7 +213,7 @@ export default function RogueCommandPage() {
             <div>
               <h2 className="text-base font-black text-green-950">Verified sources</h2>
               <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                This intro is based on public source review. Source notes remain internal, and no images, screenshots, logos, or icons are used.
+                These public references support the basic Rogue Command identity and release information used on this page.
               </p>
             </div>
             <div className="grid gap-2">

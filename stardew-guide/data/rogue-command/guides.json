@@ -4,7 +4,7 @@
     "title": "Rogue Command Overview",
     "slug": "rogue-command-overview",
     "category": "overview",
-    "summary": "Source-backed overview of what Rogue Command is and which official sources support the basic facts.",
+    "summary": "Overview of what Rogue Command is and which public references support the basic facts.",
     "intro": "Rogue Command has an official Steam store page, and Steam lists feneq as developer and publisher. Steam frames the game as single-player RTS gameplay with roguelite build crafting.",
     "allowedClaims": [
       "Rogue Command has an official Steam store page.",
@@ -32,14 +32,14 @@
     ],
     "confidence": "high",
     "lastChecked": "2026-05-19",
-    "notes": "Intro-level production guide metadata only. This is not a strategy guide and should not be used for recommendations or detailed mechanics."
+    "notes": "Overview record for identity, release, and broad gameplay framing."
   },
   {
     "id": "release-and-early-access-timeline",
     "title": "Release and Early Access Timeline",
     "slug": "release-and-early-access-timeline",
     "category": "timeline",
-    "summary": "Source-backed timeline covering Steam Early Access and the 1.0 release.",
+    "summary": "Timeline covering Steam Early Access and the 1.0 release.",
     "intro": "Steam lists Rogue Command's full release as 2026-05-14 and its Early Access release as 2024-11-18. Steam announcements support that the game reached 1.0 and left Early Access.",
     "allowedClaims": [
       "Steam lists full release as 2026-05-14.",
@@ -64,19 +64,19 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-19",
-    "notes": "Intro-level production guide metadata only. This record is limited to date and release-status facts and should not be used for patch interpretation."
+    "notes": "Timeline record for date and release-status facts."
   },
   {
     "id": "beginner-systems-glossary",
     "title": "Beginner Systems Glossary",
     "slug": "beginner-systems-glossary",
     "category": "systems",
-    "summary": "Source-backed glossary candidate for official-source system names whose details remain under review.",
-    "intro": "Blueprints, Upgrades, Hacks, Engineer, Economy, and Specialist appear in official Steam source material. This guide metadata only marks those terms as systems under review.",
+    "summary": "Glossary entry for key Rogue Command system names used by the guide layer.",
+    "intro": "Blueprints, Upgrades, Hacks, Engineer, Economy, and Specialist appear in official Steam source material. This entry keeps the public system vocabulary consistent.",
     "allowedClaims": [
       "Blueprints, Upgrades, Hacks, Engineer, Economy, and Specialist appear in official Steam source material.",
-      "These terms can be listed as systems under review.",
-      "Detailed effects remain pending until later verification."
+      "These terms can be listed as core systems.",
+      "Detailed effects should be handled in dedicated guide articles."
     ],
     "blockedClaims": [
       "detailed definitions",
@@ -95,7 +95,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-19",
-    "notes": "Intro-level production guide metadata only. This is not a system reference yet; detailed terms require later verification."
+    "notes": "Glossary record for guide vocabulary."
   },
   {
     "id": "core-gameplay-loop-overview",
@@ -124,6 +124,6 @@
     ],
     "confidence": "high",
     "lastChecked": "2026-05-19",
-    "notes": "Intro-level production guide metadata only. This record stays at broad gameplay-loop framing and is not a tactical guide."
+    "notes": "Gameplay-loop record for broad player-facing framing."
   }
 ]
