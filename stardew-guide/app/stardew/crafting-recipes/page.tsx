@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewReferenceDirectory } from "@/components/StardewReferenceDirectory";
 import { StardewRouteClusterLinks } from "@/components/StardewRouteClusterLinks";
 import { getAllCraftingRecipes } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const metadata: Metadata = {
   title: "Stardew Valley Crafting Recipes: Ingredients, Unlocks, and Craft Master",
@@ -11,6 +13,12 @@ export const metadata: Metadata = {
 
 export default function CraftingRecipesPage() {
   const recipes = getAllCraftingRecipes();
+  const relatedGuides = getStardewGuideArticlesBySlugs([
+    "first-sprinkler-transition",
+    "sprinklers-and-farm-scaling",
+    "mining-first-month",
+    "first-tree-tappers"
+  ]);
 
   return (
     <PageShell eyebrow="Crafting Database" title="Stardew Valley Crafting Recipes" kicker="Use crafting pages to check ingredients, unlocks, output quantity, Craft Master status, and whether the item solves your current farm problem.">
@@ -47,6 +55,7 @@ export default function CraftingRecipesPage() {
           searchPlaceholder="Sprinkler, Keg, Wood..."
           title="Browse crafting recipes"
         />
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for crafting priorities and material planning" />
       </div>
     </PageShell>
   );

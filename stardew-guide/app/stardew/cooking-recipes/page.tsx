@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewReferenceDirectory } from "@/components/StardewReferenceDirectory";
 import { StardewRouteClusterLinks } from "@/components/StardewRouteClusterLinks";
 import { getAllCookingRecipes } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const metadata: Metadata = {
   title: "Stardew Valley Cooking Recipes: Ingredients, Energy, Buffs, and Sell Price",
@@ -11,6 +13,12 @@ export const metadata: Metadata = {
 
 export default function CookingRecipesPage() {
   const recipes = getAllCookingRecipes();
+  const relatedGuides = getStardewGuideArticlesBySlugs([
+    "beginner-energy-management",
+    "mining-first-month",
+    "fishing-season-weather-planning",
+    "community-center-priority-route"
+  ]);
 
   return (
     <PageShell eyebrow="Cooking Database" title="Stardew Valley Cooking Recipes" kicker="Use cooking pages to check ingredients, energy, health, buffs, sell price, and whether a recipe fits your next day plan.">
@@ -47,6 +55,7 @@ export default function CookingRecipesPage() {
           searchPlaceholder="Fried Egg, Lucky Lunch, Egg..."
           title="Browse cooking recipes"
         />
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for cooking, energy, and ingredient planning" />
       </div>
     </PageShell>
   );

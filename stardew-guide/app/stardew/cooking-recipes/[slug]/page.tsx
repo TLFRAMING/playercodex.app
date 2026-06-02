@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { getAllCookingRecipes, getCookingRecipeBySlug } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
 
@@ -35,6 +37,8 @@ export default async function CookingRecipeDetailPage({ params }: { params: Prom
   if (!recipe) {
     notFound();
   }
+
+  const relatedGuides = getStardewGuideArticlesBySlugs(getCookingGuideSlugs(recipe.ingredientsText));
 
   return (
     <PageShell eyebrow="Cooking Recipe" title={recipe.name}>
@@ -70,9 +74,30 @@ export default async function CookingRecipeDetailPage({ params }: { params: Prom
             { href: "/stardew/animal-products", label: "Animal products" }
           ]}
         />
+
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for this recipe's ingredients and use case" />
       </div>
     </PageShell>
   );
+}
+
+function getCookingGuideSlugs(ingredientsText: string) {
+  const normalized = ingredientsText.toLowerCase();
+  const slugs = ["beginner-energy-management", "mining-first-month"];
+
+  if (/\bfish\b|bream|bullhead|sardine|halibut|tiger trout|sturgeon|carp|bass|eel|squid|lobster|shrimp|crab|clam|mussel|oyster|snail|periwinkle|crayfish/.test(normalized)) {
+    slugs.push("fishing-season-weather-planning");
+  }
+
+  if (/egg|milk|cheese|mayonnaise|truffle|wool|duck|goat/.test(normalized)) {
+    slugs.push("animals-first-barn-or-coop");
+  }
+
+  if (/parsnip|potato|cauliflower|tomato|blueberry|cranberry|pumpkin|wheat|corn|red cabbage|melon|pepper|radish|yam|artichoke|eggplant|rhubarb|garlic|kale/.test(normalized)) {
+    slugs.push("spring-year-one-first-week");
+  }
+
+  return Array.from(new Set(slugs)).slice(0, 4);
 }
 
 function Fact({ label, value }: { label: string; value: string }) {

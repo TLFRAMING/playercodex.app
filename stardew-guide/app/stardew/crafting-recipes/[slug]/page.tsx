@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { getAllCraftingRecipes, getCraftingRecipeBySlug } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
 
@@ -35,6 +37,8 @@ export default async function CraftingRecipeDetailPage({ params }: { params: Pro
   if (!recipe) {
     notFound();
   }
+
+  const relatedGuides = getStardewGuideArticlesBySlugs(getCraftingGuideSlugs(recipe.name, recipe.ingredientsText));
 
   return (
     <PageShell eyebrow="Crafting Recipe" title={recipe.name}>
@@ -70,9 +74,38 @@ export default async function CraftingRecipeDetailPage({ params }: { params: Pro
             { href: "/stardew/artisan-goods", label: "Artisan goods" }
           ]}
         />
+
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for this crafting recipe" />
       </div>
     </PageShell>
   );
+}
+
+function getCraftingGuideSlugs(name: string, ingredientsText: string) {
+  const normalized = `${name} ${ingredientsText}`.toLowerCase();
+  const slugs = ["mining-first-month", "tool-upgrade-timing"];
+
+  if (/sprinkler|quality sprinkler|iridium sprinkler/.test(normalized)) {
+    slugs.unshift("first-sprinkler-transition", "sprinklers-and-farm-scaling");
+  }
+
+  if (/scarecrow/.test(normalized)) {
+    slugs.unshift("first-scarecrow-crop-protection");
+  }
+
+  if (/tap|keg|preserves jar|bee house|fish smoker|mushroom log|loom|cheese press|mayonnaise machine|oil maker|dehydrator/.test(normalized)) {
+    slugs.unshift("first-tree-tappers", "sprinklers-and-farm-scaling");
+  }
+
+  if (/bait|bobber|crab pot|spinner|trap|sonar|cork|treasure hunter|barbed hook/.test(normalized)) {
+    slugs.unshift("fishing-season-weather-planning");
+  }
+
+  if (/wood|stone|coal|copper|iron|gold|iridium|quartz|earth crystal|frozen tear|fire quartz|battery pack/.test(normalized)) {
+    slugs.push("mining-first-month");
+  }
+
+  return Array.from(new Set(slugs)).slice(0, 4);
 }
 
 function Fact({ label, value }: { label: string; value: string }) {
