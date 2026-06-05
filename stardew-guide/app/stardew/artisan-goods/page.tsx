@@ -7,8 +7,8 @@ import { getAllArtisanGoods } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const metadata: Metadata = {
-  title: "Artisan Goods Database | Stardew Guide | Player Codex",
-  description: "Browse Stardew Valley animal artisan goods by machine, input item, processing time, output value, and beginner use."
+  title: "Stardew Valley Artisan Goods Guide: Machines, Inputs, Processing Time, and Value",
+  description: "Browse Stardew Valley artisan goods by machine, input item, processing time, output value, animal product chain, and beginner use."
 };
 
 export default function ArtisanGoodsPage() {
@@ -22,10 +22,17 @@ export default function ArtisanGoodsPage() {
   return (
     <PageShell
       eyebrow="Artisan Goods Database"
-      title="Artisan Goods"
+      title="Stardew Valley Artisan Goods Guide"
       kicker="Use this database to connect machines, animal inputs, processed outputs, and the beginner guides that explain when processing is worth the routine."
     >
       <div className="space-y-5">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <p className="text-xs font-black uppercase tracking-[0.14em] text-green-950/44">Quick answer</p>
+          <h2 className="mt-1 text-lg font-black text-green-950">Use this page to compare raw products against machine outputs</h2>
+          <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">
+            Open Mayonnaise, Cheese, Goat Cheese, Cloth, Duck Mayonnaise, Dinosaur Mayonnaise, Void Mayonnaise, or Truffle Oil to check the input item, machine, processing time, and linked animal source.
+          </p>
+        </section>
         <StardewRouteClusterLinks
           clusters={[
             {

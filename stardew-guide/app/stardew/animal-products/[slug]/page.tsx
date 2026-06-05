@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${product.name} Animal Product Guide | Stardew Guide | Player Codex`,
+    title: `${product.name} Stardew Valley Animal Product Guide: Source, Uses, and Processing`,
     description: product.beginnerNote
   };
 }
@@ -50,7 +50,7 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
   const contextualClusters = getAnimalProductRouteClusters(product.slug);
 
   return (
-    <PageShell eyebrow="Animal Products Database" title={product.name}>
+    <PageShell eyebrow="Animal Products Database" title={`${product.name} Stardew Valley Animal Product Guide`}>
       <div className="space-y-4">
         <DataCard>
           <p className="text-sm leading-6 text-green-950/72">{product.beginnerNote}</p>

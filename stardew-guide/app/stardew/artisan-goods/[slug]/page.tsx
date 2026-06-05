@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${good.name} Artisan Good Guide | Stardew Guide | Player Codex`,
+    title: `${good.name} Stardew Valley Artisan Good Guide: Machine, Inputs, and Value`,
     description: good.beginnerNote
   };
 }
@@ -54,7 +54,7 @@ export default async function ArtisanGoodDetailPage({ params }: { params: Promis
   const contextualClusters = getArtisanGoodRouteClusters(good.slug);
 
   return (
-    <PageShell eyebrow="Artisan Goods Database" title={good.name}>
+    <PageShell eyebrow="Artisan Goods Database" title={`${good.name} Stardew Valley Artisan Good Guide`}>
       <div className="space-y-4">
         <DataCard>
           <p className="text-sm leading-6 text-green-950/72">{good.beginnerNote}</p>

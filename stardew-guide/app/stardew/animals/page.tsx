@@ -7,8 +7,8 @@ import { getAllAnimals } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const metadata: Metadata = {
-  title: "Animals Database | Stardew Guide | Player Codex",
-  description: "Browse Stardew Valley coop and barn animals by building, unlock path, products, and beginner care notes."
+  title: "Stardew Valley Animals Guide: Coop, Barn, Products, and Care Notes",
+  description: "Compare Stardew Valley animals by coop or barn building, unlock path, products, processing routes, and beginner care notes."
 };
 
 export default function AnimalsPage() {
@@ -22,10 +22,17 @@ export default function AnimalsPage() {
   return (
     <PageShell
       eyebrow="Animals Database"
-      title="Animals"
-      kicker="Compare coop and barn animals, then follow the product and processing routes that matter for bundles, money, and farm planning."
+      title="Stardew Valley Animals Guide"
+      kicker="Compare coop and barn animals, then follow their product, bundle, and processing routes before choosing what to build next."
     >
       <div className="space-y-5">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <p className="text-xs font-black uppercase tracking-[0.14em] text-green-950/44">Quick answer</p>
+          <h2 className="mt-1 text-lg font-black text-green-950">Use this page to choose an animal by product chain, not just building cost</h2>
+          <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">
+            Open an animal page to check its building tier, product output, and linked processing route. Chicken, Cow, Duck, Rabbit, Sheep, Goat, Pig, and Ostrich pages connect directly to the animal products and artisan goods they unlock.
+          </p>
+        </section>
         <StardewRouteClusterLinks
           clusters={[
             {

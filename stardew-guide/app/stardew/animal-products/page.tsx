@@ -7,8 +7,8 @@ import { getAllAnimalProducts } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const metadata: Metadata = {
-  title: "Animal Products Database | Stardew Guide | Player Codex",
-  description: "Browse Stardew Valley animal products by source animal, building, sell price, processing use, and bundle relevance."
+  title: "Stardew Valley Animal Products Guide: Eggs, Milk, Wool, Truffles, and Processing",
+  description: "Browse Stardew Valley animal products by source animal, building, sell price, processing use, bundle relevance, and linked artisan goods."
 };
 
 export default function AnimalProductsPage() {
@@ -22,10 +22,17 @@ export default function AnimalProductsPage() {
   return (
     <PageShell
       eyebrow="Animal Products Database"
-      title="Animal Products"
+      title="Stardew Valley Animal Products Guide"
       kicker="Trace each product back to its animal source and forward to its machine output before deciding what to sell, save, or process."
     >
       <div className="space-y-5">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <p className="text-xs font-black uppercase tracking-[0.14em] text-green-950/44">Quick answer</p>
+          <h2 className="mt-1 text-lg font-black text-green-950">Use this page when an animal product search needs its source and best next step</h2>
+          <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">
+            Search for Truffle, Wool, Egg, Large Egg, Milk, Duck Feather, Rabbit&apos;s Foot, or Goat Milk, then open the detail page to see the source animal, bundle pressure, and processing links.
+          </p>
+        </section>
         <StardewRouteClusterLinks
           clusters={[
             {
