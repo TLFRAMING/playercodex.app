@@ -45,7 +45,7 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
   const routeClusters = getCropRouteClusters(crop);
 
   return (
-    <PageShell eyebrow="Crops Database" title={crop.name}>
+    <PageShell eyebrow="Crops Database" title={buildCropPageTitle(crop)}>
       <div className="space-y-4">
         <DataCard>
           <h2 className="text-xl font-black text-green-950">{crop.name} quick answer</h2>
@@ -172,15 +172,28 @@ function buildCropQuickAnswer(crop: Crop) {
 
 function buildCropMetaTitle(crop: Crop) {
   const focusedTitles: Record<string, string> = {
-    amaranth: "Amaranth Stardew Valley: Growth Time, Season, Price, and Uses",
-    "blue-jazz": "Blue Jazz Stardew Valley: Growth Time, Season, Price, and Uses",
-    cranberries: "Cranberries Stardew Valley: Growth Time, Regrowth, Profit, and Uses",
+    amaranth: "Amaranth Stardew Valley Crop: Growth Time, Season, Price, and Uses",
+    "blue-jazz": "Blue Jazz Flower Stardew Valley: Growth Time, Season, and Uses",
+    cranberries: "Cranberries Stardew Valley Crop: Growth Time, Regrowth, Profit, and Uses",
     "red-cabbage": "Red Cabbage Stardew Valley: Seeds, Growth Time, Bundle Use, and Year 1 Tips",
-    starfruit: "Starfruit Stardew Valley: Seeds, Growth Time, Price, Wine, and Uses",
-    wheat: "Wheat Stardew Valley: Growth Time, Hay, Beer, and Summer/Fall Uses"
+    starfruit: "Starfruit Stardew Valley Crop: Seeds, Growth Time, Price, and Wine",
+    wheat: "Wheat Stardew Valley Crop: Growth Time, Hay, Beer, and Summer/Fall Uses"
   };
 
-  return focusedTitles[crop.slug] ?? `${crop.name} Stardew Valley: Season, Growth Time, Price, and Uses`;
+  return focusedTitles[crop.slug] ?? `${crop.name} Stardew Valley Crop: Season, Growth Time, Price, and Uses`;
+}
+
+function buildCropPageTitle(crop: Crop) {
+  const focusedPages: Record<string, string> = {
+    amaranth: "Amaranth Stardew Valley Crop",
+    "blue-jazz": "Blue Jazz Flower Stardew Valley",
+    cranberries: "Cranberries Stardew Valley Crop",
+    "red-cabbage": "Red Cabbage Stardew Valley",
+    starfruit: "Starfruit Stardew Valley Crop",
+    wheat: "Wheat Stardew Valley Crop"
+  };
+
+  return focusedPages[crop.slug] ?? crop.name;
 }
 
 function getRelatedCropGuideSlugs(crop: Crop) {

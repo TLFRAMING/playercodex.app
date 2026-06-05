@@ -45,7 +45,7 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
   const routeClusters = getFishRouteClusters(item);
 
   return (
-    <PageShell eyebrow="Fish Calendar" title={item.name}>
+    <PageShell eyebrow="Fish Calendar" title={buildFishPageTitle(item)}>
       <div className="space-y-4">
         <DataCard>
           <h2 className="text-xl font-black text-green-950">{item.name} quick answer</h2>
@@ -175,17 +175,32 @@ function buildFishQuickAnswer(item: Fish) {
 
 function buildFishMetaTitle(item: Fish) {
   const focusedTitles: Record<string, string> = {
-    bream: "Bream Stardew Valley: Location, Time, Season, Weather, and Uses",
-    bullhead: "Bullhead Stardew Valley: Location, Season, Time, Difficulty, and Uses",
-    goby: "Goby Stardew Valley: Waterfall Location, Season, Time, and Uses",
-    halibut: "Halibut Stardew Valley: Where to Catch, Season, Time, and Uses",
-    "radioactive-carp": "Radioactive Carp Stardew Valley: Location, Season, Time, and Uses",
-    "spook-fish": "Spook Fish Stardew Valley: Location, Season, Time, and Uses",
-    sturgeon: "Sturgeon Stardew Valley: Location, Season, Time, Weather, and Uses",
-    "tiger-trout": "Tiger Trout Stardew Valley: Location, Season, Time, Weather, and Uses"
+    bream: "Bream Stardew Valley Fish: Location, Time, Season, and Uses",
+    bullhead: "Bullhead Stardew Valley Fish: Location, Season, Time, and Uses",
+    goby: "Goby Stardew Valley Fish: Waterfall Location, Season, and Time",
+    halibut: "Halibut Stardew Valley Fish: Where to Catch, Season, and Time",
+    "radioactive-carp": "Radioactive Carp Stardew Valley Fish: Location, Season, and Time",
+    "spook-fish": "Spook Fish Stardew Valley Fish: Location, Season, and Time",
+    sturgeon: "Sturgeon Stardew Valley Fish: Location, Season, Time, and Weather",
+    "tiger-trout": "Tiger Trout Stardew Valley Fish: Location, Season, Time, and Weather"
   };
 
-  return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: Location, Time, Season, Weather, and Uses`;
+  return focusedTitles[item.slug] ?? `${item.name} Stardew Valley Fish: Location, Time, Season, Weather, and Uses`;
+}
+
+function buildFishPageTitle(item: Fish) {
+  const focusedPages: Record<string, string> = {
+    bream: "Bream Stardew Valley Fish",
+    bullhead: "Bullhead Stardew Valley Fish",
+    goby: "Goby Stardew Valley Fish",
+    halibut: "Halibut Stardew Valley Fish",
+    "radioactive-carp": "Radioactive Carp Stardew Valley Fish",
+    "spook-fish": "Spook Fish Stardew Valley Fish",
+    sturgeon: "Sturgeon Stardew Valley Fish",
+    "tiger-trout": "Tiger Trout Stardew Valley Fish"
+  };
+
+  return focusedPages[item.slug] ?? item.name;
 }
 
 function buildFishChaseAdvice(item: Fish) {

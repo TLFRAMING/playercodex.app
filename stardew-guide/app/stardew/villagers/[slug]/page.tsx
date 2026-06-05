@@ -48,7 +48,7 @@ export default async function VillagerDetailPage({ params }: { params: Promise<{
   const routeClusters = getVillagerRouteClusters(villager.slug, villager.name);
 
   return (
-    <PageShell eyebrow="Villager Gift Finder" title={villager.name}>
+    <PageShell eyebrow="Villager Gift Finder" title={buildVillagerPageTitle(villager)}>
       <div className="space-y-4">
         <DataCard>
           <h2 className="text-xl font-black text-green-950">{villager.name} quick answer</h2>
@@ -170,19 +170,36 @@ function buildVillagerQuickAnswer(villager: {
 
 function buildVillagerMetaTitle(villager: { slug: string; name: string }) {
   const focusedTitles: Record<string, string> = {
-    caroline: "Caroline Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    evelyn: "Evelyn Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    george: "George Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    gus: "Gus Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    harvey: "Harvey Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    penny: "Penny Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    sebastian: "Sebastian Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    vincent: "Vincent Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
-    wizard: "Wizard Stardew Gifts: Loved Items, Birthday, and Friendship Tips",
-    haley: "Haley Stardew Gifts: Loved Items, Birthday, and Friendship Tips"
+    caroline: "Stardew Valley Caroline Gifts: Loved Items, Birthday, and Schedule",
+    evelyn: "Stardew Valley Evelyn Gifts: Loved Items, Birthday, and Schedule",
+    george: "Stardew Valley George Gifts: Loved Items, Birthday, and Schedule",
+    gus: "Stardew Valley Gus Gifts: Loved Items, Birthday, and Schedule",
+    harvey: "Stardew Valley Harvey Gifts: Loved Items, Birthday, and Schedule",
+    penny: "Stardew Valley Penny Gifts: Loved Items, Birthday, and Schedule",
+    sebastian: "Stardew Valley Sebastian Gifts: Loved Items, Birthday, and Schedule",
+    vincent: "Stardew Valley Vincent Gifts: Loved Items, Birthday, and Schedule",
+    wizard: "Stardew Valley Wizard Gifts: Loved Items, Birthday, and Schedule",
+    haley: "Stardew Valley Haley Gifts: Loved Items, Birthday, and Schedule"
   };
 
-  return focusedTitles[villager.slug] ?? `${villager.name} Stardew Valley Gifts, Birthday, Loved Items, and Schedule`;
+  return focusedTitles[villager.slug] ?? `Stardew Valley ${villager.name} Gifts, Birthday, Loved Items, and Schedule`;
+}
+
+function buildVillagerPageTitle(villager: { slug: string; name: string }) {
+  const focusedPages: Record<string, string> = {
+    caroline: "Stardew Valley Caroline Gifts",
+    evelyn: "Stardew Valley Evelyn Gifts",
+    george: "Stardew Valley George Gifts",
+    gus: "Stardew Valley Gus Gifts",
+    harvey: "Stardew Valley Harvey Gifts",
+    penny: "Stardew Valley Penny Gifts",
+    sebastian: "Stardew Valley Sebastian Gifts",
+    vincent: "Stardew Valley Vincent Gifts",
+    wizard: "Stardew Valley Wizard Gifts",
+    haley: "Stardew Valley Haley Gifts"
+  };
+
+  return focusedPages[villager.slug] ?? villager.name;
 }
 
 function getVillagerRouteClusters(slug: string, name: string): StardewRouteCluster[] {

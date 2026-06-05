@@ -42,7 +42,7 @@ export default async function MineralDetailPage({ params }: { params: Promise<{ 
   const relatedGuides = getStardewGuideArticlesBySlugs(["first-museum-donations", "mining-first-month"]);
 
   return (
-    <PageShell eyebrow="Minerals" title={item.name}>
+    <PageShell eyebrow="Minerals" title={buildMineralPageTitle(item)}>
       <div className="space-y-4">
         <DataCard>
           <h2 className="text-xl font-black text-green-950">{item.name} quick answer</h2>
@@ -123,6 +123,14 @@ function buildMineralMetaTitle(item: Mineral) {
   };
 
   return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: How to Get It, Museum Use, and Gifts`;
+}
+
+function buildMineralPageTitle(item: Mineral) {
+  const focusedTitles: Record<string, string> = {
+    basalt: "Basalt Stardew Valley Mineral"
+  };
+
+  return focusedTitles[item.slug] ?? item.name;
 }
 
 function buildMineralMetaDescription(item: Mineral) {
