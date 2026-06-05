@@ -7,8 +7,8 @@ import { getAllCrops } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const metadata: Metadata = {
-  title: "Crops Database | Stardew Guide | Player Codex",
-  description: "Browse Stardew Valley crops by name and season with growth, sell price, and use notes."
+  title: "Stardew Valley Crops Guide: Seasons, Growth Times, Profit, and Uses",
+  description: "Compare Stardew Valley crops by season, seed source, growth time, regrowth, sell price, profit notes, bundle pressure, and best uses."
 };
 
 export default function CropsPage() {
@@ -23,10 +23,17 @@ export default function CropsPage() {
   return (
     <PageShell
       eyebrow="Crops Database"
-      title="Crops"
-      kicker="Compare crop timing, seed access, regrowth, bundle pressure, and the guides that explain how each crop fits a season plan."
+      title="Stardew Valley Crops Guide"
+      kicker="Compare crop seasons, seed access, growth time, regrowth, sell price, profit notes, and guide links before buying seeds."
     >
       <div className="space-y-5">
+        <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
+          <p className="text-xs font-black uppercase tracking-[0.14em] text-green-950/44">Quick answer</p>
+          <h2 className="mt-1 text-lg font-black text-green-950">Use this page to decide whether a crop fits the current season</h2>
+          <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">
+            Search the crop name, compare growth and regrowth timing, then open the crop page for seed source, price, uses, and guide links. This is the fastest route for searches like Cranberries, Red Cabbage, Wheat, Starfruit, Blue Jazz Flower, and Amaranth.
+          </p>
+        </section>
         <StardewRouteClusterLinks
           clusters={[
             {
