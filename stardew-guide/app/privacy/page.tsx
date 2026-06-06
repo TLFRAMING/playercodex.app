@@ -34,6 +34,16 @@ export default function PrivacyPage() {
               Third-party vendors, including Google, may use cookies to serve ads based on prior visits to this site or other websites. Users can manage personalized advertising preferences through their Google ad settings and browser cookie controls.
             </p>
             <p>
+              Third-party advertising providers may place and read cookies in a user&apos;s browser, or use web beacons, IP addresses, device identifiers, and similar technologies as part of ad serving, fraud prevention, frequency capping, and ad measurement.
+            </p>
+            <p>
+              Google explains how it uses information from sites and apps that use its services at{" "}
+              <a className="font-black text-pond hover:underline" href="https://policies.google.com/technologies/partner-sites" rel="noreferrer" target="_blank">
+                How Google uses data when you use partners&apos; sites or apps
+              </a>
+              .
+            </p>
+            <p>
               Player Codex does not ask users to click ads, does not provide rewards for ad interactions, and does not place advertising code on pages that are designed only for ads.
             </p>
           </div>
