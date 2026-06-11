@@ -1557,25 +1557,25 @@
       {
         "name": "Bread",
         "quantity": 1,
-        "category": "原料菜肴"
+        "category": "Cooked dish"
       },
       {
         "name": "Cranberries",
         "quantity": 1,
-        "category": "作物"
+        "category": "Crop"
       },
       {
         "name": "Hazelnut",
         "quantity": 1,
-        "category": "觅食物"
+        "category": "Forage"
       }
     ],
     "energy": 170,
     "health": 76,
-    "buff": "防御 +2",
-    "buffDuration": "5分35秒",
-    "recipeSource": "潘姆邮件：7心+",
-    "sourceType": "村民邮件",
+    "buff": "Defense +2",
+    "buffDuration": "5m 35s",
+    "recipeSource": "Pam mail: 7 hearts+",
+    "sourceType": "Villager mail",
     "sellPrice": 165,
     "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
     "sourceUrls": [
